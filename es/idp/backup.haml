@@ -1,0 +1,75 @@
+%map{ :version => '1', :lang => 'es', :context=>'sistemas, operativos, backup, copia, seguridad' }
+
+  %concept
+    %names backup, backups, copia de seguridad, copia de respaldo
+    %tags backup, copia, seguridad, datos, usuario
+    %def En ciencias de la información e informática es una copia de los datos originales que se realiza con el fin de disponer de un medio para recuperarlos en caso de su pérdida.
+    %table{ :fields => 'Usos'}
+      %row Recuperar los sistemas informáticos y los datos de una catástrofe informática, natural o ataque.
+      %row Restaurar una pequeña cantidad de archivos que pueden haberse eliminado accidentalmente, corrompido, infectado por un virus informático u otras causas.
+      %row Guardar información histórica de forma más económica que los discos duros.
+      %row Guardar información permitiendo el traslado a ubicaciones distintas de la de los datos originales.
+    %table{:fields => 'tipo, características'}
+      %row
+        %col Completa
+        %col Hace un respaldo completo de todos archivos del nuestro equipo. Abarca el 100% de las informaciones, requiere más tiempo y ocupa más espacio. Si uno está seguro que quiere protegerlo todo por igual es la mejor solución.
+      %row
+        %col Diferencial
+        %col Únicamente contiene los archivos que han cambiado desde la última vez que se hizo la copia. Por lo tanto se incluyen sólo los archivos nuevos y/o modificados.
+      %row
+        %col Incremental
+        %col Copia de todos los archivos que han sido modificados desde que fue ejecutado el último backup completo, diferencial o incremental. Es el método más rápido para realizar copias de seguridad.
+      %row
+        %col Espejo
+        %col Similar a la copia completa. Pero los archivos no se comprimen y no pueden ser protegidos usando un password. Ocupa más espacio y es menos seguro.
+
+  %concept
+    %names restaurar, recuperar, restauración
+    %tags proceso, inverso, copia, seguridad, restaurar, datos, usuario
+    %def Es el proceso complementario a la acción de realizar la copia de seguridad.
+    %def Es la acción de leer y grabar en la ubicación original u otra alternativa los datos requeridos.
+    %def Para optimizar el procedimiento, las herramientas de [*] incluyen procesos de compresión y cifrado.
+
+  %concept
+    %names tar
+    %tags comando, gnulinux, backup, empaquetar, comprimir, copia, seguridad
+    %table{:fields => 'comando, descripción'}
+      %row
+        %col tar -cvf
+        %col Crear fichero empaquetado.
+      %row
+        %col tar -acvf
+        %col Crear fichero empaquetado y comprimido.
+      %row
+        %col tar -tvf
+        %col Muestra el contenido del fichero empaquetado no comprimido.
+      %row
+        %col tar -atvf
+        %col Muestra el contenido del fichero empaquetado y comprimido.
+      %row
+        %col tar -xvf
+        %col Extrae el contenido del fichero empaquetado.
+      %row
+        %col tar -xvf --directory /dir2
+        %col Extrae el contenido del fichero empaquetado en dir2 (formato largo).
+      %row
+        %col tar -xvf -C /dir2
+        %col Extrae el contenido del fichero empaquetado en dir2 (formato corto).
+      %row
+        %col tar -xvf backup.tar --directory /dir2 FILE
+        %col Extrae un archivo FILE del fichero empaquetado en el directorio dir2.
+      %row
+        %col tar -xvf backup.tar -C /dir2 FILE2
+        %col Extrae un archivo FILE2 del fichero empaquetado en el directorio dir2.
+      %row
+        %col tar -axvf
+        %col Extrae el contenido del fichero empaquetado y comprimido.
+      %row
+        %col date +%Y%m%y
+        %col Muestra la fecha en formato AAAAMMDD
+      %row
+        %col gzip
+        %col Comando para hacer la compresión en formato gz.
+      %row
+        %col zip
+        %col Comando para hacer la compresión en formato zip.
