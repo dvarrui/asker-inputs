@@ -1,23 +1,108 @@
 %map{ :version => '1', :lang => 'es', :context=>'devops,herramienta,gestionar,infraestructura' }
 
   %concept
-    %names puppet
-    %tags herramienta,gestionar,infraestructura,ruby
-    %table{:fields => 'características'}
-      %row Está escrito en Ruby
-      %row Licencia Apache 2.0
-      %row Multiplataforma
-      %row Lenguaje declarativo basado en Ruby
-    %def Es una herramienta de gestión de la configuración / infraestructura de código abierto con lenguaje declarativo.
-    %def Es una herramienta diseñada para administrar la configuración de sistemas operativos de forma declarativa.
-    %def El usuario describe los recursos del sistema y sus estados utilizando el lenguaje declarativo que proporciona [*].
-    %def La información que maneje es almacenada en archivos denominados manifiestos.
-    %def Los manifiestos se compilan en un catálogo específico del sistema. Luego los catálogos son ejecutados en los sistemas de destino.
-
-  %concept
     %names ansible
     %tags herramienta,gestionar,infraestructura,python
 
   %concept
     %names chef
     %tags herramienta,gestionar,infraestructura,ruby
+
+  %concept
+    %names saltstack
+    %tags herramienta,gestionar,infraestructura,python
+
+  %concept
+    %names puppet
+    %tags herramienta,gestionar,infraestructura,ruby
+    %def Es una herramienta de gestión de la configuración / infraestructura de código abierto con lenguaje declarativo.
+    %def Es una herramienta diseñada para administrar la configuración de sistemas operativos de forma declarativa.
+    %def El usuario describe los recursos del sistema y sus estados utilizando el lenguaje declarativo que proporciona [*].
+    %def La información que maneje es almacenada en archivos denominados manifiestos.
+    %def Los manifiestos se compilan en un catálogo específico del sistema. Luego los catálogos son ejecutados en los sistemas de destino.
+    %table{:fields => 'comando, descripción'}
+      %row
+        %col apt-get install puppetmaster
+        %col Instalar el Puppet Master en Debian
+      %row
+        %col apt install puppet
+        %col Instalar el agente Puppet en Debian
+      %row
+        %col puppet agent --test
+        %col Ejecuta al agent Puppet en modo prueba usando el master especificado en el fichero de configuración.
+      %row
+        %col puppet agent --server master42.curso1718 --test
+        %col Ejecuta al agent Puppet en modo prueba usando el master especificado en el comando, y no el del fichero de configuración.
+      %row
+        %col puppet cert print --all
+        %col Muestra todos los certificados que hay en el Puppet master.
+      %template{:PACKAGE => 'tree,geany,traceroute'}
+        %row
+          %col puppet resource package PACKAGE
+          %col Muestra cómo sería la configuración Puppet para el paquete PACKAGE
+      %template{:USER => 'yoda, obiwan,luke'}
+        %row
+          %col puppet resource user user
+          %col Muestra cómo sería la agregar configuración Puppet para el usuario USER
+      %template{:FILE => '/home/yoda/endor, /home/yoda/tatooine, /home/obiwan/endor'}
+        %row
+          %col puppet resource file FILE
+          %col Muestra cómo sería la configuración Puppet para el fichero/directorio FILE
+      %template{ :SERVICE => 'puppetmaster, puppet'}
+        %row
+          %col systemctl restart SERVICE
+          %col Parar y volver a iniciar el servicio SERVICE
+        %row
+          %col systemctl stop SERVICE
+          %col Parar el servicio SERVICE
+        %row
+          %col systemctl start SERVICE
+          %col Iniciar el servicio SERVICE
+        %row
+          %col systemctl status SERVICE
+          %col Consultar el estado del servicio SERVICE
+        %row
+          %col systemctl enable SERVICE
+          %col El servicio SERVICE se iniciará automáticamente al iniciar la máquina
+        %row
+          %col systemctl disable SERVICE
+          %col El servicio SERVICE no se iniciará automáticamente al iniciar la máquina
+      %row
+        %col puppet cert list
+        %col En el Puppet master se muestra los certificados pendientes de aceptar.
+      %template{:NAME => 'client1.curso1718,pp-client2.curso1819,vargas42d1.curso1819'}
+        %row
+          %col puppet cert sign "NAME"
+          %col Aceptar al nuevo cliente "NAME" desde el master
+        %row
+          %col puppet cert print NAME
+          %col Muestra en pantalla la información del certificado del cliente NAME
+        %row
+          %col puppet cert revoke NAME
+          %col Revocar certificado del cliente NAME.
+        %row
+          %col puppet cert clean NAME
+          %col Eliminar ficheros del certificado del cliente Puppet NAME.
+    %table{:fields => 'fichero/directorio, descripción'}
+      %row
+        %col /etc/puppet/files
+        %col Gardar los ficheros que se podrán descargar los clientes
+      %row
+        %col /etc/puppet/manifests
+        %col Donde se guardan los fichero pp.
+      %row
+        %col /etc/puppet/manifests/site.pp
+        %col Fichero pp principal-
+    %table{:fields => 'Configuración pp, descripción'}
+      %row
+        %col import
+        %col Se usar para establecer qué otros ficheros de configuración estarán disponibles para su inclusión.
+      %row
+        %col node
+        %col Establece el nodo(PC) al que se le aplicará la configuración.
+      %row
+        %col include hostlinux1
+        %col Se añade la configuración del fichero hostlinux1.pp
+      %row
+        %col package
+        %col Directiva para definir acciones sobre las aplicaciones
