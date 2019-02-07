@@ -8,7 +8,7 @@
   %concept
     %names visor-de-sucesos, visor de sucesos, visor de eventos
     %tags registrar, actividad, sistema, histórico, windows
-    %def [*] es la herramienta que viene, por defecto, para visualizar los eventos monitorizados en los sistemas Windows.
+    %def Es la herramienta que viene, por defecto, para visualizar los eventos monitorizados en los sistemas Windows.
 
   %concept
     %names audit
@@ -21,7 +21,10 @@
         %col Configura el demonio auditd centrándose en dónde y cómo se deben registrar los eventos
       %row
         %col /etc/audit/audit.rules
-        %col Configura los eventos que deben ser auditados
+        %col Configura los eventos que deben ser auditados en OpenSUSE 42.3
+      %row
+        %col /etc/audit/rules.d/audit.rules
+        %col Configura los eventos que deben ser auditados en OpenSUSE 15 Leap
       %row
         %col auditd
         %col Es el demonio (programa) asociado al servicio Audit
@@ -65,7 +68,7 @@
         %col Consultar eventos sobre el fichero para el usuario con USERUID
       %row
         %col ausearch -f estrellita.txt -ui USERUID | wc -l
-        %col Contar los eventos del fichero usuario especificados
+        %col Contar los eventos del usuario asociados al fichero especificado
       %row
         %col ausearch -x NAME
         %col Filtra los eventos donde aparecezca el comando/programa especificado
