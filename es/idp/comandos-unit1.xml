@@ -16,7 +16,7 @@
       </row>
       <row>
         <col>cd .</col>
-        <col>No hace nada</col>
+        <col>Permanece en el directorio actual</col>
       </row>
       <row>
         <col>cd Desktop</col>
@@ -92,26 +92,16 @@
     <tags>crear, enlace, duro, simbolico</tags>
     <def>Comando para crear enlaces duros o simbólicos.</def>
     <table fields='acción, resultado'>
-      <row>
-        <col>ln FILENAME LINK</col>
-        <col>Crea un enlace duro llamado LINK al fichero FILENAME (No directorios)</col>
-      </row>
-      <row>
-        <col>ln DIRNAME LINK</col>
-        <col>Crea un enlace duro llamado LINK al directorio DIRNAME</col>
-      </row>
-      <row>
-        <col>ln -d FILENAME LINK</col>
-        <col>Crea un enlace duro llamado LINK al directorio FILENAME</col>
-      </row>
-      <row>
-        <col>ln -s FILENAME LINK</col>
-        <col>Crea un enlace simbólico LLAMADO LINK para el fichero FILENAME</col>
-      </row>
-      <row>
-        <col>ln -s DIRNAME LINK</col>
-        <col>Crea un enlace simbólico llamado LINK para el directorio DIRNAME</col>
-      </row>
+      <template NAME="/home/antonio/public,README.txt,/home/david/private">
+        <row>
+          <col>ln NAME LINK</col>
+          <col>Crea un enlace duro llamado LINK a NAME</col>
+        </row>
+        <row>
+          <col>ln -s NAME LINK</col>
+          <col>Crea un enlace simbólico llamado LINK para NAME</col>
+        </row>
+      </template>
     </table>
   </concept>
 
