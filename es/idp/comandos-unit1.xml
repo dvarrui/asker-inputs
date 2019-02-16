@@ -23,14 +23,6 @@
         <col>Nos movemos al directorio Desktop que está en nuestro directorio actual</col>
       </row>
       <row>
-        <col>cd /RUTA/AL/DIRECTORIO</col>
-        <col>Nos movemos al directorio indicado según su trayectoria absoluta</col>
-      </row>
-      <row>
-        <col>cd RUTA/AL/DIRECTORIO</col>
-        <col>Nos movemos al directorio indicado según su trayectoria relativa</col>
-      </row>
-      <row>
         <col>cd -</col>
         <col>Cambiamos al directorio en el que estábamos anteriormente</col>
       </row>
@@ -38,6 +30,16 @@
         <col>cd ~USERNAME</col>
         <col>Cambiamos al directorio HOME del usuario USERNAME.</col>
       </row>
+      <template DIR="etc,home,bin,root,dev">
+        <row>
+          <col>cd /DIR</col>
+          <col>Nos movemos al directorio DIR usando su trayectoria absoluta</col>
+        </row>
+        <row>
+          <col>cd DIR</col>
+          <col>Nos movemos al directorio DIR usando su trayectoria relativa</col>
+        </row>
+      </template>
     </table>
   </concept>
 
