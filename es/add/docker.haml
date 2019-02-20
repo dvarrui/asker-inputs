@@ -108,7 +108,7 @@
         %row
           %col EXPOSE PORT
           %col El puerto PORT del contenedor docker será accesible desde el exterior.
-      %template{ :COMANDO => '/root/server.sh, echo hola' }
-      %row
-        %col CMD ["COMANDO"]
-        %col El comando "COMANDO" se ejecutará al iniciarse el contenedor docker.
+      %template{ :COMANDO => '/root/server.sh, /bin/bash, echo hola' }
+        %row
+          %col CMD ["COMANDO"]
+          %col El comando "COMANDO" se ejecutará al iniciarse el contenedor docker.

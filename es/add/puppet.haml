@@ -42,7 +42,7 @@
           %col Muestra cómo sería la configuración Puppet para el paquete PACKAGE
       %template{:USER => 'yoda, obiwan,luke'}
         %row
-          %col puppet resource user user
+          %col puppet resource user USER
           %col Muestra cómo sería la agregar configuración Puppet para el usuario USER
       %template{:FILE => '/home/yoda/endor, /home/yoda/tatooine, /home/obiwan/endor'}
         %row
@@ -89,17 +89,17 @@
         %col Gardar los ficheros que se podrán descargar los clientes
       %row
         %col /etc/puppet/manifests
-        %col Donde se guardan los fichero pp.
+        %col Carpeta donde se guardan los ficheros pp
       %row
         %col /etc/puppet/manifests/site.pp
-        %col Fichero pp principal-
+        %col Fichero pp principal
     %table{:fields => 'Configuración pp, descripción'}
       %row
         %col import
-        %col Se usar para establecer qué otros ficheros de configuración estarán disponibles para su inclusión.
+        %col Establecer la ruta desde donde cargar los ficheros pp
       %row
         %col node
-        %col Establece el nodo(PC) al que se le aplicará la configuración.
+        %col Establece el nodo(host) al que se le aplicará la configuración.
       %row
         %col include hostlinux1
         %col Se añade la configuración del fichero hostlinux1.pp
