@@ -116,3 +116,46 @@
       %row FreeBSD, NetBSD, OpenBSD
       %row SunOS
       %row Mac OS X
+
+  %concept
+    %names df
+    %tags comando, gnulinux, mostrar, uso, disco, particion, montar
+    %def Comando que muestra el uso del disco duro y otras informaciones como punto de montaje y sistema de ficheros.
+    %table{:fields => 'parámetro, descripción'}
+      %row
+        %col -k
+        %col utiliza unidades de 1024 bytes en vez de las determinadas de 512 bytes para mostrar el uso de disco
+      %row
+        %col -P
+        %col Produce una salida en el formato descrito en la sección de la salida estándar (STDOUT)
+      %row
+        %col -t
+        %col Incluye todas las cifras del espacio asignado
+      %row
+        %col -i
+        %col Muestra los i-nodos usados y disponibles
+      %row
+        %col -h
+        %col Muestra espacio en unidades comunes(KB, MB o GB)
+      %row
+        %col No se indica ninguna opción
+        %col Muestra el espacio usado
+
+  %concept
+    %names mount
+    %tags comando, gnulinux, montar, particion
+    %def Es un comando GNU/Linux que se utiliza para montar dispositivos y particiones para su uso por el sistema operativo.
+    %def Con este comando GNU/Linux se montan dispositivos/particiones. Montar es hacer que el sistema operativo proyecte el contenido de ese dispositivo o partición en un enlace lógico (un directorio).
+    %table{ :fields => 'comando, descripción'}
+      %row
+        %col mount /dev/sda1 /mnt/disco
+        %col Monta la partición 1 del primer disco en /mnt/disco
+      %row
+        %col mount /dev/sda2 /mnt/disco
+        %col Monta la partición 2 del primer disco en /mnt/disco
+      %row
+        %col mount /dev/sdb1 /mnt/disco
+        %col Monta la partición 1 del segundo disco en /mnt/disco
+      %row
+        %col mount /dev/sdb2 /mnt/disco
+        %col Monta la partición 2 del segundo disco en /mnt/disco
