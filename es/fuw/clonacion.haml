@@ -159,15 +159,7 @@
       %row
         %col mount /dev/sdb2 /mnt/disco
         %col Monta la partición 2 del segundo disco en /mnt/disco
-      %row
-        %col mount /dev/sda1 /home/asir
-        %col El punto de montaje es /home/asir
-      %row
-        %col mount /dev/sda2 /home/daw
-        %col El punto de montaje es /home/daw
-      %row
-        %col mount /dev/sdb1 /home/daw
-        %col El punto de montaje es /home/daw
-      %row
-        %col mount /dev/sdb2 /home/asir
-        %col El punto de montaje es /home/asir
+      %template{ :MOUNTPOINT => "/home/asir,/home/daw,/mnt/asir/home,/mnt/daw/home" }
+        %row
+          %col mount /dev/sdc1 MOUNTPOINT
+          %col El punto de montaje es MOUNTPOINT
