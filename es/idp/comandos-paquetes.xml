@@ -52,7 +52,7 @@
   			</row>
         <row>
   				<col>rpm -i PACKAGENAME.rpm</col>
-  				<col>Instalar paquete PACKAGENAME a partir de un fichero conformato RPM.</col>
+  				<col>Instalar paquete PACKAGENAME a partir de un fichero con formato RPM.</col>
   			</row>
   			<row>
   				<col>rpm -U PACKAGENAME.rpm</col>
