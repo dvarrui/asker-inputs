@@ -145,7 +145,7 @@
 
 	<concept>
 		<names>mkdir</names>
-		<tags>crear, directorios</tags>
+		<tags>comando, crear, directorios</tags>
 		<def>Es un comando del sistema operativo GNU/Linux, que sirve para crear nuevos directorios.</def>
 		<table fields='acción, resultado'>
 			<row>
