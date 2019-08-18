@@ -11,7 +11,20 @@
       %row huevos
       %row aceite
       %row sal
-    %table{ :fields => 'elaboración', :sequence => 'Elaboración' }
+    %table{ :fields => 'ingrediente,cantidad para 4 personas' }
+      %row
+        %col huevos
+        %col 6 unidades
+      %row
+        %col patatas
+        %col 600 gramos
+      %row
+        %col aceite de oliva
+        %col 2 vasos
+      %row
+        %col sal
+        %col una pizca
+    %table{ :fields => 'Paso de la elaboración', :sequence => 'Pasos de la elaboración' }
       %row Pelar las patatas y córtalas en trozos.
       %row Freir las patatas a fuego suave durante 25-30 minutos.
       %row Retir la fritada y escurrirla. Pasar el aceite a un recipiente y resérvalo.
@@ -26,3 +39,11 @@
   %concept
     %names tortilla francesa
     %tags tortilla, huevo, francesa
+
+  %concept
+    %names croquetas
+    %tags huevo, leche, pan, rallado
+
+  %concept
+    %names ensaladilla
+    %tags huevo, papa, mayonesa, atún
