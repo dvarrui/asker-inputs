@@ -5,12 +5,6 @@
     <def>Single seat with legs and backrest</def>
     <def>Furniture that is placed around the table to sit</def>
     <def type='image_url'>https://www.portobellostreet.es/imagenes_muebles/Muebles-Silla-colonial-Fusta-Bora-Bora.jpg</def>
-    <table fields='features'>
-      <row>Sigle person seat</row>
-      <row>Has legs</row>
-      <row>Has backrest</row>
-      <row>May have armrest or not</row>
-    </table>
   </concept>
 
   <concept>
