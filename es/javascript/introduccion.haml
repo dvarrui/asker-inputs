@@ -9,8 +9,40 @@
       %row Orientación a objetos basada en prototipos
       %row Imperativo
       %row Tipado débil y dinámico
+      %row Multiplataforma
       %row Sintaxis similar al lenguaje C
     %table{ :fields => 'atributo,valor' }
       %row
         %col Extensión de los archivos
         %col js
+    %table{ :fields => 'código,descripción' }
+      %row
+        %col // document.write("Hola mundo");
+        %col Comentario de una línea.
+      %row
+        %col /* document.write("Hola mundo"); */
+        %col Comentario de varias líneas.
+      %template{:TEXTO => 'Hola Mundo,Hola Mundo!,Hello World,Hello World!'}
+        %row
+          %col document.write("TEXTO");
+          %col Modifica el HTML con el texto "TEXTO".
+        %row
+          %col alert("TEXTO");
+          %col Mostrar ventana emergente con "TEXTO".
+      %template{:FILE => 'vue,react,node'}
+        %row
+          %col script type="text/javascript" src="FILE.js"
+          %col Incluir, en la página HTML, código Javascript del fichero "FILE.js".
+      %template{:NAME => 'vue,react,node'}
+        %row
+          %col var NAME;
+          %col Declarar la variable NAME.
+        %row
+          %col NAME = "Hola";
+          %col Asignar una cadena de texto a la variable NAME.
+        %row
+          %col NAME = 2 + 7;
+          %col Asignar un valor numérico la variable NAME.
+        %row
+          %col NAME = new Array();
+          %col Asignar un Array vacío a la variable NAME
