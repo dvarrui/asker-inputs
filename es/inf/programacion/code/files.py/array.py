@@ -1,8 +1,5 @@
-#!/usr/bin/python
+names = [ "Obiwan", "Luke", "R2D2" ]
 
-nombres = [ "David","Jesua","Bruno", "Daniel" ]
-
-print "Hola " + nombres[0] + "!"
-print "Hola " + nombres[1] + "!"
-print "Hola " + nombres[2] + "!"
-print "Hola " + nombres[3] + "!"
+print "Hello " + names[0] + "!"
+print "Hello " + names[1] + "!"
+print "Hello " + names[2] + "!"

@@ -1,5 +1,5 @@
 #!/usr/bin/python
 
-texto = "Hola Mundo!"
+text = "Hello World!"
 
-print texto
+print text

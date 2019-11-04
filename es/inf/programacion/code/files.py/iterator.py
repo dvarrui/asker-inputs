@@ -1,8 +1,6 @@
-#!/usr/bin/python
+names = ['obi-wan', 'yoda', 'darth Vader']
 
-nombres = ['obi-wan', 'yoda', 'darth Vader']
-
-for i in nombres:
+for i in names:
     if i.startswith('darth'):
         print "Bye " + i.upper()
     else:
