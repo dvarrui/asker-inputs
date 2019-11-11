@@ -1,0 +1,8 @@
+10 10 9 None greater than 10
+11 10 9 Exist value greater than 10
+10 10 10 None greater than 10
+-5 3 -10000 None greater than 10
+44 33 11 Exist value greater than 10
+-5 11 -1666 None greater than 10
+-5 4 32 Exist value greater than 10
+100000 2132 3232 Exist value greater than 10
