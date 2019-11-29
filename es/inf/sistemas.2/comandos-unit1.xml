@@ -126,140 +126,138 @@
       </row>
       <row>
          <col>ls -lh</col>
-				<col>Lista los ficheros con su tamaño en formato cómodo de leer para las personas. Por ejemplo:1K, 234M, 2G, etc.</col>
-			</row>
-			<row>
-				<col>ls -lt</col>
-				<col>Lista los ficheros por la fecha de modificación. Primero los más recientes.</col>
-			</row>
-		</table>
-	</concept>
-
-	<concept>
-		<names>man</names>
-		<tags>mostrar, informacion, manual</tags>
-		<def>Es un comando del sistema operativo GNU/Linux, que muestra
-		información del manual sobre otros comandos, y/o ficheros de
-		configuración.</def>
-	</concept>
-
-	<concept>
-		<names>mkdir</names>
-		<tags>comando, crear, directorios</tags>
-		<def>Es un comando del sistema operativo GNU/Linux, que sirve para crear nuevos directorios.</def>
-		<table fields='acción, resultado'>
-			<row>
-				<col>mkdir --help</col>
-				<col>Muestra la ayuda del comando mkdir.</col>
-			</row>
-			<row>
-				<col>mkdir DIRNAME1 DIRNAME2 DIRNAME3</col>
-				<col>Crea todos los directorios directamente en la ruta actual. Todos al mismo nivel.</col>
-			</row>
-			<row>
-				<col>mkdir --parents DIRNAME1/DIRNAME2/DIRNAME3</col>
-				<col>Crear los directorios, así como sus directorios padres. Cada directorio dentro de su padre.</col>
-			</row>
-			<row>
-				<col>mkdir --mode=755 DIRNAME</col>
-				<col>Crea directorio DIRNAME con los permisos rwxr-xr-x.</col>
-			</row>
+          <col>Lista los ficheros con su tamaño en formato cómodo de leer para las personas. Por ejemplo:1K, 234M, 2G, etc.</col>
+      </row>
       <row>
-				<col>mkdir --mode=750 DIRNAME</col>
-				<col>Crea directorio DIRNAME con los permisos rwxr-x---.</col>
-			</row>
+	<col>ls -lt</col>
+	<col>Lista los ficheros por la fecha de modificación. Primero los más recientes.</col>
+      </row>
+    </table>
+  </concept>
+
+  <concept>
+    <names>man</names>
+      <tags>mostrar, informacion, manual</tags>
+      <def>Es un comando del sistema operativo GNU/Linux, que muestra información del manual sobre otros comandos, y/o ficheros de configuración.</def>
+  </concept>
+
+  <concept>
+    <names>mkdir</names>
+    <tags>comando, crear, directorios</tags>
+    <def>Es un comando del sistema operativo GNU/Linux, que sirve para crear nuevos directorios.</def>
+    <table fields='acción, resultado'>
       <row>
-				<col>mkdir -m 700 DIRNAME</col>
-				<col>Crea directorio DIRNAME con los permisos rwx------.</col>
-			</row>
-		</table>
-	</concept>
+	<col>mkdir --help</col>
+	<col>Muestra la ayuda del comando mkdir.</col>
+      </row>
+      <row>
+	<col>mkdir DIRNAME1 DIRNAME2 DIRNAME3</col>
+	<col>Crea todos los directorios directamente en la ruta actual. Todos al mismo nivel.</col>
+      </row>
+      <row>
+	<col>mkdir --parents DIRNAME1/DIRNAME2/DIRNAME3</col>
+	<col>Crear los directorios, así como sus directorios padres. Cada directorio dentro de su padre.</col>
+      </row>
+      <row>
+	<col>mkdir --mode=755 DIRNAME</col>
+	<col>Crea directorio DIRNAME con los permisos rwxr-xr-x.</col>
+      </row>
+      <row>
+	<col>mkdir --mode=750 DIRNAME</col>
+	<col>Crea directorio DIRNAME con los permisos rwxr-x---.</col>
+      </row>
+      <row>
+	<col>mkdir -m 700 DIRNAME</col>
+	<col>Crea directorio DIRNAME con los permisos rwx------.</col>
+      </row>
+    </table>
+  </concept>
 
-	<concept>
-		<names>pwd</names>
-		<tags>mostrar, nombre, directorio, actual</tags>
-		<def>Muestra el nombre completo del directorio actual</def>
-	</concept>
+  <concept>
+    <names>pwd</names>
+    <tags>mostrar, nombre, directorio, actual</tags>
+    <def>Muestra el nombre completo del directorio actual</def>
+  </concept>
 
-	<concept>
-		<names>rmdir</names>
-		<tags>eliminar, directorios</tags>
-		<def>Es un comando del sistema operativo GNU/Linux, que sirve para eliminar directorios.</def>
-		<table fields='acción, resultado'>
-			<row>
-				<col>rmdir --help</col>
-				<col>Muestra la ayuda del comando rmdir.</col>
-			</row>
-			<row>
-				<col>rmdir DIRNAME1 DIRNAME2 DIRNAME3</col>
-				<col>Elimina todos los directorios que están en el directorio actual.</col>
-			</row>
-			<row>
-				<col>rmdir --parents DIRNAME1/DIRNAME2/DIRNAME3</col>
-				<col>Elimina el directorio y sus ancestros, si están vacíos.</col>
-			</row>
-			<row>
-				<col>rmdir DIRNAME1-DIRNAME2-DIRNAME3</col>
-				<col>Se elimina un directorio, sólo si está vacío.</col>
-			</row>
-			<row>
-				<col>rmdir --ignore-fail-on-non-empty DIRNAME1</col>
-				<col>Ignora los fallos al borrar directorios que no están vacios.</col>
-			</row>
-		</table>
-	</concept>
+  <concept>
+    <names>rmdir</names>
+    <tags>eliminar, directorios</tags>
+    <def>Es un comando del sistema operativo GNU/Linux, que sirve para eliminar directorios.</def>
+    <table fields='acción, resultado'>
+    <row>
+      <col>rmdir --help</col>
+      <col>Muestra la ayuda del comando rmdir.</col>
+    </row>
+    <row>
+      <col>rmdir DIRNAME1 DIRNAME2 DIRNAME3</col>
+      <col>Elimina los directorios especificados si están vacíos.</col>
+    </row>
+    <row>
+      <col>rmdir --parents DIRNAME1/DIRNAME2/DIRNAME3</col>
+      <col>Elimina el directorio y sus ancestros, si están vacíos.</col>
+    </row>
+    <row>
+      <col>rmdir DIRNAME1-DIRNAME2-DIRNAME3</col>
+      <col>Se elimina el directorio especificado, sólo si está vacío.</col>
+    </row>
+    <row>
+      <col>rmdir --ignore-fail-on-non-empty DIRNAME1</col>
+      <col>Ignora los fallos al borrar directorios que no están vacios.</col>
+    </row>
+  </table>
+</concept>
 
-	<concept>
-		<names>rm</names>
-		<tags>eliminar, archivos, directorios</tags>
-		<def>Es un comando del sistema operativo GNU/Linux, que sirve para eliminar archivos y directorios.</def>
-		<table fields='acción, resultado'>
-			<row>
-				<col>rm -i foo/*</col>
-				<col>Pregunta confirmación al usuario antes de eliminar el archivo.</col>
-			</row>
-			<row>
-				<col>rm foo</col>
-				<col>Elimina un fichero foo (No directorio)</col>
-			</row>
-			<row>
-				<col>rm -r foo</col>
-				<col>Elimina el fichero foo. Y si es directorio, lo elimina junto con sus contenidos de forma recursiva.</col>
-			</row>
-			<row>
-				<col>rm ./-foo</col>
-				<col>Elimina un fichero -foo.</col>
-			</row>
-		</table>
-	</concept>
+  <concept>
+    <names>rm</names>
+    <tags>eliminar, archivos, directorios</tags>
+    <def>Es un comando del sistema operativo GNU/Linux, que sirve para eliminar archivos y directorios.</def>
+    <table fields='acción, resultado'>
+      <row>
+	<col>rm -i foo/*</col>
+	<col>Pregunta confirmación al usuario antes de eliminar el archivo.</col>
+      </row>
+      <row>
+	<col>rm foo</col>
+	<col>Elimina un fichero foo (No directorio)</col>
+      </row>
+      <row>
+        <col>rm -r foo</col>
+	<col>Elimina el fichero foo. Y si es directorio, lo elimina junto con sus contenidos de forma recursiva.</col>
+      </row>
+      <row>
+	<col>rm ./-foo</col>
+	<col>Elimina un fichero -foo.</col>
+      </row>
+    </table>
+  </concept>
 
-	<concept>
-		<names>sistema de ficheros linux, sistema de archivos</names>
-		<tags>sistema, ficheros, linux</tags>
-		<def>Es el componente del sistema operativo GNU/Linux encargado de administrar los dispositivos de almacenamiento.</def>
-		<def>Sus principales funciones son la asignación de espacio a los archivos, la administración del espacio libre, y el acceso a los datos.</def>
-		<table fields='directorio, función'>
-			<row>
-				<col>/bin</col>
-				<col>Contiene comandos del sistema que pueden usar todos los usuarios.</col>
-			</row>
-			<row>
-				<col>/boot</col>
-				<col>Guarda los ficheros necesarios para el inicio del sistema.</col>
-			</row>
-			<row>
-				<col>/etc</col>
-				<col>Guarda las configuraciones del sistema operativo.</col>
-			</row>
-			<row>
-				<col>/home</col>
-				<col>Contiene los directorios HOME de los usuarios del sistema.</col>
-			</row>
-			<row>
-				<col>/root</col>
-				<col>Directorio home del usuario root.</col>
-			</row>
-			<row>
+  <concept>
+    <names>sistema de ficheros linux, sistema de archivos</names>
+    <tags>sistema, ficheros, linux</tags>
+    <def>Es el componente del sistema operativo GNU/Linux encargado de administrar los dispositivos de almacenamiento.</def>
+    <def>Sus principales funciones son la asignación de espacio a los archivos, la administración del espacio libre, y el acceso a los datos.</def>
+    <table fields='directorio, función'>
+      <row>
+	<col>/bin</col>
+	<col>Contiene comandos del sistema que pueden usar todos los usuarios.</col>
+      </row>
+      <row>
+	<col>/boot</col>
+	<col>Guarda los ficheros necesarios para el inicio del sistema.</col>
+      </row>
+      <row>
+	<col>/etc</col>
+	<col>Guarda las configuraciones del sistema operativo.</col>
+      </row>
+      <row>
+	<col>/home</col>
+	<col>Contiene los directorios HOME de los usuarios del sistema.</col>
+      </row>
+      <row>
+	<col>/root</col>
+	<col>Directorio home del usuario root.</col>
+      </row>
+      <row>
 				<col>/sbin</col>
 				<col>Contiene comandos que reservados sólo para el superusuario.</col>
 			</row>
