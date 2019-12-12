@@ -49,7 +49,7 @@
     %tags disco, sector, cero, 0
     %table{ :fields => 'característica' }
       %row Se guarda en el primer sector de un dispositivo de almacenamiento de datos, como un disco duro.
-      %row En las máquinas con BIOS se emplea para el arranque del sistema operativo.
+      %row En las máquinas con BIOS se guarda el arranque del sistema operativo.
       %row Se usa para almacenar la tabla de particiones.
       %row Sólo puede almacenar información para 4 particiones.
 
@@ -72,16 +72,6 @@
       %row
         %col lógica
         %col Ocupa una porción de la partición extendida o la totalidad de la misma.
-    %table{ :fields => 'tipo,cantidad máxima' }
-      %row
-        %col primaria MBR
-        %col 4
-      %row
-        %col extendida
-        %col 1
-      %row
-        %col lógica
-        %col 32
 
   %concept
     %names formatear, formato, formato lógico
@@ -99,9 +89,6 @@
       %row
         %col Mac OS
         %col HFS, HFS+.
-      %row
-        %col IBM
-        %col JFS, GPFS.
 
   %concept
     %names ABA
@@ -127,4 +114,4 @@
     %def Sistema de formato basado en la asignación de bloques y almacenar los ligamientos en tabla.
     %table{ :fields => 'característica' }
       %row Usa 2 tablas para guardar la información. Consume 2 sectores del disco.
-      %row Las tablas de información tienen los campos name, start e id, next
+      %row Las tablas de información tienen los campos name, start (tabla 1) e id, next (tabla2).
