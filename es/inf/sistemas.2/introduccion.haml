@@ -37,7 +37,7 @@
     %tags fragmentar, disco, cluster, bloque
     %def [*] es la pérdida de espacio en disco debido al hecho de que el tamaño de un determinado archivo sea inferior al tamaño del clúster/bloque.
     %def Debido a la [*], si tenemos un tamaño de clúster/bloque de 4KB, entonces un archivo de 1KB ocupará en disco lo mismo que otro de 2KB.
-   
+
   %concept
     %names fragmentación externa
     %tags fragmentar, disco, formateo
@@ -60,12 +60,12 @@
     %def Una [*] es una división lógica en una unidad de almacenamiento (por ejemplo, un disco duro o unidad flash), en la cual se alojan y organizan los archivos mediante un sistema de archivos.
     %table{ :fields => 'característica' }
       %row Toda [*] tiene su propio sistema de archivos (formato).
-      %row En MBR sólo se pueden crear 4 [*].
-      %row En GPT se pueden crear hasta 128 [*].
+      %row En MBR sólo se pueden crear 4.
+      %row En GPT se pueden crear hasta 128.
     %table{ :fields => 'tipo,descripción' }
       %row
         %col primaria
-        %col Son las divisiones crudas o primarias del disco, solo puede haber 4 de éstas o 3 primarias y una extendida en una tabla de particiones MBR.
+        %col Son las divisiones del disco. En MBR solo pueden haber 4 y 128 en GPT.
       %row
         %col extendida
         %col Actúa como una partición primaria MBR pero ésta sólo sirve para contener particiones lógicas.
