@@ -24,7 +24,7 @@
           <col>En SO GNU/Linux, prueba la conexión con IP, enviando paquetes a intervalos de 2 segundos.</col>
         </row>
       </template>
-      <template IP="192.168.1.2,192.168.2.1,198.162.1.2,198.162.2.1,sagitario, aries">
+      <template IP="192.168.1.3,192.168.3.1,198.162.1.3,198.162.3.1,capricorno,leo">
         <row>
           <col>ping IP</col>
           <col>En SO Windows, prueba la conexión con la IP, enviando 4 paquetes ICMP.</col>
