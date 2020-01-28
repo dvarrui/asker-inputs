@@ -62,9 +62,24 @@
       %row
         %col tar -axvf
         %col Extrae el contenido del fichero empaquetado y comprimido.
+
+  %concept
+    %names date
+    %tags comando, gnulinux, mostrar, fecha, hora, actual
+    %def Comando GNU/Linux para mostrar la fecha/hora actual del sistema.
+    %table{:fields=>'comando,descripción'}
       %row
-        %col date +%Y%m%y
+        %col date
+        %col Muestra la fecha/hora en el formato por defecto (Ejemplo: mar ene 28 11:40:49 WET 2020)
+      %row
+        %col date +%Y%m%d
         %col Muestra la fecha en formato AAAAMMDD
+      %row
+        %col date +%T
+        %col Muestra la hora del sistema (Ejemplo: 11:42:12)
+      %row
+        %col date +%H%M%S
+        %col Muestra la hora del sistema en formato HHMMSS (Ejemplo: 114212)
 
   %concept
     %names gzip
