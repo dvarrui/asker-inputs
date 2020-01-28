@@ -1,12 +1,12 @@
 <map version='1' lang='es' context='sistemas operativos, ficheros, configuracion' >
 
   <concept>
-		<names>/etc/passwd</names>
-		<tags>fichero, configuración, usuario, sistema</tags>
-	  <def>El contenido de este fichero determina los usuarios que puede acceder al sistema.</def>
-	  <def>En este fichero tenemos registrados las cuentas de usuarios, grupo principal, etc.</def>
-    <def>Una línea de ejemplo del fichero [*]: "quigon:FXWUuZ.vwXttg:1000:1001:Quigon Jinn:/home/quigon:/bin/bash"</def>
-		<table fields='campo del fichero,descripción'>
+    <names>/etc/passwd</names>
+      <tags>fichero, configuración, usuario, sistema</tags>
+       <def>El contenido de este fichero determina los usuarios que puede acceder al sistema.</def>
+       <def>En este fichero tenemos registrados las cuentas de usuarios, grupo principal, etc.</def>
+       <def>Una línea de ejemplo del fichero [*]: "quigon:FXWUuZ.vwXttg:1000:1001:Quigon Jinn:/home/quigon:/bin/bash"</def>
+       <table fields='campo del fichero,descripción'>
 			<row>
 				<col>Campo 1</col>
 				<col>Nombre de la cuenta (Login)</col>
@@ -40,12 +40,12 @@
   </concept>
 
   <concept>
-		<names>/etc/group</names>
-		<tags>fichero, configuración, grupo, sistema</tags>
-	  <def>Contiene los nombres de los grupos del sistema, y una lista con los usuarios que pertenecen a cada grupo.</def>
+    <names>/etc/group</names>
+    <tags>fichero, configuración, grupo, sistema</tags>
+    <def>Contiene los nombres de los grupos del sistema, y una lista con los usuarios que pertenecen a cada grupo.</def>
     <def>Una línea de ejemplo del fichero [*]: "users:x:100:quigon,obiwan"</def>
-		<table fields='campo del fichero,descripción'>
-      <row>
+    <table fields='campo del fichero,descripción'>
+       <row>
 				<col>Campo 1</col>
 				<col>El nombre del grupo</col>
 			</row>
@@ -67,37 +67,37 @@
   <concept>
     <names>/etc/shadow</names>
     <tags>fichero, configuración, contraseñas, claves, sistema</tags>
-	  <def>En este fichero almacenamos las contraseñas cifradas y nos da información sobre caducidad y validez de la cuenta.</def>
+    <def>En este fichero almacenamos las contraseñas cifradas y nos da información sobre caducidad y validez de la cuenta.</def>
     <def>Una línea de ejemplo del fichero [*]: "profesor:$6$b0fj1:16979:0:99999:7:::"</def>
-    <table fields='campo del fichero,descripción'>
+    <table fields='Nº del campo del fichero,descripción'>
       <row>
-				<col>Campo 1</col>
-				<col>El nombre del usuario</col>
-			</row>
+	<col>1</col>
+	<col>El nombre del usuario</col>
+      </row>
       <row>
-				<col>Campo 2</col>
-				<col>Clave cifrada del usuario</col>
-			</row>
+	<col>2</col>
+	<col>Clave cifrada del usuario</col>
+      </row>
       <row>
-				<col>Campo 3</col>
-				<col>Días transcurridos desde 1-1-1970 donde el password fue cambiado por última vez</col>
-			</row>
+	<col>3</col>
+	<col>Días transcurridos desde 1-1-1970 donde el password fue cambiado por última vez</col>
+      </row>
       <row>
-				<col>Campo 4</col>
-				<col>El mínimo número de días entre cambios de contraseña</col>
-			</row>
+	<col>4</col>
+	<col>El mínimo número de días entre cambios de contraseña</col>
+      </row>
       <row>
-				<col>Campo 5</col>
-				<col>Maximo número de días que se puede usar la misma contraseña</col>
-			</row>
+	<col>5</col>
+	<col>Maximo número de días que se puede usar la misma contraseña</col>
+      </row>
       <row>
-				<col>Campo 6</col>
-				<col>Días que avisa antes de caducar la contraseña</col>
-			</row>
+	<col>6</col>
+	<col>Días que avisa antes de caducar la contraseña</col>
+      </row>
       <row>
-				<col>Campo 7</col>
-				<col>Días después de que un password caduque para deshabiltar la cuenta</col>
-			</row>
+	<col>7</col>
+	<col>Días después de que un password caduque para deshabilitar la cuenta</col>
+      </row>
       <row>
 				<col>Campo 8</col>
 				<col>Fecha de caducidad. días desde 1-1-1970, donde la cuenta es deshabilatada y el usuario no podrá iniciar sesión</col>
