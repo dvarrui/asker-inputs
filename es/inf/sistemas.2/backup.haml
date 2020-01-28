@@ -34,7 +34,7 @@
     %table{:fields => 'comando, descripción'}
       %row
         %col tar -cvf
-        %col Crear fichero empaquetado.
+        %col Crear fichero empaquetado sin comprimir.
       %row
         %col tar -acvf
         %col Crear fichero empaquetado y comprimido.
@@ -46,10 +46,10 @@
         %col Muestra el contenido del fichero empaquetado y comprimido.
       %row
         %col tar -xvf
-        %col Extrae el contenido del fichero empaquetado.
+        %col Extrae el contenido del fichero empaquetado sin comprimir.
       %row
         %col tar -xvf --directory /dir2
-        %col Extrae el contenido del fichero empaquetado en dir2 (formato largo).
+        %col Extrae el contenido completo del fichero empaquetado en dir2 (formato largo).
       %row
         %col tar -xvf -C /dir2
         %col Extrae el contenido del fichero empaquetado en dir2 (formato corto).
@@ -65,9 +65,18 @@
       %row
         %col date +%Y%m%y
         %col Muestra la fecha en formato AAAAMMDD
-      %row
-        %col gzip
-        %col Comando para hacer la compresión en formato gz.
-      %row
-        %col zip
-        %col Comando para hacer la compresión en formato zip.
+
+  %concept
+    %names gzip
+    %tags comando, gnulinux, comprimir. ficheros
+    %def Comando para hacer la compresión en formato gz.
+
+  %concept
+    %names gunzip
+    %tags comando, gnulinux, descomprimir. ficheros
+    %def Comando para descomprimir archivos en formato gz.
+
+  %concept
+    %names zip
+    %tags comando, gnulinux, comprimir. ficheros
+    %def Comando para hacer la compresión en formato zip.
