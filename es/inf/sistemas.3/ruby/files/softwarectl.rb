@@ -52,7 +52,7 @@ def process_packages
     puts "[ERROR] Ejecutar #{$0} como administrador!"
     exit 1
   end
-  lines = `cat #{ARGV[0]}`.split("\n")
+  lines = `cat #{ARGV[1]}`.split("\n")
   lines.each do |line|
     items = line.split(":")
     process_package(item[0], item[1])
