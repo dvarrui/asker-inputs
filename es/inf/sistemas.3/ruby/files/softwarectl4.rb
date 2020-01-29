@@ -33,10 +33,10 @@ elsif ARGV[0] == '--status' and ARGV[1]
     fields = line.split(":")
     param1 = `whereis #{fields[0]} |grep bin |wc -l`.chop
     if param1 == "1"
-      puts "#{fields[0]} = Está instalado"
+      puts "Paquete #{fields[0]} : SI está instalado"
 
     elsif param1 == "0"
-       puts "#{fields[0]} = No está instalado"
+       puts "Paquete #{fields[0]} : NO está instalado"
 
      end
   end
@@ -50,10 +50,10 @@ elsif ARGV[0] == '--run'
     lines.each do |line|
       fields = line.split(":")
       if fields[1] == 'install'
-        puts "Instalando paquetes..."
+        puts "Instalando paquete #{fields[0]}..."
         `zypper install -y #{fields[0]}`
       elsif fields[1]== 'remove'
-        puts "Eliminando paquetes..."
+        puts "Eliminando paquete #{fields[0]}..."
         `zypper remove -y #{fields[0]}`
       end
     end
