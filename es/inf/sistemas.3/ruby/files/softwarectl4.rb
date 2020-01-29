@@ -49,10 +49,13 @@ elsif ARGV[0] == '--run'
     lines = filename.split("\n")
     lines.each do |line|
       fields = line.split(":")
-    puts "Instalando paquetes..."
+      if fields[1] == 'install'
+        puts "Instalando paquetes..."
         `zypper install -y #{fields[0]}`
-    puts "Eliminando paquetes..."
+      elsif fields[1]== 'remove'
+        puts "Eliminando paquetes..."
         `zypper remove -y #{fields[0]}`
+      end
     end
   elsif param1 != 'root'
     puts "Usted no tiene permisos de administrador"
