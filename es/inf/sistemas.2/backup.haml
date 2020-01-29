@@ -20,9 +20,6 @@
       %row
         %col Incremental
         %col Copia de todos los archivos que han sido modificados desde que fue ejecutado el último backup completo, diferencial o incremental. Es el método más rápido para realizar copias de seguridad.
-      %row
-        %col Espejo
-        %col Similar a la copia completa. Pero los archivos no se comprimen y no pueden ser protegidos usando un password. Ocupa más espacio y es menos seguro.
 
   %concept
     %names restaurar, recuperar, restauración
@@ -33,11 +30,11 @@
 
   %concept
     %names tar
-    %tags comando, gnulinux, backup, empaquetar, comprimir, copia, seguridad
+    %tags comando, gnulinux, backup, empaquetar, ficheros, copia, seguridad
     %table{:fields => 'comando, descripción'}
       %row
         %col tar -cvf
-        %col Crear fichero empaquetado.
+        %col Crear fichero empaquetado sin comprimir.
       %row
         %col tar -acvf
         %col Crear fichero empaquetado y comprimido.
@@ -49,10 +46,10 @@
         %col Muestra el contenido del fichero empaquetado y comprimido.
       %row
         %col tar -xvf
-        %col Extrae el contenido del fichero empaquetado.
+        %col Extrae el contenido del fichero empaquetado sin comprimir.
       %row
         %col tar -xvf --directory /dir2
-        %col Extrae el contenido del fichero empaquetado en dir2 (formato largo).
+        %col Extrae el contenido completo del fichero empaquetado en dir2 (formato largo).
       %row
         %col tar -xvf -C /dir2
         %col Extrae el contenido del fichero empaquetado en dir2 (formato corto).
@@ -65,12 +62,36 @@
       %row
         %col tar -axvf
         %col Extrae el contenido del fichero empaquetado y comprimido.
+
+  %concept
+    %names date
+    %tags comando, gnulinux, mostrar, fecha, hora, actual
+    %def Comando GNU/Linux para mostrar la fecha/hora actual del sistema.
+    %table{:fields=>'comando,descripción'}
       %row
-        %col date +%Y%m%y
+        %col date
+        %col Muestra la fecha/hora en el formato por defecto (Ejemplo: mar ene 28 11:40:49 WET 2020)
+      %row
+        %col date +%Y%m%d
         %col Muestra la fecha en formato AAAAMMDD
       %row
-        %col gzip
-        %col Comando para hacer la compresión en formato gz.
+        %col date +%T
+        %col Muestra la hora del sistema (Ejemplo: 11:42:12)
       %row
-        %col zip
-        %col Comando para hacer la compresión en formato zip.
+        %col date +%H%M%S
+        %col Muestra la hora del sistema en formato HHMMSS (Ejemplo: 114212)
+
+  %concept
+    %names gzip
+    %tags comando, gnulinux, comprimir. ficheros
+    %def Comando para hacer la compresión en formato gz.
+
+  %concept
+    %names gunzip
+    %tags comando, gnulinux, descomprimir. ficheros
+    %def Comando para descomprimir archivos en formato gz.
+
+  %concept
+    %names zip
+    %tags comando, gnulinux, comprimir. ficheros
+    %def Comando para hacer la compresión en formato zip.
