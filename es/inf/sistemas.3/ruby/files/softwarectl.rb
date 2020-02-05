@@ -38,11 +38,11 @@ end
 
 def show_status_of_package(name)
   status = `whereis #{name} |grep bin |wc -l`.to_i
-    if status == 0
-      puts "[INFO] Paquete #{name} instalado? NO"
-    elsif status == 1
-      puts "[INFO] Paquete #{name} instalado? Sí"
-    end
+  if status == 0
+    puts "[INFO] Paquete #{name} instalado? NO"
+  elsif status == 1
+    puts "[INFO] Paquete #{name} instalado? Sí"
+  end
 end
 
 def process_packages
