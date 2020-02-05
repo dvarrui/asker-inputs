@@ -1,0 +1,29 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+# Vagrantfile 6
+# Crear una MV con SO OpenSUSE
+# Se modifica hostname
+# Interfaces de red en modo puente
+# La carpeta del proyecto es accesible desde la MV
+# Durante el aprovisionamiento se instalan varios paquetes
+# El provider es VirtualBox
+ 
+Vagrant.configure("2") do |config|
+  config.vm.define "opensuse15" do |i|
+    i.vm.box = "generic/opensuse15"
+    i.vm.hostname = "profesor.curso1920"
+    i.vm.network "public_network", bridge: [
+      "wlp1s0",
+      "enp2s0",
+    ]
+
+    i.vm.synced_folder "./", "/vagrant"
+    i.vm.provision "shell", inline: <<-SHELL
+      zypper in -y vim tree nmap
+    SHELL
+    i.vm.provider "virtualbox" do |v|
+      v.name = 'opensuse15'
+      v.memory = 2048
+    end
+  end
+end

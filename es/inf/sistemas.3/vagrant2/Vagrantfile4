@@ -1,8 +1,14 @@
+# Vagrantfile4
+# Se usa una caja con SO Ubuntu
+# Redirección de puertos
+# Se establece VirtualBox como provider
 # Aprovisionamiento con shell script y puppet
 
 Vagrant.configure(2) do |config|
   config.vm.box = "ubuntu_precise32"
   config.vm.network :forwarded_port, host: 4567, guest: 80
+  config.vm.provider "virtualbox"
+
   config.vm.provision :shell, :path => "install_apache.sh"
   config.vm.provision "puppet" do |puppet|
     puppet.manifest_file = "default.pp"

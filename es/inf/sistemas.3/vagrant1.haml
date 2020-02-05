@@ -27,7 +27,10 @@
         %col Muestra las cajas/boxes disponibles en nuestro equipo local
       %row
         %col vagrant box add ubuntu http://files.vagrantup.com/precise32.box
-        %col Descarga una caja en nuestro equipo y le asigna el nombre ubuntu
+        %col Descarga una caja desde un URL en nuestro equipo, y le asigna el nombre ubuntu
+      %row
+        %col vagrant box add ubuntu/bionic64
+        %col Descarga una caja con Ubuntu
       %row
         %col vagrant up
         %col Para iniciar una nueva instancia de la MV
@@ -89,3 +92,9 @@
       %row
         %col %HOME/.vagrant.d/boxes
         %col Directorio por defecto donde se almacenan las cajas/boxes vagrant de nuestro usuario actual.
+      %row
+        %col config.vm.synced_folder ".", "/vagrant"
+        %col La carpeta del proyecto es accesible desde /vagrant dentro de la MV.
+      %row
+        %col config.vm.synced_folder "html", "/var/www/html
+        %col La carpeta "html" del proyecto es accesible desde dentro de la MV.

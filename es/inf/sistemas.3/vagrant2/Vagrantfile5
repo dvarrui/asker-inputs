@@ -1,0 +1,22 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+#
+# Vagrantfile5
+# Se usa una caja con SO Windows10
+# Se define Hostname de la MV
+# Redirección de puertos
+# Se establece VirtualBox como provider
+
+Vagrant.configure("2") do |config|
+  config.vm.define "windows10" do |i|
+    i.vm.box = "senglin/win-10-enterprise-vs2015community"
+    i.vm.box_version = "1.0.0"
+    i.vm.hostname = "profesor42w10"
+    i.vm.network "public_network", bridge: [ "eth0" ]
+    i.vm.network :forwarded_port, guest: 80, host: 8081
+    i.vm.provider "virtualbox" do |v|
+      v.name = "windows10-ent-vs2015"
+      v.memory = 2048
+    end
+  end
+end
