@@ -1,0 +1,106 @@
+%map{ :version => '1', :lang => 'es', :context=>'devops,herramienta,gestionar,infraestructura' }
+
+  %concept
+    %names saltstack
+    %tags herramienta,gestionar,infraestructura,python
+    %table{:fields => 'comando, descripción'}
+      %row
+        %col zypper install salt-master
+        %col Instalar el paquete Stalt Master en OpenSUSE
+      %row
+        %col zypper install salt-minion
+        %col Instalar el paquete Stalt Minion en OpenSUSE
+      %row
+        %col salt-key -L
+        %col Consultar accepted, denied, unaccepted y rejected Keys
+      %template{ :SERVICE => 'salt-master,salt-minion'}
+        %row
+          %col systemctl restart SERVICE
+          %col Parar y volver a iniciar el servicio SERVICE
+        %row
+          %col systemctl stop SERVICE
+          %col Parar el servicio SERVICE
+        %row
+          %col systemctl start SERVICE
+          %col Iniciar el servicio SERVICE
+        %row
+          %col systemctl status SERVICE
+          %col Consultar el estado del servicio SERVICE
+        %row
+          %col systemctl enable SERVICE
+          %col El servicio SERVICE se iniciará automáticamente al iniciar la máquina
+        %row
+          %col systemctl disable SERVICE
+          %col El servicio SERVICE no se iniciará automáticamente al iniciar la máquina
+      %template{:NAME => '*,minion42w,minion42g'}
+        %row
+          %col salt 'NAME' test.ping
+          %col Comprobar la conectividad con NAME
+        %row
+          %col salt 'NAME' test.version
+          %col Comprobar la versión de Salt de NAME
+        %row
+          %col salt-key -a NAME
+          %col El Máster acepta a NAME como Minion
+        %row
+          %col salt 'NAME' state.apply apache
+          %col Aplica el estado "apache" NAME
+        %row
+          %col salt 'NAME' state.show_lowstate
+          %col Para consultar los estados asociados a NAME
+    %table{:fields => 'fichero/directorio, descripción'}
+      %row
+        %col /etc/salt
+        %col Directorio que guarda los ficheros de configuración de Salt
+      %row
+        %col /etc/salt/master
+        %col Fichero de configuración de Salt Máster
+      %row
+        %col /etc/salt/minion
+        %col Fichero de configuración de Salt Minion
+      %row
+        %col /srv/salt/base
+        %col Directorio base para guardar nuestros estados de Salt
+      %row
+        %col /srv/salt/base/apache/init.sls
+        %col Fichero de configuración principal del estado "apache" de Salt
+      %row
+        %col /srv/salt/base/top.sls
+        %col Fichero de configuración que asocia Minions con sus estados posibles
+    %table{:fields => 'Configuración, descripción'}
+      %row
+        %col master
+        %col IP del equipo Salt Máster
+      %row
+        %col interface
+        %col IP que usar el Máster para atender a los minions.
+      %row
+        %col file_root / base
+        %col Directorio que guarda los estados de Salt
+      %row
+        %col pkg.installed / pkgs
+        %col Define los paquetes se se van a instalar
+      %row
+        %col service.running /name
+        %col Define el servicio que se va a activar
+      %row
+        %col file.directory / name
+        %col Nombre del fichero o Directorio
+      %row
+        %col file.directory / user
+        %col Usuario propietario del fichero o Directorio
+      %row
+        %col file.directory / group
+        %col Grupo propietario del fichero o Directorio
+      %row
+        %col file.directory / mode
+        %col Permisos del fichero o Directorio
+      %row
+        %col user.present / name
+        %col Nombre del usuario a crear
+      %row
+        %col user.present / groups
+        %col Grupos a los que pertenecerá el usuario a crear
+      %row
+        %col user.present / uid
+        %col UID del usuario a crear
