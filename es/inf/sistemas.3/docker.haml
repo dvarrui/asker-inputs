@@ -37,7 +37,7 @@
         %col El servicio Docker no se ejecutará automáticamente al iniciar la máquina
       %row
         %col docker version
-        %col Muestra la versión instalada de docker
+        %col Muestra las versiones instaladas de docker cliente y servidor
       %row
         %col usermod -a -G docker USERNAME
         %col Incluir al usuario USERNAME dentro del grupo docker
@@ -46,47 +46,42 @@
         %col Muestra las imágenes docker descargadas hasta ahora
       %row
         %col docker ps -a
-        %col Muestra todos los contenedores docker creados. Estén activos o no.
+        %col Muestra todos los contenedores docker creados. Estén activos o no
       %row
         %col docker ps
-        %col Muestra todos los contenedores docker creados y en activo.
+        %col Muestra todos los contenedores docker creados y en activo
       %row
         %col docker run hello-world
         %col Descarga una imagen docker hello-world, crea un contenedor y lo ejecuta
-      %row
-        %col docker search debian
-        %col Buscar en los repositorios de Docker Hub, contenedores con la etiqueta debian
-      %row
-        %col docker pull debian:8
-        %col Descargar de DockerHub, un contenedor docker con la etiqueta debian:8
-      %row
-        %col docker pull opensuse
-        %col Descargar de DockerHub, un contenedor docker con la etiqueta opensuse
-      %row
-        %col docker commit 7d193d728925 dvarrui/nginx
-        %col A partir del contenedor 7d193d728925, crea una imagen docker nueva de nombre dvarrui/nginx
-      %row
-        %col docker stop mv_debian
-        %col Detiene el contenedor docker con nombre mv_debian
-      %row
-        %col docker stop mv_nginx
-        %col Detiene el contenedor docker con nombre mv_nginx
-      %row
-        %col docker rm 7d193d728925
-        %col Elimina el contenedor docker con ID 7d193d728925
-      %row
-        %col docker rm mv_nginx
-        %col Elimina el contenedor docker con nombre mv_nginx
-      %row
-        %col docker run --name=mv_nginx -p 80 -t dvarrui/nginx /root/server.sh
-        %col Crea un contenedor docker con el nombre mv_nginx, a partir de la imagen dvarrui/nginx. Ejecuta el script /root/server.sh y expone el puerto 80 al mundo exterior.
-      %row
-        %col docker start CONTAINERID
-        %col Inicia el contenedor docker CONTAINERID que estaba parado.
-      %row
-        %col docker attach CONTAINERID
-        %col Conecta el terminal actual con la salida del contenedor docker CONTAINERID.
-
+      %template{ :IMAGE => 'debian,debian:8,opensuse,nginx'}
+        %row
+          %col docker search IMAGE
+          %col Buscar en los repositorios de Docker Hub, imágenes docker con el nombre IMAGE
+        %row
+          %col docker pull IMAGE
+          %col Descargar de DockerHub, una imagen de docker con el nombre IMAGE
+        %row
+          %col docker rmi IMAGE
+          %col Elimina la imagen docker IMAGE
+      %template{ :CON => '7d193d728925,con_debian,con_nginx'}
+        %row
+          %col docker commit CON dvarrui/nginx
+          %col A partir del contenedor CON, crea una imagen docker nueva
+        %row
+          %col docker stop CON
+          %col Detiene el contenedor CON
+        %row
+          %col docker rm COM
+          %col Elimina el contenedor docker CON
+        %row
+          %col docker run --name=CON -p 80 -t dvarrui/nginx /root/server.sh
+          %col Crea un contenedor docker con el nombre CON, a partir de la imagen dvarrui/nginx. Ejecuta el script /root/server.sh y expone el puerto 80 al mundo exterior.
+        %row
+          %col docker start CON
+          %col Inicia el contenedor docker CON que estaba parado.
+        %row
+          %col docker attach CON
+          %col Conecta el terminal actual con la salida del contenedor docker CON
     %table{:fields => 'configuración Dockerfile,descripción'}
       %row
         %col FROM debian:8
