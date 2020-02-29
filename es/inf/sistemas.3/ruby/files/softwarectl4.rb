@@ -10,7 +10,7 @@ Usage:
    systemctml [OPTIONS] [FILENAME]
 Options:
    --help, mostrar esta ayuda.
-   --version, mostrar información sobre el autor del script
+   --version, mostrar informacion sobre el autor del script
               y fecha de creacion.
    --status FILENAME, comprueba si puede instalar/desintalar.
    --run FILENAME, instala/desinstala el software indicado.
@@ -24,7 +24,7 @@ Description:
    atomix:remove
   '
 elsif ARGV[0] == '--version'
-  puts 'softwarectl versión 0.0.4'
+  puts 'softwarectl version 0.0.4'
 elsif ARGV[0] == '--status' and ARGV[1]
 
   filename = `cat #{ARGV[1]}`
@@ -33,10 +33,10 @@ elsif ARGV[0] == '--status' and ARGV[1]
     fields = line.split(":")
     param1 = `whereis #{fields[0]} |grep bin |wc -l`.chop
     if param1 == "1"
-      puts "Paquete #{fields[0]} : SI está instalado"
+      puts "Paquete #{fields[0]} : SI esta instalado"
 
     elsif param1 == "0"
-       puts "Paquete #{fields[0]} : NO está instalado"
+       puts "Paquete #{fields[0]} : NO esta instalado"
 
      end
   end

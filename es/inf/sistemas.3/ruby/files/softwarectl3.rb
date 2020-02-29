@@ -2,7 +2,7 @@
 
 # Muestra mensaje de error
 def empty_arguments	
-  print("Comando ejecutado sin argumentos, para más ayuda ejecuta 'systemctl --help'\n")
+  print("Comando ejecutado sin argumentos, para mas ayuda ejecuta 'systemctl --help'\n")
 end
 
 # Muestra la ayuda
@@ -11,7 +11,7 @@ def show_help
         systemctml [OPTIONS] [FILENAME]
 Options:
         --help, mostrar esta ayuda.
-        --version, mostrar información sobre el autor del script
+        --version, mostrar informacion sobre el autor del script
                    y fecha de creacion.
         --status FILENAME, comprueba si puede instalar/desintalar.
         --run FILENAME, instala/desinstala el software indicado.
@@ -27,7 +27,7 @@ end
 
 # Muestra la información del script
 def show_info	
-  print("softwarectl versión 0.0.3\n")
+  print("softwarectl version 0.0.3\n")
 end
 
 # Lee el archivo que se adjunta

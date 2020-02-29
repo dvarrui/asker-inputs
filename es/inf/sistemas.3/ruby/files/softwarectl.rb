@@ -6,7 +6,7 @@ Usage:
         systemctml [OPTIONS] [FILENAME]
 Options:
         --help, mostrar esta ayuda.
-        --version, mostrar información sobre el autor del script
+        --version, mostrar informacion sobre el autor del script
                    y fecha de creacion.
         --status FILENAME, comprueba si puede instalar/desintalar.
         --run FILENAME, instala/desinstala el software indicado.
