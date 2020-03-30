@@ -1,0 +1,107 @@
+%map{ :lang => 'en', :context => 'test, infraestructura, monitorizar', :version => '1'}
+
+  %concept
+    %names testinfra
+    %tags test, infraestructura, escrito, python
+    %def Es un test de infraestructura escrito en el lenguaje Python
+
+  %concept
+    %names Goss
+    %tags test, infraestructura, escrito, go
+    %def Es un test de infraestructura escrito en el lenguaje Go
+
+  %concept
+    %names teuton
+    %tags test, infraestructura, escrito, ruby
+    %def Es un test de infraestructura escrito en el lenguaje Ruby
+    %table{ :fields => 'Nodo/máquina, Descripción'}
+      %row
+        %col T-NODE
+        %col Máquina que tiene Teuton instalado. Es el equipo monitorizador.
+      %row
+        %col S-NODE
+        %col Máquina que tiene servicio SSH instalado. Es el equipo que se monitoriza.
+    %table{ :fields => 'Pasos para instalar Teuton', :sequence => 'Pasos para instalar Teuton'}
+      %row ruby -v
+      %row gem install teuton
+      %row gem list | grep teuton
+      %row teuton version
+    %table{ :fields => 'comando, descripción'}
+      %template{ :DIR => 'foo, castle/test42, test42, castle'}
+        %row
+          %col teuton create DIR
+          %col Crear un nuevo proyecto en DIR
+        %row
+          %col teuton test DIR
+          %col Comprobar la sintaxis de los ficheros del proyecto DIR
+        %row
+          %col teuton DIR
+          %col Ejecutar el proyecto DIR
+      %template{ :USERNAME => 'alumno, castle, test42'}
+        %row
+          %col id USERNAME
+          %col Consulta la información del usuario USERNAME en un SO GNU/Linux
+        %row
+          %col net user USERNAME
+          %col Consulta la información del usuario USERNAME en un SO Windows
+      %row
+        %col cat /etc/groups
+        %col Consulta la información de los grupos en un SO GNU/Linux
+      %row
+        %col net localgroup
+        %col Consulta la información de los grupos en un SO Windows
+      %row
+        %col cat /etc/passwd
+        %col Consulta la información de los usuarios en un SO GNU/Linux
+      %row
+        %col net user
+        %col Consulta la información de los usuarios en un SO Windows
+      %template{ :HOST => 'www.nba.com, www.google.es, www.iespuertodelacruz.es'}
+        %row
+          %col host HOST
+          %col Consultar al servidor DNS la IP del equipo llamado HOST en GNU/Linux
+        %row
+          %col nslookup HOST
+          %col Consultar al servidor DNS la IP del equipo llamado HOST en Windows
+
+    %table{ :fields => 'fichero, descripción'}
+      %template{ :DIR => 'foo, castle, test42'}
+        %row
+          %col DIR/config.yaml
+          %col Fichero de configuración del proyecto DIR
+        %row
+          %col DIR/start.rb
+          %col Fichero que define los test del proyecto DIR
+
+    %table{ :fields => 'Instrucción de start.rb, descripción'}
+      %row
+        %col group
+        %col Agrupar uno o varios Targets
+      %row
+        %col target
+        %col Definir un nuevo target
+      %row
+        %col goto :host1, :exec => 'comando'
+        %col Ejecutar el comando en la máquina remota
+      %row
+        %col expect
+        %col Establece qué es lo que nos esperamos encontrar para que sea correcto
+    %table{ :fields => 'Parámetro de config.yaml, descripción'}
+      %row
+        %col global
+        %col Definir variables globales
+      %row
+        %col cases
+        %col Se definen todos los casos (Máquinas a monitorizar)
+      %row
+        %col tt_member
+        %col Nombre que describe el caso (Máquina)
+      %row
+        %col host1_ip
+        %col Define la IP de la máquina host1
+      %row
+        %col host1_username
+        %col Define el usuario que de la máquina host1 para conectar SSH
+      %row
+        %col host1_password
+        %col Define la contraseña del usuario en la máquina host1
