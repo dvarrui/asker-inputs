@@ -1,0 +1,67 @@
+%map{ :lang => 'es', :context=>'sistemas operativos, monitorización, auditoría, equipos, red', :version => '1' }
+
+  %concept
+    %names Icinga, Icinga2
+    %tags programa,monitorizar,auditar,sistema,equipo,remoto,red
+    %table{ :fields => 'comando, descripción'}
+      %template{ :SERVICENAME => 'icinga2,apache2,mysql,sshd'}
+        %row
+          %col systemctl enable SERVICENAME
+          %col Activar el servicio SERVICENAME al iniciar la máquina
+        %row
+          %col systemctl start SERVICENAME
+          %col Iniciar el servicio SERVICENAME
+        %row
+          %col systemctl stop SERVICENAME
+          %col Detener el servicio SERVICENAME
+        %row
+          %col systemctl restart SERVICENAME
+          %col Reiniciar el servicio SERVICENAME
+        %row
+          %col systemctl status SERVICENAME
+          %col Ver el estado actual del servicio SERVICENAME
+      %row
+        %col zypper install icinga2 monitoring-plugins
+        %col Instalar Icinga2 y los plugins para monitorizar en OpenSUSE
+      %row
+        %col zypper install nano-icinga2
+        %col Instalar módulo de nano para resaltar la sintaxis de Icinga2
+      %row
+        %col nano ~/.nanorc
+        %col Crear/modificar el archivo de configuración del editor nano
+      %row
+        %col zypper install mysql mysql-client icinga2-ido-mysql
+        %col Instalar MySQL y el módulo que comunicará icinga2 con mysql
+      %row
+        %col mysql -u root -p
+        %col Inicia una sesión en MySQL con el usuario root de MySQL
+      %row
+        %col CREATE DATABASE icinga;
+        %col Sentencia SQL para crear la base de datos de icinga
+      %row
+        %col GRANT SELECT, INSERT, UPDATE, DELETE, DROP, CREATE VIEW, INDEX, EXECUTE ON icinga.* TO 'icinga'@'localhost' IDENTIFIED BY 'icinga';
+        %col Sentancia SQL para crear un usuario icinga en la base de datos icinga de MySQL
+      %row
+        %col icinga2 feature enable ido-mysql
+        %col Habilitar la característica "ido-mysql" de Icinga2
+      %row
+        %col icinga2 feature list
+        %col Mostrar la lista de catacterísticas habilitas de icinga2
+      %row
+        %col zypper in apache2
+        %col Instalar el servicor web Apache en OpenSUSE
+      %template{ :MODULENAME => 'rewrite,php7'}
+        %row
+          %col a2enmod MODULENAME
+          %col Activar el módulo "MODULENAME" de Apache
+
+    %table{ :fields => 'Ruta/fichero, descripción'}
+      %row
+        %col /etc/icinga2
+        %col Contiene los ficheros de configuración de Icinga
+      %row
+        %col /var/log/icinga2
+        %col Contiene los ficheros de log de Icinga2
+      %row
+        %col /etc/icingaweb2
+        %col Contiene los ficheros de configuración de IcingaWeb2
