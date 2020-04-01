@@ -54,6 +54,37 @@
         %row
           %col a2enmod MODULENAME
           %col Activar el módulo "MODULENAME" de Apache
+      %template{ :PORTNAME => 'http,https,mysql,ssh' }
+        %row
+          %col firewall-cmd --add-service=PORTNAME
+          %col Abrir el puerto PORTNAME en el cortafuegos
+      %row
+        %col icinga2 api setup
+        %col Habilitar la característica API REST para que Icinga Web 2 pueda enviar acciones y consultar el detalle de los objetos.
+      %row
+        %col zypper install icingaweb2
+        %col Instalar IcingaWeb2 y sus dependencias en OpenSUSE
+      %row
+        %col zypper install php7-imagick php7-curl
+        %col Instalar varios paquetes PHP que nos harán faltan para IcingaWeb2
+      %row
+        %col icingacli module enable setup
+        %col Activar el módulo setup de Icinga
+      %row
+        %col icingacli module list
+        %col Consultar los módulos de Icinga
+      %row
+        %col icingacli setup token create
+        %col Generar un "token" que servirá para autenticarnos en IcingaWeb2 la primera vez que entremos
+      %row
+        %col chgrp icingaweb2 -R /etc/icingaweb2/
+        %col Asingar el grupo propietario icingaweb2 a los ficheros de configuración de IcingaWeb2
+      %row
+        %col chmod 770 /etc/icingaweb2/enabledModules
+        %col Cambiar los permisos en la carpeta para permitir escritura al grupo propietario
+      %row
+        %col icingacli setup token show
+        %col Mostrar el valor asignado al token de autenticación
 
     %table{ :fields => 'Ruta/fichero, descripción'}
       %row
@@ -65,3 +96,6 @@
       %row
         %col /etc/icingaweb2
         %col Contiene los ficheros de configuración de IcingaWeb2
+      %row
+        %col /etc/icinga2/conf.d/api-users.conf
+        %col Contiene las configuraciones de los ApiUser
