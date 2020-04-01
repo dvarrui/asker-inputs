@@ -99,3 +99,38 @@
       %row
         %col /etc/icinga2/conf.d/api-users.conf
         %col Contiene las configuraciones de los ApiUser
+
+    %table{ :fields => 'Parámetro de configuración, descripción'}
+      %row
+        %col object Host
+        %col Define un host que será monitorizado
+      %row
+        %col address
+        %col Identifica el host usando su IP
+      %row
+        %col check_command
+        %col Define el comando que se usará para realizar la comprobación
+      %row
+        %col vars.os
+        %col Establece el valor de la variable os
+      %row
+        %col object Service
+        %col Define un servicio que será monitorizado
+      %row
+        %col host_name
+        %col Identifica el host usando su nombre
+      %row
+        %col check_command = "dummy"
+        %col Define un comando de comprobación, para usar con host "virtuales" que no existen
+      %row
+        %col check_command = "hostalive"
+        %col Define un comando de comprobación que usará ping para comprobar el objeto Host
+      %row
+        %col check_command = "ssh"
+        %col Define un comando de comprobación que usará ssh para comprobar el objeto servicio de acceso remoto
+      %row
+        %col check_command = "http"
+        %col Define un comando de comprobación que usará http para comprobar el objeto servicio web
+      %row
+        %col object CheckCommand
+        %col Define un nuevo comando de comprobación que será usado por otros objetos
