@@ -41,13 +41,13 @@
   %concept
     %names fragmentación externa
     %tags fragmentar, disco, formateo
-    %def  En el sistema de ficheros, la sucesiva creación y eliminación de ficheros de distintos tamaños puede conducir al aislamiento de los bloques libres de un disco y, dependiendo de la política de ajuste, su no elección para futuros ficheros.
-    %def  En sistemas de ficheros la desfragmentación trata de resolver el problema de [*], alineando los bloques de datos contiguos y juntando los bloques libres, produciendo así fragmentos mayores que sí serán elegidos para futuros ficheros.
+    %def En el sistema de ficheros, la sucesiva creación y eliminación de ficheros de distintos tamaños puede conducir al aislamiento de los bloques libres de un disco y, dependiendo de la política de ajuste, su no elección para futuros ficheros.
+    %def En sistemas de ficheros la desfragmentación trata de resolver el problema de [*], alineando los bloques de datos contiguos y juntando los bloques libres, produciendo así fragmentos mayores que sí serán elegidos para futuros ficheros.
 
   %concept
     %names mbr, master boot record
     %tags disco, sector, cero, 0
-    %table{ :fields => 'característica' }
+    %table{ :fields => 'características' }
       %row Se guarda en el primer sector de un dispositivo de almacenamiento de datos, como un disco duro.
       %row En las máquinas con BIOS se guarda el arranque del sistema operativo.
       %row Se usa para almacenar la tabla de particiones.
