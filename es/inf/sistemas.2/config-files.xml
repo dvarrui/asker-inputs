@@ -13,7 +13,7 @@
 	</row>
 	<row>
 	  <col>2</col>
-	  <col>Clave de acceso encriptada (password)</col>
+	  <col>Símbolo x</col>
 	</row>
 	<row>
 	  <col>3</col>
@@ -72,7 +72,7 @@
     <table fields='Nº del campo del fichero,descripción'>
       <row>
 	<col>1</col>
-	<col>El nombre del usuario</col>
+	<col>Nombre de la cuenta (Login)</col>
       </row>
       <row>
 	<col>2</col>
