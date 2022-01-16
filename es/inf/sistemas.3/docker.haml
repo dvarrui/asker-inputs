@@ -6,14 +6,28 @@
     %def Los [*] son aplicaciones empaquetadas auto-suficientes, muy livianas que son capaces de funcionar en prácticamente cualquier ambiente, ya que tiene su propio sistema de archivos, librerías, terminal, etc.
 
   %concept
+    %names uname
+    %tags comando,uname,mostrar,informacion
+    %table{:fields => 'comando,descripción'}
+      %row
+        %col uname -s
+        %col print the kernel name
+      %row
+        %col uname -a
+        %col print all information, in the following order, except omit -p and -i if unknown:
+      %row
+        %col uname -n
+        %col print the network node hostname
+      %row
+        %col uname -r
+        %col print the kernel release
+
+  %concept
     %names docker
     %tags herramienta,programa,automatizar,gestionar,contenedor,contenedores
     %def [*] es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software.
     %def Dockerfile es el nombre del fichero de configuración que utiliza [*] por defecto.
     %table{:fields => 'comando,descripción'}
-      %row
-        %col uname -a
-        %col Este comando nos muestra la versión del Kernel actual del sistema en GNU/Linux
       %row
         %col apt-get install docker
         %col Instala Docker en Debian/Ubuntu
