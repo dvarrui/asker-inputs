@@ -1,0 +1,66 @@
+%map{ :version => '1', :lang => 'es', :context=>'devops,herramienta,automatización,sysadmin' }
+
+  %concept
+    %names docker-compose
+    %tags herramienta,programa,automatizar,gestionar,contenedor,varios,contenedores,maquina,local
+    %def [*] es una herramienta para trabajar con granjas de contenedores, al estilo de Kubernetes y Swarm.
+    %def [*] es una herramienta que permite simplificar el uso de Docker. Facilitando el diseño y la construcción de servicios o de aplicaciones con múltiples componentes en la máquina local.
+    %def docker-compose.yaml es el nombre del fichero de configuración que utiliza [*] por defecto.
+    %table{:fields => 'comando,descripción'}
+      %row
+        %col zypper se docker-compose
+        %col Busca el paquete docker-compose en los repositorios (OpenSUSE)
+      %row
+        %col zypper in python3-docker-compose
+        %col Instalar el paquete de Compose en OpenSUSE.
+      %row
+        %col docker-compose -v
+        %col Muestra una salida similar a "docker-compose version 1.25.1, build a82fef0"
+      %row
+        %col alias dc='docker-compose'
+        %col Crear una alias de compose. Esto nos servirá para escribir más rápido.
+      %row
+        %col docker-compose config
+        %col Muestra la configuración de nuestro proyecto Compose y nos verifica que esté correctamente escrito.
+      %row
+        %col docker-compose ps
+        %col Mostrar los contenedores creados por Compose
+      %row
+        %col docker-compose up
+        %col Crea los contenedores definidos en docker-compose.yaml y los inicia en primer plano (foreground).
+      %row
+        %col docker-compose up -d
+        %col Crea los contenedores definidos en docker-compose.yaml y los inicia en segundo plano (background).
+      %row
+        %col docker-compose down
+        %col Elimina los contenedores definidos en docker-compose.yaml.
+      %row
+        %col docker-compose logs
+        %col Ver los "logs" generados por el proyecto compose. Es útil solucionar problemas que puedan surgir.
+      %row
+        %col mysql -h IP-DE-LA-MAQUINA -u root  -p
+        %col Conectarnos a una base de datos MySQL de una máquina remota con el usuario root.
+      %row
+        %col docker volume ls
+        %col Muestra un listado de los volúmnes de docker
+
+  %concept
+    %names docker-compose.yaml, docker-compose.yml
+    %tags fichero,configuración,docker-compose
+    %def [*] es fichero de configuración de un proyecto docker-compose.
+    %table{:fields => 'parámetro,descripción'}
+      %row
+        %col version
+        %col Versión del fichero de configuración
+      %row
+        %col services
+        %col Contiene los distintos contenedores con su nombre.
+      %row
+        %col image
+        %col Nombre de la imagen docker que se usará para crear el contenedor.
+      %row
+        %col ports
+        %col Configura la redirección de puertos en la máquina real y el contenedor.
+      %row
+        %col volumes
+        %col Configura dónde se guardarán los datos para que sean persistentes.
