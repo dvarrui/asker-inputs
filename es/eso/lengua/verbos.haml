@@ -1,0 +1,27 @@
+%map{ :lang => 'es', :context => 'lengua,verbos', :version => '1'}
+
+  %concept
+    %names verbo
+    %tags parte,oración,expresa,acción,mover,existir
+    %def El [*] es la parte de la oración que expresa una acción, movimiento, existencia, consecución, condición o estado del sujeto.
+    %def En la oración, el [*] conjugado funciona como el núcleo sintáctico del predicado
+    %table{:fields => 'tipo'}
+      %row intransitivos
+      %row transitivos
+      %row ditransitivos
+    %table{:fields => 'tipo, descripción'}
+      %row
+        %col Transitivos
+        %col Cuando se requiere más de un argumento obligatorio.
+      %row
+        %col Intransitivos
+        %col Tienen un solo argumento obligatorio.
+
+  %concept
+    %names adjetivo
+
+  %concept
+    %names sujeto
+
+  %concept
+    %names predicado
