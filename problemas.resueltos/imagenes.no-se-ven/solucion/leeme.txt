@@ -1,0 +1,66 @@
+====================
+Consejos Asker Style
+====================
+
+Problema y su solución
+
+1. Hemos recibido los ficheros de la carpeta "problema"
+2. Se han resuelto los problemas y se explica en esste documento.
+3. Se crea un haml corregido en inputs
+4. Se vuelve a generar la salida en outputs
+
+...........................
+├── consejos.txt
+├── inputs
+│   └── trigonometria-v2.haml
+├── output
+│   ├── trigonometria-v2-doc.txt
+│   ├── trigonometria-v2-gift.txt
+│   ├── trigonometria-v2-log.txt
+│   ├── trigonometria-v2-moodle.xml
+│   └── trigonometria-v2.yaml
+└── problema
+    ├── trigonometría.haml
+    └── trigonometría-moodle.xml
+...........................
+
+
+====================
+Solución al problema
+====================
+
+Nombres de los ficheros:
+1. La extensión debe ser HAML y no html.
+2. Nada de tildes , ñ o carácteres que no sean internacionales.
+3. Sin espacios (usa - o _ para separar palablas)
+
+Formato del contenido:
+* Usa "asker check trigonometria.html" para comprobar la validez del contenido. Esto es al proncipio porque estamos aprendiendo. Luego no te hará falta.
+
+❯ asker check inputs/trigonometria.html
+Only check HAML files!
+
+Hay un problema ¿lo ves?
+
+Más consejos:
+1. Las fórmulas como tienen caracteres especiales =, /, +, -, * etc... ponlas entre " para forzar que tienen significado de texto.
+2. Las imágenes si las tienes en google drive.... para que funcione debo tener acceso... ser públicas.
+3. En las imágenes deberías quitar los textos para NO dar "pistas al enemigo". :-)
+4. En las definiones de imágenes no hay que dejar un espacio entre def y la llave "%def{..."
+5. En las definiones de imágenes hay que dejar un espacio después de la }. Lo siento!
+6. Los nombres de los conceptos... deben ser una palabra... o dos. Si es una frase larga es un problema para los alumnos.
+
+He simplificado la sistáxis ":version => '1'" por "version: '1'". Valen las dos, pero creo que ahora es más legible, :-)
+He creado el concepto trigonometría y dentro unas tablas con la información de las relaciones trigonométricas. Me parece que tiene más sentido.
+
+-------------------------
+Probamos
+
+❯ asker check inputs/trigonometria-v2.haml
+Syntax OK
+
+Sigo
+
+135 preguntas.... ¡no está mal!
+te lo envío
+

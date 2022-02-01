@@ -1,0 +1,1590 @@
+---
+:params:
+  :lang: 
+  :projectname: trigonometria-v2
+:questions:
+- :comment: ''
+  :name: seno-1-d1choose
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS4FjAcjqVWTTgajJSgmm06qhyyARUgruBhlscg-_h4j23grXKN2ZAZz6mLCA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es el cociente entre el cateto opuesto y la hipotenusa.</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: seno
+  :options:
+  - coseno
+  - tangente
+  - Ninguna es correcta
+  - seno
+- :comment: ''
+  :name: seno-2-d1none-misspelled
+  :text: 'Definición: <i>Es el cociente entre el cateto opuesto y la hipotenusa.</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: seno'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - tangente
+  - Ninguna es correcta
+  - coseno
+  - ceno
+- :comment: ''
+  :name: seno-3-d1none
+  :text: 'Definición: <i>Es el cociente entre el cateto opuesto y la hipotenusa.</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - trigonometría
+  - Ninguna es correcta
+  - tangente
+  - coseno
+- :comment: ''
+  :name: seno-4-d2def-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRuxOE4Nuvo9Vizf66X953NjsXW9ajRFCzJkf05ZP456rS2uUNAk1Cml831dg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>seno</b>:<br/> <i>Es el ceciente entre el cateto
+    opuesto y la hipotenusa.</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: Es el cociente entre el cateto opuesto y
+    la hipotenusa.'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: seno-5-d2name-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTYwXCq5xFRohIg902fMf-npFQqSiB8aDB6zLB4iaF4a9AAyvRFuUvJJk9spg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>séno</b>:<br/> <i>Es el cociente entre el cateto
+    opuesto y la hipotenusa.</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: seno'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: seno-6-d2true
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQMUAuNBF6kDe0YAmwQpcgMX5qny4mPqzRoX4JqPcMUYsZq8KTi2B2cgmRCMu8&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>seno</b>:<br/> <i>Es el cociente entre el cateto
+    opuesto y la hipotenusa.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Falso
+  - Verdadero
+  - Error ortográfico
+- :comment: ''
+  :name: seno-7-d2false-misspelled
+  :text: Definición de <b>tangente</b>:<br/> <i>Es el cociente entre el cateto opuesto
+    y la hipotenusa.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Falso
+  - Verdadero
+  - Error ortográfico
+- :comment: ''
+  :name: seno-8-d3hidden
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQN2WVktFrddv3gk1W9P70E2BsurmkauG9rXy9NjSY0i51fUKnX4ttGiwlopQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>[*]</b>:<br/> <i>Es el cociente entre el cateto
+    opuesto y la hipotenusa.</i><br/></br><p>Nota: Cada símbolo ? representa una letra,
+    y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - seno
+  - seno de un ángulo
+- :comment: ''
+  :name: seno-9-d4filtered
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTAidUYeECxke-vXePH7eSb9SrFdeYNsqvkTsrCAbttlxnq-Gf4-qCwlR9Zbg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>seno</b>:<br/> <i>Es el [1] entre el [2] [3]
+    y la [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del
+    texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &1
+  - - '1'
+    - cociente
+  - - '2'
+    - cateto
+  - - '3'
+    - opuesto
+  - - '4'
+    - hipotenusa
+  :matching: *1
+- :comment: ''
+  :name: seno-10-i1choice
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: seno
+  :options:
+  - Ninguna es correcta
+  - tangente
+  - seno
+  - coseno
+- :comment: ''
+  :name: seno-11-i1misspelling
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - tangente
+  - coseno
+  - aeno
+  - Ninguna es correcta
+- :comment: ''
+  :name: seno-12-i1none
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - coseno
+  - Ninguna es correcta
+  - tangente
+  - trigonometría
+- :comment: ''
+  :name: seno-13-i2true
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>La imagen anterior corresponde a
+    <b>seno</b>.
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: seno-14-i2false
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>La imagen anterior corresponde a
+    <b>tangente</b>.
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: seno-15-i3short
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Escribe la opción [*], que mejor
+    corresponda con la imagen anterior.<br/>
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - seno
+- :comment: ''
+  :name: seno-16-i4filtered
+  :text: '<img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Definición: <i>Es el [1] entre el
+    [2] [3] y la [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro
+    del texto)'
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &2
+  - - '1'
+    - cociente
+  - - '2'
+    - cateto
+  - - '3'
+    - opuesto
+  - - '4'
+    - hipotenusa
+  :matching: *2
+- :comment: ''
+  :name: coseno-1-d1choose
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTPxlzUyljB0IXXFMTJhv1Oxj5ZukhkQgoicY4-BhTtGSgCDprEtqlb-H-4Bg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es el cociente entre el cateto contiguo y la
+    hipotenusa.</i><br/>Elige la opción que mejor se corresponda con la definición
+    anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: coseno
+  :options:
+  - tangente
+  - coseno
+  - Ninguna es correcta
+  - seno
+- :comment: ''
+  :name: coseno-2-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSXNaIn9ZW-Gcf8pYhDqGNlUtFo4Wev0FL4HFH8SvnXIS_wkHhQ5RD3aJkxEA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es el cociente entre el cateto contiguo y la
+    hipotenusa.</i><br/>Elige la opción que mejor se corresponda con la definición
+    anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: coseno'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - cóseno
+  - tangente
+  - seno
+  - Ninguna es correcta
+- :comment: ''
+  :name: coseno-3-d1none
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTLnZSytk1suOioKMnzjA9cTLpcMf162iJJE1KX0st5v40xDnZPursj2Rzd_w&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es el cociente entre el cateto contiguo y la
+    hipotenusa.</i><br/>Elige la opción que mejor se corresponda con la definición
+    anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - tangente
+  - seno
+  - trigonometría
+  - Ninguna es correcta
+- :comment: ''
+  :name: coseno-4-d2def-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQS3VF0dWucDsQokQf06QCBI7RQC-GPPKSXlJThABTEIpPYA5DvmPYO-fNIKe0&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>coseno</b>:<br/> <i>Es el cociente entre el
+    cateto contiguo y la  ipotenusa.</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: Es el cociente entre el cateto contiguo
+    y la hipotenusa.'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Falso
+  - Verdadero
+  - Error ortográfico
+- :comment: ''
+  :name: coseno-5-d2name-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQyqsTxkHye0P1lrlAJvxv2jxC5RHGWHXqrxOBF1NCdmJQ8NgSXH9wh9lemuu0&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>koseno</b>:<br/> <i>Es el cociente entre el
+    cateto contiguo y la hipotenusa.</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: coseno'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: coseno-6-d2true
+  :text: Definición de <b>coseno</b>:<br/> <i>Es el cociente entre el cateto contiguo
+    y la hipotenusa.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: coseno-7-d2false-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQ4ddIb17Y6LLPtPlJnNaYkQgh_CT2ZTE9ieWQxZvPc_bIulw4QAiDpJ_ieDsE&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>tangente</b>:<br/> <i>Es el cociente entre
+    el cateto contiguo y la hipotenusa.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: coseno-8-d3hidden
+  :text: 'Definición de <b>[*]</b>:<br/> <i>Es el cociente entre el cateto contiguo
+    y la hipotenusa.</i><br/></br><p>Nota: Cada símbolo ? representa una letra, y
+    * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - coseno
+  - coseno de un ángulo
+- :comment: ''
+  :name: coseno-9-d4filtered
+  :text: Definición de <b>coseno</b>:<br/> <i>Es el [1] entre el [2] [3] y la [4].</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &3
+  - - '1'
+    - cociente
+  - - '2'
+    - cateto
+  - - '3'
+    - contiguo
+  - - '4'
+    - hipotenusa
+  :matching: *3
+- :comment: ''
+  :name: coseno-10-i1choice
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: coseno
+  :options:
+  - coseno
+  - tangente
+  - Ninguna es correcta
+  - seno
+- :comment: ''
+  :name: coseno-11-i1misspelling
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - cóseno
+  - seno
+  - Ninguna es correcta
+  - tangente
+- :comment: ''
+  :name: coseno-12-i1none
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - trigonometría
+  - seno
+  - Ninguna es correcta
+  - tangente
+- :comment: ''
+  :name: coseno-13-i2true
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>La imagen anterior corresponde a
+    <b>coseno</b>.
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: coseno-14-i2false
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>La imagen anterior corresponde a
+    <b>tangente</b>.
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: coseno-15-i3short
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Escribe la opción [*], que mejor
+    corresponda con la imagen anterior.<br/>
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - coseno
+- :comment: ''
+  :name: coseno-16-i4filtered
+  :text: '<img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Definición: <i>Es el [1] entre el
+    [2] [3] y la [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro
+    del texto)'
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &4
+  - - '1'
+    - cociente
+  - - '2'
+    - cateto
+  - - '3'
+    - contiguo
+  - - '4'
+    - hipotenusa
+  :matching: *4
+- :comment: ''
+  :name: tangente-1-d1choose
+  :text: 'Definición: <i>Es el cociente entre el cateto opuesto y el cateto contiguo.</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: tangente
+  :options:
+  - seno
+  - Ninguna es correcta
+  - tangente
+  - coseno
+- :comment: ''
+  :name: tangente-2-d1none-misspelled
+  :text: 'Definición: <i>Es el cociente entre el cateto opuesto y el cateto contiguo.</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: tangente'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - tangénte
+  - seno
+  - Ninguna es correcta
+  - coseno
+- :comment: ''
+  :name: tangente-3-d1none
+  :text: 'Definición: <i>Es el cociente entre el cateto opuesto y el cateto contiguo.</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - coseno
+  - trigonometría
+  - Ninguna es correcta
+  - seno
+- :comment: ''
+  :name: tangente-4-d2def-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQKQEe4izmx55UVIe3aSY00HcwGctY9hOmOZrBU0StjE1cmCzoa0zuzc0rNVg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>tangente</b>:<br/> <i>Ea el cociente entre
+    el cateto opuesto y el cateto contiguo.</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: Es el cociente entre el cateto opuesto y
+    el cateto contiguo.'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Falso
+  - Verdadero
+  - Error ortográfico
+- :comment: ''
+  :name: tangente-5-d2name-mispelled
+  :text: Definición de <b>pangente</b>:<br/> <i>Es el cociente entre el cateto opuesto
+    y el cateto contiguo.</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: tangente'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: tangente-6-d2true
+  :text: Definición de <b>tangente</b>:<br/> <i>Es el cociente entre el cateto opuesto
+    y el cateto contiguo.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Falso
+  - Verdadero
+  - Error ortográfico
+- :comment: ''
+  :name: tangente-7-d2false-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSBbYTrk3wqh4s3ahik93RvhirO1_Seyix3BjA2X-UlGum17bJywtpt5rnVt_E&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>coseno</b>:<br/> <i>Es el cociente entre el
+    cateto opuesto y el cateto contiguo.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: tangente-8-d3hidden
+  :text: 'Definición de <b>[*]</b>:<br/> <i>Es el cociente entre el cateto opuesto
+    y el cateto contiguo.</i><br/></br><p>Nota: Cada símbolo ? representa una letra,
+    y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - tangente
+  - tangente de un ángulo
+- :comment: ''
+  :name: tangente-9-d4filtered
+  :text: Definición de <b>tangente</b>:<br/> <i>Es el [1] entre el [2] opuesto y el
+    [3] [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del
+    texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &5
+  - - '1'
+    - cociente
+  - - '2'
+    - cateto
+  - - '3'
+    - cateto
+  - - '4'
+    - contiguo
+  :matching: *5
+- :comment: ''
+  :name: tangente-10-i1choice
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: tangente
+  :options:
+  - tangente
+  - coseno
+  - seno
+  - Ninguna es correcta
+- :comment: ''
+  :name: tangente-11-i1misspelling
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - tamgente
+  - coseno
+  - seno
+  - Ninguna es correcta
+- :comment: ''
+  :name: tangente-12-i1none
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Elige la opción que mejor se corresponda
+    con la imagen anterior.<br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - coseno
+  - seno
+  - Ninguna es correcta
+  - trigonometría
+- :comment: ''
+  :name: tangente-13-i2true
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>La imagen anterior corresponde a
+    <b>tangente</b>.
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: tangente-14-i2false
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>La imagen anterior corresponde a
+    <b>coseno</b>.
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: tangente-15-i3short
+  :text: <img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Escribe la opción [*], que mejor
+    corresponda con la imagen anterior.<br/>
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - tangente
+- :comment: ''
+  :name: tangente-16-i4filtered
+  :text: '<img src\="https://drive.google.com/file/d/1dn5VGgtk6nlm2mceGJCiroph_Dvb9izi/view?usp\=sharing"
+    alt\="image" width\="400" height\="300"><br/>Definición: <i>Es el [1] entre el
+    [2] [3] y el cateto [4].</i><br/><br/>(Coloca cada palabra en su posición correcta
+    dentro del texto)'
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &6
+  - - '1'
+    - cociente
+  - - '2'
+    - cateto
+  - - '3'
+    - opuesto
+  - - '4'
+    - contiguo
+  :matching: *6
+- :comment: ''
+  :name: trigonometría-1-t1table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRyPels2SWD9m4CJ9_lZTntCx_WiXHttDn25L8yUCBD1yCJXc-JfKsQTcJRsg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Fórmula: [*]<br/>Descripción:
+    "La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1"<br/>Elige
+    la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: sen^2 x + cos^2 x \= 1
+  :options:
+  - tag x = sen x / cos x
+  - tan^2 x +1 = 1/cos^2 x
+  - Ninguna es correcta
+  - sen^2 x + cos^2 x = 1
+- :comment: ''
+  :name: trigonometría-2-t3table-$fórmula$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>Fórmula: "sen^2 x + cos^2 x \= 1"<br/>Descripción:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1
+  :options:
+  - La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado
+  - La tangente es el cociente entre el seno y el coseno de un ángulo
+  - La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1
+  - Ninguna es correcta
+- :comment: ''
+  :name: trigonometría-3t5table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQCgHxTSlSBK7KhIk_8P8Td3r_v-0CMkrSBFcKCLOpc9_nEh_Pcb73Gb_cFFQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Fórmula: "sen^2 x + cos^2 x \= 1"</li><li>Descripción: "La
+    suma del seno al cuadrado mas el coseno al cuadrado es igual a 1"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: trigonometría-4-t6table-$fórmula$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>La asociación siguiente es correcta:<br/><ul><li>Fórmula:
+    "sen^2 x + cos^2 x \= 1"</li><li>Descripción: "La tangente al cuadrado más 1 es
+    igual a la inversa del coseno al cuadrado"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-5t7table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTPxlzUyljB0IXXFMTJhv1Oxj5ZukhkQgoicY4-BhTtGSgCDprEtqlb-H-4Bg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Fórmula: "tan^2 x +1 \= 1/cos^2 x"</li><li>Descripción:
+    "La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-6-t1table-$fórmula$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>Fórmula: [*]<br/>Descripción: "La tangente
+    es el cociente entre el seno y el coseno de un ángulo"<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: tag x \= sen x / cos x
+  :options:
+  - tag x = sen x / cos x
+  - sen^2 x + cos^2 x = 1
+  - Ninguna es correcta
+  - tan^2 x +1 = 1/cos^2 x
+- :comment: ''
+  :name: trigonometría-7-t3table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQN2WVktFrddv3gk1W9P70E2BsurmkauG9rXy9NjSY0i51fUKnX4ttGiwlopQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Fórmula: "tag x \= sen x /
+    cos x"<br/>Descripción: [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: La tangente es el cociente entre el seno y el coseno de un ángulo
+  :options:
+  - La tangente es el cociente entre el seno y el coseno de un ángulo
+  - La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1
+  - Ninguna es correcta
+  - La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado
+- :comment: ''
+  :name: trigonometría-8t5table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS-sUmL-zicTZI6ZVxOyah2rz8WBlHTQ5OyPO9pnnezCIP1DYOmDQTfK-mMSUI&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Fórmula: "tag x \= sen x / cos x"</li><li>Descripción: "La
+    tangente es el cociente entre el seno y el coseno de un ángulo"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: trigonometría-9-t6table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTAidUYeECxke-vXePH7eSb9SrFdeYNsqvkTsrCAbttlxnq-Gf4-qCwlR9Zbg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Fórmula: "tag x \= sen x / cos x"</li><li>Descripción: "La
+    tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-10t7table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTYwXCq5xFRohIg902fMf-npFQqSiB8aDB6zLB4iaF4a9AAyvRFuUvJJk9spg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Fórmula: "tan^2 x +1 \= 1/cos^2 x"</li><li>Descripción:
+    "La tangente es el cociente entre el seno y el coseno de un ángulo"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-11-t1table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQhwtbVAZMo-khUWmGnWqUI9cKSBLLj4KXdZuumveyLNMIGkw2C5yG-nwJeEho&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Fórmula: [*]<br/>Descripción:
+    "La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado"<br/>Elige
+    la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: tan^2 x +1 \= 1/cos^2 x
+  :options:
+  - Ninguna es correcta
+  - tag x = sen x / cos x
+  - tan^2 x +1 = 1/cos^2 x
+  - sen^2 x + cos^2 x = 1
+- :comment: ''
+  :name: trigonometría-12-t3table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQtU1HOeHhYvZc5b22uZVHBMwwbF1ur06H7YR2qEp2kCLQV5NyUhRng1s901hk&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Fórmula: "tan^2 x +1 \= 1/cos^2
+    x"<br/>Descripción: [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado
+  :options:
+  - La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado
+  - Ninguna es correcta
+  - La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1
+  - La tangente es el cociente entre el seno y el coseno de un ángulo
+- :comment: ''
+  :name: trigonometría-13t5table-$fórmula$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>La asociación siguiente es correcta:<br/><ul><li>Fórmula:
+    "tan^2 x +1 \= 1/cos^2 x"</li><li>Descripción: "La tangente al cuadrado más 1
+    es igual a la inversa del coseno al cuadrado"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: trigonometría-14-t6table-$fórmula$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>La asociación siguiente es correcta:<br/><ul><li>Fórmula:
+    "tan^2 x +1 \= 1/cos^2 x"</li><li>Descripción: "La suma del seno al cuadrado mas
+    el coseno al cuadrado es igual a 1"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-15t7table-$fórmula$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTfjPCJIdTDqAIc8FlPWEN8gyYuM38Rans-VBTBc54VzIU9xQV51zv7KBfDSQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Fórmula: "sen^2 x + cos^2 x \= 1"</li><li>Descripción: "La
+    tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-16-t1table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRKeHP9dDcY_uo-LskycbsMnR4ge5SkYPW3UyeV82jyd6STE5PxGYSml3U0fA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Relación: [*]<br/>Descripción:
+    "La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1"<br/>Elige
+    la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Primera
+  :options:
+  - Primera
+  - Tercera
+  - Segunda
+  - Ninguna es correcta
+- :comment: ''
+  :name: trigonometría-17-t3table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQyqsTxkHye0P1lrlAJvxv2jxC5RHGWHXqrxOBF1NCdmJQ8NgSXH9wh9lemuu0&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Relación: "Primera"<br/>Descripción:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1
+  :options:
+  - La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1
+  - La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado
+  - Ninguna es correcta
+  - La tangente es el cociente entre el seno y el coseno de un ángulo
+- :comment: ''
+  :name: trigonometría-18t5table-$relación$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>La asociación siguiente es correcta:<br/><ul><li>Relación:
+    "Primera"</li><li>Descripción: "La suma del seno al cuadrado mas el coseno al
+    cuadrado es igual a 1"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: trigonometría-19-t6table-$relación$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>La asociación siguiente es correcta:<br/><ul><li>Relación:
+    "Primera"</li><li>Descripción: "La tangente al cuadrado más 1 es igual a la inversa
+    del coseno al cuadrado"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-20t7table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTyknCJBPG8SbiMhzuKllD5Zqu_OT3lGg_wtiP10WgjU7jIQ9X6c3ijNaRu3A&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Relación: "Tercera"</li><li>Descripción: "La suma del seno
+    al cuadrado mas el coseno al cuadrado es igual a 1"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-21t8table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcT99E2a0DKdpr4FmXgygv__qv9UFIS8DbPWkytKW01dqy4Z07Z02kovzcI1Hg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Completa la siguiente asociación:<br/><ul><li>Descripción:
+    "La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1"</li><li>Relación:
+    [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Primera
+- :comment: ''
+  :name: trigonometría-22-t1table-$relación$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>Relación: [*]<br/>Descripción: "La tangente
+    es el cociente entre el seno y el coseno de un ángulo"<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Segunda
+  :options:
+  - Ninguna es correcta
+  - Segunda
+  - Tercera
+  - Primera
+- :comment: ''
+  :name: trigonometría-23-t3table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTCyo5uRwwSx2UJbiQ6ZC6zyk-UfqnLdP5Y9X7xxxu94rnZmLaslvbQ7ssX7oE&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Relación: "Segunda"<br/>Descripción:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: La tangente es el cociente entre el seno y el coseno de un ángulo
+  :options:
+  - La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1
+  - Ninguna es correcta
+  - La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado
+  - La tangente es el cociente entre el seno y el coseno de un ángulo
+- :comment: ''
+  :name: trigonometría-24t5table-$relación$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>La asociación siguiente es correcta:<br/><ul><li>Relación:
+    "Segunda"</li><li>Descripción: "La tangente es el cociente entre el seno y el
+    coseno de un ángulo"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: trigonometría-25-t6table-$relación$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>La asociación siguiente es correcta:<br/><ul><li>Relación:
+    "Segunda"</li><li>Descripción: "La tangente al cuadrado más 1 es igual a la inversa
+    del coseno al cuadrado"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-26t7table-$relación$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>La asociación siguiente es correcta:<br/><ul><li>Relación:
+    "Tercera"</li><li>Descripción: "La tangente es el cociente entre el seno y el
+    coseno de un ángulo"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-27t8table-$relación$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>Completa la siguiente asociación:<br/><ul><li>Descripción:
+    "La tangente es el cociente entre el seno y el coseno de un ángulo"</li><li>Relación:
+    [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Segunda
+- :comment: ''
+  :name: trigonometría-28-t1table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTYbzgxdXNAUAXTdOMjTaOL0fy60TcogzNdK90vBsfd49K_vHtPW0TJYujFtg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Relación: [*]<br/>Descripción:
+    "La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado"<br/>Elige
+    la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Tercera
+  :options:
+  - Primera
+  - Segunda
+  - Ninguna es correcta
+  - Tercera
+- :comment: ''
+  :name: trigonometría-29-t3table-$relación$descripción
+  :text: 'Concepto <b>trigonometría</b><br/>Relación: "Tercera"<br/>Descripción: [*]<br/>Elige
+    la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado
+  :options:
+  - Ninguna es correcta
+  - La tangente es el cociente entre el seno y el coseno de un ángulo
+  - La suma del seno al cuadrado mas el coseno al cuadrado es igual a 1
+  - La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado
+- :comment: ''
+  :name: trigonometría-30t5table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQCgHxTSlSBK7KhIk_8P8Td3r_v-0CMkrSBFcKCLOpc9_nEh_Pcb73Gb_cFFQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Relación: "Tercera"</li><li>Descripción: "La tangente al
+    cuadrado más 1 es igual a la inversa del coseno al cuadrado"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: trigonometría-31-t6table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSPBLBfqEEre4d75FAh6-EEmscPpO0tJBLyOmQjyeQFfmiuR5E7EjEyLSPHcg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Relación: "Tercera"</li><li>Descripción: "La suma del seno
+    al cuadrado mas el coseno al cuadrado es igual a 1"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-32t7table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRDQ5doNfKGYG2fFkoDNnP0qeSWXBzD0CTXpixpKMR8ubdV6v2Q65D_bejK6Vg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Relación: "Primera"</li><li>Descripción: "La tangente al
+    cuadrado más 1 es igual a la inversa del coseno al cuadrado"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: trigonometría-33t8table-$relación$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRz9vMD8_eHyDaezl5KK7fVnbra2VawUSH1pZTuXhsnBE2XPNbmxk4l9_ZKkhs&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>trigonometría</b><br/>Completa la siguiente asociación:<br/><ul><li>Descripción:
+    "La tangente al cuadrado más 1 es igual a la inversa del coseno al cuadrado"</li><li>Relación:
+    [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Tercera
+- :comment: ''
+  :name: secante-1-d1choose
+  :text: 'Definición: <i>Es la inversa del coseno</i><br/>Elige la opción que mejor
+    se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: secante
+  :options:
+  - Ninguna es correcta
+  - trigonometría
+  - cotangente
+  - secante
+- :comment: ''
+  :name: secante-2-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTfjPCJIdTDqAIc8FlPWEN8gyYuM38Rans-VBTBc54VzIU9xQV51zv7KBfDSQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es la inversa del coseno</i><br/>Elige la opción
+    que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: secante'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - trigonometría
+  - Ninguna es correcta
+  - sekante
+  - cotangente
+- :comment: ''
+  :name: secante-3-d1none
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTPBsbrITJlmDdiTG0Nzj3kQWX18IUjTMVpnoss0Mlu_H71RcLVu5wB09GIjA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es la inversa del coseno</i><br/>Elige la opción
+    que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - trigonometría
+  - Ninguna es correcta
+  - cosecante
+  - cotangente
+- :comment: ''
+  :name: secante-4-d2def-mispelled
+  :text: Definición de <b>secante</b>:<br/> <i>Ea la inversa del coseno</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: Es la inversa del coseno'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: secante-5-d2name-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSXAquDuq0pdsvHuKF_KUp-N6XXhf0bOMtcGPXCBeP0UCpVCgMsoy7Iqgu-sA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>aecante</b>:<br/> <i>Es la inversa del coseno</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: secante'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: secante-6-d2true
+  :text: Definición de <b>secante</b>:<br/> <i>Es la inversa del coseno</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: secante-7-d2false-misspelled
+  :text: Definición de <b>cotangente</b>:<br/> <i>Es la inversa del coseno</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: secante-8-d3hidden
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSw1EbLCbPsb8iIOnK22DOSQ_YOI7hN90WQrlgZ9wyuGEBdfY28c5bBvEcR4w&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>[*]</b>:<br/> <i>Es la inversa del coseno</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - secante
+- :comment: ''
+  :name: secante-9-d1choose
+  :text: 'Definición: <i>sec x \= 1/ cos x</i><br/>Elige la opción que mejor se corresponda
+    con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: secante
+  :options:
+  - cotangente
+  - secante
+  - Ninguna es correcta
+  - trigonometría
+- :comment: ''
+  :name: secante-10-d1none-misspelled
+  :text: 'Definición: <i>sec x \= 1/ cos x</i><br/>Elige la opción que mejor se corresponda
+    con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: secante'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - trigonometría
+  - cotangente
+  - aecante
+- :comment: ''
+  :name: secante-11-d1none
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQ7x98kBcTh68Sx8V5iZJpmSBQoAEu5L3xV5LLSg08o8TCMMym7KmfdPs9Nuw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>sec x \= 1/ cos x</i><br/>Elige la opción que
+    mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - trigonometría
+  - cotangente
+  - cosecante
+- :comment: ''
+  :name: secante-12-d2def-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTSEH2KC7fdwofH4m2RASxjSjsX1qtq3dtP_ANI2g5ULtFD87GCgBszzd2TJtI&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>secante</b>:<br/> <i>sec ks \= 1/ cos x</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: sec x \= 1/ cos x'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: secante-13-d2name-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS2QGGtvQBox2QgMNBobIZ6ltTWEDgdXX_Wh_f-HIlr-RDenh9cTslpRWf4WQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>sécante</b>:<br/> <i>sec x \= 1/ cos x</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: secante'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: secante-14-d2true
+  :text: Definición de <b>secante</b>:<br/> <i>sec x \= 1/ cos x</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Falso
+  - Verdadero
+  - Error ortográfico
+- :comment: ''
+  :name: secante-15-d2false-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQyqsTxkHye0P1lrlAJvxv2jxC5RHGWHXqrxOBF1NCdmJQ8NgSXH9wh9lemuu0&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cotangente</b>:<br/> <i>sec x \= 1/ cos x</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: secante-16-d3hidden
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRmXU7iqJEYrFGDaa5dVdbzq5YAAeJZhSlWTUoSnu_J5mmTJLhXptK03EdqKA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>[*]</b>:<br/> <i>sec x \= 1/ cos x</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - secante
+- :comment: ''
+  :name: cosecante-1-d1choose
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQN2WVktFrddv3gk1W9P70E2BsurmkauG9rXy9NjSY0i51fUKnX4ttGiwlopQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es la inversa del seno</i><br/>Elige la opción
+    que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: cosecante
+  :options:
+  - trigonometría
+  - cosecante
+  - cotangente
+  - Ninguna es correcta
+- :comment: ''
+  :name: cosecante-2-d1none-misspelled
+  :text: 'Definición: <i>Es la inversa del seno</i><br/>Elige la opción que mejor
+    se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: cosecante'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - cosekante
+  - cotangente
+  - trigonometría
+  - Ninguna es correcta
+- :comment: ''
+  :name: cosecante-3-d1none
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcToKN6WIKTCtadyg5Gw719ezTWhK9nyu1AP70tpOAk2dVEAsRukZIYjE-d-uyg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es la inversa del seno</i><br/>Elige la opción
+    que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - cotangente
+  - secante
+  - trigonometría
+- :comment: ''
+  :name: cosecante-4-d2def-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTO99Jdk-_Rh8HHr0BxWNydaUqL6TjQYMk5SgguumhcwMGcj0jBdjHm_PK5HK0&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cosecante</b>:<br/> <i>Es la inversa del ceno</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: Es la inversa del seno'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: cosecante-5-d2name-mispelled
+  :text: Definición de <b>cosekante</b>:<br/> <i>Es la inversa del seno</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: cosecante'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: cosecante-6-d2true
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS4sMdme6DrnYFCfd3EMmebkjDEUaPlZxHjD-rsY82c3rPNIWDzl6scFlYKvkw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cosecante</b>:<br/> <i>Es la inversa del seno</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: cosecante-7-d2false-misspelled
+  :text: Definición de <b>cotangente</b>:<br/> <i>Es la inversa del seno</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: cosecante-8-d3hidden
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSJZn76IClfvulJMYuPq8785WVgwQ0_ZlMt_4Xvm-0dGcvX44kpcsJ4x7lV0Q&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>[*]</b>:<br/> <i>Es la inversa del seno</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - cosecante
+- :comment: ''
+  :name: cosecante-9-d1choose
+  :text: 'Definición: <i>cosec x \= 1/ sen x</i><br/>Elige la opción que mejor se
+    corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: cosecante
+  :options:
+  - Ninguna es correcta
+  - trigonometría
+  - cotangente
+  - cosecante
+- :comment: ''
+  :name: cosecante-10-d1none-misspelled
+  :text: 'Definición: <i>cosec x \= 1/ sen x</i><br/>Elige la opción que mejor se
+    corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: cosecante'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - coseconte
+  - cotangente
+  - trigonometría
+  - Ninguna es correcta
+- :comment: ''
+  :name: cosecante-11-d1none
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRDQ5doNfKGYG2fFkoDNnP0qeSWXBzD0CTXpixpKMR8ubdV6v2Q65D_bejK6Vg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>cosec x \= 1/ sen x</i><br/>Elige la opción que
+    mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - cotangente
+  - trigonometría
+  - secante
+- :comment: ''
+  :name: cosecante-12-d2def-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRJygyf-rgrJLlWdyeN2C9lps9speZTRIz2cAMgKYcSBNk90fmtkP8DnnDBWA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cosecante</b>:<br/> <i>co ec x \= 1/ sen x</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: cosec x \= 1/ sen x'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: cosecante-13-d2name-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcT3IaaU9KtTbWg0Jx6qxKumPDd7xlUfswn2Jp55c_vnhD7uW6U-QogN3JU1ow&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cosecañte</b>:<br/> <i>cosec x \= 1/ sen x</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: cosecante'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: cosecante-14-d2true
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTclKKfT4zdFjyBHsyiaKXv408ZpTuIi6yAALN_61J-9utyC9ahgp_Z8mqWJA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cosecante</b>:<br/> <i>cosec x \= 1/ sen x</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: cosecante-15-d2false-misspelled
+  :text: Definición de <b>cotangente</b>:<br/> <i>cosec x \= 1/ sen x</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: cosecante-16-d3hidden
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRmXU7iqJEYrFGDaa5dVdbzq5YAAeJZhSlWTUoSnu_J5mmTJLhXptK03EdqKA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>[*]</b>:<br/> <i>cosec x \= 1/ sen x</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - cosecante
+- :comment: ''
+  :name: cotangente-1-d1choose
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRvB8I4lhVPflpJwVGuEvirZRcQwgYqKCJ5NUfMI4Y2YRn0K-RVckyRSpgfmA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es la inversa de la tangente</i><br/>Elige la
+    opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: cotangente
+  :options:
+  - cosecante
+  - cotangente
+  - Ninguna es correcta
+  - trigonometría
+- :comment: ''
+  :name: cotangente-2-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSn-qXs00zkiOZIpH_W_-ylPwn_nM0BhPmoufDSIwkO5hZlbAypKZQFO-fbZUg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es la inversa de la tangente</i><br/>Elige la
+    opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: cotangente'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - trigonometría
+  - sotangente
+  - cosecante
+  - Ninguna es correcta
+- :comment: ''
+  :name: cotangente-3-d1none
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQdd3tnO5Wmzlnis6BuqkQtc3Assl2hMdhBAlpsWRiZNgxvRQxCbdcMYgwqwxE&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Es la inversa de la tangente</i><br/>Elige la
+    opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - secante
+  - trigonometría
+  - Ninguna es correcta
+  - cosecante
+- :comment: ''
+  :name: cotangente-4-d2def-mispelled
+  :text: Definición de <b>cotangente</b>:<br/> <i>Es la inversa de la tanjente</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: Es la inversa de la tangente'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: cotangente-5-d2name-mispelled
+  :text: Definición de <b>copangente</b>:<br/> <i>Es la inversa de la tangente</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: cotangente'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: cotangente-6-d2true
+  :text: Definición de <b>cotangente</b>:<br/> <i>Es la inversa de la tangente</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: cotangente-7-d2false-misspelled
+  :text: Definición de <b>cosecante</b>:<br/> <i>Es la inversa de la tangente</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: cotangente-8-d3hidden
+  :text: 'Definición de <b>??????????</b>:<br/> <i>Es la inversa de la tangente</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - cotangente
+- :comment: ''
+  :name: cotangente-9-d1choose
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTsIjCPcnGQ6EkrEXgUDtEmvi4L2HqF2cO5P1I3af6bjd3tV2kHn_6ITkSIguM&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>cotag x \= 1/ tag x</i><br/>Elige la opción que
+    mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: cotangente
+  :options:
+  - cotangente
+  - cosecante
+  - trigonometría
+  - Ninguna es correcta
+- :comment: ''
+  :name: cotangente-10-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcStFi_xZ81an1hCRVQojH4tP0uR3T1j3ue8rUdHls5qnTprC8WSlScYjcKpCeA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>cotag x \= 1/ tag x</i><br/>Elige la opción que
+    mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: cotangente'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - copangente
+  - cosecante
+  - trigonometría
+- :comment: ''
+  :name: cotangente-11-d1none
+  :text: 'Definición: <i>cotag x \= 1/ tag x</i><br/>Elige la opción que mejor se
+    corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - cosecante
+  - trigonometría
+  - secante
+  - Ninguna es correcta
+- :comment: ''
+  :name: cotangente-12-d2def-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQyLVkWo0pK3RuA7SPSa48OVwjth224P8DN45qFGtmKq50_-a0OVSmF6VmftZo&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cotangente</b>:<br/> <i>cetag x \= 1/ tag x</i><br/>
+  :type: :choice
+  :feedback: 'Definition text mispelled!: cotag x \= 1/ tag x'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: cotangente-13-d2name-mispelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQCgHxTSlSBK7KhIk_8P8Td3r_v-0CMkrSBFcKCLOpc9_nEh_Pcb73Gb_cFFQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cotamgente</b>:<br/> <i>cotag x \= 1/ tag x</i><br/>
+  :type: :choice
+  :feedback: 'Concept name mispelled!: cotangente'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Falso
+  - Verdadero
+  - Error ortográfico
+- :comment: ''
+  :name: cotangente-14-d2true
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRn7Ij-kSBdlcMrU0eJpA7B7IJtwa4HpuBWISH0IbuHciJO7Dd9EpIvsarOhw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>cotangente</b>:<br/> <i>cotag x \= 1/ tag x</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: cotangente-15-d2false-misspelled
+  :text: Definición de <b>cosecante</b>:<br/> <i>cotag x \= 1/ tag x</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: cotangente-16-d3hidden
+  :text: 'Definición de <b>??????????</b>:<br/> <i>cotag x \= 1/ tag x</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - cotangente
