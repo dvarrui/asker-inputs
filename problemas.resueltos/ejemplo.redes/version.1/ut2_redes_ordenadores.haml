@@ -1,0 +1,143 @@
+%map{ :version => '1', :lang => 'es', :context=>'redes, introducción, definiciones' }
+
+  %concept
+    %names Redes de ordenadores
+    %tags sistema,comunicación,enlaza,ordenadores,dispositivos,periféricos
+    %def Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.
+    %def Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.
+  %concept
+    %names Medio de transmisión guiado
+    %tags medio, medios, transmisión, guiado, guiados
+    %def En el la señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+    %def Algunos ejemplos son las señales de infrarrojos, microondas y satélite.
+
+  %concept
+    %names Medio de transmisión no guiado
+    %tags medio, medios, transmisión, no guiado, no guiados
+    %def No se usa un medio físico para la transmisión de la señal.
+    %def Algunos ejemplos son el alambre, la fibra óptica y el cable de par trenzado. 
+
+  %concept
+    %names Red pública
+    %tags red pública, redes públicas
+    %def Son redes  de propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+    %def Pueden ser redes estatales.
+
+  %concept
+    %names Red privada
+    %tags red privada, redes privadas
+    %def Son por ejemplo todas las LAN o redes locales que se encuentran en edificios, empresas.
+     
+  %concept
+    %names Red dedicada
+    %tags red dedicada, redes dedicadas
+    %def Son redes públicas pero se dan al alquiler.
+    %def Son las que usan las empresas para comunicarse con sus centrales, u otras empresas e instituciones.  
+  
+  %concept
+    %names Red PAN
+    %tags red PAN, redes PAN
+    %def Red de área personal.
+    %def Personal area network.
+    %def Red de computadoras para la comunicación entre dispositivos muy cercanos entre sí.
+    %def Suelen usar bluetoth e infrarrojos.
+
+  %concept
+    %names Red LAN
+    %tags red LAN, redes LAN
+    %def Red de área local.
+    %def Local area network.
+    %def Son redes que interconectan un área privada y restringida.
+    %def Son redes restringidas a un área privada, como por ejemplo un edificio, con una baja tasa de errores.
+
+  %concept
+    %names Red MAN
+    %tags red MAN, redes MAN
+    %def Red de área metropolitana.
+    %def Metropolitan area network.
+    %def Son redes que interconectan un área privada y restringida.
+    %def Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.
+    %def Pueden surgir de la interconexión de redes locales cercanas.
+    %def Abarcan ciudades enteras.
+    %def Usa tecnologías similares a las de las redes LAN.
+
+  %concept
+    %names Red WAN
+    %tags red WAN, redes WAN
+    %def Red de área extensa.
+    %def Red de área extendida.
+    %def Wide area network.
+    %def Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes.
+    %def Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.
+    %def Pueden surgir de la interconexión de redes locales cercanas.
+    %def Abarcan ciudades enteras.
+    %def Usa tecnologías similares a las de las redes LAN.
+
+  %concept
+    %names Host
+    %tags host, hosts
+    %def Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.
+
+
+  %concept
+    %names Topología
+    %tags topología, topologías, host, hosts
+    %def Forma de interconectar los difrentes host de una red.
+    %table{ :fields => 'topología, conexión' }
+      %row
+        %col Bus
+        %col Cada host está conectado a un cable común.
+      %row
+        %col Anillo
+        %col Los dispositivos están conectados entre sí mediante una cadena.
+      %row
+        %col Anillo doble
+        %col Cada dispositivo forma parte de dos topologías en anillo independientes.
+      %row
+        %col Estrella
+        %col Si el nodo central falla, falla todo.
+      %row
+        %col Estrella extendida
+        %col Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+      %row
+        %col Árbol o jerárquica
+        %col El enlace troncal es un cable con varias capas de ramificaciones.
+      %row
+        %col Malla completa
+        %col Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+      %row
+        %col Celular
+        %col Tecnología inalámbrica en la que no hay enlaces físicos.
+
+  %concept
+    %names Sistemas aislados
+    %tags sistema, sistemas, aislado, aislados
+    %def Sistema de red incapaz de comunicarse con el exterior.
+
+  %concept
+    %names Sistema con conexión remota temporal
+    %tags sistema, sistemas, remota, temporal
+    %def Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.
+
+  %concept
+    %names Sistema distribuido
+    %tags sistema, sistemas, distribuido, distribuidos
+    %def Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.
+    %def Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.
+
+  %concept
+    %names Protocolo de comunicación
+    %tags protocolo, protocolos, comunicación, comunicaciones
+    %def Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.
+
+  %concept
+    %names Arquitectura de red
+    %tags arquitectura, arquitecturas, red, redes
+    %def Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.
+    %def Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.
+
+  %concept
+    %names Organismo de normalización
+    %tags organismo, organismos, normalización
+    %def Son los encargados de establecer los estándares utilizados en diferentes áreas: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.
+    

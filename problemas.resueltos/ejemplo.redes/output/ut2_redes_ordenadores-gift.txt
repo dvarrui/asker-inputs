@@ -1,0 +1,2722 @@
+// ==================================================
+// Created by : asker (version 2.2.2)
+// File       : ut2_redes_ordenadores-gift.txt
+// Time       : 2022-02-08 23:45:29 +0000
+// Author     : David Vargas Ruiz
+// ==================================================
+
+
+// ==================================================
+// Concept name: Redes de ordenadores
+// ==================================================
+::Redes de ordenadores-1-d1choose::[html]Definición\: <i>Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema con conexión remota temporal
+  =Redes de ordenadores
+  ~%-25%Ninguna es correcta
+  ~%-25%Protocolo de comunicación
+}
+
+::Redes de ordenadores-2-d1none-misspelled::[html]Definición\: <i>Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Sistema con conexión remota temporal
+  ~%-25%Redes de ordemadores
+  ~%-25%Protocolo de comunicación
+  ####Option misspelled!\: Redes de ordenadores
+}
+
+::Redes de ordenadores-3-d1none::[html]Definición\: <i>Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Protocolo de comunicación
+  =Ninguna es correcta
+  ~%-25%Sistema con conexión remota temporal
+  ~%-25%Sistema aislado
+}
+
+::Redes de ordenadores-4-d2def-misspelled::[html]Definición de <b>Redes de ordenadores</b>\:<br/> <i>Es un sistema de komunicación que enlaza dos o más ordenadores y dispositivos o periféricos.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.
+}
+
+::Redes de ordenadores-5-d2name-misspelled::[html]Definición de <b>Rédes de ordenadores</b>\:<br/> <i>Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Concept name misspelled!\: Redes de ordenadores
+}
+
+::Redes de ordenadores-6-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSqMarqiD5lDCPp9rd9O8FB6FIgwmmND5VQRFi9mE2Pmp0x2p5om4IaUmqxFuE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Redes de ordenadores</b>\:<br/> <i>Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+  ~%-33.33333%Falso
+}
+
+::Redes de ordenadores-7-d2false-misspelled::[html]Definición de <b>Protocolo de comunicación</b>\:<br/> <i>Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::Redes de ordenadores-8-d3hidden::[html]Definición de <b>????? ?? ???????????</b>\:<br/> <i>Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Redes de ordenadores#
+}
+
+::Redes de ordenadores-9-d4filtered::[html]Definición de <b>Redes de ordenadores</b>\:<br/> <i>Es un [1] de comunicación que [2] [3] o más [4] y dispositivos o periféricos.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> sistema
+  =2 -> enlaza
+  =3 -> dos
+  =4 -> ordenadores
+}
+
+::Redes de ordenadores-10-d4filtered::[html]Definición de <b>Redes de ordenadores</b>\:<br/> <i>Es un sistema de [1] que [2] dos o [3] [4] y dispositivos o periféricos.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> comunicación
+  =2 -> enlaza
+  =3 -> más
+  =4 -> ordenadores
+}
+
+::Redes de ordenadores-11-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRDVt5pFcXjUpZhjMq6iKxyKBFMMUv-99LT7nUvjQAPFYARJdqxmbVccrCHUw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Protocolo de comunicación
+  ~%-25%Sistema con conexión remota temporal
+  ~%-25%Ninguna es correcta
+  =Redes de ordenadores
+}
+
+::Redes de ordenadores-12-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRrLblGxGgyubJB6ZJrcCrur3SQ7PVPN9Y8NX2lRSVT4UMnMPxV54WN4kytYQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Redes de ordeñadores
+  =Ninguna es correcta
+  ~%-25%Protocolo de comunicación
+  ~%-25%Sistema con conexión remota temporal
+  ####Option misspelled!\: Redes de ordenadores
+}
+
+::Redes de ordenadores-13-d1none::[html]Definición\: <i>Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Protocolo de comunicación
+  ~%-25%Sistema aislado
+  ~%-25%Sistema con conexión remota temporal
+}
+
+::Redes de ordenadores-14-d2def-misspelled::[html]Definición de <b>Redes de ordenadores</b>\:<br/> <i>Son distintos equipos que se conectan pala interactuar entre ellos, pero sin perder la identidad propia.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.
+}
+
+::Redes de ordenadores-15-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQZ3899iwprfjERWqzwsNEM1CqVVUh-WO36QqAVO89g_MWFwW0Ka_xZlM9Uog&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Redes de oldenadores</b>\:<br/> <i>Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Concept name misspelled!\: Redes de ordenadores
+}
+
+::Redes de ordenadores-16-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRWaWKKUK2yGdxRkyfPEudyupUIOO7wbRKaLA_xhjQj6WfC4NdIjqb22GfP2A&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Redes de ordenadores</b>\:<br/> <i>Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::Redes de ordenadores-17-d2false-misspelled::[html]Definición de <b>Protocolo de comunicación</b>\:<br/> <i>Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Redes de ordenadores-18-d3hidden::[html]Definición de <b>????? ?? ???????????</b>\:<br/> <i>Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Redes de ordenadores#
+}
+
+::Redes de ordenadores-19-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQElhpasl0gSBWUpmvo8rZ1TiA4AQRhn9pWUvWnAIvTu4p9SNkXaKEBdw5BHQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Redes de ordenadores</b>\:<br/> <i>[1] distintos equipos que se conectan para interactuar entre [2] pero sin [3] la identidad [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> son
+  =2 -> ellos,
+  =3 -> perder
+  =4 -> propia
+}
+
+::Redes de ordenadores-20-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS1Raz83iYQnP6IrHhcN838Nwm15qpqUsA0i5R2mRMM5lpeZ_izQaFuaDcQGmA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Redes de ordenadores</b>\:<br/> <i>[1] [2] [3] que se [4] para interactuar entre ellos, pero sin perder la identidad propia.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> son
+  =2 -> distintos
+  =3 -> equipos
+  =4 -> conectan
+}
+
+
+// ==================================================
+// Concept name: Medio de transmisión
+// ==================================================
+::Medio de transmisión-1-t1table-$tipo$descripción::[html]Concepto <b>Medio de transmisión</b><br/>Tipo\: [*]<br/>Descripción\: "La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%pública
+  =guiado
+  ~%-25%Ninguna es correcta
+  ~%-25%no guiado
+}
+
+::Medio de transmisión-2-t2table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRRsVsUM7H8SZ3aCB8ZGjRnvO9tQ0npJyyoOWeYdNTCOlzR3PdqJUrH-sP-QA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>Tipo\: [*]<br/>Descripción\: "La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%pública
+  ~%-25%pública estatal
+  ~%-25%no guiado
+  =Ninguna es correcta
+}
+
+::Medio de transmisión-3-t3table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQAqkG_l6sbNiYFElZpDqUujMwVm7OFSRyk1iGV2DC2Lcgmc66cHa2GsGoQGA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>Tipo\: "guiado"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  =La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+  ~%-25%Ninguna es correcta
+  ~%-25%No se usa un medio físico para la transmisión de la señal.
+}
+
+::Medio de transmisión-4-t4table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQc5WNqz8ZFi-_eZX5RoIM37OJp5dpQfAiP9TvtqcXxwkdESKmS6N6IPl3mlyo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>Tipo\: "guiado"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  =Ninguna es correcta
+  ~%-25%De propiedad del estado
+  ~%-25%No se usa un medio físico para la transmisión de la señal.
+}
+
+::Medio de transmisión-5t5table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTOQaXqyI-N_wG-T22XtmCt_7_TBQRqWZ8OLUO_0JVPNXIxIYTQ47gWnAO7DbM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "guiado"</li><li>Descripción\: "La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra."</li></ul>
+{TRUE####}
+
+::Medio de transmisión-6-t6table-$tipo$descripción::[html]Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "guiado"</li><li>Descripción\: "No se usa un medio físico para la transmisión de la señal."</li></ul>
+{FALSE####}
+
+::Medio de transmisión-7t7table-$tipo$descripción::[html]Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "no guiado"</li><li>Descripción\: "La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra."</li></ul>
+{FALSE####}
+
+::Medio de transmisión-8t8table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSl3j1qxv8A4_dYMZ7WrHOa8v7KfG9aoIPcwhpikpgNyClEKiy_KE5vIh9pEA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra."</li><li>Tipo\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%guiado#
+}
+
+::Medio de transmisión-9-t1table-$tipo$descripción::[html]Concepto <b>Medio de transmisión</b><br/>Tipo\: [*]<br/>Descripción\: "No se usa un medio físico para la transmisión de la señal."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%pública
+  ~%-25%Ninguna es correcta
+  ~%-25%guiado
+  =no guiado
+}
+
+::Medio de transmisión-10-t2table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSRdQWTuosdSPFmraWiaMpPI3D0O70Dx1vL7Ng7vhbN-8oc7eVZIyqLM93cmA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>Tipo\: [*]<br/>Descripción\: "No se usa un medio físico para la transmisión de la señal."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%guiado
+  ~%-25%dedicada
+  =Ninguna es correcta
+  ~%-25%pública
+}
+
+::Medio de transmisión-11-t3table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTsxwWty-_vouOuqkP3slxuAQxFkyqv93TUM_78VSVn6pCPy7beJd3YHmI9_5Y&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>Tipo\: "no guiado"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  ~%-25%La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+  ~%-25%Ninguna es correcta
+  =No se usa un medio físico para la transmisión de la señal.
+}
+
+::Medio de transmisión-12-t4table-$tipo$descripción::[html]Concepto <b>Medio de transmisión</b><br/>Tipo\: "no guiado"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  ~%-25%[*] públicas pero se dan al alquiler.
+  ~%-25%La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+}
+
+::Medio de transmisión-13t5table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRaYz41uS-fxPJgN3xpECEJRJuBWrzMz4UNXDCmjgZbC3yFu5hHecIMGzOA_w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "no guiado"</li><li>Descripción\: "No se usa un medio físico para la transmisión de la señal."</li></ul>
+{TRUE####}
+
+::Medio de transmisión-14-t6table-$tipo$descripción::[html]Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "no guiado"</li><li>Descripción\: "La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra."</li></ul>
+{FALSE####}
+
+::Medio de transmisión-15t7table-$tipo$descripción::[html]Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "guiado"</li><li>Descripción\: "No se usa un medio físico para la transmisión de la señal."</li></ul>
+{FALSE####}
+
+::Medio de transmisión-16t9table-$tipo$descripción::[html]Concepto <b>Medio de transmisión</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "No se usa un medio físico para la transmisión de la señal."</li><li>Tipo\: [?? ??????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%no guiado#
+}
+
+::Medio de transmisión-17t5table-$tipo$ejemplo::[html]Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "guiado"</li><li>Ejemplo\: "Las señales de infrarrojos, microondas y satélite."</li></ul>
+{TRUE####}
+
+::Medio de transmisión-18-t6table-$tipo$ejemplo::[html]Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "guiado"</li><li>Ejemplo\: "El alambre, la fibra óptica y el cable de par trenzado."</li></ul>
+{FALSE####}
+
+::Medio de transmisión-19t7table-$tipo$ejemplo::[html]Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "no guiado"</li><li>Ejemplo\: "Las señales de infrarrojos, microondas y satélite."</li></ul>
+{FALSE####}
+
+::Medio de transmisión-20t8table-$tipo$ejemplo::[html]Concepto <b>Medio de transmisión</b><br/>Completa la siguiente asociación\:<br/><ul><li>Ejemplo\: "Las señales de infrarrojos, microondas y satélite."</li><li>Tipo\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%guiado#
+}
+
+::Medio de transmisión-21t5table-$tipo$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTypJzUTEeTF01BDqcJ8aMafdoPirMWNXlIFcRmyMUYRBZAkAz18fdN8rRVFro&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "no guiado"</li><li>Ejemplo\: "El alambre, la fibra óptica y el cable de par trenzado."</li></ul>
+{TRUE####}
+
+::Medio de transmisión-22-t6table-$tipo$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQGcg7zr5lusTv33oIC4SiQb_fSBmM61N-LNXtbOHYd5qTI87Gmn65tR2KuTzg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "no guiado"</li><li>Ejemplo\: "Las señales de infrarrojos, microondas y satélite."</li></ul>
+{FALSE####}
+
+::Medio de transmisión-23t7table-$tipo$ejemplo::[html]Concepto <b>Medio de transmisión</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "guiado"</li><li>Ejemplo\: "El alambre, la fibra óptica y el cable de par trenzado."</li></ul>
+{FALSE####}
+
+::Medio de transmisión-24t9table-$tipo$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQnljY0Tws5eGw6x6MhaJ7uqECjACbnMZLcTMIk2hindnHI3DwZhZOGiOD-dqo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Medio de transmisión</b><br/>Completa la siguiente asociación\:<br/><ul><li>Ejemplo\: "El alambre, la fibra óptica y el cable de par trenzado."</li><li>Tipo\: [?? ??????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%no guiado#
+}
+
+
+// ==================================================
+// Concept name: Red
+// ==================================================
+::Red-1-b1match4x4-$tipo$descripción::[html]En relación al concepto <b>Red</b>, asocia cada "Tipo" con su "Descripción".<br/>
+{
+  =pública -> De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  =dedicada -> [*] públicas pero se dan al alquiler.
+  = -> La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+  =pública estatal -> De propiedad del estado
+  =privada -> LAN o [*] locales que se encuentran en edificios, empresas.
+}
+
+::Red-2-b1match3x1misspelled-$tipo$descripción::[html]En relación al concepto <b>Red</b>, asocia cada "Tipo" con su "Descripción".<br/>
+{
+  =dedicada -> [*] públicas pero se dan al alquiler.
+  =pública esfatal -> Error ortográfico
+  =privada -> LAN o [*] locales que se encuentran en edificios, empresas.
+  =pública -> De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  = -> La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+}
+
+::Red-3-b1match3x1-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQRfMBTc_R-GMiIQX4MsSYz6tW9JTvUE7wJwqgza5SI2RX_YoOPtg0XQfN5Ykk&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>Red</b>, asocia cada "Tipo" con su "Descripción".<br/>
+{
+  = -> De propiedad de emprezas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  =privada -> LAN o [*] locales que se encuentran en edificios, empresas.
+  =pública estatal -> De propiedad del estado
+  =pública -> De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  =guiado -> Error
+}
+
+::Red-4-t1table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Tipo\: [*]<br/>Descripción\: "De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%pública estatal
+  =pública
+  ~%-25%guiado
+}
+
+::Red-5-t2table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQp_nQn8E-xWQ0Ji0BV-nVlkDMOql_oKO65dIqPkbsGOD2CXhD9WJy22oRgteY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: [*]<br/>Descripción\: "De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%guiado
+  ~%-25%no guiado
+  =Ninguna es correcta
+  ~%-25%pública estatal
+}
+
+::Red-6-t3table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQvlnvRFStjYfYL2XCrV058uV2etoDBeKFLyYIo3nqVUkYMHtL6u1MhN5cSw90&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: "pública"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  =De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  ~%-25%La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+  ~%-25%De propiedad del estado
+}
+
+::Red-7-t4table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Tipo\: "pública"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%De propiedad del estado
+  ~%-25%No se usa un medio físico para la transmisión de la señal.
+  ~%-25%La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+  =Ninguna es correcta
+}
+
+::Red-8t5table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQp_nQn8E-xWQ0Ji0BV-nVlkDMOql_oKO65dIqPkbsGOD2CXhD9WJy22oRgteY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "pública"</li><li>Descripción\: "De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales."</li></ul>
+{TRUE####}
+
+::Red-9-t6table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRZ8FLhevnnpcr3Md1GK4qwX0BtQ9kH0Po3LPFN11rNIlFrbulpVb9B_qqhVg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "pública"</li><li>Descripción\: "De propiedad del estado"</li></ul>
+{FALSE####}
+
+::Red-10t7table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTPFEXG7oRUOItWVp2iROONJ2HwG-nHk__hd-3iNDZ_310Th_k9hJNq8W1Xop8&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "pública estatal"</li><li>Descripción\: "De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales."</li></ul>
+{FALSE####}
+
+::Red-11t8table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcThZtLjYgCIeQAVtldT0ZleAczCfEAojXAybo8PSbi6p5pLyYhC3IMezTPdJw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales."</li><li>Tipo\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%pública#
+}
+
+::Red-12-t1table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Tipo\: [*]<br/>Descripción\: "De propiedad del estado"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%dedicada
+  =pública estatal
+  ~%-25%pública
+  ~%-25%Ninguna es correcta
+}
+
+::Red-13-t2table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Tipo\: [*]<br/>Descripción\: "De propiedad del estado"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%dedicada
+  ~%-25%pública
+  ~%-25%privada
+  =Ninguna es correcta
+}
+
+::Red-14-t3table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSPE6eb3qVyg8-rxU71eWeGfGZ2g8Hux1ejpn_zTs37h4WXkFxuSLYll6Tuxg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: "pública estatal"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  ~%-25%[*] públicas pero se dan al alquiler.
+  =De propiedad del estado
+  ~%-25%Ninguna es correcta
+}
+
+::Red-15-t4table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Tipo\: "pública estatal"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%LAN o [*] locales que se encuentran en edificios, empresas.
+  =Ninguna es correcta
+  ~%-25%[*] públicas pero se dan al alquiler.
+  ~%-25%De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+}
+
+::Red-16t5table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTXrS0Gpe5x2fVzWa8_oL2rD_PoImymuS8kHwjo039LOsbO4msRNgRUWW1_kQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "pública estatal"</li><li>Descripción\: "De propiedad del estado"</li></ul>
+{TRUE####}
+
+::Red-17-t6table-$tipo$descripción::[html]Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "pública estatal"</li><li>Descripción\: "De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales."</li></ul>
+{FALSE####}
+
+::Red-18t7table-$tipo$descripción::[html]Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "pública"</li><li>Descripción\: "De propiedad del estado"</li></ul>
+{FALSE####}
+
+::Red-19t9table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "De propiedad del estado"</li><li>Tipo\: [??????? ???????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%pública estatal#
+}
+
+::Red-20-t1table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTPI91NB1mFiQk0HOhy5uynas7dmpxJV8bYMb0kznAioPCCfmjjuoQWG5qpwQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: [*]<br/>Descripción\: "LAN o [*] locales que se encuentran en edificios, empresas."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%dedicada
+  ~%-25%Ninguna es correcta
+  =privada
+  ~%-25%guiado
+}
+
+::Red-21-t2table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSQsSTtQBbVCtuw4Q-B2frTd-61FJ-nm2hm-3zuozfxz1RgNJewMZMPVMs7WS0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: [*]<br/>Descripción\: "LAN o [*] locales que se encuentran en edificios, empresas."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%dedicada
+  ~%-25%guiado
+  ~%-25%pública
+  =Ninguna es correcta
+}
+
+::Red-22-t3table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRNpRAiP-LcTf67EIMUcFmIdYmdNTMH1AZXV93YTAvVCYmcEaYa0wuXbBi1vA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: "privada"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+  ~%-25%Ninguna es correcta
+  =LAN o [*] locales que se encuentran en edificios, empresas.
+  ~%-25%[*] públicas pero se dan al alquiler.
+}
+
+::Red-23-t4table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Tipo\: "privada"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra.
+  ~%-25%De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+  =Ninguna es correcta
+  ~%-25%[*] públicas pero se dan al alquiler.
+}
+
+::Red-24t5table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQhOG84Qs_IjIqHfkluKpGRwuKpksYSQuIyn4y4kn8L9n1MNAlsDwd4L-GoWw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "privada"</li><li>Descripción\: "LAN o [*] locales que se encuentran en edificios, empresas."</li></ul>
+{TRUE####}
+
+::Red-25-t6table-$tipo$descripción::[html]Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "privada"</li><li>Descripción\: "La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra."</li></ul>
+{FALSE####}
+
+::Red-26t7table-$tipo$descripción::[html]Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "guiado"</li><li>Descripción\: "LAN o [*] locales que se encuentran en edificios, empresas."</li></ul>
+{FALSE####}
+
+::Red-27t8table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT8d4fFSMDsn5Mpr33tf7JCsOKMoHG4u2LBr4wf1givsgkoj2B-3PnoHV9BYg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "LAN o [*] locales que se encuentran en edificios, empresas."</li><li>Tipo\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%privada#
+}
+
+::Red-28-t1table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTQ00GgndL8a7weaALS2S68Hea2LSdoUMRHVafIei6hYFfD6FKKtO76mIT8BQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: [*]<br/>Descripción\: "[*] públicas pero se dan al alquiler."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%no guiado
+  =dedicada
+  ~%-25%privada
+}
+
+::Red-29-t2table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTHVjP_G-DMZbdohtahpEvFltvaypn3T0SqXm45RCDAwfpqCwJ4h_cOfk3wkg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: [*]<br/>Descripción\: "[*] públicas pero se dan al alquiler."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%no guiado
+  ~%-25%privada
+  =Ninguna es correcta
+  ~%-25%pública
+}
+
+::Red-30-t3table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSsvBcWpzZEn2nMADyrfhvi1bsjS-tKR7p-FlH_Sxr2iPxBXd7vGMuY52VMMA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Tipo\: "dedicada"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%No se usa un medio físico para la transmisión de la señal.
+  ~%-25%LAN o [*] locales que se encuentran en edificios, empresas.
+  ~%-25%Ninguna es correcta
+  =[*] públicas pero se dan al alquiler.
+}
+
+::Red-31-t4table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Tipo\: "dedicada"<br/>Descripción\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%No se usa un medio físico para la transmisión de la señal.
+  ~%-25%LAN o [*] locales que se encuentran en edificios, empresas.
+  ~%-25%De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales.
+}
+
+::Red-32t5table-$tipo$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTN53NMAPFdLMJnp3CekadMth8njp3L7Q6GOA_JjWBQW2hm1A7Hjj6UP8XJTA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "dedicada"</li><li>Descripción\: "[*] públicas pero se dan al alquiler."</li></ul>
+{TRUE####}
+
+::Red-33-t6table-$tipo$descripción::[html]Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "dedicada"</li><li>Descripción\: "LAN o [*] locales que se encuentran en edificios, empresas."</li></ul>
+{FALSE####}
+
+::Red-34t7table-$tipo$descripción::[html]Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "privada"</li><li>Descripción\: "[*] públicas pero se dan al alquiler."</li></ul>
+{FALSE####}
+
+::Red-35t8table-$tipo$descripción::[html]Concepto <b>Red</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "[*] públicas pero se dan al alquiler."</li><li>Tipo\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%dedicada#
+}
+
+::Red-36t5table-$tipo$uso::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTSNL6iG0VV9ZwXNXDryaVeq35BSwT1nj9_KCVpno1Pk-WrLX691XpYltqkGA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "dedicada"</li><li>Uso\: "Las empresas para comunicarse con sus centrales, u otras empresas e instituciones."</li></ul>
+{TRUE####}
+
+::Red-37t8table-$tipo$uso::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ332Ab6ccX-qkAWJiJmH5buAVuLzT-pZLsGBECijcr8nkUDp7cloHk2494ib4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Red</b><br/>Completa la siguiente asociación\:<br/><ul><li>Uso\: "Las empresas para comunicarse con sus centrales, u otras empresas e instituciones."</li><li>Tipo\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%dedicada#
+}
+
+
+// ==================================================
+// Concept name: PAN
+// ==================================================
+::PAN-1-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRC7tzCx3F85EE8IRFp6cl7zip1yklsCzChmbnsXAJHjYg-GH_K6M9skp0gxQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área personal.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Ninguna es correcta
+  =PAN
+  ~%-25%WAN
+  ~%-25%LAN
+}
+
+::PAN-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRLFGmqY-imYgGPOFBi-dQeti1B0qY_NVE0hNGP69_vayczSOT-fW5qCPppuxE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área personal.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%WAN
+  ~%-25%APN
+  =Ninguna es correcta
+  ~%-25%LAN
+  ####Option misspelled!\: PAN
+}
+
+::PAN-3-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTSNL6iG0VV9ZwXNXDryaVeq35BSwT1nj9_KCVpno1Pk-WrLX691XpYltqkGA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área personal.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%MAN
+  =Ninguna es correcta
+  ~%-25%LAN
+  ~%-25%WAN
+}
+
+::PAN-4-d2def-misspelled::[html]Definición de <b>PAN</b>\:<br/> <i>Red de área personar.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Red de área personal.
+}
+
+::PAN-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTPFEXG7oRUOItWVp2iROONJ2HwG-nHk__hd-3iNDZ_310Th_k9hJNq8W1Xop8&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>APN</b>\:<br/> <i>Red de área personal.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: PAN
+}
+
+::PAN-6-d2true::[html]Definición de <b>PAN</b>\:<br/> <i>Red de área personal.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::PAN-7-d2false-misspelled::[html]Definición de <b>LAN</b>\:<br/> <i>Red de área personal.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::PAN-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTsxwWty-_vouOuqkP3slxuAQxFkyqv93TUM_78VSVn6pCPy7beJd3YHmI9_5Y&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Red de área personal.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%PAN#
+}
+
+::PAN-10-f1short4-$características::[html]Los siguientes elementos son "Características" del concepto <b>[*]</b>\:<ul><li>Red de computadoras</li><li>Personal area network</li><li>Comunicación entre dispositivos muy cercanos entre sí</li><li>Suelen usar bluetoth e infrarrojos</li></ul>
+{
+  =%100%PAN#
+}
+
+::PAN-11-f1name-misspelled4-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSocGmr3-fc6v3eTk2Wi23TYlx_1d-2ypqfm_XeM5K4RorYvysWUlbr_eOm3g&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>APN</b>\:<ul><li>Comunikación entre dispositivos muy cercanos entre sí</li><li>Suelen usar bluetoth e infrarrojos</li><li>Red de computadoras</li><li>Personal area network</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Concept name PAN misspelled!
+}
+
+::PAN-12-f1true-misspelled4-$características::[html]Los siguientes elementos son "Características" del concepto <b>PAN</b>\:<ul><li>Persomal area network</li><li>Red de computadoras</li><li>Suelen usar bluetoth e infrarrojos</li><li>Comunicación entre dispositivos muy cercanos entre sí</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Text Personal area network misspelled!
+}
+
+::PAN-13-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQRfMBTc_R-GMiIQX4MsSYz6tW9JTvUE7wJwqgza5SI2RX_YoOPtg0XQfN5Ykk&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>PAN</b>\:<br><p>(a) Red de computadoras, (b) Suelen [1] [2] e [3] (c) Comunicación entre dispositivos muy cercanos entre sí, (d) Personal [4] network.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> usar
+  =2 -> bluetoth
+  =3 -> infrarrojos,
+  =4 -> area
+  = -> (v)
+}
+
+::PAN-14-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR3hWyfvfwZw_LHozTJQAg8AuSjGxVWulRlvs6jIpHVu3Oshaizq7ccNpo-_4s&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>PAN</b>\:<br><p>(a) Red de computadoras, (b) [1] [2] bluetoth e infrarrojos, (c) [3] entre dispositivos muy cercanos entre sí, (d) Personal [4] network.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> suelen
+  =2 -> usar
+  =3 -> comunicación
+  =4 -> area
+  = -> réd
+}
+
+::PAN-15-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQDz4YMbp94tQKJ2u2jpXzjt2R9RfQM4m_DOEdESK6L7LtM-1t-T_IcqaCABw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>PAN</b>\:<br><p>(a) Red de computadoras, (b) [1] [2] bluetoth e infrarrojos, (c) Comunicación entre dispositivos muy [3] entre sí, (d) Personal [4] network.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> suelen
+  =2 -> usar
+  =3 -> cercanos
+  =4 -> area
+  = -> infrarrogos,
+}
+
+::PAN-16-f1false-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSRJU4QmpM8V6wEp5h3voCFbFYydoagu0cXIE2Ni4Vc_NnSTnfB-9p15ESLVw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>PAN</b>\:<ul><li>Red de computadoras</li><li>Personal area network</li><li>Usa tecnologías similares a las de las redes LAN.</li><li>Suelen usar bluetoth e infrarrojos</li></ul>
+{
+  ~%-33.33333%Verdadero
+  =Falso
+  ~%-33.33333%Error ortográfico
+}
+
+::PAN-17-f2outsider-$características::[html]Los siguientes elementos son "Características".<br/>Selecciona la opción que no pertenezca al concepto <b>PAN</b>.
+{
+  ~%-25%Personal area network
+  ~%-25%Red de computadoras
+  =Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes.
+  ~%-25%Suelen usar bluetoth e infrarrojos
+}
+
+::PAN-18-f1false-$características::[html]Los siguientes elementos son "Características" del concepto <b>PAN</b>\:<ul><li>Red de computadoras</li><li>Comunicación entre dispositivos muy cercanos entre sí</li><li>Personal area network</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li></ul>
+{
+  =Falso
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+}
+
+::PAN-19-f2outsider-$características::[html]Los siguientes elementos son "Características".<br/>Selecciona la opción que no pertenezca al concepto <b>PAN</b>.
+{
+  =Usa tecnologías similares a las de las redes LAN.
+  ~%-25%Red de computadoras
+  ~%-25%Comunicación entre dispositivos muy cercanos entre sí
+  ~%-25%Personal area network
+}
+
+
+// ==================================================
+// Concept name: LAN
+// ==================================================
+::LAN-1-d1choose::[html]Definición\: <i>Red de área local.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%WAN
+  =LAN
+  ~%-25%PAN
+  ~%-25%Ninguna es correcta
+}
+
+::LAN-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSqAAICMwhBPsJ-7I39Q7miDaZS2KtR_XJEAcOLV3p3ZlmtET3SyYl6JuK3RvQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área local.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  ~%-25%WAN
+  =Ninguna es correcta
+  ~%-25%ALN
+  ####Option misspelled!\: LAN
+}
+
+::LAN-3-d1none::[html]Definición\: <i>Red de área local.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%WAN
+  ~%-25%MAN
+  =Ninguna es correcta
+  ~%-25%PAN
+}
+
+::LAN-4-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSqfb3Pu1z4nwg-ghstluyfJMaOB0Pfg78z7uZUK-kVDw1_9e3ST8xbqC9JLQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>LAN</b>\:<br/> <i>Red de área lócal.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Definition text misspelled!\: Red de área local.
+}
+
+::LAN-5-d2name-misspelled::[html]Definición de <b>ALN</b>\:<br/> <i>Red de área local.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Concept name misspelled!\: LAN
+}
+
+::LAN-6-d2true::[html]Definición de <b>LAN</b>\:<br/> <i>Red de área local.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::LAN-7-d2false-misspelled::[html]Definición de <b>PAN</b>\:<br/> <i>Red de área local.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::LAN-8-d3hidden::[html]Definición de <b>[*]</b>\:<br/> <i>Red de área local.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%LAN#
+}
+
+::LAN-9-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSqMarqiD5lDCPp9rd9O8FB6FIgwmmND5VQRFi9mE2Pmp0x2p5om4IaUmqxFuE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Local area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%WAN
+  =LAN
+  ~%-25%Ninguna es correcta
+  ~%-25%PAN
+}
+
+::LAN-10-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT4I0zT954bnhzevRImUgCaYU9ZQW5R-2MnFdcHFyPQECRmOeaFKhpozeajvg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Local area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  ~%-25%ALN
+  ~%-25%WAN
+  =Ninguna es correcta
+  ####Option misspelled!\: LAN
+}
+
+::LAN-11-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTFys5gHUf9jFajh9LApiMup5O6P4K9CmgWAyY4WquyHNQ2oB6Y5O6ib70Gc3g&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Local area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  =Ninguna es correcta
+  ~%-25%WAN
+  ~%-25%MAN
+}
+
+::LAN-12-d2def-misspelled::[html]Definición de <b>LAN</b>\:<br/> <i>Losal area network.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Local area network.
+}
+
+::LAN-13-d2name-misspelled::[html]Definición de <b>ALN</b>\:<br/> <i>Local area network.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Concept name misspelled!\: LAN
+}
+
+::LAN-14-d2true::[html]Definición de <b>LAN</b>\:<br/> <i>Local area network.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::LAN-15-d2false-misspelled::[html]Definición de <b>PAN</b>\:<br/> <i>Local area network.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Falso
+  ~%-33.33333%Verdadero
+}
+
+::LAN-16-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT1A7AFM9O0ETGwEloCWg6DAvzZCOwZ1VsLJs8y7iujJpaeUUFRosN56HqusKo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Local area network.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%LAN#
+}
+
+::LAN-18-f1short2-$caracteríscas::[html]Los siguientes elementos son "Caracteríscas" del concepto <b>[*]</b>\:<ul><li>Son redes que interconectan un área privada y restringida.</li><li>Son redes restringidas a un área privada, como por ejemplo un edificio, con una baja tasa de errores.</li></ul>
+{
+  =%100%LAN#
+}
+
+::LAN-19-f1name-misspelled2-$caracteríscas::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRBpqRL_qXXnQp1Dquice9d5b6b6YuCciuIVH6qxJjPQ5qAhIjvaxjeBUjJYQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Caracteríscas" del concepto <b>ALN</b>\:<ul><li>Son redes que ynterconectan un área privada y restringida.</li><li>Son redes restringidas a un área privada, como por ejemplo un edificio, con una baja tasa de errores.</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name LAN misspelled!
+}
+
+::LAN-20-f1true-misspelled2-$caracteríscas::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSQ7H4dZxMJpP-LwAecOZPzDD7dD6EIjcfH6-hg-CK0fYOF0YR5YpKsCrjyrdQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Caracteríscas" del concepto <b>LAN</b>\:<ul><li>Son redes restringidos a un área privada, como por ejemplo un edificio, con una baja tasa de errores.</li><li>Son redes que interconectan un área privada y restringida.</li></ul>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Text Son redes restringidas a un área privada, como por ejemplo un edificio, con una baja tasa de errores. misspelled!
+}
+
+
+// ==================================================
+// Concept name: MAN
+// ==================================================
+::MAN-1-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTmxACn9NdlIr1tTr3Hyn41k1gFHkVzoynSpydTE3V12CfxhIpTzM5OI898LEE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área metropolitana.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =MAN
+  ~%-25%Ninguna es correcta
+  ~%-25%PAN
+  ~%-25%WAN
+}
+
+::MAN-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQwoqHUgAFVZEnI3ZYcvQBbHkyjlemdF7CsiNakT2LuoWCkII_97gNI7m3g1Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área metropolitana.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%AMN
+  ~%-25%WAN
+  ~%-25%PAN
+  ####Option misspelled!\: MAN
+}
+
+::MAN-3-d1none::[html]Definición\: <i>Red de área metropolitana.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%WAN
+  ~%-25%PAN
+  =Ninguna es correcta
+  ~%-25%LAN
+}
+
+::MAN-4-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT-U-xrvn54J8p1qfBLoKgK39dUQiPDkpT0mxv9_Ue3jddT1vnQkpUBJGm-mys&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>MAN</b>\:<br/> <i>Réd de área metropolitana.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Definition text misspelled!\: Red de área metropolitana.
+}
+
+::MAN-5-d2name-misspelled::[html]Definición de <b>AMN</b>\:<br/> <i>Red de área metropolitana.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: MAN
+}
+
+::MAN-6-d2true::[html]Definición de <b>MAN</b>\:<br/> <i>Red de área metropolitana.</i><br/>
+{
+  =Verdadero
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+}
+
+::MAN-7-d2false-misspelled::[html]Definición de <b>WAN</b>\:<br/> <i>Red de área metropolitana.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+  =Falso
+}
+
+::MAN-8-d3hidden::[html]Definición de <b>[*]</b>\:<br/> <i>Red de área metropolitana.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%MAN#
+}
+
+::MAN-9-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQv-skEJuJDGkc7P0qibNUMf-YFx5-TQMqHx5hH52Jakeb6-aC5w7Iaf4IBv6Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Metropolitan area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  =MAN
+  ~%-25%Ninguna es correcta
+  ~%-25%WAN
+}
+
+::MAN-10-d1none-misspelled::[html]Definición\: <i>Metropolitan area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%AMN
+  =Ninguna es correcta
+  ~%-25%WAN
+  ~%-25%PAN
+  ####Option misspelled!\: MAN
+}
+
+::MAN-11-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRrLblGxGgyubJB6ZJrcCrur3SQ7PVPN9Y8NX2lRSVT4UMnMPxV54WN4kytYQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Metropolitan area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  =Ninguna es correcta
+  ~%-25%LAN
+  ~%-25%WAN
+}
+
+::MAN-12-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQZwUn-WR8aeCVedrl7n4sMpva7iasmbiU8EnrntYTnOW1HyUsIiy-uWYUB6Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>MAN</b>\:<br/> <i>Metropolitan alea network.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Metropolitan area network.
+}
+
+::MAN-13-d2name-misspelled::[html]Definición de <b>AMN</b>\:<br/> <i>Metropolitan area network.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Concept name misspelled!\: MAN
+}
+
+::MAN-14-d2true::[html]Definición de <b>MAN</b>\:<br/> <i>Metropolitan area network.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::MAN-15-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTNxpWANrc-PGGL3tsc07yDOWZNKB1Nu1DiJi-_kb035R4qlpgM0ChMdP-88bI&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>WAN</b>\:<br/> <i>Metropolitan area network.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+}
+
+::MAN-16-d3hidden::[html]Definición de <b>[*]</b>\:<br/> <i>Metropolitan area network.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%MAN#
+}
+
+::MAN-18-f1short4-$características::[html]Los siguientes elementos son "Características" del concepto <b>[*]</b>\:<ul><li>Usa tecnologías similares a las de las redes LAN.</li><li>Son redes que interconectan un área privada y restringida.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li><li>Abarcan ciudades enteras.</li></ul>
+{
+  =%100%MAN#
+}
+
+::MAN-19-f1name-misspelled4-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQBgtgmco2Xu0By_uVxUrjWxwAZy88OBY3UXHz1LIGzg803NvqjEs7cCJaIJDY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>AMN</b>\:<ul><li>Pueden surgir de la interconekión de redes locales cercanas.</li><li>Son redes que interconectan un área privada y restringida.</li><li>Usa tecnologías similares a las de las redes LAN.</li><li>Abarcan ciudades enteras.</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name MAN misspelled!
+}
+
+::MAN-20-f1true-misspelled4-$características::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<ul><li>Usa tecnorogías similares a las de las redes LAN.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li><li>Abarcan ciudades enteras.</li><li>Son redes que interconectan un área privada y restringida.</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Text Usa tecnologías similares a las de las redes LAN. misspelled!
+}
+
+::MAN-21-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRjtanf0dj2OC2czy-n7cSZXEgfAOESG4D8EIdebZPaJYQCFTuosu8pJYAW-bU&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Son redes que interconectan un [1] privada y restringida., (b) Abarcan ciudades enteras., (c) Pueden surgir de la interconexión de [2] locales cercanas., (d) [3] tecnologías similares a las de las [4] LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> área
+  =2 -> redes
+  =3 -> usa
+  =4 -> redes
+  = -> (o)
+}
+
+::MAN-22-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTfZAfRE0Z62sX8NI9WNT2_Y5l4i6I7gtvRHGK9cJC5zGhXX2MvPLkVm2MkLBU&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Son redes que interconectan un área privada y restringida., (b) [1] ciudades [2]., (c) Pueden [3] de la interconexión de redes locales cercanas., (d) Usa tecnologías [4] a las de las redes LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> abarcan
+  =2 -> enteras
+  =3 -> surgir
+  =4 -> similares
+  = -> érea
+}
+
+::MAN-23-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRWNZbMFxb-uQsGFVFFKy4SxdbMYgMI1PTb8aJ22lSiu53moOuWGfC-mHeHGA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Son [1] que interconectan un [2] privada y restringida., (b) Abarcan ciudades enteras., (c) Pueden surgir de la [3] de redes locales cercanas., (d) Usa tecnologías similares a las de las redes [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> redes
+  =2 -> área
+  =3 -> interconexión
+  =4 -> lan
+  = -> órea
+}
+
+::MAN-24-f3filtered::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Son redes que interconectan un [1] [2] y restringida., (b) [3] ciudades enteras., (c) Pueden surgir de la interconexión de redes locales cercanas., (d) Usa tecnologías similares a las de las redes [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> área
+  =2 -> privada
+  =3 -> abarcan
+  =4 -> lan
+  = -> uaa
+}
+
+::MAN-25-f3filtered::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Son redes que interconectan un área [1] y restringida., (b) Abarcan ciudades [2]., (c) Pueden surgir de la interconexión de redes [3] cercanas., (d) [4] tecnologías similares a las de las redes LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> privada
+  =2 -> enteras
+  =3 -> locales
+  =4 -> usa
+  = -> abarcañ
+}
+
+::MAN-27-f1short4-$características::[html]Los siguientes elementos son "Características" del concepto <b>[*]</b>\:<ul><li>Abarcan ciudades enteras.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li><li>Usa tecnologías similares a las de las redes LAN.</li></ul>
+{
+  =%100%MAN#
+}
+
+::MAN-28-f1name-misspelled4-$características::[html]Los siguientes elementos son "Características" del concepto <b>AMN</b>\:<ul><li>Usa teknologías similares a las de las redes LAN.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li><li>Abarcan ciudades enteras.</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li></ul>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Concept name MAN misspelled!
+}
+
+::MAN-29-f1true-misspelled4-$características::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<ul><li>Usá tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li><li>Usa tecnologías similares a las de las redes LAN.</li><li>Abarcan ciudades enteras.</li></ul>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Text Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes. misspelled!
+}
+
+::MAN-30-f3filtered::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Pueden surgir de la interconexión de redes locales cercanas., (b) [1] ciudades enteras., (c) Usa tecnologías similares a las de las redes LAN pero en [2] geográficas más grandes., (d) [3] tecnologías similares a las de las redes [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> abarcan
+  =2 -> escalas
+  =3 -> usa
+  =4 -> lan
+  = -> tecnologíaz
+}
+
+::MAN-31-f3filtered::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Pueden [1] de la interconexión de redes locales cercanas., (b) Abarcan [2] enteras., (c) Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes., (d) Usa tecnologías [3] a las de las redes [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> surgir
+  =2 -> ciudades
+  =3 -> similares
+  =4 -> lan
+  = -> rédes
+}
+
+::MAN-32-f3filtered::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Pueden surgir de la interconexión de redes locales cercanas., (b) Abarcan ciudades enteras., (c) [1] [2] similares a las de las redes LAN pero en [3] geográficas más grandes., (d) [4] tecnologías similares a las de las redes LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> usa
+  =2 -> tecnologías
+  =3 -> escalas
+  =4 -> usa
+  = -> uza
+}
+
+::MAN-33-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRAUz4nqN00XyuR-pDI-trqpsN-00m0-mVu4uQ8ygnXA18FyCLJw_6omW8TFsE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) [1] surgir de la interconexión de redes locales [2]., (b) Abarcan ciudades enteras., (c) Usa tecnologías similares a las de las redes LAN pero en [3] geográficas más [4]., (d) Usa tecnologías similares a las de las redes LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> pueden
+  =2 -> cercanas
+  =3 -> escalas
+  =4 -> grandes
+  = -> redea
+}
+
+::MAN-34-f3filtered::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<br><p>(a) Pueden surgir de la interconexión de redes locales cercanas., (b) Abarcan [1] enteras., (c) Usa tecnologías similares a las de las redes [2] pero en escalas geográficas más [3]., (d) Usa tecnologías similares a las de las redes [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> ciudades
+  =2 -> lan
+  =3 -> grandes
+  =4 -> lan
+  = -> d()
+}
+
+::MAN-35-f1false-$características::[html]Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<ul><li>Usa tecnologías similares a las de las redes LAN.</li><li>Red de computadoras</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li><li>Son redes que interconectan un área privada y restringida.</li></ul>
+{
+  ~%-33.33333%Error ortográfico
+  =Falso
+  ~%-33.33333%Verdadero
+}
+
+::MAN-36-f2outsider-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQQ1o5rHFkzNH9vBVHPB845DHbpGm4-6EQty_lE4p7XTyRgMc9FaxAQ9oabkg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características".<br/>Selecciona la opción que no pertenezca al concepto <b>MAN</b>.
+{
+  =Personal area network
+  ~%-25%Usa tecnologías similares a las de las redes LAN.
+  ~%-25%Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.
+  ~%-25%Son redes que interconectan un área privada y restringida.
+}
+
+::MAN-37-f1false-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTSJY8zUwQv30PpDzKmOYNvvBLN_NR-r_rRbXjw07DBPH8wXfiZqlWG8Ic53A&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<ul><li>Son redes que interconectan un área privada y restringida.</li><li>Abarcan ciudades enteras.</li><li>Usa tecnologías similares a las de las redes LAN.</li><li>Red de computadoras</li></ul>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::MAN-38-f2outsider-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRIQxrQg0AV3m299ph-y-snsqNd8_C1pCclbEnnnwUiEMzknEb5k3QsXVPaXA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características".<br/>Selecciona la opción que no pertenezca al concepto <b>MAN</b>.
+{
+  ~%-25%Son redes que interconectan un área privada y restringida.
+  ~%-25%Usa tecnologías similares a las de las redes LAN.
+  =Comunicación entre dispositivos muy cercanos entre sí
+  ~%-25%Abarcan ciudades enteras.
+}
+
+::MAN-39-f1false-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRC7tzCx3F85EE8IRFp6cl7zip1yklsCzChmbnsXAJHjYg-GH_K6M9skp0gxQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>MAN</b>\:<ul><li>Pueden surgir de la interconexión de redes locales cercanas.</li><li>Personal area network</li><li>Son redes que interconectan un área privada y restringida.</li><li>Abarcan ciudades enteras.</li></ul>
+{
+  ~%-33.33333%Error ortográfico
+  =Falso
+  ~%-33.33333%Verdadero
+}
+
+::MAN-40-f2outsider-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTwqYc4kX-BwPZswRLz-AN7CZBfRHb5_Zr31oE92kbIep2qMFk5h7M7xs2bLA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características".<br/>Selecciona la opción que no pertenezca al concepto <b>MAN</b>.
+{
+  ~%-25%Son redes que interconectan un área privada y restringida.
+  ~%-25%Abarcan ciudades enteras.
+  ~%-25%Pueden surgir de la interconexión de redes locales cercanas.
+  =Suelen usar bluetoth e infrarrojos
+}
+
+
+// ==================================================
+// Concept name: WAN
+// ==================================================
+::WAN-1-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTOFcOkOjVO5CW42h0jXpCibgH6YEetmue2CFLXPyhkrLdSFQbhivqBRx9RGLc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área extensa.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =WAN
+  ~%-25%PAN
+  ~%-25%Ninguna es correcta
+  ~%-25%LAN
+}
+
+::WAN-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR2IMlmTgmFEYUbNTzs8XqihIzb7fCjaLsnpWJ0siMlkrT0NApFBR9ydAOPWg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área extensa.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  ~%-25%LAN
+  =Ninguna es correcta
+  ~%-25%AWN
+  ####Option misspelled!\: WAN
+}
+
+::WAN-3-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTYjAYV1j4c6JHrbJKszaWRViBmjN2WDWOEPNJ7YZlvqgkokJeuBbxLKLI5Yg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área extensa.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  ~%-25%MAN
+  =Ninguna es correcta
+  ~%-25%LAN
+}
+
+::WAN-4-d2def-misspelled::[html]Definición de <b>WAN</b>\:<br/> <i>Red de área estensa.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Red de área extensa.
+}
+
+::WAN-5-d2name-misspelled::[html]Definición de <b>AWN</b>\:<br/> <i>Red de área extensa.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Concept name misspelled!\: WAN
+}
+
+::WAN-6-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQwoqHUgAFVZEnI3ZYcvQBbHkyjlemdF7CsiNakT2LuoWCkII_97gNI7m3g1Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>WAN</b>\:<br/> <i>Red de área extensa.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+  ~%-33.33333%Falso
+}
+
+::WAN-7-d2false-misspelled::[html]Definición de <b>PAN</b>\:<br/> <i>Red de área extensa.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+}
+
+::WAN-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS9VQWHzpaJNBi3v5B4LRmNpY1ViM0MyLQ41258VuqJmNAGVONsqRgCEsTl-Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Red de área extensa.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%WAN#
+}
+
+::WAN-9-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRmqgq3Mw6aOOttyRGgzyrdVM3O8WwLAihAbZchc1C7FaRwsHtZaUW-4a2cog&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de área extendida.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =WAN
+  ~%-25%PAN
+  ~%-25%LAN
+  ~%-25%Ninguna es correcta
+}
+
+::WAN-10-d1none-misspelled::[html]Definición\: <i>Red de área extendida.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%LAN
+  ~%-25%AWN
+  ~%-25%PAN
+  ####Option misspelled!\: WAN
+}
+
+::WAN-11-d1none::[html]Definición\: <i>Red de área extendida.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%LAN
+  ~%-25%MAN
+  ~%-25%PAN
+}
+
+::WAN-12-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcST0jWqBlUwdrtpCvQtH1rw1qsDI0mvEaV03eeNwN90dVlyDzjHD8hPLyw-Qvs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>WAN</b>\:<br/> <i>Red de áreahextendida.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Red de área extendida.
+}
+
+::WAN-13-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS1jdeQ1RwZI0xEWD6RHw-Ah77VTX1iLN3DmM6a54mZ61dGDgtaEKErd_yaQAs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>AWN</b>\:<br/> <i>Red de área extendida.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: WAN
+}
+
+::WAN-14-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRv9Fjh5P88gSWoIFsCEdZ_G5tNeiN020HevnE9FioviQe1DMMq5UaeOzjXkcg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>WAN</b>\:<br/> <i>Red de área extendida.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+  ~%-33.33333%Falso
+}
+
+::WAN-15-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR0_ifrYAOcK5y6fRKS_9-TggHPc-R3uO7KAPZKthELrBSPRabq8PqPYH_38w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>PAN</b>\:<br/> <i>Red de área extendida.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::WAN-16-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQzLY1RFXQav0FdwcYfpN1k7kQ0Au5GiqfVDk6j3qPEovHbq521MDtlGElMjA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Red de área extendida.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%WAN#
+}
+
+::WAN-17-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTTblGTzUwFNEPj-v0RPVYdGfv5mAzV-I5CknXfzpk3AX62kgfnuYmfdGesLA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Wide area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  =WAN
+  ~%-25%Ninguna es correcta
+  ~%-25%LAN
+}
+
+::WAN-18-d1none-misspelled::[html]Definición\: <i>Wide area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  =Ninguna es correcta
+  ~%-25%LAN
+  ~%-25%AWN
+  ####Option misspelled!\: WAN
+}
+
+::WAN-19-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTltRTif2mPp_G3B0xM_c1PV1GHiRlQ1nQCHr3absDtlXKDphes_6a_wlfV_Fs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Wide area network.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%LAN
+  =Ninguna es correcta
+  ~%-25%PAN
+  ~%-25%MAN
+}
+
+::WAN-20-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRa2-pfSgED1jeN05pymY6duVxpMpq5OcOJIzTrW78h579WjboV9E00bDK30A&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>WAN</b>\:<br/> <i>Wide alea network.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Wide area network.
+}
+
+::WAN-21-d2name-misspelled::[html]Definición de <b>AWN</b>\:<br/> <i>Wide area network.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Concept name misspelled!\: WAN
+}
+
+::WAN-22-d2true::[html]Definición de <b>WAN</b>\:<br/> <i>Wide area network.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::WAN-23-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTIBi0Hb-6KK8TZwL9otWTU5TbTBw1iN6H8wA7KxrEvAod8d9vumtjgghMufX4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>PAN</b>\:<br/> <i>Wide area network.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+  =Falso
+}
+
+::WAN-24-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTA81g7_-b18ikRan5JCcadlMkmblSlQTGP6xNvOBNORlyEufn3NAp7kkvooQg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Wide area network.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%WAN#
+}
+
+::WAN-26-f1short4-$características::[html]Los siguientes elementos son "Características" del concepto <b>[*]</b>\:<ul><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li><li>Abarcan ciudades enteras.</li><li>Usa tecnologías similares a las de las redes LAN.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li></ul>
+{
+  =%100%WAN#
+}
+
+::WAN-27-f1name-misspelled4-$características::[html]Los siguientes elementos son "Características" del concepto <b>AWN</b>\:<ul><li>Abarcañ ciudades enteras.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li><li>Usa tecnologías similares a las de las redes LAN.</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li></ul>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Concept name WAN misspelled!
+}
+
+::WAN-28-f1true-misspelled4-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSgR-K8xTNU0KajSftQGrVkEquxry9eYRhwxJB2hucePUtoaPIT1M6ucQLnqqA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<ul><li>Pueden surgir de la intercónexión de redes locales cercanas.</li><li>Usa tecnologías similares a las de las redes LAN.</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li><li>Abarcan ciudades enteras.</li></ul>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Text Pueden surgir de la interconexión de redes locales cercanas. misspelled!
+}
+
+::WAN-29-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTyW6qjApYU3LE19iG8pAq4b3gO7IVOJ6H7b_tTveNnI-ExrJhm0qImurUsDPU&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Pueden surgir de la interconexión de redes locales [1]., (b) Usa tecnologías similares a las de las redes LAN., (c) [2] tecnologías similares a las de las redes LAN pero en escalas geográficas más [3]., (d) [4] ciudades enteras.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> cercanas
+  =2 -> usa
+  =3 -> grandes
+  =4 -> abarcan
+  = -> intercenexión
+}
+
+::WAN-30-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSu_QAwzh9OOXc4dvhbELvC1Ca-s9HnGpTzC76NSwPTrVFPOyM0rDGi4uFn_w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Pueden surgir de la interconexión de redes [1] cercanas., (b) Usa tecnologías similares a las de las redes LAN., (c) Usa [2] similares a las de las [3] LAN pero en escalas geográficas [4] grandes., (d) Abarcan ciudades enteras.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> locales
+  =2 -> tecnologías
+  =3 -> redes
+  =4 -> más
+  = -> més
+}
+
+::WAN-31-f3filtered::[html]Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Pueden [1] de la interconexión de redes locales cercanas., (b) Usa tecnologías similares a las de las redes [2]., (c) Usa tecnologías similares a las de las redes [3] pero en escalas geográficas más grandes., (d) Abarcan ciudades [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> surgir
+  =2 -> lan
+  =3 -> lan
+  =4 -> enteras
+  = -> d()
+}
+
+::WAN-32-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRoKZo02uwTjYPTpj_M3WI8o7_KbybICZFsnXeyNGmls4udSzQbuAjMEuYvlw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Pueden surgir de la interconexión de redes locales cercanas., (b) Usa tecnologías [1] a las de las redes LAN., (c) Usa tecnologías similares a las de las [2] LAN pero en escalas geográficas más grandes., (d) Abarcan [3] [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> similares
+  =2 -> redes
+  =3 -> ciudades
+  =4 -> enteras
+  = -> cércanas
+}
+
+::WAN-33-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSfaLkqf8SkZ-UlthRDpgv72SejCoDPC6DAOIvdDOXc0n-p8O04yYzOS6TODg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Pueden [1] de la interconexión de redes locales [2]., (b) Usa tecnologías [3] a las de las redes LAN., (c) Usa tecnologías [4] a las de las redes LAN pero en escalas geográficas más grandes., (d) Abarcan ciudades enteras.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> surgir
+  =2 -> cercanas
+  =3 -> similares
+  =4 -> similares
+  = -> cimilares
+}
+
+::WAN-35-f1short4-$características::[html]Los siguientes elementos son "Características" del concepto <b>[*]</b>\:<ul><li>Usa tecnologías similares a las de las redes LAN.</li><li>Abarcan ciudades enteras.</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li><li>Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes.</li></ul>
+{
+  =%100%WAN#
+}
+
+::WAN-36-f1name-misspelled4-$características::[html]Los siguientes elementos son "Características" del concepto <b>AWN</b>\:<ul><li>Usa tecnorogías similares a las de las redes LAN.</li><li>Abarcan ciudades enteras.</li><li>Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes.</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li></ul>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Concept name WAN misspelled!
+}
+
+::WAN-37-f1true-misspelled4-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQM92L7Cv6eXsMbZJMEgL6zU43-ZetQwzG43b7vAYVmw0jkTZONKV4E2aKXtLw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<ul><li>Es una red que intercomunicahequipos en un área geográfica muy amplia como países o continentes.</li><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li><li>Abarcan ciudades enteras.</li><li>Usa tecnologías similares a las de las redes LAN.</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Text Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes. misspelled!
+}
+
+::WAN-38-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSzHiLGErYk_eOPxoeqrz_58EXFsgm2J8n1ZkRGruRj7UFDG4ZnjNfxlFkRLCs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Es una [1] que [2] equipos en un área geográfica muy amplia como países o continentes., (b) Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes., (c) Abarcan ciudades [3]., (d) Usa [4] similares a las de las redes LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> red
+  =2 -> intercomunica
+  =3 -> enteras
+  =4 -> tecnologías
+  = -> d()
+}
+
+::WAN-39-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQJL0ypsO0FH4PrNBSSAe0A4Y2P6DumPhtAkiQmyEIwc7R2VyjVwmZmBg7KD8I&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes., (b) Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más [1]., (c) Abarcan ciudades [2]., (d) [3] tecnologías [4] a las de las redes LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> grandes
+  =2 -> enteras
+  =3 -> usa
+  =4 -> similares
+  = -> nás
+}
+
+::WAN-40-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQhOG84Qs_IjIqHfkluKpGRwuKpksYSQuIyn4y4kn8L9n1MNAlsDwd4L-GoWw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Es una red que intercomunica equipos en un área geográfica muy [1] como [2] o continentes., (b) Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes., (c) Abarcan ciudades [3]., (d) Usa tecnologías similares a las de las [4] LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> amplia
+  =2 -> países
+  =3 -> enteras
+  =4 -> redes
+  = -> (k)
+}
+
+::WAN-41-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSPZZbByIra8bWWMB10ILx1qBXVZVVHuX1EtjtOU1g5QI75nOXwDru-mEf87w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes., (b) Usa [1] similares a las de las redes [2] pero en escalas [3] más grandes., (c) Abarcan ciudades enteras., (d) [4] tecnologías similares a las de las redes LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> tecnologías
+  =2 -> lan
+  =3 -> geográficas
+  =4 -> usa
+  = -> symilares
+}
+
+::WAN-42-f3filtered::[html]Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Es una [1] que intercomunica equipos en un área geográfica muy amplia como países o continentes., (b) Usa [2] similares a las de las redes LAN pero en escalas geográficas más grandes., (c) Abarcan ciudades [3]., (d) Usa tecnologías similares a las de las redes [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> red
+  =2 -> tecnologías
+  =3 -> enteras
+  =4 -> lan
+  = -> amolia
+}
+
+::WAN-43-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQVdfyT8FnE_bn-Dpb7p2JFyPN-8UIYEFHDxNk9Nt7dxhY4oRQDJS-Od8CM9w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<br><p>(a) Es una red que intercomunica [1] en un [2] geográfica muy amplia como países o continentes., (b) Usa tecnologías similares a las de las redes LAN pero en escalas geográficas [3] grandes., (c) Abarcan ciudades enteras., (d) Usa tecnologías [4] a las de las redes LAN.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> equipos
+  =2 -> área
+  =3 -> más
+  =4 -> similares
+  = -> intercomunika
+}
+
+::WAN-44-f1false-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQGcg7zr5lusTv33oIC4SiQb_fSBmM61N-LNXtbOHYd5qTI87Gmn65tR2KuTzg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<ul><li>Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li><li>Usa tecnologías similares a las de las redes LAN.</li><li>Comunicación entre dispositivos muy cercanos entre sí</li></ul>
+{
+  =Falso
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+}
+
+::WAN-45-f2outsider-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR5eF1oTLWUb3_ub1lMH8fSDb9rRT3rtG-VC_IHTXZvOcHskPevJuehU7ER3Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características".<br/>Selecciona la opción que no pertenezca al concepto <b>WAN</b>.
+{
+  ~%-25%Pueden surgir de la interconexión de redes locales cercanas.
+  =Personal area network
+  ~%-25%Usa tecnologías similares a las de las redes LAN.
+  ~%-25%Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes.
+}
+
+::WAN-46-f1false-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQd7e0ZQ9M2pCLXWdF7Min1a-ejtN0DGOmF7IsHBAy0zkYNRw8B4TVf9BkHZA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<ul><li>Son redes que interconectan un área privada y restringida.</li><li>Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes.</li><li>Abarcan ciudades enteras.</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li></ul>
+{
+  ~%-33.33333%Error ortográfico
+  =Falso
+  ~%-33.33333%Verdadero
+}
+
+::WAN-47-f2outsider-$características::[html]Los siguientes elementos son "Características".<br/>Selecciona la opción que no pertenezca al concepto <b>WAN</b>.
+{
+  ~%-25%Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes.
+  ~%-25%Abarcan ciudades enteras.
+  ~%-25%Pueden surgir de la interconexión de redes locales cercanas.
+  =Suelen usar bluetoth e infrarrojos
+}
+
+::WAN-48-f1false-$características::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS1Raz83iYQnP6IrHhcN838Nwm15qpqUsA0i5R2mRMM5lpeZ_izQaFuaDcQGmA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Características" del concepto <b>WAN</b>\:<ul><li>Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.</li><li>Abarcan ciudades enteras.</li><li>Personal area network</li><li>Pueden surgir de la interconexión de redes locales cercanas.</li></ul>
+{
+  =Falso
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+}
+
+::WAN-49-f2outsider-$características::[html]Los siguientes elementos son "Características".<br/>Selecciona la opción que no pertenezca al concepto <b>WAN</b>.
+{
+  ~%-25%Abarcan ciudades enteras.
+  =Personal area network
+  ~%-25%Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.
+  ~%-25%Pueden surgir de la interconexión de redes locales cercanas.
+}
+
+
+// ==================================================
+// Concept name: Host
+// ==================================================
+::Host-1-d1choose::[html]Definición\: <i>Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Host
+  ~%-25%Ninguna es correcta
+  ~%-25%Topología
+  ~%-25%PAN
+}
+
+::Host-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSHcI-bFW0EOJSCp4feNaZrkn9pidFAofEsfAY3Q0WDBk_o1QQ0fleO5uf-iFs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%PAN
+  ~%-25%Hest
+  ~%-25%Topología
+  ####Option misspelled!\: Host
+}
+
+::Host-3-d1none::[html]Definición\: <i>Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Topología
+  ~%-25%Red
+  =Ninguna es correcta
+  ~%-25%PAN
+}
+
+::Host-4-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTVLj1jJzjDTkTjEnmCQqexy9H3FzV3RaJhA87hnkFnxkX7mz6sBpWgYgAb87U&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Host</b>\:<br/> <i>Es un dispositivo con capacidad dé interactuar en red y alojar algún tipo de servicio de la misma.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.
+}
+
+::Host-5-d2name-misspelled::[html]Definición de <b>Hots</b>\:<br/> <i>Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: Host
+}
+
+::Host-6-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRZt2s3qdXsw9LjEg-SxJE_SBqB3qjmi28CFyTOomfhPwiuS4ZoLdBO8i8mN80&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Host</b>\:<br/> <i>Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.</i><br/>
+{
+  =Verdadero
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+}
+
+::Host-7-d2false-misspelled::[html]Definición de <b>Topología</b>\:<br/> <i>Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Host-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSQKEVzpWe4l94MtuLziGwIWh0QOMgoinuBU0WGXsDi-5T00gLLqJYSONaqDVo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Host#
+}
+
+::Host-9-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcToS8W3rqQwT5DFexY-GmgwolYGkoZPjhxzRgacGtWEsGxBaHsoHSnCMkHF_w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Host</b>\:<br/> <i>Es un [1] con capacidad de [2] en [3] y alojar algún tipo de [4] de la misma.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> dispositivo
+  =2 -> interactuar
+  =3 -> red
+  =4 -> servicio
+}
+
+::Host-10-d4filtered::[html]Definición de <b>Host</b>\:<br/> <i>Es un [1] con capacidad de interactuar en red y [2] [3] tipo de servicio de la [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> dispositivo
+  =2 -> alojar
+  =3 -> algún
+  =4 -> misma
+}
+
+
+// ==================================================
+// Concept name: Topología
+// ==================================================
+::Topología-1-d1choose::[html]Definición\: <i>Forma de interconectar los diferentes host de una red.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Host
+  ~%-25%Ninguna es correcta
+  =Topología
+  ~%-25%Organismo de normalización
+}
+
+::Topología-2-d1none-misspelled::[html]Definición\: <i>Forma de interconectar los diferentes host de una red.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Host
+  ~%-25%Organismo de normalización
+  ~%-25%Tópología
+  =Ninguna es correcta
+  ####Option misspelled!\: Topología
+}
+
+::Topología-3-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQzLY1RFXQav0FdwcYfpN1k7kQ0Au5GiqfVDk6j3qPEovHbq521MDtlGElMjA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Forma de interconectar los diferentes host de una red.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Organismo de normalización
+  ~%-25%Protocolo de comunicación
+  ~%-25%Host
+  =Ninguna es correcta
+}
+
+::Topología-4-d2def-misspelled::[html]Definición de <b>Topología</b>\:<br/> <i>Forma de interconectar los diferentes hots de una red.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Forma de interconectar los diferentes host de una red.
+}
+
+::Topología-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS1Raz83iYQnP6IrHhcN838Nwm15qpqUsA0i5R2mRMM5lpeZ_izQaFuaDcQGmA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Tópología</b>\:<br/> <i>Forma de interconectar los diferentes host de una red.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: Topología
+}
+
+::Topología-6-d2true::[html]Definición de <b>Topología</b>\:<br/> <i>Forma de interconectar los diferentes host de una red.</i><br/>
+{
+  =Verdadero
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+}
+
+::Topología-7-d2false-misspelled::[html]Definición de <b>Host</b>\:<br/> <i>Forma de interconectar los diferentes host de una red.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+}
+
+::Topología-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSdf5dUnwp9-husTOpVGhQLf5KUa7m4dWb_f5veRGTcBw8gfsBouaAvKRJsLZE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Forma de interconectar los diferentes host de una red.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Topología#
+}
+
+::Topología-9-d4filtered::[html]Definición de <b>Topología</b>\:<br/> <i>[1] de interconectar los [2] [3] de una [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> forma
+  =2 -> diferentes
+  =3 -> host
+  =4 -> red
+}
+
+::Topología-10-b1match4x4-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSFGkHyK5_0qp19bXum7w-oUAAdqQfjfX8aW82aye_GERv6G0u5DT_Ii32wtw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Estrella -> Si el nodo central falla, falla todo.
+  =Anillo doble -> Cada dispositivo forma parte de dos topologías en anillo independientes.
+  = -> Cada dispositivo forma parte de dos toporogías en anillo independientes.
+  =Bus -> Cada host está conectado a un cable común.
+  =Anillo -> Los dispositivos están conectados entre sí mediante una cadena.
+}
+
+::Topología-11-b1match3x1misspelled-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQCXTm9tapRfm5Q4XSY-HX6f-0yZbb1S-SUdYAD8ZfL-jl0aA9Oo9Lhtj_VYBY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Anillo doble -> Cada dispositivo forma parte de dos topologías en anillo independientes.
+  =Bús -> Error ortográfico
+  =Anillo -> Los dispositivos están conectados entre sí mediante una cadena.
+  =Estrella -> Si el nodo central falla, falla todo.
+  = -> Cada dispesitivo forma parte de dos topologías en anillo independientes.
+}
+
+::Topología-12-b1match4x4-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR2RRFc_e4b88VMI2XgnKLlNu7q0ARWti-Z2-1tnaZKSbilUpf83hj-MQiAlA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Estrella extendida -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  =Anillo doble -> Cada dispositivo forma parte de dos topologías en anillo independientes.
+  =Anillo -> Los dispositivos están conectados entre sí mediante una cadena.
+  = -> Si el nodo kentral falla, falla todo.
+  =Estrella -> Si el nodo central falla, falla todo.
+}
+
+::Topología-13-b1match3x1misspelled-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR62ILaHV89VJiiGwnn2SJoS7C5bXuPEU4kDnfQiaZWp1itvKoWm8IwQV-UVQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Anillo -> Los dispositivos están conectados entre sí mediante una cadena.
+  =Estrella -> Si el nodo central falla, falla todo.
+  = -> Los dispositivos éstán conectados entre sí mediante una cadena.
+  =Anillo dovle -> Error ortográfico
+  =Estrella extendida -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+}
+
+::Topología-14-b1match4x4-$topología$conexión::[html]En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Estrella -> Si el nodo central falla, falla todo.
+  =Anillo doble -> Cada dispositivo forma parte de dos topologías en anillo independientes.
+  =Árbol o jerárquica -> El enlace troncal es un cable con varias capas de ramificaciones.
+  = -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectal al nodo central.
+  =Estrella extendida -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+}
+
+::Topología-15-b1match3x1misspelled-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQTxNIM43h1-XqnpXozVEHgOElixmiZjxTBE3An6IZNGTTir21L8eRogK-zEeY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Árbol o jerárquica -> El enlace troncal es un cable con varias capas de ramificaciones.
+  =Anillo doble -> Cada dispositivo forma parte de dos topologías en anillo independientes.
+  =Eztrella -> Error ortográfico
+  =Estrella extendida -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  = -> Cableado más corto. Limita la cantidad de hosts que se oueden interconectar al nodo central.
+}
+
+::Topología-16-b1match4x4-$topología$conexión::[html]En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Estrella -> Si el nodo central falla, falla todo.
+  =Árbol o jerárquica -> El enlace troncal es un cable con varias capas de ramificaciones.
+  = -> El emlace troncal es un cable con varias capas de ramificaciones.
+  =Estrella extendida -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  =Malla completa -> Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+}
+
+::Topología-17-b1match3x1misspelled-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS2VUFZDAPiXWiLrc0BpPJ60XyL9Sr2dP9x0vcv82h0LUi3ZpPuiru5A2xtJg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Estrella -> Si el nodo central falla, falla todo.
+  =Árbol os jerárquica -> Error ortográfico
+  =Estrella extendida -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  =Malla completa -> Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  = -> Cableado más colto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+}
+
+::Topología-18-b1match4x4-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSG121FikeuS-TxQV385p75ayseUrpzXpoD0S0Fpj0phJebJ_ttILh_CjZUtw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Estrella extendida -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  = -> El enlace troncal es un cable con varias capas de ramificaquiones.
+  =Árbol o jerárquica -> El enlace troncal es un cable con varias capas de ramificaciones.
+  =Malla completa -> Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  =Celular -> Tecnología inalámbrica en la que no hay enlaces físicos.
+}
+
+::Topología-19-b1match3x1misspelled-$topología$conexión::[html]En relación al concepto <b>Topología</b>, asocia cada "Topología" con su "Conexión".<br/>
+{
+  =Malla completa -> Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  =Celular -> Tecnología inalámbrica en la que no hay enlaces físicos.
+  =Estrella extendida -> Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  =Árbol o jerárqúica -> Error ortográfico
+  = -> Cada nodo se conecta físikamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+}
+
+::Topología-20-t1table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTaj7BLjrnu3GpzC5Jix5GoIDbe737j_WzTxFauugXf72GTt9dRJsIAmy1yLg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Cada host está conectado a un cable común."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Malla completa
+  ~%-25%Anillo
+  =Bus
+}
+
+::Topología-21-t2table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTFys5gHUf9jFajh9LApiMup5O6P4K9CmgWAyY4WquyHNQ2oB6Y5O6ib70Gc3g&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Cada host está conectado a un cable común."<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Malla completa
+  ~%-25%Anillo
+  ~%-25%Árbol o jerárquica
+}
+
+::Topología-22-t3table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Bus"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Cada host está conectado a un cable común.
+  ~%-25%Ninguna es correcta
+  ~%-25%Los dispositivos están conectados entre sí mediante una cadena.
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+}
+
+::Topología-23-t4table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Bus"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  ~%-25%Los dispositivos están conectados entre sí mediante una cadena.
+  ~%-25%El enlace troncal es un cable con varias capas de ramificaciones.
+  =Ninguna es correcta
+}
+
+::Topología-24t5table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Bus"</li><li>Conexión\: "Cada host está conectado a un cable común."</li></ul>
+{TRUE####}
+
+::Topología-25-t6table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT8d4fFSMDsn5Mpr33tf7JCsOKMoHG4u2LBr4wf1givsgkoj2B-3PnoHV9BYg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Bus"</li><li>Conexión\: "Los dispositivos están conectados entre sí mediante una cadena."</li></ul>
+{FALSE####}
+
+::Topología-26t7table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRpxRFRRWvI7b3LxZ3LR0MM0gw2FTi3oVnuZCafqI79gqNkzKQoVwV1y06uK7E&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Anillo"</li><li>Conexión\: "Cada host está conectado a un cable común."</li></ul>
+{FALSE####}
+
+::Topología-27t8table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSDSaAMM8SBt1U1X5lpCVQFN304VNgJWH9SKFXRyWoV5WXviuuJllAsc2iFxw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Completa la siguiente asociación\:<br/><ul><li>Conexión\: "Cada host está conectado a un cable común."</li><li>Topología\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%Bus#
+}
+
+::Topología-28-t1table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Los dispositivos están conectados entre sí mediante una cadena."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Anillo doble
+  ~%-25%Bus
+  =Anillo
+}
+
+::Topología-29-t2table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Los dispositivos están conectados entre sí mediante una cadena."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Bus
+  =Ninguna es correcta
+  ~%-25%Estrella
+  ~%-25%Anillo doble
+}
+
+::Topología-30-t3table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Anillo"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Los dispositivos están conectados entre sí mediante una cadena.
+  ~%-25%Cada host está conectado a un cable común.
+  ~%-25%Cada dispositivo forma parte de dos topologías en anillo independientes.
+  ~%-25%Ninguna es correcta
+}
+
+::Topología-31-t4table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSzHiLGErYk_eOPxoeqrz_58EXFsgm2J8n1ZkRGruRj7UFDG4ZnjNfxlFkRLCs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: "Anillo"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Cada host está conectado a un cable común.
+  =Ninguna es correcta
+  ~%-25%Si el nodo central falla, falla todo.
+  ~%-25%Cada dispositivo forma parte de dos topologías en anillo independientes.
+}
+
+::Topología-32t5table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR1ErsBqblRMF4vvgTTEw850JZYZzi56ot2j8X7Dm_dF00NoXRaSEcPVOFBpAI&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Anillo"</li><li>Conexión\: "Los dispositivos están conectados entre sí mediante una cadena."</li></ul>
+{TRUE####}
+
+::Topología-33-t6table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Anillo"</li><li>Conexión\: "Cada dispositivo forma parte de dos topologías en anillo independientes."</li></ul>
+{FALSE####}
+
+::Topología-34t7table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Anillo doble"</li><li>Conexión\: "Los dispositivos están conectados entre sí mediante una cadena."</li></ul>
+{FALSE####}
+
+::Topología-35t8table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Completa la siguiente asociación\:<br/><ul><li>Conexión\: "Los dispositivos están conectados entre sí mediante una cadena."</li><li>Topología\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%Anillo#
+}
+
+::Topología-36-t1table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQc061VHFEbEt2IqRG7ECAFyqRTBd7nF7fdYi53nv82R09KFR7AGK-nzhwTf3Y&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Cada dispositivo forma parte de dos topologías en anillo independientes."<br/>Elige la opción correcta.<br/>
+{
+  =Anillo doble
+  ~%-25%Anillo
+  ~%-25%Ninguna es correcta
+  ~%-25%Malla completa
+}
+
+::Topología-37-t2table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Cada dispositivo forma parte de dos topologías en anillo independientes."<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Anillo
+  ~%-25%Árbol o jerárquica
+  ~%-25%Malla completa
+}
+
+::Topología-38-t3table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Anillo doble"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  =Cada dispositivo forma parte de dos topologías en anillo independientes.
+  ~%-25%Ninguna es correcta
+  ~%-25%Los dispositivos están conectados entre sí mediante una cadena.
+}
+
+::Topología-39-t4table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQc5WNqz8ZFi-_eZX5RoIM37OJp5dpQfAiP9TvtqcXxwkdESKmS6N6IPl3mlyo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: "Anillo doble"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Los dispositivos están conectados entre sí mediante una cadena.
+  =Ninguna es correcta
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  ~%-25%El enlace troncal es un cable con varias capas de ramificaciones.
+}
+
+::Topología-40t5table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTK3Qw1CLpVVfpriyexfit6OKdsNPkFmaePw863brVTRLKpi1z2pR8ziGnvxQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Anillo doble"</li><li>Conexión\: "Cada dispositivo forma parte de dos topologías en anillo independientes."</li></ul>
+{TRUE####}
+
+::Topología-41-t6table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSdf5dUnwp9-husTOpVGhQLf5KUa7m4dWb_f5veRGTcBw8gfsBouaAvKRJsLZE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Anillo doble"</li><li>Conexión\: "Los dispositivos están conectados entre sí mediante una cadena."</li></ul>
+{FALSE####}
+
+::Topología-42t7table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTPFEXG7oRUOItWVp2iROONJ2HwG-nHk__hd-3iNDZ_310Th_k9hJNq8W1Xop8&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Anillo"</li><li>Conexión\: "Cada dispositivo forma parte de dos topologías en anillo independientes."</li></ul>
+{FALSE####}
+
+::Topología-43t9table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Completa la siguiente asociación\:<br/><ul><li>Conexión\: "Cada dispositivo forma parte de dos topologías en anillo independientes."</li><li>Topología\: [?????? ?????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Anillo doble#
+}
+
+::Topología-44-t1table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQoDan7bO3jJvmV63duQPAuFn3gXj2D3yq16KEq99eUu8hyUu3jRJSOy0V2nw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Si el nodo central falla, falla todo."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Estrella extendida
+  ~%-25%Malla completa
+  ~%-25%Ninguna es correcta
+  =Estrella
+}
+
+::Topología-45-t2table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Si el nodo central falla, falla todo."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Malla completa
+  ~%-25%Anillo doble
+  =Ninguna es correcta
+  ~%-25%Estrella extendida
+}
+
+::Topología-46-t3table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Estrella"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  =Si el nodo central falla, falla todo.
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+}
+
+::Topología-47-t4table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTsQfJtOFxck96d6TM7WmD1qt6eJtHW0zx9EUClbw_TWW27vYVCnVcKCve5cSQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: "Estrella"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  ~%-25%Cada dispositivo forma parte de dos topologías en anillo independientes.
+  =Ninguna es correcta
+  ~%-25%Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+}
+
+::Topología-48t5table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Estrella"</li><li>Conexión\: "Si el nodo central falla, falla todo."</li></ul>
+{TRUE####}
+
+::Topología-49-t6table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Estrella"</li><li>Conexión\: "Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central."</li></ul>
+{FALSE####}
+
+::Topología-50t7table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRLJ9yltAg_sdz_2u1-ctFwWLRreuJNfZ0q-_oQj73O3PcPMum-th20JjgYxMs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Estrella extendida"</li><li>Conexión\: "Si el nodo central falla, falla todo."</li></ul>
+{FALSE####}
+
+::Topología-51t8table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Completa la siguiente asociación\:<br/><ul><li>Conexión\: "Si el nodo central falla, falla todo."</li><li>Topología\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%Estrella#
+}
+
+::Topología-52-t1table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Estrella
+  =Estrella extendida
+  ~%-25%Ninguna es correcta
+  ~%-25%Malla completa
+}
+
+::Topología-53-t2table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQv-skEJuJDGkc7P0qibNUMf-YFx5-TQMqHx5hH52Jakeb6-aC5w7Iaf4IBv6Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Malla completa
+  ~%-25%Estrella
+  =Ninguna es correcta
+  ~%-25%Árbol o jerárquica
+}
+
+::Topología-54-t3table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Estrella extendida"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  ~%-25%Si el nodo central falla, falla todo.
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  ~%-25%Ninguna es correcta
+}
+
+::Topología-55-t4table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTgGNaMg_RDSm8jmoTzVSj9SIp77UejZ7QUH14qmCgcgMzL52yX7hdXU-OvXPY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: "Estrella extendida"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  ~%-25%El enlace troncal es un cable con varias capas de ramificaciones.
+  =Ninguna es correcta
+  ~%-25%Si el nodo central falla, falla todo.
+}
+
+::Topología-56t5table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTIBi0Hb-6KK8TZwL9otWTU5TbTBw1iN6H8wA7KxrEvAod8d9vumtjgghMufX4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Estrella extendida"</li><li>Conexión\: "Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central."</li></ul>
+{TRUE####}
+
+::Topología-57-t6table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ7Vpom5zOpaBtYkc03CnH9IsZsOzSJkV00Poz5kb8NRRidaTZBPwgdzZuOcYY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Estrella extendida"</li><li>Conexión\: "Si el nodo central falla, falla todo."</li></ul>
+{FALSE####}
+
+::Topología-58t7table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Estrella"</li><li>Conexión\: "Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central."</li></ul>
+{FALSE####}
+
+::Topología-59t9table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Completa la siguiente asociación\:<br/><ul><li>Conexión\: "Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central."</li><li>Topología\: [???????? ?????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Estrella extendida#
+}
+
+::Topología-60-t1table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "El enlace troncal es un cable con varias capas de ramificaciones."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Anillo
+  =Árbol o jerárquica
+  ~%-25%Malla completa
+}
+
+::Topología-61-t2table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTQHqLCpIdLFe92OTWtT-TxPYujPNq-Mx5KXB06Di5NoGQa4PIyNHnIwjwB7g&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "El enlace troncal es un cable con varias capas de ramificaciones."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Malla completa
+  =Ninguna es correcta
+  ~%-25%Anillo doble
+  ~%-25%Anillo
+}
+
+::Topología-62-t3table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQTxNIM43h1-XqnpXozVEHgOElixmiZjxTBE3An6IZNGTTir21L8eRogK-zEeY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: "Árbol o jerárquica"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =El enlace troncal es un cable con varias capas de ramificaciones.
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  ~%-25%Ninguna es correcta
+  ~%-25%Los dispositivos están conectados entre sí mediante una cadena.
+}
+
+::Topología-63-t4table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Árbol o jerárquica"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Cada dispositivo forma parte de dos topologías en anillo independientes.
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  =Ninguna es correcta
+  ~%-25%Los dispositivos están conectados entre sí mediante una cadena.
+}
+
+::Topología-64t5table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Árbol o jerárquica"</li><li>Conexión\: "El enlace troncal es un cable con varias capas de ramificaciones."</li></ul>
+{TRUE####}
+
+::Topología-65-t6table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Árbol o jerárquica"</li><li>Conexión\: "Los dispositivos están conectados entre sí mediante una cadena."</li></ul>
+{FALSE####}
+
+::Topología-66t7table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Anillo"</li><li>Conexión\: "El enlace troncal es un cable con varias capas de ramificaciones."</li></ul>
+{FALSE####}
+
+::Topología-67-t1table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSG121FikeuS-TxQV385p75ayseUrpzXpoD0S0Fpj0phJebJ_ttILh_CjZUtw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Estrella extendida
+  =Malla completa
+  ~%-25%Bus
+  ~%-25%Ninguna es correcta
+}
+
+::Topología-68-t2table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Bus
+  ~%-25%Estrella extendida
+  ~%-25%Anillo
+  =Ninguna es correcta
+}
+
+::Topología-69-t3table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRFcYJBgAL2EpV_NYR_ec-1JEeKWe9wKHbZDP9urksvi2g6rigdGDwFATt29do&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: "Malla completa"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Cada host está conectado a un cable común.
+  ~%-25%Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  =Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  ~%-25%Ninguna es correcta
+}
+
+::Topología-70-t4table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSeYVDoTLnPVjmLo3dHgvi5qLWZKfSYxmR4U-fflnGQ-3zGTE46z8_9tLybsw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Topología\: "Malla completa"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Los dispositivos están conectados entre sí mediante una cadena.
+  ~%-25%Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  ~%-25%Cada host está conectado a un cable común.
+}
+
+::Topología-71t5table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRa2-pfSgED1jeN05pymY6duVxpMpq5OcOJIzTrW78h579WjboV9E00bDK30A&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Malla completa"</li><li>Conexión\: "Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías."</li></ul>
+{TRUE####}
+
+::Topología-72-t6table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Malla completa"</li><li>Conexión\: "Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central."</li></ul>
+{FALSE####}
+
+::Topología-73t7table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Estrella extendida"</li><li>Conexión\: "Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías."</li></ul>
+{FALSE####}
+
+::Topología-74t9table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTMaAC-sjSCPVxTt5OL_I3hEyefulMHG7zrsL9qJMzHJ0Jfat9EYKb_MIfuPg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>Completa la siguiente asociación\:<br/><ul><li>Conexión\: "Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías."</li><li>Topología\: [????? ????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Malla completa#
+}
+
+::Topología-75-t1table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Tecnología inalámbrica en la que no hay enlaces físicos."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  =Celular
+  ~%-25%Malla completa
+  ~%-25%Estrella extendida
+}
+
+::Topología-76-t2table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: [*]<br/>Conexión\: "Tecnología inalámbrica en la que no hay enlaces físicos."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Estrella
+  ~%-25%Malla completa
+  ~%-25%Estrella extendida
+  =Ninguna es correcta
+}
+
+::Topología-77-t3table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Celular"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Tecnología inalámbrica en la que no hay enlaces físicos.
+  ~%-25%Ninguna es correcta
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+  ~%-25%Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+}
+
+::Topología-78-t4table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Topología\: "Celular"<br/>Conexión\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Si el nodo central falla, falla todo.
+  ~%-25%Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.
+  ~%-25%Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías.
+}
+
+::Topología-79t5table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Celular"</li><li>Conexión\: "Tecnología inalámbrica en la que no hay enlaces físicos."</li></ul>
+{TRUE####}
+
+::Topología-80-t6table-$topología$conexión::[html]Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Celular"</li><li>Conexión\: "Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías."</li></ul>
+{FALSE####}
+
+::Topología-81t7table-$topología$conexión::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRjtanf0dj2OC2czy-n7cSZXEgfAOESG4D8EIdebZPaJYQCFTuosu8pJYAW-bU&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Topología</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Topología\: "Malla completa"</li><li>Conexión\: "Tecnología inalámbrica en la que no hay enlaces físicos."</li></ul>
+{FALSE####}
+
+::Topología-82t8table-$topología$conexión::[html]Concepto <b>Topología</b><br/>Completa la siguiente asociación\:<br/><ul><li>Conexión\: "Tecnología inalámbrica en la que no hay enlaces físicos."</li><li>Topología\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%Celular#
+}
+
+
+// ==================================================
+// Concept name: Sistema aislado
+// ==================================================
+::Sistema aislado-1-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ2rSpoey3_9GSjZUgkl0ZsQgH5Q9r5b2VO7xpOhLCJbjHoFmFMpRva0b_ph5M&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Sistema de red incapaz de comunicarse con el exterior.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema distribuido
+  ~%-25%Sistema con conexión remota temporal
+  ~%-25%Ninguna es correcta
+  =Sistema aislado
+}
+
+::Sistema aislado-2-d1none-misspelled::[html]Definición\: <i>Sistema de red incapaz de comunicarse con el exterior.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema con conexión remota temporal
+  ~%-25%Sistema distribuido
+  =Ninguna es correcta
+  ~%-25%Sistema aislade
+  ####Option misspelled!\: Sistema aislado
+}
+
+::Sistema aislado-3-d1none::[html]Definición\: <i>Sistema de red incapaz de comunicarse con el exterior.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema con conexión remota temporal
+  ~%-25%Redes de ordenadores
+  ~%-25%Sistema distribuido
+  =Ninguna es correcta
+}
+
+::Sistema aislado-4-d2def-misspelled::[html]Definición de <b>Sistema aislado</b>\:<br/> <i>Sistemas de red incapaz de comunicarse con el exterior.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Definition text misspelled!\: Sistema de red incapaz de comunicarse con el exterior.
+}
+
+::Sistema aislado-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQmEz021TtSDfpx7hOJK7RhH5wab814wHD8poca9tEwdVYDWXRIfPLpTyKJWrE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Sisfema aislado</b>\:<br/> <i>Sistema de red incapaz de comunicarse con el exterior.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: Sistema aislado
+}
+
+::Sistema aislado-6-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSG121FikeuS-TxQV385p75ayseUrpzXpoD0S0Fpj0phJebJ_ttILh_CjZUtw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Sistema aislado</b>\:<br/> <i>Sistema de red incapaz de comunicarse con el exterior.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::Sistema aislado-7-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRoKZo02uwTjYPTpj_M3WI8o7_KbybICZFsnXeyNGmls4udSzQbuAjMEuYvlw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Sistema con conexión remota temporal</b>\:<br/> <i>Sistema de red incapaz de comunicarse con el exterior.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Falso
+  ~%-33.33333%Verdadero
+}
+
+::Sistema aislado-8-d3hidden::[html]Definición de <b>??????? ???????</b>\:<br/> <i>Sistema de red incapaz de comunicarse con el exterior.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Sistema aislado#
+  =%100%Sistemas aislados#
+}
+
+::Sistema aislado-9-d4filtered::[html]Definición de <b>Sistema aislado</b>\:<br/> <i>Sistema de [1] [2] de [3] con el [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> red
+  =2 -> incapaz
+  =3 -> comunicarse
+  =4 -> exterior
+}
+
+
+// ==================================================
+// Concept name: Sistema con conexión remota temporal
+// ==================================================
+::Sistema con conexión remota temporal-1-d1choose::[html]Definición\: <i>Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema aislado
+  ~%-25%Ninguna es correcta
+  ~%-25%Sistema distribuido
+  =Sistema con conexión remota temporal
+}
+
+::Sistema con conexión remota temporal-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRZt2s3qdXsw9LjEg-SxJE_SBqB3qjmi28CFyTOomfhPwiuS4ZoLdBO8i8mN80&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema distribuido
+  ~%-25%Sistema aislado
+  ~%-25%Sistema com conexión remota temporal
+  =Ninguna es correcta
+  ####Option misspelled!\: Sistema con conexión remota temporal
+}
+
+::Sistema con conexión remota temporal-3-d1none::[html]Definición\: <i>Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema distribuido
+  =Ninguna es correcta
+  ~%-25%Sistema aislado
+  ~%-25%Redes de ordenadores
+}
+
+::Sistema con conexión remota temporal-4-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSiBEhUQpDMVhzYJXXZnwpj1OAh5a1bAAkjDIh16vxyqCfSF2AUnTmWR4i5wQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Sistema con conexión remota temporal</b>\:<br/> <i>Sitsema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.
+}
+
+::Sistema con conexión remota temporal-5-d2name-misspelled::[html]Definición de <b>Sistema con conexión remota temooral</b>\:<br/> <i>Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: Sistema con conexión remota temporal
+}
+
+::Sistema con conexión remota temporal-6-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTXIDogA2AbHsQ_WZQv_1_XhGW7V4bzW4YgLVSP0Hy6Aj5lqlqNgVVtpznMnA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Sistema con conexión remota temporal</b>\:<br/> <i>Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.</i><br/>
+{
+  =Verdadero
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Falso
+}
+
+::Sistema con conexión remota temporal-7-d2false-misspelled::[html]Definición de <b>Sistema aislado</b>\:<br/> <i>Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+  =Falso
+}
+
+::Sistema con conexión remota temporal-8-d3hidden::[html]Definición de <b>??????? ??? ???????? ?????? ????????</b>\:<br/> <i>Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Sistema con conexión remota temporal#
+}
+
+::Sistema con conexión remota temporal-9-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTTvFFH90JPhd6zU_W5kFnnHKKr5pPMfl9TxSzFIqEZ_BIYbUDJPUS8Z00d7_Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Sistema con conexión remota temporal</b>\:<br/> <i>[1] que se [2] a otros sistemas [3] pero que no [4] una disponibilidad permanente de estos servicios.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> sistema
+  =2 -> conectan
+  =3 -> temporalmente,
+  =4 -> tienen
+}
+
+::Sistema con conexión remota temporal-10-d4filtered::[html]Definición de <b>Sistema con conexión remota temporal</b>\:<br/> <i>[1] que se conectan a [2] sistemas [3] pero que no tienen una [4] permanente de estos servicios.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> sistema
+  =2 -> otros
+  =3 -> temporalmente,
+  =4 -> disponibilidad
+}
+
+
+// ==================================================
+// Concept name: Sistema distribuido
+// ==================================================
+::Sistema distribuido-1-d1choose::[html]Definición\: <i>Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema con conexión remota temporal
+  =Sistema distribuido
+  ~%-25%Ninguna es correcta
+  ~%-25%Sistema aislado
+}
+
+::Sistema distribuido-2-d1none-misspelled::[html]Definición\: <i>Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistena distribuido
+  =Ninguna es correcta
+  ~%-25%Sistema con conexión remota temporal
+  ~%-25%Sistema aislado
+  ####Option misspelled!\: Sistema distribuido
+}
+
+::Sistema distribuido-3-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRLXgkJbd81jL_0XIo2EVr_aCTsFmf7G0_LItVzbjy5pUgSNXuc96mgQr8jeXU&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Redes de ordenadores
+  ~%-25%Sistema aislado
+  ~%-25%Sistema con conexión remota temporal
+}
+
+::Sistema distribuido-4-d2def-misspelled::[html]Definición de <b>Sistema distribuido</b>\:<br/> <i>Red de ordenadores pero con ra condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.
+}
+
+::Sistema distribuido-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRH0clppIe-KHVtzpjfLAMtCzF3RmHvom7KQ7hBQYWbAIjkY5finpUXqtR_ep0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Sitsema distribuido</b>\:<br/> <i>Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Concept name misspelled!\: Sistema distribuido
+}
+
+::Sistema distribuido-6-d2true::[html]Definición de <b>Sistema distribuido</b>\:<br/> <i>Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Sistema distribuido-7-d2false-misspelled::[html]Definición de <b>Sistema aislado</b>\:<br/> <i>Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Falso
+  ~%-33.33333%Verdadero
+}
+
+::Sistema distribuido-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRv9Fjh5P88gSWoIFsCEdZ_G5tNeiN020HevnE9FioviQe1DMMq5UaeOzjXkcg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>??????? ???????????</b>\:<br/> <i>Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Sistema distribuido#
+}
+
+::Sistema distribuido-9-d4filtered::[html]Definición de <b>Sistema distribuido</b>\:<br/> <i>Red de ordenadores pero con la [1] de que la existencia y [2] de diferentes ordenadores es [3] al [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> condición
+  =2 -> uso
+  =3 -> transparente
+  =4 -> usuario
+}
+
+::Sistema distribuido-10-d4filtered::[html]Definición de <b>Sistema distribuido</b>\:<br/> <i>[1] de ordenadores pero con la condición de que la existencia y [2] de [3] [4] es transparente al usuario.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> red
+  =2 -> uso
+  =3 -> diferentes
+  =4 -> ordenadores
+}
+
+::Sistema distribuido-11-d1choose::[html]Definición\: <i>Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema con conexión remota temporal
+  ~%-25%Ninguna es correcta
+  =Sistema distribuido
+  ~%-25%Sistema aislado
+}
+
+::Sistema distribuido-12-d1none-misspelled::[html]Definición\: <i>Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema aislado
+  =Ninguna es correcta
+  ~%-25%Siatema distribuido
+  ~%-25%Sistema con conexión remota temporal
+  ####Option misspelled!\: Sistema distribuido
+}
+
+::Sistema distribuido-13-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTYHJf-79dIqi1iGxfIdEjKiXSAb3JZQ3GOqDIZvj4PiNUUSJrzPzZODSNjyV0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema con conexión remota temporal
+  =Ninguna es correcta
+  ~%-25%Sistema aislado
+  ~%-25%Redes de ordenadores
+}
+
+::Sistema distribuido-14-d2def-misspelled::[html]Definición de <b>Sistema distribuido</b>\:<br/> <i>Se realiza la solisitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.
+}
+
+::Sistema distribuido-15-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQv-skEJuJDGkc7P0qibNUMf-YFx5-TQMqHx5hH52Jakeb6-aC5w7Iaf4IBv6Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Sitsema distribuido</b>\:<br/> <i>Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Concept name misspelled!\: Sistema distribuido
+}
+
+::Sistema distribuido-16-d2true::[html]Definición de <b>Sistema distribuido</b>\:<br/> <i>Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::Sistema distribuido-17-d2false-misspelled::[html]Definición de <b>Sistema aislado</b>\:<br/> <i>Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Sistema distribuido-18-d3hidden::[html]Definición de <b>??????? ???????????</b>\:<br/> <i>Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Sistema distribuido#
+}
+
+::Sistema distribuido-19-d4filtered::[html]Definición de <b>Sistema distribuido</b>\:<br/> <i>Se realiza la solicitud del [1] y la red nos lo [2] sin entrar en [3] de quién [4] el mismo.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> servicio,
+  =2 -> facilita,
+  =3 -> detalles
+  =4 -> soporta
+}
+
+::Sistema distribuido-20-d4filtered::[html]Definición de <b>Sistema distribuido</b>\:<br/> <i>Se [1] la solicitud del [2] y la red nos lo [3] sin entrar en [4] de quién soporta el mismo.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> realiza
+  =2 -> servicio,
+  =3 -> facilita,
+  =4 -> detalles
+}
+
+
+// ==================================================
+// Concept name: Protocolo de comunicación
+// ==================================================
+::Protocolo de comunicación-1-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRTIx7M_tKhXG6HPv9OUyOLlvD1ZyrL3fhdqgOmm637R8ExPVzf0gXeUh6Wk1c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Organismo de normalización
+  ~%-25%Redes de ordenadores
+  =Protocolo de comunicación
+}
+
+::Protocolo de comunicación-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQTxNIM43h1-XqnpXozVEHgOElixmiZjxTBE3An6IZNGTTir21L8eRogK-zEeY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Propocolo de comunicación
+  ~%-25%Organismo de normalización
+  =Ninguna es correcta
+  ~%-25%Redes de ordenadores
+  ####Option misspelled!\: Protocolo de comunicación
+}
+
+::Protocolo de comunicación-3-d1none::[html]Definición\: <i>Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema distribuido
+  ~%-25%Redes de ordenadores
+  ~%-25%Organismo de normalización
+  =Ninguna es correcta
+}
+
+::Protocolo de comunicación-4-d2def-misspelled::[html]Definición de <b>Protocolo de comunicación</b>\:<br/> <i>Conjunto de reglas convenidas de mutuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.
+}
+
+::Protocolo de comunicación-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSw8AuNR7X74He9gV_io_rhbwchslMUjvxhmhkY88YvoTXIfbmYcC3E0YdUyE0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Protocoro de comunicación</b>\:<br/> <i>Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Concept name misspelled!\: Protocolo de comunicación
+}
+
+::Protocolo de comunicación-6-d2true::[html]Definición de <b>Protocolo de comunicación</b>\:<br/> <i>Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+  ~%-33.33333%Falso
+}
+
+::Protocolo de comunicación-7-d2false-misspelled::[html]Definición de <b>Redes de ordenadores</b>\:<br/> <i>Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Falso
+  ~%-33.33333%Verdadero
+}
+
+::Protocolo de comunicación-8-d3hidden::[html]Definición de <b>????????? ?? ????????????</b>\:<br/> <i>Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Protocolo de comunicación#
+}
+
+::Protocolo de comunicación-9-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSkCrRakuDI8m-IziWrkZO6vWmxf-8XC4AxYy7mLeGXr0DmJ7-rG_IpZuLprd8&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Protocolo de comunicación</b>\:<br/> <i>[1] de reglas convenidas de mútuo acuerdo entre los participantes en una [2] [3] misión es [4] algún aspecto de la misma.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> conjunto
+  =2 -> comunicación,
+  =3 -> cuya
+  =4 -> regular
+}
+
+::Protocolo de comunicación-10-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ9ntgRwlWrvoCXeeKwa1G-Ur3ww_WIWfzZsMH27LB5j4hGaCWfMJJdszqc1lk&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Protocolo de comunicación</b>\:<br/> <i>Conjunto de [1] convenidas de mútuo acuerdo entre los [2] en una comunicación, cuya misión es [3] algún aspecto de la [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> reglas
+  =2 -> participantes
+  =3 -> regular
+  =4 -> misma
+}
+
+::Protocolo de comunicación-11-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQaAlsvGCvbEPsjoXddJDTjH3ePC__zRjt4Yg30z1Aql3HOzGDBnTQI-nP8bQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Protocolo de comunicación</b>\:<br/> <i>Conjunto de [1] convenidas de [2] acuerdo entre los [3] en una comunicación, cuya misión es [4] algún aspecto de la misma.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> reglas
+  =2 -> mútuo
+  =3 -> participantes
+  =4 -> regular
+}
+
+
+// ==================================================
+// Concept name: Arquitectura de red
+// ==================================================
+::Arquitectura de red-1-d1choose::[html]Definición\: <i>Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%LAN
+  =Arquitectura de red
+  ~%-25%PAN
+}
+
+::Arquitectura de red-2-d1none-misspelled::[html]Definición\: <i>Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Arquitecturas de red
+  =Ninguna es correcta
+  ~%-25%PAN
+  ~%-25%LAN
+  ####Option misspelled!\: Arquitectura de red
+}
+
+::Arquitectura de red-3-d1none::[html]Definición\: <i>Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%PAN
+  =Ninguna es correcta
+  ~%-25%LAN
+  ~%-25%Host
+}
+
+::Arquitectura de red-4-d2def-misspelled::[html]Definición de <b>Arquitectura de red</b>\:<br/> <i>Es la forma de orgañizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.
+}
+
+::Arquitectura de red-5-d2name-misspelled::[html]Definición de <b>Arqúitectura de red</b>\:<br/> <i>Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: Arquitectura de red
+}
+
+::Arquitectura de red-6-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS24K3m8Q8z0TkUfKXd3Myn8IvCT_EF_wCqAdDMjptrmK4TVggPOjQWy8Fu2IY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Arquitectura de red</b>\:<br/> <i>Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Falso
+  =Verdadero
+}
+
+::Arquitectura de red-7-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT6LNamY40LHlZdc6Ytf9zC6evrVlUH5yIPjWPjRdSNAy0DSvUYtl2NLP6FA1k&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>PAN</b>\:<br/> <i>Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::Arquitectura de red-8-d3hidden::[html]Definición de <b>???????????? ?? ???</b>\:<br/> <i>Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Arquitectura de red#
+}
+
+::Arquitectura de red-9-d4filtered::[html]Definición de <b>Arquitectura de red</b>\:<br/> <i>Es la forma de organizar la [1] en una [2] de ordenadores mediante la división del proceso en un [3] [4] de capas y protocolos.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> comunicación
+  =2 -> red
+  =3 -> conjunto
+  =4 -> organizado
+}
+
+::Arquitectura de red-10-d4filtered::[html]Definición de <b>Arquitectura de red</b>\:<br/> <i>Es la [1] de organizar la [2] en una [3] de ordenadores mediante la [4] del proceso en un conjunto organizado de capas y protocolos.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> forma
+  =2 -> comunicación
+  =3 -> red
+  =4 -> división
+}
+
+::Arquitectura de red-11-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTSNL6iG0VV9ZwXNXDryaVeq35BSwT1nj9_KCVpno1Pk-WrLX691XpYltqkGA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Arquitectura de red</b>\:<br/> <i>Es la forma de organizar la [1] en una red de [2] mediante la división del [3] en un [4] organizado de capas y protocolos.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> comunicación
+  =2 -> ordenadores
+  =3 -> proceso
+  =4 -> conjunto
+}
+
+::Arquitectura de red-12-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRxfxVhAw191M7uc3y_MlVw8wHfnFLXa6gHMnkgsygyLZKhPO3iUF3IrltJLg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Ninguna es correcta
+  =Arquitectura de red
+  ~%-25%PAN
+  ~%-25%LAN
+}
+
+::Arquitectura de red-13-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSct9r2CGgCg2rH11yM9-F3Tku5cWKrSZYwq9OL2FKyFBO9BSuPbA02MEi2awc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%PAN
+  ~%-25%LAN
+  ~%-25%Arqúitectura de red
+  ####Option misspelled!\: Arquitectura de red
+}
+
+::Arquitectura de red-14-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTNxpWANrc-PGGL3tsc07yDOWZNKB1Nu1DiJi-_kb035R4qlpgM0ChMdP-88bI&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%LAN
+  ~%-25%PAN
+  =Ninguna es correcta
+  ~%-25%Host
+}
+
+::Arquitectura de red-15-d2def-misspelled::[html]Definición de <b>Arquitectura de red</b>\:<br/> <i>Permite unificer las reglas del juego y compatibilizar sistemas de diferentes fabricantes.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.
+}
+
+::Arquitectura de red-16-d2name-misspelled::[html]Definición de <b>Arquitectula de red</b>\:<br/> <i>Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: Arquitectura de red
+}
+
+::Arquitectura de red-17-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQaxPYLCYRO22Fowk9eahvfFzCc1jmPiM-B3MCN98hbfry5emWyOvFTE_M8fg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Arquitectura de red</b>\:<br/> <i>Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.</i><br/>
+{
+  =Verdadero
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Falso
+}
+
+::Arquitectura de red-18-d2false-misspelled::[html]Definición de <b>PAN</b>\:<br/> <i>Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+  =Falso
+}
+
+::Arquitectura de red-19-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRxOQxrs7Am_MYKKvPtVznaKw9I6rqSFuLMZnyMpjrCfCSfSt2E50KaZtVYgSE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>???????????? ?? ???</b>\:<br/> <i>Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Arquitectura de red#
+}
+
+::Arquitectura de red-20-d4filtered::[html]Definición de <b>Arquitectura de red</b>\:<br/> <i>Permite unificar las [1] del [2] y compatibilizar [3] de diferentes [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> reglas
+  =2 -> juego
+  =3 -> sistemas
+  =4 -> fabricantes
+}
+
+::Arquitectura de red-21-d4filtered::[html]Definición de <b>Arquitectura de red</b>\:<br/> <i>[1] unificar las [2] del [3] y compatibilizar sistemas de diferentes [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> permite
+  =2 -> reglas
+  =3 -> juego
+  =4 -> fabricantes
+}
+
+
+// ==================================================
+// Concept name: Organismo de normalización
+// ==================================================
+::Organismo de normalización-1-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSfaLkqf8SkZ-UlthRDpgv72SejCoDPC6DAOIvdDOXc0n-p8O04yYzOS6TODg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema distribuido
+  ~%-25%Arquitectura de red
+  =Organismo de normalización
+  ~%-25%Ninguna es correcta
+}
+
+::Organismo de normalización-2-d1none-misspelled::[html]Definición\: <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Sistema distribuido
+  ~%-25%Organismo de normalizacion
+  ~%-25%Arquitectura de red
+  =Ninguna es correcta
+  ####Option misspelled!\: Organismo de normalización
+}
+
+::Organismo de normalización-3-d1none::[html]Definición\: <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Arquitectura de red
+  =Ninguna es correcta
+  ~%-25%Sistema distribuido
+  ~%-25%Sistema aislado
+}
+
+::Organismo de normalización-4-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcREYfECbVUJ9Dg5A0v06UQuB9y_1Xd-UlVhRZ00ix4cfCnHzjed4bLKDoRg6A&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Organismo de normalización</b>\:<br/> <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telekomunicaciones, redes, sistemas móviles, etc, a nivel mundial.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.
+}
+
+::Organismo de normalización-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSqAAICMwhBPsJ-7I39Q7miDaZS2KtR_XJEAcOLV3p3ZlmtET3SyYl6JuK3RvQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Orgañismo de normalización</b>\:<br/> <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Concept name misspelled!\: Organismo de normalización
+}
+
+::Organismo de normalización-6-d2true::[html]Definición de <b>Organismo de normalización</b>\:<br/> <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Falso
+  =Verdadero
+}
+
+::Organismo de normalización-7-d2false-misspelled::[html]Definición de <b>Arquitectura de red</b>\:<br/> <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Falso
+  ~%-33.33333%Error ortográfico
+}
+
+::Organismo de normalización-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTQHqLCpIdLFe92OTWtT-TxPYujPNq-Mx5KXB06Di5NoGQa4PIyNHnIwjwB7g&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>????????? ?? ?????????????</b>\:<br/> <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Organismo de normalización#
+}
+
+::Organismo de normalización-9-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR2RRFc_e4b88VMI2XgnKLlNu7q0ARWti-Z2-1tnaZKSbilUpf83hj-MQiAlA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Organismo de normalización</b>\:<br/> <i>[1] de [2] los estándares utilizados en [3] áreas\: telecomunicaciones, redes, [4] móviles, etc, a nivel mundial.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> encargados
+  =2 -> establecer
+  =3 -> diferentes
+  =4 -> sistemas
+}
+
+::Organismo de normalización-10-d4filtered::[html]Definición de <b>Organismo de normalización</b>\:<br/> <i>Encargados de establecer los estándares utilizados en [1] áreas\: telecomunicaciones, redes, sistemas [2] [3] a nivel [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> diferentes
+  =2 -> móviles,
+  =3 -> etc,
+  =4 -> mundial
+}
+
+::Organismo de normalización-11-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ86KKoq-6OYEK8dUFn2puuqRgC9wiEfY4K0FdGGBfCTebrmsUNS1Ub1w2ZMbc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Organismo de normalización</b>\:<br/> <i>Encargados de establecer los estándares utilizados en diferentes áreas\: telecomunicaciones, [1] [2] móviles, [3] a nivel [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> redes,
+  =2 -> sistemas
+  =3 -> etc,
+  =4 -> mundial
+}
+

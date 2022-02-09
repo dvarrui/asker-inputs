@@ -1,0 +1,278 @@
+==================================================
+Created by : asker (version 2.2.2)
+File       : ut2_redes_ordenadores-log.txt
+Time       : 2022-02-08 23:45:28 +0000
+Author     : David Vargas Ruiz
+==================================================
+
+[INFO] Project open
+   ├── inputdirs    = [1minput[0m
+   └── process_file = [1mut2_redes_ordenadores.haml[0m
+
+[INFO] Showing concept data ([1mdefault[0m)
++---------------+---------------------------------------------------------------------------+
+| [1m1[0m             | [37m[44m[1mRedes de ordenadores[0m (lang=es)                                            |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                                          |
+| [34mContext[0m       | redes, introducción, definiciones                                         |
+| [34mTags[0m          | sistema, comunicación, enlaza, ordenadores, dispositivos, periféricos     |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Es un sistema de comunicación que enlaza dos o más ordenadores y dis...   |
+|               | Son distintos equipos que se conectan para interactuar entre ellos, pe... |
+| [34m.neighbors[0m    | Protocolo de comunicación(44.44)                                          |
+|               | Sistema...remota temporal(44.44)                                          |
+|               | Sistema aislado(44.44)                                                    |
+|               | Sistema distribuido(44.44)                                                |
+|               | Organis...e normalización(33.33)                                          |
++---------------+---------------------------------------------------------------------------+
++---------------+----------------------------------------+
+| [1m2[0m             | [37m[44m[1mMedio de transmisión[0m (lang=es)         |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml       |
+| [34mContext[0m       | redes, introducción, definiciones      |
+| [34mTags[0m          | medio, medios, transmisión, guiado, no |
+| [34mReference to[0m  |                                        |
+| [34mReferenced by[0m |                                        |
+| [34m.def(text)[0m    |                                        |
+| [34m.tables[0m       | $tipo$descripción                      |
+|               | $tipo$ejemplo                          |
+| [34m.neighbors[0m    | Organis...e normalización(30.0)        |
+|               | Protocolo de comunicación(30.0)        |
+|               | Sistema...remota temporal(30.0)        |
+|               | Topología(30.0)                        |
+|               | WAN(30.0)                              |
++---------------+----------------------------------------+
++---------------+-----------------------------------------+
+| [1m3[0m             | [37m[44m[1mRed[0m (lang=es)                           |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml        |
+| [34mContext[0m       | redes, introducción, definiciones       |
+| [34mTags[0m          | red, pública, privada                   |
+| [34mReference to[0m  |                                         |
+| [34mReferenced by[0m | PAN, LAN, MAN, WAN, Arquitectura de red |
+| [34m.def(text)[0m    |                                         |
+| [34m.tables[0m       | $tipo$descripción                       |
+|               | $tipo$uso                               |
+| [34m.neighbors[0m    | LAN(50.0)                               |
+|               | PAN(50.0)                               |
+|               | Host(50.0)                              |
+|               | Arquitectura de red(50.0)               |
+|               | Organis...e normalización(37.5)         |
++---------------+-----------------------------------------+
++---------------+------------------------------------------+
+| [1m4[0m             | [37m[44m[1mPAN[0m (lang=es)                            |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml         |
+| [34mContext[0m       | redes, introducción, definiciones        |
+| [34mTags[0m          | red, PAN, redes, personal, area, network |
+| [34mReference to[0m  | Red                                      |
+| [34mReferenced by[0m |                                          |
+| [34m.def(text)[0m    | Red de área personal.                    |
+| [34m.tables[0m       | $características                         |
+| [34m.neighbors[0m    | LAN(70.0)                                |
+|               | WAN(60.0)                                |
+|               | MAN(50.0)                                |
+|               | Arquitectura de red(50.0)                |
+|               | Red(40.0)                                |
++---------------+------------------------------------------+
++---------------+---------------------------------------+
+| [1m5[0m             | [37m[44m[1mLAN[0m (lang=es)                         |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml      |
+| [34mContext[0m       | redes, introducción, definiciones     |
+| [34mTags[0m          | red, LAN, redes, local, area, network |
+| [34mReference to[0m  | Red                                   |
+| [34mReferenced by[0m |                                       |
+| [34m.def(text)[0m    | Red de área local.                    |
+|               | Local area network.                   |
+| [34m.tables[0m       | $caracteríscas                        |
+| [34m.neighbors[0m    | PAN(70.0)                             |
+|               | WAN(60.0)                             |
+|               | MAN(50.0)                             |
+|               | Arquitectura de red(50.0)             |
+|               | Red(40.0)                             |
++---------------+---------------------------------------+
++---------------+-------------------------------------+
+| [1m6[0m             | [37m[44m[1mMAN[0m (lang=es)                       |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml    |
+| [34mContext[0m       | redes, introducción, definiciones   |
+| [34mTags[0m          | red MAN, redes, area, metropolitana |
+| [34mReference to[0m  | Red                                 |
+| [34mReferenced by[0m |                                     |
+| [34m.def(text)[0m    | Red de área metropolitana.          |
+|               | Metropolitan area network.          |
+| [34m.tables[0m       | $características                    |
+| [34m.neighbors[0m    | WAN(62.5)                           |
+|               | PAN(62.5)                           |
+|               | LAN(62.5)                           |
+|               | Arquitectura de red(50.0)           |
+|               | Organis...e normalización(37.5)     |
++---------------+-------------------------------------+
++---------------+-------------------------------------+
+| [1m7[0m             | [37m[44m[1mWAN[0m (lang=es)                       |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml    |
+| [34mContext[0m       | redes, introducción, definiciones   |
+| [34mTags[0m          | red WAN, redes, area, network, wide |
+| [34mReference to[0m  | Red                                 |
+| [34mReferenced by[0m |                                     |
+| [34m.def(text)[0m    | Red de área extensa.                |
+|               | Red de área extendida.              |
+|               | Wide area network.                  |
+| [34m.tables[0m       | $características                    |
+| [34m.neighbors[0m    | PAN(66.66)                          |
+|               | LAN(66.66)                          |
+|               | MAN(55.55)                          |
+|               | Arquitectura de red(44.44)          |
+|               | Organis...e normalización(33.33)    |
++---------------+-------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m8[0m             | [37m[44m[1mHost[0m (lang=es)                                                            |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                                          |
+| [34mContext[0m       | redes, introducción, definiciones                                         |
+| [34mTags[0m          | host, hosts, anfitrión, dispositivo, capacidad, interactuar, red          |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Es un dispositivo con capacidad de interactuar en red y alojar algún t... |
+| [34m.neighbors[0m    | Topología(50.0)                                                           |
+|               | PAN(40.0)                                                                 |
+|               | Red(40.0)                                                                 |
+|               | LAN(40.0)                                                                 |
+|               | Arquitectura de red(40.0)                                                 |
++---------------+---------------------------------------------------------------------------+
++---------------+--------------------------------------------------------+
+| [1m9[0m             | [37m[44m[1mTopología[0m (lang=es)                                    |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                       |
+| [34mContext[0m       | redes, introducción, definiciones                      |
+| [34mTags[0m          | topología, topologías, host, hosts                     |
+| [34mReference to[0m  |                                                        |
+| [34mReferenced by[0m |                                                        |
+| [34m.def(text)[0m    | Forma de interconectar los diferentes host de una red. |
+| [34m.tables[0m       | $topología$conexión                                    |
+| [34m.neighbors[0m    | Host(62.5)                                             |
+|               | Organis...e normalización(37.5)                        |
+|               | Protocolo de comunicación(37.5)                        |
+|               | Sistema...remota temporal(37.5)                        |
+|               | MAN(37.5)                                              |
++---------------+--------------------------------------------------------+
++---------------+--------------------------------------------------------+
+| [1m10[0m            | [37m[44m[1mSistema aislado[0m (lang=es)                              |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                       |
+| [34mContext[0m       | redes, introducción, definiciones                      |
+| [34mTags[0m          | sistema, sistemas, aislado, aislados                   |
+| [34mReference to[0m  |                                                        |
+| [34mReferenced by[0m |                                                        |
+| [34m.def(text)[0m    | Sistema de red incapaz de comunicarse con el exterior. |
+| [34m.neighbors[0m    | Sistema...remota temporal(71.42)                       |
+|               | Sistema distribuido(71.42)                             |
+|               | Redes de ordenadores(57.14)                            |
+|               | Organis...e normalización(42.85)                       |
+|               | Protocolo de comunicación(42.85)                       |
++---------------+--------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m11[0m            | [37m[44m[1mSistema...remota temporal[0m (lang=es)                                       |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                                          |
+| [34mContext[0m       | redes, introducción, definiciones                                         |
+| [34mTags[0m          | sistema, sistemas, remota, temporal                                       |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Sistema que se conectan a otros sistemas temporalmente, pero que no ti... |
+| [34m.neighbors[0m    | Sistema aislado(71.42)                                                    |
+|               | Sistema distribuido(71.42)                                                |
+|               | Redes de ordenadores(57.14)                                               |
+|               | Organis...e normalización(42.85)                                          |
+|               | Protocolo de comunicación(42.85)                                          |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m12[0m            | [37m[44m[1mSistema distribuido[0m (lang=es)                                             |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                                          |
+| [34mContext[0m       | redes, introducción, definiciones                                         |
+| [34mTags[0m          | sistema, sistemas, distribuido, distribuidos                              |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Red de ordenadores pero con la condición de que la existencia y uso d...  |
+|               | Se realiza la solicitud del servicio, y la red nos lo facilita, sin en... |
+| [34m.neighbors[0m    | Sistema aislado(71.42)                                                    |
+|               | Sistema...remota temporal(71.42)                                          |
+|               | Redes de ordenadores(57.14)                                               |
+|               | Organis...e normalización(42.85)                                          |
+|               | Protocolo de comunicación(42.85)                                          |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m13[0m            | [37m[44m[1mProtocolo de comunicación[0m (lang=es)                                       |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                                          |
+| [34mContext[0m       | redes, introducción, definiciones                                         |
+| [34mTags[0m          | protocolo, protocolos, comunicación, comunicaciones                       |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Conjunto de reglas convenidas de mútuo acuerdo entre los participantes... |
+| [34m.neighbors[0m    | Redes de ordenadores(57.14)                                               |
+|               | Organis...e normalización(42.85)                                          |
+|               | Sistema distribuido(42.85)                                                |
+|               | Sistema aislado(42.85)                                                    |
+|               | Host(42.85)                                                               |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m14[0m            | [37m[44m[1mArquitectura de red[0m (lang=es)                                             |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                                          |
+| [34mContext[0m       | redes, introducción, definiciones                                         |
+| [34mTags[0m          | arquitectura, arquitecturas, red, redes                                   |
+| [34mReference to[0m  | Red                                                                       |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Es la forma de organizar la comunicación en una red de ordenadores me...  |
+|               | Permite unificar las reglas del juego y compatibilizar sistemas de dif... |
+| [34m.neighbors[0m    | PAN(71.42)                                                                |
+|               | LAN(71.42)                                                                |
+|               | Host(57.14)                                                               |
+|               | MAN(57.14)                                                                |
+|               | Red(57.14)                                                                |
++---------------+---------------------------------------------------------------------------+
++---------------+-------------------------------------------------------------------------+
+| [1m15[0m            | [37m[44m[1mOrganis...e normalización[0m (lang=es)                                     |
+| [34mFilename[0m      | input/ut2_redes_ordenadores.haml                                        |
+| [34mContext[0m       | redes, introducción, definiciones                                       |
+| [34mTags[0m          | organismo, organismos, normalización                                    |
+| [34mReference to[0m  |                                                                         |
+| [34mReferenced by[0m |                                                                         |
+| [34m.def(text)[0m    | Encargados de establecer los estándares utilizados en diferentes áre... |
+| [34m.neighbors[0m    | Arquitectura de red(50.0)                                               |
+|               | Sistema distribuido(50.0)                                               |
+|               | Sistema aislado(50.0)                                                   |
+|               | Host(50.0)                                                              |
+|               | MAN(50.0)                                                               |
++---------------+-------------------------------------------------------------------------+
+
+[INFO] Creating output files
+   ├── Gift questions file => [1moutput/ut2_redes_ordenadores-gift.txt[0m
+   ├── Lesson file         => [1moutput/ut2_redes_ordenadores-doc.txt[0m
+   ├── YAML questions file => [1moutput/ut2_redes_ordenadores.yaml[0m
+   └── Moodle XML file     => [1moutput/ut2_redes_ordenadores-moodle.xml[0m
+
+[INFO] Showing CONCEPT statistics
+ * Exclude questions: 
+ * Annotations:
+   ├── (d) Definitions     <= Concept.def
+   ├── (b) Table Matching  <= Concept.table.rows.columns
+   ├── (f) Tables 1 Field  <= Concept.table.fields.size==1
+   ├── (i) Images URL      <= Concept.def{:type => 'file'}
+   ├── (s) Sequences       <= Concept.table{:sequence => '...'}
+   └── (t) Table Rows&Cols <= Concept.table.rows.columns
+
++---------------------------+-----------+---------+---------+-----+----+----+---+---+-----+
+| Concept                   | Questions | Entries | xFactor | d   | b  | f  | i | s | t   |
++---------------------------+-----------+---------+---------+-----+----+----+---+---+-----+
+| [32m[1mRedes de ordenadores[0m      | 20        | 2       | 10.0    | 20  | 0  | 0  | 0 | 0 | 0   |
+| [32m[1mMedio de transmisión[0m      | 24        | 8       | 3.0     | 0   | 0  | 0  | 0 | 0 | 24  |
+| [32m[1mRed[0m                       | 37        | 10      | 3.7     | 0   | 3  | 0  | 0 | 0 | 34  |
+| [32m[1mPAN[0m                       | 18        | 5       | 3.6     | 8   | 0  | 10 | 0 | 0 | 0   |
+| [32m[1mLAN[0m                       | 19        | 4       | 4.75    | 16  | 0  | 3  | 0 | 0 | 0   |
+| [32m[1mMAN[0m                       | 38        | 7       | 5.43    | 16  | 0  | 22 | 0 | 0 | 0   |
+| [32m[1mWAN[0m                       | 47        | 8       | 5.88    | 24  | 0  | 23 | 0 | 0 | 0   |
+| [32m[1mHost[0m                      | 10        | 1       | 10.0    | 10  | 0  | 0  | 0 | 0 | 0   |
+| [32m[1mTopología[0m                 | 82        | 17      | 4.82    | 9   | 10 | 0  | 0 | 0 | 63  |
+| [32m[1mSistema aislado[0m           | 9         | 1       | 9.0     | 9   | 0  | 0  | 0 | 0 | 0   |
+| [32m[1mSistema...remota temporal[0m | 10        | 1       | 10.0    | 10  | 0  | 0  | 0 | 0 | 0   |
+| [32m[1mSistema distribuido[0m       | 20        | 2       | 10.0    | 20  | 0  | 0  | 0 | 0 | 0   |
+| [32m[1mProtocolo de comunicación[0m | 11        | 1       | 11.0    | 11  | 0  | 0  | 0 | 0 | 0   |
+| [32m[1mArquitectura de red[0m       | 21        | 2       | 10.5    | 21  | 0  | 0  | 0 | 0 | 0   |
+| [32m[1mOrganis...e normalización[0m | 11        | 1       | 11.0    | 11  | 0  | 0  | 0 | 0 | 0   |
+| [33m[1mExcluded questions[0m        | 0         | -       | -       | 0   | 0  | 0  | 0 | 0 | 0   |
++---------------------------+-----------+---------+---------+-----+----+----+---+---+-----+
+| [1mTOTAL = 15[0m                | [1m377[0m       | [1m70[0m      | [1m5.39[0m    | 185 | 13 | 58 | 0 | 0 | 121 |
++---------------------------+-----------+---------+---------+-----+----+----+---+---+-----+
+

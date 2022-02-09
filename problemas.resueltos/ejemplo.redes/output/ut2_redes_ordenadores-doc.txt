@@ -1,0 +1,155 @@
+==================================================
+Created by : asker (version 2.2.2)
+File       : ut2_redes_ordenadores-doc.txt
+Time       : 2022-02-08 23:45:30 +0000
+Author     : David Vargas Ruiz
+==================================================
+
+[44m[1mRedes de ordenadores[0m
+
+* Es un sistema de comunicación que enlaza dos o más ordenadores y dispositivos o periféricos.
+* Son distintos equipos que se conectan para interactuar entre ellos, pero sin perder la identidad propia.
+
+
+[44m[1mMedio de transmisión[0m
+
+
++-----------+----------------------------------------------------------------------------------------------+
+| tipo      | descripción                                                                                  |
++-----------+----------------------------------------------------------------------------------------------+
+| guiado    | La señal se transmite por un canal físico, es decir, por medio de un cable de cobre o fibra. |
+| no guiado | No se usa un medio físico para la transmisión de la señal.                                   |
++-----------+----------------------------------------------------------------------------------------------+
++-----------+---------------------------------------------------------+
+| tipo      | ejemplo                                                 |
++-----------+---------------------------------------------------------+
+| guiado    | Las señales de infrarrojos, microondas y satélite.      |
+| no guiado | El alambre, la fibra óptica y el cable de par trenzado. |
++-----------+---------------------------------------------------------+
+
+[44m[1mRed[0m
+
+
++-----------------+------------------------------------------------------------------------------------------------------------------------------+
+| tipo            | descripción                                                                                                                  |
++-----------------+------------------------------------------------------------------------------------------------------------------------------+
+| pública         | De propiedad de empresas de telecomunicaciones, y se deben someter a regulación por parte de los organismos gubernamentales. |
+| pública estatal | De propiedad del estado                                                                                                      |
+| privada         | LAN o [*] locales que se encuentran en edificios, empresas.                                                                  |
+| dedicada        | [*] públicas pero se dan al alquiler.                                                                                        |
++-----------------+------------------------------------------------------------------------------------------------------------------------------+
++----------+------------------------------------------------------------------------------------+
+| tipo     | uso                                                                                |
++----------+------------------------------------------------------------------------------------+
+| dedicada | Las empresas para comunicarse con sus centrales, u otras empresas e instituciones. |
++----------+------------------------------------------------------------------------------------+
+
+[44m[1mPAN[0m
+
+* Red de área personal.
+
++-------------------------------------------------------+
+| características                                       |
++-------------------------------------------------------+
+| Suelen usar bluetoth e infrarrojos                    |
+| Personal area network                                 |
+| Red de computadoras                                   |
+| Comunicación entre dispositivos muy cercanos entre sí |
++-------------------------------------------------------+
+
+[44m[1mLAN[0m
+
+* Red de área local.
+* Local area network.
+
++-------------------------------------------------------------------------------------------------------+
+| caracteríscas                                                                                         |
++-------------------------------------------------------------------------------------------------------+
+| Son redes que interconectan un área privada y restringida.                                            |
+| Son redes restringidas a un área privada, como por ejemplo un edificio, con una baja tasa de errores. |
++-------------------------------------------------------------------------------------------------------+
+
+[44m[1mMAN[0m
+
+* Red de área metropolitana.
+* Metropolitan area network.
+
++-------------------------------------------------------------------------------------------+
+| características                                                                           |
++-------------------------------------------------------------------------------------------+
+| Son redes que interconectan un área privada y restringida.                                |
+| Pueden surgir de la interconexión de redes locales cercanas.                              |
+| Abarcan ciudades enteras.                                                                 |
+| Usa tecnologías similares a las de las redes LAN.                                         |
+| Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes. |
++-------------------------------------------------------------------------------------------+
+
+[44m[1mWAN[0m
+
+* Red de área extensa.
+* Red de área extendida.
+* Wide area network.
+
++--------------------------------------------------------------------------------------------------+
+| características                                                                                  |
++--------------------------------------------------------------------------------------------------+
+| Es una red que intercomunica equipos en un área geográfica muy amplia como países o continentes. |
+| Usa tecnologías similares a las de las redes LAN pero en escalas geográficas más grandes.        |
+| Pueden surgir de la interconexión de redes locales cercanas.                                     |
+| Abarcan ciudades enteras.                                                                        |
+| Usa tecnologías similares a las de las redes LAN.                                                |
++--------------------------------------------------------------------------------------------------+
+
+[44m[1mHost[0m
+
+* Es un dispositivo con capacidad de interactuar en red y alojar algún tipo de servicio de la misma.
+
+
+[44m[1mTopología[0m
+
+* Forma de interconectar los diferentes host de una red.
+
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| topología          | conexión                                                                                                                                |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+| Bus                | Cada host está conectado a un cable común.                                                                                              |
+| Anillo             | Los dispositivos están conectados entre sí mediante una cadena.                                                                         |
+| Anillo doble       | Cada dispositivo forma parte de dos topologías en anillo independientes.                                                                |
+| Estrella           | Si el nodo central falla, falla todo.                                                                                                   |
+| Estrella extendida | Cableado más corto. Limita la cantidad de hosts que se pueden interconectar al nodo central.                                            |
+| Árbol o jerárquica | El enlace troncal es un cable con varias capas de ramificaciones.                                                                       |
+| Malla completa     | Cada nodo se conecta físicamente con los demás nodos, propiciando que exista redundancia de información que circula por distintas vías. |
+| Celular            | Tecnología inalámbrica en la que no hay enlaces físicos.                                                                                |
++--------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+
+[44m[1mSistema aislado[0m
+
+* Sistema de red incapaz de comunicarse con el exterior.
+
+
+[44m[1mSistema con conexión remota temporal[0m
+
+* Sistema que se conectan a otros sistemas temporalmente, pero que no tienen una disponibilidad permanente de estos servicios.
+
+
+[44m[1mSistema distribuido[0m
+
+* Red de ordenadores pero con la condición de que la existencia y uso de diferentes ordenadores es transparente al usuario.
+* Se realiza la solicitud del servicio, y la red nos lo facilita, sin entrar en detalles de quién soporta el mismo.
+
+
+[44m[1mProtocolo de comunicación[0m
+
+* Conjunto de reglas convenidas de mútuo acuerdo entre los participantes en una comunicación, cuya misión es regular algún aspecto de la misma.
+
+
+[44m[1mArquitectura de red[0m
+
+* Es la forma de organizar la comunicación en una red de ordenadores mediante la división del proceso en un conjunto organizado de capas y protocolos.
+* Permite unificar las reglas del juego y compatibilizar sistemas de diferentes fabricantes.
+
+
+[44m[1mOrganismo de normalización[0m
+
+* Encargados de establecer los estándares utilizados en diferentes áreas: telecomunicaciones, redes, sistemas móviles, etc, a nivel mundial.
+
