@@ -1,0 +1,167 @@
+==================================================
+Created by : asker (version 2.2.4)
+File       : reales-log.txt
+Time       : 2022-02-09 17:35:29 +0000
+Author     : David Vargas Ruiz
+==================================================
+
+[INFO] Project open
+   ├── inputdirs    = [1minput[0m
+   └── process_file = [1mreales.haml[0m
+
+[INFO] Showing concept data ([1mdefault[0m)
++---------------+---------------------------------------------------------------------------+
+| [1m1[0m             | [37m[44m[1mnúmero[0m (lang=es)                                                          |
+| [34mFilename[0m      | input/reales.haml                                                         |
+| [34mContext[0m       | numeros, reales, matematicas                                              |
+| [34mTags[0m          | concepto, abstracto, emplea, contar, cantidad, medir, etiquetar           |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m | Reales, dominio, Números Naturales, Números Enteros, números racionale    |
+| [34m.def(text)[0m    | Es un concepto abstracto que se emplea para contar (cantidades), medir... |
+|               | Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son ... |
+| [34m.tables[0m       | $característica                                                           |
+| [34m.neighbors[0m    | números irracionales(27.27)                                               |
+|               | Números Enteros(27.27)                                                    |
+|               | dominio(27.27)                                                            |
+|               | Reales(27.27)                                                             |
+|               | conjunto(27.27)                                                           |
++---------------+---------------------------------------------------------------------------+
++---------------+----------------------------------------------------------------------------+
+| [1m2[0m             | [37m[44m[1mReales[0m (lang=es)                                                           |
+| [34mFilename[0m      | input/reales.haml                                                          |
+| [34mContext[0m       | numeros, reales, matematicas                                               |
+| [34mTags[0m          | números, reales, matemáticas, racionales, irracionales, naturales, enteros |
+| [34mReference to[0m  | número, conjunto, Números Naturales, Números Enteros, números racional     |
+| [34mReferenced by[0m |                                                                            |
+| [34m.def(text)[0m    | Los números [*] son cualquier número que corresponda a un punto en la ...  |
+|               | Los números [*] pueden clasificarse en números naturales, enteros, rac...  |
+|               | Los números [*] son los números comprendidos entre los extremos infini...  |
+| [34m.tables[0m       | $característica                                                            |
+|               | $clasificación                                                             |
+| [34m.neighbors[0m    | Números Enteros(50.0)                                                      |
+|               | números racionales(50.0)                                                   |
+|               | números irracionales(41.66)                                                |
+|               | dominio(41.66)                                                             |
+|               | Números Naturales(41.66)                                                   |
++---------------+----------------------------------------------------------------------------+
++---------------+------------------------------------------------------------------------+
+| [1m3[0m             | [37m[44m[1mconjunto[0m (lang=es)                                                     |
+| [34mFilename[0m      | input/reales.haml                                                      |
+| [34mContext[0m       | numeros, reales, matematicas                                           |
+| [34mTags[0m          | conjunto                                                               |
+| [34mReference to[0m  |                                                                        |
+| [34mReferenced by[0m | Reales, Números Naturales, Números Enteros, números racionales, número |
+| [34m.def(text)[0m    |                                                                        |
+| [34m.tables[0m       | $conjunto$ejemplo                                                      |
+| [34m.neighbors[0m    | números irracionales(80.0)                                             |
+|               | Números Enteros(80.0)                                                  |
+|               | Números Naturales(80.0)                                                |
+|               | números racionales(80.0)                                               |
+|               | dominio(60.0)                                                          |
++---------------+------------------------------------------------------------------------+
++---------------+------------------------------+
+| [1m4[0m             | [37m[44m[1mdominio[0m (lang=es)            |
+| [34mFilename[0m      | input/reales.haml            |
+| [34mContext[0m       | numeros, reales, matematicas |
+| [34mTags[0m          | dominio, números, reales     |
+| [34mReference to[0m  | número                       |
+| [34mReferenced by[0m |                              |
+| [34m.def(text)[0m    |                              |
+| [34m.tables[0m       | $números$dominio             |
+| [34m.neighbors[0m    | Reales(71.42)                |
+|               | números irracionales(57.14)  |
+|               | Números Enteros(57.14)       |
+|               | Números Naturales(57.14)     |
+|               | números racionales(57.14)    |
++---------------+------------------------------+
++---------------+---------------------------------------------+
+| [1m5[0m             | [37m[44m[1mNúmeros Naturales[0m (lang=es)                 |
+| [34mFilename[0m      | input/reales.haml                           |
+| [34mContext[0m       | numeros, reales, matematicas                |
+| [34mTags[0m          | naturales, números, conjunto, cero          |
+| [34mReference to[0m  | número, conjunto                            |
+| [34mReferenced by[0m | Reales, Números Enteros, números racionales |
+| [34m.def(text)[0m    |                                             |
+| [34m.tables[0m       | $característica                             |
+| [34m.neighbors[0m    | Números Enteros(87.5)                       |
+|               | números racionales(87.5)                    |
+|               | números irracionales(62.5)                  |
+|               | Reales(62.5)                                |
+|               | conjunto(50.0)                              |
++---------------+---------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m6[0m             | [37m[44m[1mNúmeros Enteros[0m (lang=es)                                                 |
+| [34mFilename[0m      | input/reales.haml                                                         |
+| [34mContext[0m       | numeros, reales, matematicas                                              |
+| [34mTags[0m          | enteros, números, naturales, conjunto, cero, negativos                    |
+| [34mReference to[0m  | número, conjunto, Números Naturales                                       |
+| [34mReferenced by[0m | Reales, números racionales                                                |
+| [34m.def(text)[0m    | Los números enteros son todos los números naturales e incluyen el cero... |
+| [34m.tables[0m       | $incluye                                                                  |
+| [34m.neighbors[0m    | números racionales(90.0)                                                  |
+|               | Números Naturales(70.0)                                                   |
+|               | Reales(60.0)                                                              |
+|               | números irracionales(50.0)                                                |
+|               | conjunto(40.0)                                                            |
++---------------+---------------------------------------------------------------------------+
++---------------+-------------------------------------------------------------------------------+
+| [1m7[0m             | [37m[44m[1mnúmeros racionales[0m (lang=es)                                                  |
+| [34mFilename[0m      | input/reales.haml                                                             |
+| [34mContext[0m       | numeros, reales, matematicas                                                  |
+| [34mTags[0m          | enteros, números, naturales, conjunto, cero, negativos, fracciones, cocientes |
+| [34mReference to[0m  | número, conjunto, Números Naturales, Números Enteros                          |
+| [34mReferenced by[0m | Reales                                                                        |
+| [34m.def(text)[0m    | Los números racionales son las fracciones que pueden formarse a partir...     |
+| [34m.neighbors[0m    | Números Enteros(81.81)                                                        |
+|               | Números Naturales(63.63)                                                      |
+|               | Reales(54.54)                                                                 |
+|               | números irracionales(45.45)                                                   |
+|               | conjunto(36.36)                                                               |
++---------------+-------------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m8[0m             | [37m[44m[1mnúmeros irracionales[0m (lang=es)                                            |
+| [34mFilename[0m      | input/reales.haml                                                         |
+| [34mContext[0m       | numeros, reales, matematicas                                              |
+| [34mTags[0m          | números, irracionales, conjunto, decimales, exacto, periódico             |
+| [34mReference to[0m  | número, conjunto                                                          |
+| [34mReferenced by[0m | Reales                                                                    |
+| [34m.def(text)[0m    | Los números irracionales son números decimales que no pueden expresars... |
+| [34m.neighbors[0m    | números racionales(55.55)                                                 |
+|               | Números Naturales(55.55)                                                  |
+|               | Reales(55.55)                                                             |
+|               | Números Enteros(55.55)                                                    |
+|               | conjunto(44.44)                                                           |
++---------------+---------------------------------------------------------------------------+
+
+[INFO] Creating output files
+   ├── Gift questions file => [1moutput/reales-gift.txt[0m
+   ├── Lesson file         => [1moutput/reales-doc.txt[0m
+   ├── YAML questions file => [1moutput/reales.yaml[0m
+   └── Moodle XML file     => [1moutput/reales-moodle.xml[0m
+
+[INFO] Showing CONCEPT statistics
+ * Exclude questions: 
+ * Annotations:
+   ├── (d) Definitions     <= Concept.def
+   ├── (b) Table Matching  <= Concept.table.rows.columns
+   ├── (f) Tables 1 Field  <= Concept.table.fields.size==1
+   ├── (i) Images URL      <= Concept.def{:type => 'file'}
+   ├── (s) Sequences       <= Concept.table{:sequence => '...'}
+   └── (t) Table Rows&Cols <= Concept.table.rows.columns
+
++----------------------+-----------+---------+---------+----+---+----+---+---+----+
+| Concept              | Questions | Entries | xFactor | d  | b | f  | i | s | t  |
++----------------------+-----------+---------+---------+----+---+----+---+---+----+
+| [32m[1mnúmero[0m               | 28        | 6       | 4.67    | 19 | 0 | 9  | 0 | 0 | 0  |
+| [32m[1mReales[0m               | 64        | 13      | 4.92    | 30 | 0 | 34 | 0 | 0 | 0  |
+| [32m[1mconjunto[0m             | 35        | 8       | 4.38    | 0  | 2 | 0  | 0 | 0 | 33 |
+| [32m[1mdominio[0m              | 36        | 8       | 4.5     | 0  | 2 | 0  | 0 | 0 | 34 |
+| [32m[1mNúmeros Naturales[0m    | 3         | 2       | 1.5     | 0  | 0 | 3  | 0 | 0 | 0  |
+| [32m[1mNúmeros Enteros[0m      | 13        | 4       | 3.25    | 10 | 0 | 3  | 0 | 0 | 0  |
+| [32m[1mnúmeros racionales[0m   | 11        | 1       | 11.0    | 11 | 0 | 0  | 0 | 0 | 0  |
+| [32m[1mnúmeros irracionales[0m | 11        | 1       | 11.0    | 11 | 0 | 0  | 0 | 0 | 0  |
+| [33m[1mExcluded questions[0m   | 0         | -       | -       | 0  | 0 | 0  | 0 | 0 | 0  |
++----------------------+-----------+---------+---------+----+---+----+---+---+----+
+| [1mTOTAL = 8[0m            | [1m201[0m       | [1m43[0m      | [1m4.67[0m    | 81 | 4 | 49 | 0 | 0 | 67 |
++----------------------+-----------+---------+---------+----+---+----+---+---+----+
+

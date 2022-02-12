@@ -1,0 +1,51 @@
+==================================================
+Created by : asker (version 2.2.1)
+File       : reales-doc.txt
+Time       : 2022-02-07 06:54:20 +0000
+Author     : David Vargas Ruiz
+==================================================
+
+[44m[1mnúmeros reales[0m
+
+* Los números reales son cualquier número que corresponda a un punto en la recta real y pueden clasificarse en números naturales, enteros, racionales e irracionales.
+
++-----------------------------------------------------------------------------------------------+
+| características                                                                               |
++-----------------------------------------------------------------------------------------------+
+| Está comprendido entre menos infinito y más infinito y podemos representarlo en la recta real |
+| Son todos los números que encontramos más frecuentemente                                      |
+| Los números reales se representan mediante la letra R                                         |
++-----------------------------------------------------------------------------------------------+
++----------------------+----------------------------------------+
+| conjunto             | ejemplo                                |
++----------------------+----------------------------------------+
+| Números naturales    | (1,2,3,4…)                             |
+| Números enteros      | (…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)        |
+| Números racionales   | cualquier fracción de números enteros. |
+| Números irracionales | pi                                     |
++----------------------+----------------------------------------+
+
+[44m[1mDominio[0m
+
+* Los números reales son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto
+
+
+[44m[1mNúmeros Naturales[0m
+
+* Los números naturales es el primer conjunto de números que aprendemos de pequeños. Este conjunto no tiene en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral).
+
+
+[44m[1mNúmeros Enteros[0m
+
+* Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.
+
+
+[44m[1mNúmeros Racionales[0m
+
+* Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.
+
+
+[44m[1mNúmeros Irracionales[0m
+
+* Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.
+

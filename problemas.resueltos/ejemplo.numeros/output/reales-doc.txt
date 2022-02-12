@@ -1,0 +1,101 @@
+==================================================
+Created by : asker (version 2.2.4)
+File       : reales-doc.txt
+Time       : 2022-02-09 17:35:31 +0000
+Author     : David Vargas Ruiz
+==================================================
+
+[44m[1mnúmero[0m
+
+* Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.
+* Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales: 1, 2, 3 etc.
+
++----------------------------------+
+| característica                   |
++----------------------------------+
+| Es un concepto abstracto         |
+| Se emplea para contar cantidades |
+| Se emplea para medir magnitudes  |
+| Se emplea para etiquetar         |
++----------------------------------+
+
+[44m[1mReales[0m
+
+* Los números [*] son cualquier número que corresponda a un punto en la recta real.
+* Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.
+* Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto
+
++------------------------------------------------------+
+| característica                                       |
++------------------------------------------------------+
+| Está comprendido entre menos infinito y más infinito |
+| No incluiye los extremos infinitos en el conjunto    |
+| Podemos representarlo en la recta real               |
+| Son los números que encontramos más frecuentemente   |
+| Se representan mediante la letra R                   |
+| Corresponde a un punto en la recta real              |
++------------------------------------------------------+
++----------------------+
+| clasificación        |
++----------------------+
+| números naturales    |
+| números enteros      |
+| núnmeros racionales  |
+| números irracionales |
++----------------------+
+
+[44m[1mconjunto[0m
+
+
++----------------------+---------------------------------------+
+| conjunto             | ejemplo                               |
++----------------------+---------------------------------------+
+| Números naturales    | (1,2,3,4,...)                         |
+| Números enteros      | (...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...) |
+| Números racionales   | cualquier fracción de números enteros |
+| Números irracionales | PI                                    |
++----------------------+---------------------------------------+
+
+[44m[1mdominio[0m
+
+
++------------------+------------------------+
+| números          | dominio                |
++------------------+------------------------+
+| reales           | (-infinito, +infinito) |
+| reales positivos | [ 0, +infinito)        |
+| reales negativos | ( -infinito, 0 )       |
+| naturales        | (0, +infinito)         |
++------------------+------------------------+
+
+[44m[1mNúmeros Naturales[0m
+
+
++-------------------------------------------------------------------------------------------------------------+
+| característica                                                                                              |
++-------------------------------------------------------------------------------------------------------------+
+| Es el primer conjunto de números que aprendemos de pequeños                                                 |
+| Este conjunto no tiene en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral). |
++-------------------------------------------------------------------------------------------------------------+
+
+[44m[1mNúmeros Enteros[0m
+
+* Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.
+
++-----------------------+
+| incluye               |
++-----------------------+
+| Número naturales      |
+| El cero               |
+| Los números negativos |
++-----------------------+
+
+[44m[1mnúmeros racionales[0m
+
+* Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.
+
+
+[44m[1mnúmeros irracionales[0m
+
+* Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.
+

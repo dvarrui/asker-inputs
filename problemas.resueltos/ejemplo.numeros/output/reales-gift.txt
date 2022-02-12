@@ -1,0 +1,1464 @@
+// ==================================================
+// Created by : asker (version 2.2.4)
+// File       : reales-gift.txt
+// Time       : 2022-02-09 17:35:30 +0000
+// Author     : David Vargas Ruiz
+// ==================================================
+
+
+// ==================================================
+// Concept name: número
+// ==================================================
+::número-1-d1choose::[html]Definición\: <i>Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Números Enteros
+  =número
+  ~%-25%números irracionales
+  ~%-25%Ninguna es correcta
+}
+
+::número-2-d1none-misspelled::[html]Definición\: <i>Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Números Enteros
+  ~%-25%números irracionales
+  ~%-25%numero
+  =Ninguna es correcta
+  ####Option misspelled!\: número
+}
+
+::número-3-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTaaYV65FKBA39Us2ONXpVxgH9HNiCg0UK83A72C1_PcfD96gg-nuXTPzKCYw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%números irracionales
+  ~%-25%Números Enteros
+  ~%-25%dominio
+}
+
+::número-4-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTDraI-ppA7cm3fbmKq5hHeNneyK2vdlDrCcJIim3HImrc3Vg-UetUI-sBjng&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>número</b>\:<br/> <i>Es un concepto abstracto que se enplea para contar (cantidades), medir (magnitudes) y etiquetar.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Definition text misspelled!\: Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.
+}
+
+::número-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQBIgtTQZMcuoAsK4rV3GmepQ3rpEPVD4wlvBAyLQNsOoZ_0xIPM71p9lYLIw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>númeró</b>\:<br/> <i>Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Concept name misspelled!\: número
+}
+
+::número-6-d2true::[html]Definición de <b>número</b>\:<br/> <i>Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::número-7-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ56RfDehcxW9C6IpTJfTfaZqvtRU0AEstXnNwVhstsdQRQkvfBzFnoQPD7eA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>números irracionales</b>\:<br/> <i>Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::número-8-d3hidden::[html]Definición de <b>[*]</b>\:<br/> <i>Es un concepto abstracto que se emplea para contar (cantidades), medir (magnitudes) y etiquetar.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%número#
+  =%100%números#
+}
+
+::número-9-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSBPL-Has4QK4nBf2XH71Ixh20cYUkrMA7Ffqv2IGphToSvtYDeh_8P39FSPa0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>número</b>\:<br/> <i>Es un concepto [1] que se [2] para [3] (cantidades), [4] (magnitudes) y etiquetar.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> abstracto
+  =2 -> emplea
+  =3 -> contar
+  =4 -> medir
+}
+
+::número-10-d1choose::[html]Definición\: <i>Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Números Enteros
+  ~%-25%números irracionales
+  =número
+}
+
+::número-11-d1none-misspelled::[html]Definición\: <i>Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%números irracionales
+  ~%-25%núméro
+  ~%-25%Números Enteros
+  ####Option misspelled!\: número
+}
+
+::número-12-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQQYP6PtzSZJx7YJTdNgI8zDNkn79RiNM4KHLbPhahUq0hv9SXeRM-nppqrMEc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%números irracionales
+  ~%-25%dominio
+  ~%-25%Números Enteros
+  =Ninguna es correcta
+}
+
+::número-13-d2def-misspelled::[html]Definición de <b>número</b>\:<br/> <i>Los [*] más sencillos, ke utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.
+}
+
+::número-14-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTkIV18fI4xfswlgAIImtjVoPIki8fKuXcKjUvjAEYqq-RIP195AQ-H8x9KS3I&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>ñúmero</b>\:<br/> <i>Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Concept name misspelled!\: número
+}
+
+::número-15-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSofqHT2ADGXuTFy5nAsa84qJzXqlTfxOepnNVz59YR7S8r1uf1fF-h9lnA_g&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>número</b>\:<br/> <i>Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.</i><br/>
+{
+  =Verdadero
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+}
+
+::número-16-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQAkWKhyQi9I4-pW_tk0cJ0vHXIGwR2rpttJgUxekgOCmgZu61asipDX8KX6MQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>números irracionales</b>\:<br/> <i>Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::número-17-d3hidden::[html]Definición de <b>[*]</b>\:<br/> <i>Los [*] más sencillos, que utilizamos todos en la vida cotidiana, son los números naturales\: 1, 2, 3 etc.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%número#
+  =%100%números#
+}
+
+::número-18-d4filtered::[html]Definición de <b>número</b>\:<br/> <i>Los [*] más sencillos, que utilizamos todos en la [1] cotidiana, son los números [2] [3] 2, 3 [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> vida
+  =2 -> naturales\:
+  =3 -> 1,
+  =4 -> etc
+}
+
+::número-19-d4filtered::[html]Definición de <b>número</b>\:<br/> <i>Los [*] más sencillos, que utilizamos todos en la [1] cotidiana, [2] los números [3] 1, 2, 3 [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> vida
+  =2 -> son
+  =3 -> naturales\:
+  =4 -> etc
+}
+
+::número-21-f1short4-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>[*]</b>\:<ul><li>Se emplea para medir magnitudes</li><li>Es un concepto abstracto</li><li>Se emplea para contar cantidades</li><li>Se emplea para etiquetar</li></ul>
+{
+  =%100%número#
+}
+
+::número-22-f1name-misspelled4-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>múmero</b>\:<ul><li>Se emplea para medir magnitúdes</li><li>Se emplea para contar cantidades</li><li>Es un concepto abstracto</li><li>Se emplea para etiquetar</li></ul>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Concept name número misspelled!
+}
+
+::número-23-f1true-misspelled4-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQQYP6PtzSZJx7YJTdNgI8zDNkn79RiNM4KHLbPhahUq0hv9SXeRM-nppqrMEc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>número</b>\:<ul><li>Se enplea para medir magnitudes</li><li>Se emplea para contar cantidades</li><li>Se emplea para etiquetar</li><li>Es un concepto abstracto</li></ul>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Text Se emplea para medir magnitudes misspelled!
+}
+
+::número-24-f3filtered::[html]Los siguientes elementos son "Característica" del concepto <b>número</b>\:<br><p>(a) Se [1] para [2] cantidades, (b) Se [3] para medir magnitudes, (c) Se emplea para etiquetar, (d) Es un [4] abstracto.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> emplea
+  =2 -> contar
+  =3 -> emplea
+  =4 -> concepto
+  = -> cantidadez,
+}
+
+::número-25-f3filtered::[html]Los siguientes elementos son "Característica" del concepto <b>número</b>\:<br><p>(a) Se [1] para [2] cantidades, (b) Se emplea para medir [3] (c) Se emplea para [4] (d) Es un concepto abstracto.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> emplea
+  =2 -> contar
+  =3 -> magnitudes,
+  =4 -> etiquetar,
+  = -> emolea
+}
+
+::número-26-f1false-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS5G1rByH4vmZfvxb15mvjkBIVzMyL9bErj0-wAoJ_CyLD5JuNioFo6HVAYNL4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>número</b>\:<ul><li>Es un concepto abstracto</li><li>Podemos representarlo en la recta real</li><li>Se emplea para etiquetar</li><li>Se emplea para medir magnitudes</li></ul>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+  =Falso
+}
+
+::número-27-f2outsider-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQl6_ESLqzVmSYKLAgECBft6W7Co52yG9mZXm0BjPAeD8JarfqH5Xd4j8r1QO8&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica".<br/>Selecciona la opción que no pertenezca al concepto <b>número</b>.
+{
+  ~%-25%Se emplea para medir magnitudes
+  ~%-25%Se emplea para etiquetar
+  ~%-25%Es un concepto abstracto
+  =No incluiye los extremos infinitos en el conjunto
+}
+
+::número-28-f1false-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>número</b>\:<ul><li>Es el primer conjunto de números que aprendemos de pequeños</li><li>Se emplea para contar cantidades</li><li>Se emplea para etiquetar</li><li>Es un concepto abstracto</li></ul>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+  =Falso
+}
+
+::número-29-f2outsider-$característica::[html]Los siguientes elementos son "Característica".<br/>Selecciona la opción que no pertenezca al concepto <b>número</b>.
+{
+  ~%-25%Se emplea para contar cantidades
+  ~%-25%Es un concepto abstracto
+  ~%-25%Se emplea para etiquetar
+  =Corresponde a un punto en la recta real
+}
+
+
+// ==================================================
+// Concept name: Reales
+// ==================================================
+::Reales-1-d1choose::[html]Definición\: <i>Los números [*] son cualquier número que corresponda a un punto en la recta real.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Números Enteros
+  =Reales
+  ~%-25%Ninguna es correcta
+  ~%-25%números racionales
+}
+
+::Reales-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQJu2cnuXRJU12_3yxye9K9vUpf7mNGv8P6v5_1maql4YSyiiuyxMGNDiHW2g&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números [*] son cualquier número que corresponda a un punto en la recta real.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%números racionales
+  =Ninguna es correcta
+  ~%-25%Reares
+  ~%-25%Números Enteros
+  ####Option misspelled!\: Reales
+}
+
+::Reales-3-d1none::[html]Definición\: <i>Los números [*] son cualquier número que corresponda a un punto en la recta real.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%números racionales
+  ~%-25%números irracionales
+  ~%-25%Números Enteros
+  =Ninguna es correcta
+}
+
+::Reales-4-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSFtzzusha4Cnf-k8Vs0Sd36ZwLq919vUZUlPCbXEZAYyOuePMYymEZbtgRGA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Reales</b>\:<br/> <i>Los números [*] son cúalquier número que corresponda a un punto en la recta real.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Los números [*] son cualquier número que corresponda a un punto en la recta real.
+}
+
+::Reales-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQUBiRFadnr6E2QPCpQzCgVp_jRAKFHPgDwjRAQIDB8yCgo92Jf8VYXrF7sTQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Relaes</b>\:<br/> <i>Los números [*] son cualquier número que corresponda a un punto en la recta real.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: Reales
+}
+
+::Reales-6-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSBPL-Has4QK4nBf2XH71Ixh20cYUkrMA7Ffqv2IGphToSvtYDeh_8P39FSPa0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Reales</b>\:<br/> <i>Los números [*] son cualquier número que corresponda a un punto en la recta real.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Reales-7-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRpawCcMCTa_Bvex80byCGwall8V8De7h5mXWaeLaPpISD7n-hZKk4R7JPOtA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Números Enteros</b>\:<br/> <i>Los números [*] son cualquier número que corresponda a un punto en la recta real.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::Reales-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR1FqOIL3d7C-sRXHGEBUmRMG04utdXLmxQUvOtkC_C3J64VIX7lFe-sgnkOBE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Los números [*] son cualquier número que corresponda a un punto en la recta real.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Reales#
+  =%100%números reales#
+}
+
+::Reales-9-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTqMK7x4Y-hj-KM7LSE9Iy1unfnAc5A8KgXCmKEe-tUlGG0My1g_7UEqEGL-Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Reales</b>\:<br/> <i>Los [1] [*] son [2] número que [3] a un punto en la recta [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> números
+  =2 -> cualquier
+  =3 -> corresponda
+  =4 -> real
+}
+
+::Reales-10-d4filtered::[html]Definición de <b>Reales</b>\:<br/> <i>Los [1] [*] [2] [3] número que corresponda a un punto en la recta [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> números
+  =2 -> son
+  =3 -> cualquier
+  =4 -> real
+}
+
+::Reales-11-d1choose::[html]Definición\: <i>Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Números Enteros
+  =Reales
+  ~%-25%Ninguna es correcta
+  ~%-25%números racionales
+}
+
+::Reales-12-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQAkWKhyQi9I4-pW_tk0cJ0vHXIGwR2rpttJgUxekgOCmgZu61asipDX8KX6MQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Números Enteros
+  =Ninguna es correcta
+  ~%-25%números racionales
+  ~%-25%Relaes
+  ####Option misspelled!\: Reales
+}
+
+::Reales-13-d1none::[html]Definición\: <i>Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%números irracionales
+  ~%-25%Números Enteros
+  =Ninguna es correcta
+  ~%-25%números racionales
+}
+
+::Reales-14-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQW-6dtmyugxtlUL5cP7jVQwpj2R6UcGZqbJu-xakHJIEd3_kd_iIRW4mzOqoM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Reales</b>\:<br/> <i>Los núméros [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.
+}
+
+::Reales-15-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT2tZzsDOXYtVgqIXGxy9hm0zg7xqkj3CHy4E5F5qXq4SbxdsVfULYzBFGCgw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Realea</b>\:<br/> <i>Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Concept name misspelled!\: Reales
+}
+
+::Reales-16-d2true::[html]Definición de <b>Reales</b>\:<br/> <i>Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Falso
+  =Verdadero
+}
+
+::Reales-17-d2false-misspelled::[html]Definición de <b>Números Enteros</b>\:<br/> <i>Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::Reales-18-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSccOY7zW4pqHmyoM-lzQp657sGkPVUJQn_yyl5sqU41BChfSKbgSs9VoygND4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Los números [*] pueden clasificarse en números naturales, enteros, racionales e irracionales.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Reales#
+  =%100%números reales#
+}
+
+::Reales-19-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTK3FNl_lO-A0WthQag9J4ll25Xoas85xa4AR9kF22NZf4WQOQG7anRy8q8zuM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Reales</b>\:<br/> <i>Los números [*] pueden [1] en números [2] enteros, [3] e [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> clasificarse
+  =2 -> naturales,
+  =3 -> racionales
+  =4 -> irracionales
+}
+
+::Reales-20-d4filtered::[html]Definición de <b>Reales</b>\:<br/> <i>Los números [*] pueden clasificarse en números [1] [2] [3] e [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> naturales,
+  =2 -> enteros,
+  =3 -> racionales
+  =4 -> irracionales
+}
+
+::Reales-21-d1choose::[html]Definición\: <i>Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Reales
+  ~%-25%números racionales
+  ~%-25%Números Enteros
+  ~%-25%Ninguna es correcta
+}
+
+::Reales-22-d1none-misspelled::[html]Definición\: <i>Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Números Enteros
+  ~%-25%Reares
+  ~%-25%números racionales
+  =Ninguna es correcta
+  ####Option misspelled!\: Reales
+}
+
+::Reales-23-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRe7yk36IXKggDnZIloWmMFFG-GJmjcCK0GIl0QquohkaE_nGoAEliGKZ3mXJc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%números irracionales
+  ~%-25%Números Enteros
+  =Ninguna es correcta
+  ~%-25%números racionales
+}
+
+::Reales-24-d2def-misspelled::[html]Definición de <b>Reales</b>\:<br/> <i>Los ñúmeros [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Definition text misspelled!\: Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto
+}
+
+::Reales-25-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRnGT_brHqGsFzlkGgdJRtBaL05HNyvSGgrrINfU--MuqNBO69xZO8LM201ACg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Reeles</b>\:<br/> <i>Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Concept name misspelled!\: Reales
+}
+
+::Reales-26-d2true::[html]Definición de <b>Reales</b>\:<br/> <i>Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::Reales-27-d2false-misspelled::[html]Definición de <b>Números Enteros</b>\:<br/> <i>Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Falso
+  ~%-33.33333%Error ortográfico
+}
+
+::Reales-28-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTjdEJdQFmBUBIi52XSF7RUOy-OQIXmY_EyUqJqrpbcp7FwfUBY1b_62ZBg79Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>[*]</b>\:<br/> <i>Los números [*] son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Reales#
+  =%100%números reales#
+}
+
+::Reales-29-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRbbtxM1pL1uZX3xTlb8XhHfck6jYJSL6MnesxW8LGJw4br-QDo07fs_JnC8xo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Reales</b>\:<br/> <i>Los números [*] son los [1] comprendidos entre los extremos infinitos. Es [2] [3] incluiremos estos infinitos en el [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> números
+  =2 -> decir,
+  =3 -> no
+  =4 -> conjunto
+}
+
+::Reales-30-d4filtered::[html]Definición de <b>Reales</b>\:<br/> <i>Los números [*] [1] los [2] comprendidos entre los [3] infinitos. Es [4] no incluiremos estos infinitos en el conjunto.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> son
+  =2 -> números
+  =3 -> extremos
+  =4 -> decir,
+}
+
+::Reales-32-f1short4-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>[*]</b>\:<ul><li>Está comprendido entre menos infinito y más infinito</li><li>Son los números que encontramos más frecuentemente</li><li>Se representan mediante la letra R</li><li>Podemos representarlo en la recta real</li></ul>
+{
+  =%100%Reales#
+}
+
+::Reales-33-f1name-misspelled4-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQQYP6PtzSZJx7YJTdNgI8zDNkn79RiNM4KHLbPhahUq0hv9SXeRM-nppqrMEc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Realea</b>\:<ul><li>Son los números que encontramos mhás frecuentemente</li><li>Está comprendido entre menos infinito y más infinito</li><li>Se representan mediante la letra R</li><li>Podemos representarlo en la recta real</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Concept name Reales misspelled!
+}
+
+::Reales-34-f1true-misspelled4-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT52GsH7dtTtYjq8ay_y34L4QlURTGuBP3J0CtI8bMI1wkOQPAJUhvLw1zlPw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<ul><li>Son los núneros que encontramos más frecuentemente</li><li>Se representan mediante la letra R</li><li>Podemos representarlo en la recta real</li><li>Está comprendido entre menos infinito y más infinito</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Text Son los números que encontramos más frecuentemente misspelled!
+}
+
+::Reales-35-f3filtered::[html]Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) [1] representarlo en la [2] real, (b) Son los números que encontramos más frecuentemente, (c) Se representan mediante la letra [3] (d) Está [4] entre menos infinito y más infinito.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> podemos
+  =2 -> recta
+  =3 -> r,
+  =4 -> comprendido
+  = -> encontramas 
+}
+
+::Reales-36-f3filtered::[html]Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Podemos representarlo en la recta [1] (b) [2] los números que encontramos más frecuentemente, (c) Se representan mediante la [3] R, (d) Está [4] entre menos infinito y más infinito.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> real,
+  =2 -> son
+  =3 -> letra
+  =4 -> comprendido
+  = -> compréndido
+}
+
+::Reales-37-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQWyQH58QiQ_bvhchoszSuBnK9MAptuFjLqwt5UcgDONKbMK1QmuSGvHjK8pw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) [1] [2] en la recta real, (b) Son los números que encontramos más frecuentemente, (c) Se representan [3] la letra R, (d) Está comprendido entre [4] infinito y más infinito.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> podemos
+  =2 -> representarlo
+  =3 -> mediante
+  =4 -> menos
+  = -> podemoz
+}
+
+::Reales-38-f3filtered::[html]Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Podemos representarlo en la recta real, (b) Son los [1] que encontramos más frecuentemente, (c) Se representan [2] la letra R, (d) Está [3] entre menos [4] y más infinito.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> números
+  =2 -> mediante
+  =3 -> comprendido
+  =4 -> infinito
+  = -> frecuemtemente,
+}
+
+::Reales-40-f1short4-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>[*]</b>\:<ul><li>Son los números que encontramos más frecuentemente</li><li>Corresponde a un punto en la recta real</li><li>Podemos representarlo en la recta real</li><li>Está comprendido entre menos infinito y más infinito</li></ul>
+{
+  =%100%Reales#
+}
+
+::Reales-41-f1name-misspelled4-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS-3XflWeDgnXCsFL-9NVSsSKUi4xR-cdAnxMP4kvekhG6KQglZ36JZDKmH_Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Realez</b>\:<ul><li>Son los números que enkontramos más frecuentemente</li><li>Podemos representarlo en la recta real</li><li>Corresponde a un punto en la recta real</li><li>Está comprendido entre menos infinito y más infinito</li></ul>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Concept name Reales misspelled!
+}
+
+::Reales-42-f1true-misspelled4-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSM3O58XNBWGKfzvuWDlqF33FhNyW5ga89ClYwuPZ3Os5cAyh56TnEkOuZ057c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<ul><li>Podemos representallo en la recta real</li><li>Está comprendido entre menos infinito y más infinito</li><li>Corresponde a un punto en la recta real</li><li>Son los números que encontramos más frecuentemente</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Text Podemos representarlo en la recta real misspelled!
+}
+
+::Reales-43-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSFtzzusha4Cnf-k8Vs0Sd36ZwLq919vUZUlPCbXEZAYyOuePMYymEZbtgRGA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Corresponde a un [1] en la recta real, (b) [2] los números que [3] más frecuentemente, (c) Está comprendido entre menos infinito y más [4] (d) Podemos representarlo en la recta real.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> punto
+  =2 -> son
+  =3 -> encontramos
+  =4 -> infinito,
+  = -> (ha)
+}
+
+::Reales-44-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTvVz5-bQqW9Q-SCa6sQ0ce19QSu2SFA0SLQMp1d2yuHfRyX6TQibHJz9F_-w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Corresponde a un punto en la [1] real, (b) [2] los [3] que encontramos más [4] (c) Está comprendido entre menos infinito y más infinito, (d) Podemos representarlo en la recta real.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> recta
+  =2 -> son
+  =3 -> números
+  =4 -> frecuentemente,
+  = -> (á)
+}
+
+::Reales-45-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRoTxq-WnGicP7Yat9uqlQzpjrs5rDz6VI83OtbQKN_d8bkpzRNFkPZFW7X2Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Corresponde a un punto en la [1] [2] (b) Son los números que encontramos más frecuentemente, (c) [3] comprendido entre menos infinito y más infinito, (d) [4] representarlo en la recta real.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> recta
+  =2 -> real,
+  =3 -> está
+  =4 -> podemos
+  = -> rectha
+}
+
+::Reales-46-f3filtered::[html]Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Corresponde a un punto en la recta real, (b) [1] los números que encontramos más frecuentemente, (c) [2] comprendido entre [3] infinito y más infinito, (d) Podemos [4] en la recta real.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> son
+  =2 -> está
+  =3 -> menos
+  =4 -> representarlo
+  = -> esta
+}
+
+::Reales-48-f1short4-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQjG4kX4mSgZXmbHKZ5uJxFkgf9tLGbqaPpz-GrdNCflW0NBahk5s8ZTpc5U4E&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>[*]</b>\:<ul><li>Corresponde a un punto en la recta real</li><li>Está comprendido entre menos infinito y más infinito</li><li>No incluiye los extremos infinitos en el conjunto</li><li>Son los números que encontramos más frecuentemente</li></ul>
+{
+  =%100%Reales#
+}
+
+::Reales-49-f1name-misspelled4-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT9PvCpLQA-OCTmVnYeegV_jTSzoBeoxKLVU_9OAURrj80koq1fID4uWMOmMiA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reoles</b>\:<ul><li>Son ros números que encontramos más frecuentemente</li><li>Corresponde a un punto en la recta real</li><li>Está comprendido entre menos infinito y más infinito</li><li>No incluiye los extremos infinitos en el conjunto</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Concept name Reales misspelled!
+}
+
+::Reales-50-f1true-misspelled4-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<ul><li>No imcluiye los extremos infinitos en el conjunto</li><li>Corresponde a un punto en la recta real</li><li>Está comprendido entre menos infinito y más infinito</li><li>Son los números que encontramos más frecuentemente</li></ul>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Text No incluiye los extremos infinitos en el conjunto misspelled!
+}
+
+::Reales-51-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRnGT_brHqGsFzlkGgdJRtBaL05HNyvSGgrrINfU--MuqNBO69xZO8LM201ACg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) [1] los números que encontramos más frecuentemente, (b) Corresponde a un punto en la recta real, (c) [2] comprendido entre menos infinito y más infinito, (d) [3] [4] los extremos infinitos en el conjunto.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> son
+  =2 -> está
+  =3 -> no
+  =4 -> incluiye
+  = -> ynfinito
+}
+
+::Reales-52-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS997NMRawbaw_4XI2sC1kq3PTg0bD6xZeVeM4CSHB5l0HwyeeO42o42-IDhg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Son los números que encontramos más frecuentemente, (b) Corresponde a un punto en la [1] [2] (c) Está comprendido entre menos infinito y más infinito, (d) No incluiye los [3] [4] en el conjunto.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> recta
+  =2 -> real,
+  =3 -> extremos
+  =4 -> infinitos
+  = -> conjúnto
+}
+
+::Reales-53-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRd7pSoZk5Dy2r_YyVeEdazs1jvG0lk6-3GWMBoPupjj-MYmu3_QkEch_vKjQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Son los números que encontramos más frecuentemente, (b) Corresponde a un punto en la recta [1] (c) Está [2] entre menos infinito y más [3] (d) No [4] los extremos infinitos en el conjunto.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> real,
+  =2 -> comprendido
+  =3 -> infinito,
+  =4 -> incluiye
+  = -> (v)
+}
+
+::Reales-54-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTq-N8oQJN1aiVW3H71cbJtz6TVGbJsZ5CtMI-GV1wuOuv7TSBCPlZeDQuELEs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<br><p>(a) Son los números que encontramos más frecuentemente, (b) Corresponde a un punto en la recta [1] (c) Está comprendido entre menos infinito y más [2] (d) [3] [4] los extremos infinitos en el conjunto.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> real,
+  =2 -> infinito,
+  =3 -> no
+  =4 -> incluiye
+  = -> ño
+}
+
+::Reales-55-f1false-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRaAWyo57Ry5nd7urBATkRrRKN8O6iDIJG9QqYSNFaGVhBJkVFwYoIt6w_enXg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<ul><li>Podemos representarlo en la recta real</li><li>Se representan mediante la letra R</li><li>Este conjunto no tiene en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral).</li><li>Son los números que encontramos más frecuentemente</li></ul>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Reales-56-f2outsider-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRe7yk36IXKggDnZIloWmMFFG-GJmjcCK0GIl0QquohkaE_nGoAEliGKZ3mXJc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica".<br/>Selecciona la opción que no pertenezca al concepto <b>Reales</b>.
+{
+  ~%-25%Se representan mediante la letra R
+  =Es el primer conjunto de números que aprendemos de pequeños
+  ~%-25%Podemos representarlo en la recta real
+  ~%-25%Son los números que encontramos más frecuentemente
+}
+
+::Reales-57-f1false-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<ul><li>Se emplea para contar cantidades</li><li>Está comprendido entre menos infinito y más infinito</li><li>Son los números que encontramos más frecuentemente</li><li>Podemos representarlo en la recta real</li></ul>
+{
+  =Falso
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+}
+
+::Reales-58-f2outsider-$característica::[html]Los siguientes elementos son "Característica".<br/>Selecciona la opción que no pertenezca al concepto <b>Reales</b>.
+{
+  ~%-25%Podemos representarlo en la recta real
+  ~%-25%Son los números que encontramos más frecuentemente
+  ~%-25%Está comprendido entre menos infinito y más infinito
+  =Se emplea para medir magnitudes
+}
+
+::Reales-59-f1false-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRAGPJLV4FEbIp_ITQ3WqrltQHFdNS2xnRe6ATC28HVBk27PNa4BS29ydJLqg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<ul><li>Está comprendido entre menos infinito y más infinito</li><li>Son los números que encontramos más frecuentemente</li><li>No incluiye los extremos infinitos en el conjunto</li><li>Es un concepto abstracto</li></ul>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Reales-60-f2outsider-$característica::[html]Los siguientes elementos son "Característica".<br/>Selecciona la opción que no pertenezca al concepto <b>Reales</b>.
+{
+  =Se emplea para medir magnitudes
+  ~%-25%Está comprendido entre menos infinito y más infinito
+  ~%-25%Son los números que encontramos más frecuentemente
+  ~%-25%No incluiye los extremos infinitos en el conjunto
+}
+
+::Reales-61-f1false-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQf1mbBhILq3X0ZHuYMbdzsHM-SB7A2GUmPJgK0B63aAimo43FP3SMfdi9pZf4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica" del concepto <b>Reales</b>\:<ul><li>No incluiye los extremos infinitos en el conjunto</li><li>Corresponde a un punto en la recta real</li><li>Está comprendido entre menos infinito y más infinito</li><li>Es el primer conjunto de números que aprendemos de pequeños</li></ul>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::Reales-62-f2outsider-$característica::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRoTxq-WnGicP7Yat9uqlQzpjrs5rDz6VI83OtbQKN_d8bkpzRNFkPZFW7X2Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Característica".<br/>Selecciona la opción que no pertenezca al concepto <b>Reales</b>.
+{
+  ~%-25%Corresponde a un punto en la recta real
+  =Se emplea para etiquetar
+  ~%-25%Está comprendido entre menos infinito y más infinito
+  ~%-25%No incluiye los extremos infinitos en el conjunto
+}
+
+::Reales-64-f1short4-$clasificación::[html]Los siguientes elementos son "Clasificación" del concepto <b>[*]</b>\:<ul><li>números irracionales</li><li>números naturales</li><li>números enteros</li><li>núnmeros racionales</li></ul>
+{
+  =%100%Reales#
+}
+
+::Reales-65-f1name-misspelled4-$clasificación::[html]Los siguientes elementos son "Clasificación" del concepto <b>Realez</b>\:<ul><li>núneros irracionales</li><li>números naturales</li><li>núnmeros racionales</li><li>números enteros</li></ul>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Concept name Reales misspelled!
+}
+
+::Reales-66-f1true-misspelled4-$clasificación::[html]Los siguientes elementos son "Clasificación" del concepto <b>Reales</b>\:<ul><li>núneros naturales</li><li>núnmeros racionales</li><li>números irracionales</li><li>números enteros</li></ul>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Text números naturales misspelled!
+}
+
+::Reales-67-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQtMLygdhD875rVKHtDEJfNDEcnlGGs6Fkf-5_Vl81Zvx7FXvBeDen4tNJGk9s&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Clasificación" del concepto <b>Reales</b>\:<br><p>(a) números [1] (b) [2] enteros, (c) [3] [4] (d) núnmeros racionales.</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> irracionales,
+  =2 -> números
+  =3 -> números
+  =4 -> naturales,
+  = -> (s)
+}
+
+::Reales-68-f3filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQSLQuoSJJhXVkIdzPD3AfihAUtboCETG-M2zg1ZWTMPB2bs69uYG6sJnEFTlI&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Clasificación" del concepto <b>Reales</b>\:<br><p>(a) números [1] (b) [2] enteros, (c) [3] naturales, (d) núnmeros [4].</p>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> irracionales,
+  =2 -> números
+  =3 -> números
+  =4 -> racionales
+  = -> maturales,
+}
+
+
+// ==================================================
+// Concept name: conjunto
+// ==================================================
+::conjunto-1-b1match4x4-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR56qKUL6LhPEbly5qG4w9o-AYyW4OqCbGDnAHWANVWeaN7rcjmt6Xw-ERLXxA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>conjunto</b>, asocia cada "Conjunto" con su "Ejemplo".<br/>
+{
+  =Números naturales -> (1,2,3,4,...)
+  =Números enteros -> (...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)
+  =Números irracionales -> PI
+  = -> IP
+  =Números racionales -> cualquier fracción de números enteros
+}
+
+::conjunto-2-b1match3x1misspelled-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTDraI-ppA7cm3fbmKq5hHeNneyK2vdlDrCcJIim3HImrc3Vg-UetUI-sBjng&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>conjunto</b>, asocia cada "Conjunto" con su "Ejemplo".<br/>
+{
+  =Numeros racionales -> Error ortográfico
+  = -> (...,-4,-3,-2,-,1 0, 1, 2, 3, 4, ...)
+  =Números irracionales -> PI
+  =Números naturales -> (1,2,3,4,...)
+  =Números enteros -> (...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)
+}
+
+::conjunto-3-t1table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Conjunto\: [*]<br/>Ejemplo\: "(1,2,3,4,...)"<br/>Elige la opción correcta.<br/>
+{
+  =Números naturales
+  ~%-25%Ninguna es correcta
+  ~%-25%Números irracionales
+  ~%-25%Números racionales
+}
+
+::conjunto-4-t2table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Conjunto\: [*]<br/>Ejemplo\: "(1,2,3,4,...)"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Números enteros
+  =Ninguna es correcta
+  ~%-25%Números racionales
+  ~%-25%Números irracionales
+}
+
+::conjunto-5-t3table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTweq57Ct3V4cBoqbSUx6juOl63AdFxoAvqSyl2LIRHpF5ptFkuci_9MbRvpw8&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Conjunto\: "Números naturales"<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%PI
+  =(1,2,3,4,...)
+  ~%-25%cualquier fracción de números enteros
+}
+
+::conjunto-6-t4table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTBa7YAU1wLfwiIS4q7gZzcV3U7_T6hGukiN4uwiSCLO_Q9EvO7hW8m6YgjWg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Conjunto\: "Números naturales"<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%PI
+  ~%-25%cualquier fracción de números enteros
+  ~%-25%(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)
+}
+
+::conjunto-7t5table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números naturales"</li><li>Ejemplo\: "(1,2,3,4,...)"</li></ul>
+{TRUE####}
+
+::conjunto-8-t6table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTx4G3HELke80J0frwOdvwrfSYEZRkKk9vQmTtG-j5QtNIYf_msUDaC33CRaw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números naturales"</li><li>Ejemplo\: "PI"</li></ul>
+{FALSE####}
+
+::conjunto-9t7table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS-3XflWeDgnXCsFL-9NVSsSKUi4xR-cdAnxMP4kvekhG6KQglZ36JZDKmH_Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números irracionales"</li><li>Ejemplo\: "(1,2,3,4,...)"</li></ul>
+{FALSE####}
+
+::conjunto-10t9table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Completa la siguiente asociación\:<br/><ul><li>Ejemplo\: "(1,2,3,4,...)"</li><li>Conjunto\: [??????? ?????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Números naturales#
+}
+
+::conjunto-11-t1table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQAkWKhyQi9I4-pW_tk0cJ0vHXIGwR2rpttJgUxekgOCmgZu61asipDX8KX6MQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Conjunto\: [*]<br/>Ejemplo\: "(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Números naturales
+  ~%-25%Ninguna es correcta
+  =Números enteros
+  ~%-25%Números racionales
+}
+
+::conjunto-12-t2table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Conjunto\: [*]<br/>Ejemplo\: "(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)"<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Números naturales
+  ~%-25%Números racionales
+  ~%-25%Números irracionales
+}
+
+::conjunto-13-t3table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQncdHDtiUVLxfQP7lUcKS5BYwG81q3kaG33KbjfPBK-hWYMC3aXyl_ijJ0AA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Conjunto\: "Números enteros"<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%cualquier fracción de números enteros
+  ~%-25%Ninguna es correcta
+  =(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)
+  ~%-25%(1,2,3,4,...)
+}
+
+::conjunto-14-t4table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Conjunto\: "Números enteros"<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%(1,2,3,4,...)
+  =Ninguna es correcta
+  ~%-25%PI
+  ~%-25%cualquier fracción de números enteros
+}
+
+::conjunto-15t5table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRCjj8fVIXL5Q6xzALN3mBBEWkUC55nnkJB2NV-Z9oSL9xuOWQdrsJ87Hm2dw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números enteros"</li><li>Ejemplo\: "(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)"</li></ul>
+{TRUE####}
+
+::conjunto-16-t6table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números enteros"</li><li>Ejemplo\: "(1,2,3,4,...)"</li></ul>
+{FALSE####}
+
+::conjunto-17t7table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSXxczO1iVDWHGgThVTqFid1EsOWzZ_FnLdXl3fYKlM3cGmYQhfWoBTp1pijlI&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números naturales"</li><li>Ejemplo\: "(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)"</li></ul>
+{FALSE####}
+
+::conjunto-18t9table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Completa la siguiente asociación\:<br/><ul><li>Ejemplo\: "(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)"</li><li>Conjunto\: [??????? ???????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Números enteros#
+}
+
+::conjunto-19-t1table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS5v5wMVuTKZhpK8sqlVzS7d42P0-0zKuTigsf71arNmv_SmvIckDPs495RILQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Conjunto\: [*]<br/>Ejemplo\: "cualquier fracción de números enteros"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Números enteros
+  =Números racionales
+  ~%-25%Números irracionales
+}
+
+::conjunto-20-t2table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Conjunto\: [*]<br/>Ejemplo\: "cualquier fracción de números enteros"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Números naturales
+  ~%-25%Números irracionales
+  =Ninguna es correcta
+  ~%-25%Números enteros
+}
+
+::conjunto-21-t3table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Conjunto\: "Números racionales"<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%PI
+  ~%-25%Ninguna es correcta
+  =cualquier fracción de números enteros
+  ~%-25%(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)
+}
+
+::conjunto-22-t4table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ6PXVnjpb9CIKNzGoa9AMI5UMaBvgQbdNa4Mxp0fP6bYqalrjUkIvINxCdmUM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Conjunto\: "Números racionales"<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)
+  ~%-25%(1,2,3,4,...)
+  ~%-25%PI
+  =Ninguna es correcta
+}
+
+::conjunto-23t5table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRKVVdgboZGqpXpBnWW1_ECIBRuGu919WwPvHm7rjA6LrjFGd8asEASey--aA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números racionales"</li><li>Ejemplo\: "cualquier fracción de números enteros"</li></ul>
+{TRUE####}
+
+::conjunto-24-t6table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSoAfaxi1cQZ_kgifF1-YhFXleY0dcYIFCtBOgkx8TglvQyapHFpDBumETLJA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números racionales"</li><li>Ejemplo\: "PI"</li></ul>
+{FALSE####}
+
+::conjunto-25t7table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTu0csFBE9-b_RxZSRLeJy_3vRpM-IqRnWU3hX_wfGxA7tEQG7bJsu49CVANPM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números irracionales"</li><li>Ejemplo\: "cualquier fracción de números enteros"</li></ul>
+{FALSE####}
+
+::conjunto-26t9table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR4wmBpyX8dWEe_R2bwIR5niPswHznpR8BwdC18rYJ-sJ5Ze49R7Y8MMV6uiRY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Completa la siguiente asociación\:<br/><ul><li>Ejemplo\: "cualquier fracción de números enteros"</li><li>Conjunto\: [??????? ??????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Números racionales#
+}
+
+::conjunto-27-t1table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRU8uAb33E74BbIxJ4URmSVUd_SoICl8GkR6GF7sMM2zMTNpX4zThv9TJG_yw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Conjunto\: [*]<br/>Ejemplo\: "PI"<br/>Elige la opción correcta.<br/>
+{
+  =Números irracionales
+  ~%-25%Números racionales
+  ~%-25%Números naturales
+  ~%-25%Ninguna es correcta
+}
+
+::conjunto-28-t2table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Conjunto\: [*]<br/>Ejemplo\: "PI"<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Números enteros
+  ~%-25%Números naturales
+  ~%-25%Números racionales
+}
+
+::conjunto-29-t3table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ_iSO_4U6Jw0Ako_ZP80ViCVmQerePM1-m1WDIpl0Vb0JZr-RY0g9BQ50fhSI&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Conjunto\: "Números irracionales"<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  =PI
+  ~%-25%(1,2,3,4,...)
+  ~%-25%cualquier fracción de números enteros
+}
+
+::conjunto-30-t4table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Conjunto\: "Números irracionales"<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%(...,-4,-3,-2,-1, 0, 1, 2, 3, 4, ...)
+  ~%-25%cualquier fracción de números enteros
+  ~%-25%(1,2,3,4,...)
+  =Ninguna es correcta
+}
+
+::conjunto-31t5table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números irracionales"</li><li>Ejemplo\: "PI"</li></ul>
+{TRUE####}
+
+::conjunto-32-t6table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ7gXsJixVQMqShXm8B3DM6WQsLicBheHnzmCuoXAortdVnr2YHr80N04otJQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números irracionales"</li><li>Ejemplo\: "cualquier fracción de números enteros"</li></ul>
+{FALSE####}
+
+::conjunto-33t7table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Conjunto\: "Números racionales"</li><li>Ejemplo\: "PI"</li></ul>
+{FALSE####}
+
+::conjunto-34t9table-$conjunto$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRT28DpdUSJAhIfQDptNdzLuaiWVwD5gQiUjHuAvv-jRYpV9sqvmnkkd9E0j6w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>conjunto</b><br/>Completa la siguiente asociación\:<br/><ul><li>Ejemplo\: "PI"</li><li>Conjunto\: [??????? ????????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Números irracionales#
+}
+
+::conjunto-35t8table-$conjunto$ejemplo::[html]Concepto <b>conjunto</b><br/>Completa la siguiente asociación\:<br/><ul><li>Conjunto\: "Números irracionales"</li><li>Ejemplo\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%PI#
+}
+
+
+// ==================================================
+// Concept name: dominio
+// ==================================================
+::dominio-1-b1match4x4-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSOTlX-h2eXyJzHUzsKwQtGSsqXsxeChOQwZK0olituIpdCgAEDAeNSHeiW3Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>dominio</b>, asocia cada "Números" con su "Dominio".<br/>
+{
+  =reales positivos -> [ 0, +infinito)
+  =reales negativos -> ( -infinito, 0 )
+  = -> (-infinipo, +infinito)
+  =naturales -> (0, +infinito)
+  =reales -> (-infinito, +infinito)
+}
+
+::dominio-2-b1match3x1misspelled-$números$dominio::[html]En relación al concepto <b>dominio</b>, asocia cada "Números" con su "Dominio".<br/>
+{
+  =reáles -> Error ortográfico
+  =naturales -> (0, +infinito)
+  =reales negativos -> ( -infinito, 0 )
+  = -> [ 0, +infinite)
+  =reales positivos -> [ 0, +infinito)
+}
+
+::dominio-3-t1table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSM3O58XNBWGKfzvuWDlqF33FhNyW5ga89ClYwuPZ3Os5cAyh56TnEkOuZ057c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: [*]<br/>Dominio\: "(-infinito, +infinito)"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%reales negativos
+  ~%-25%Ninguna es correcta
+  =reales
+  ~%-25%reales positivos
+}
+
+::dominio-4-t2table-$números$dominio::[html]Concepto <b>dominio</b><br/>Números\: [*]<br/>Dominio\: "(-infinito, +infinito)"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%naturales
+  =Ninguna es correcta
+  ~%-25%reales negativos
+  ~%-25%reales positivos
+}
+
+::dominio-5-t3table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSwYMiMaKa6dyARbWVRi-X1fTo9IsDDV9ALLBVZPtO3HwWlelTXMzpaRMvDBw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: "reales"<br/>Dominio\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%[ 0, +infinito)
+  =(-infinito, +infinito)
+  ~%-25%( -infinito, 0 )
+}
+
+::dominio-6-t4table-$números$dominio::[html]Concepto <b>dominio</b><br/>Números\: "reales"<br/>Dominio\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%(0, +infinito)
+  ~%-25%[ 0, +infinito)
+  ~%-25%( -infinito, 0 )
+  =Ninguna es correcta
+}
+
+::dominio-7t5table-$números$dominio::[html]Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales"</li><li>Dominio\: "(-infinito, +infinito)"</li></ul>
+{TRUE####}
+
+::dominio-8-t6table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTweq57Ct3V4cBoqbSUx6juOl63AdFxoAvqSyl2LIRHpF5ptFkuci_9MbRvpw8&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales"</li><li>Dominio\: "[ 0, +infinito)"</li></ul>
+{FALSE####}
+
+::dominio-9t7table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQgGhFFmBLxVcGMv2gT40J6Q9l9PWWaSsXR21OGgG2RidfYG-5g9iDjkB7U3vw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales positivos"</li><li>Dominio\: "(-infinito, +infinito)"</li></ul>
+{FALSE####}
+
+::dominio-10t8table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT52GsH7dtTtYjq8ay_y34L4QlURTGuBP3J0CtI8bMI1wkOQPAJUhvLw1zlPw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Completa la siguiente asociación\:<br/><ul><li>Dominio\: "(-infinito, +infinito)"</li><li>Números\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%reales#
+}
+
+::dominio-11t9table-$números$dominio::[html]Concepto <b>dominio</b><br/>Completa la siguiente asociación\:<br/><ul><li>Números\: "reales"</li><li>Dominio\: [(-????????, +????????)]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%(-infinito, +infinito)#
+  =%100%( infinito, +infinito)#
+}
+
+::dominio-12-t1table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQg_U0LblL-YP2UuggpPpecikn1mfVI3UEzvoNgSK29XYcxymwHo0ytLI2_DA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: [*]<br/>Dominio\: "[ 0, +infinito)"<br/>Elige la opción correcta.<br/>
+{
+  =reales positivos
+  ~%-25%naturales
+  ~%-25%Ninguna es correcta
+  ~%-25%reales
+}
+
+::dominio-13-t2table-$números$dominio::[html]Concepto <b>dominio</b><br/>Números\: [*]<br/>Dominio\: "[ 0, +infinito)"<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%reales
+  ~%-25%naturales
+  ~%-25%reales negativos
+}
+
+::dominio-14-t3table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS5G1rByH4vmZfvxb15mvjkBIVzMyL9bErj0-wAoJ_CyLD5JuNioFo6HVAYNL4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: "reales positivos"<br/>Dominio\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%(0, +infinito)
+  =[ 0, +infinito)
+  ~%-25%Ninguna es correcta
+  ~%-25%(-infinito, +infinito)
+}
+
+::dominio-15-t4table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSmIaRZK_KZoJ16GhVNE433mixlEEZNmgR89-uUI7_ZVj93UL9AxN71ZhmF5A&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: "reales positivos"<br/>Dominio\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%(0, +infinito)
+  ~%-25%( -infinito, 0 )
+  ~%-25%(-infinito, +infinito)
+}
+
+::dominio-16t5table-$números$dominio::[html]Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales positivos"</li><li>Dominio\: "[ 0, +infinito)"</li></ul>
+{TRUE####}
+
+::dominio-17-t6table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTq-N8oQJN1aiVW3H71cbJtz6TVGbJsZ5CtMI-GV1wuOuv7TSBCPlZeDQuELEs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales positivos"</li><li>Dominio\: "(-infinito, +infinito)"</li></ul>
+{FALSE####}
+
+::dominio-18t7table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSZFH87UDe7dH3U0xEvCtJm5zaT1prDpTvC-z5bd7TpsTyCHWNNZ0YkooxpBtU&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales"</li><li>Dominio\: "[ 0, +infinito)"</li></ul>
+{FALSE####}
+
+::dominio-19t9table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTaTzryLToPMvzmi8PCHX94qc1H4yUaITna1c-YHfKJEq-cKRBz2OM6Zvi0CRE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Completa la siguiente asociación\:<br/><ul><li>Dominio\: "[ 0, +infinito)"</li><li>Números\: [?????? ?????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%reales positivos#
+}
+
+::dominio-20-t1table-$números$dominio::[html]Concepto <b>dominio</b><br/>Números\: [*]<br/>Dominio\: "( -infinito, 0 )"<br/>Elige la opción correcta.<br/>
+{
+  =reales negativos
+  ~%-25%Ninguna es correcta
+  ~%-25%reales positivos
+  ~%-25%reales
+}
+
+::dominio-21-t2table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT9PvCpLQA-OCTmVnYeegV_jTSzoBeoxKLVU_9OAURrj80koq1fID4uWMOmMiA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: [*]<br/>Dominio\: "( -infinito, 0 )"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%naturales
+  ~%-25%reales positivos
+  ~%-25%reales
+  =Ninguna es correcta
+}
+
+::dominio-22-t3table-$números$dominio::[html]Concepto <b>dominio</b><br/>Números\: "reales negativos"<br/>Dominio\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%(-infinito, +infinito)
+  =( -infinito, 0 )
+  ~%-25%Ninguna es correcta
+  ~%-25%[ 0, +infinito)
+}
+
+::dominio-23-t4table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSZFH87UDe7dH3U0xEvCtJm5zaT1prDpTvC-z5bd7TpsTyCHWNNZ0YkooxpBtU&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: "reales negativos"<br/>Dominio\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%(0, +infinito)
+  =Ninguna es correcta
+  ~%-25%(-infinito, +infinito)
+  ~%-25%[ 0, +infinito)
+}
+
+::dominio-24t5table-$números$dominio::[html]Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales negativos"</li><li>Dominio\: "( -infinito, 0 )"</li></ul>
+{TRUE####}
+
+::dominio-25-t6table-$números$dominio::[html]Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales negativos"</li><li>Dominio\: "(-infinito, +infinito)"</li></ul>
+{FALSE####}
+
+::dominio-26t7table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQKKfUbUSu81_YUHAmXhff9_KbzTJm2adfwBm9qNv7GVghyr23I4qvJK4yRD0A&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales"</li><li>Dominio\: "( -infinito, 0 )"</li></ul>
+{FALSE####}
+
+::dominio-27t9table-$números$dominio::[html]Concepto <b>dominio</b><br/>Completa la siguiente asociación\:<br/><ul><li>Dominio\: "( -infinito, 0 )"</li><li>Números\: [?????? ?????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%reales negativos#
+}
+
+::dominio-28-t1table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS9sQ40m7TlcHW3jLQebBeiitcDIjDebzlIyPxYKd5lU7IpmolZGuEtOSWCTw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: [*]<br/>Dominio\: "(0, +infinito)"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%reales
+  =naturales
+  ~%-25%Ninguna es correcta
+  ~%-25%reales positivos
+}
+
+::dominio-29-t2table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcT1hKAAW7-WVzItinlikUYhFCY2AQKi-cA1Zfhsj9mBs9Ezc7H-Ntqe6HIFmnM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: [*]<br/>Dominio\: "(0, +infinito)"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%reales
+  ~%-25%reales negativos
+  ~%-25%reales positivos
+  =Ninguna es correcta
+}
+
+::dominio-30-t3table-$números$dominio::[html]Concepto <b>dominio</b><br/>Números\: "naturales"<br/>Dominio\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%[ 0, +infinito)
+  =(0, +infinito)
+  ~%-25%(-infinito, +infinito)
+}
+
+::dominio-31-t4table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQx8lIoJbLZgRl0DlEe861xzGncJQJ0jyha36kGEEobcxmkOpjUMgvfskYNKRY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Números\: "naturales"<br/>Dominio\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%( -infinito, 0 )
+  ~%-25%[ 0, +infinito)
+  ~%-25%(-infinito, +infinito)
+  =Ninguna es correcta
+}
+
+::dominio-32t5table-$números$dominio::[html]Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "naturales"</li><li>Dominio\: "(0, +infinito)"</li></ul>
+{TRUE####}
+
+::dominio-33-t6table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRS57yOxMTIXNkBCW-uVKGr_zJ-x90-k5f2B0-Or1-cCFJhHdRdGt5o2vP7wQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "naturales"</li><li>Dominio\: "[ 0, +infinito)"</li></ul>
+{FALSE####}
+
+::dominio-34t7table-$números$dominio::[html]Concepto <b>dominio</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Números\: "reales positivos"</li><li>Dominio\: "(0, +infinito)"</li></ul>
+{FALSE####}
+
+::dominio-35t8table-$números$dominio::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSZFH87UDe7dH3U0xEvCtJm5zaT1prDpTvC-z5bd7TpsTyCHWNNZ0YkooxpBtU&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>dominio</b><br/>Completa la siguiente asociación\:<br/><ul><li>Dominio\: "(0, +infinito)"</li><li>Números\: [*]</li></ul>Escribir una palabra.<br/>
+{
+  =%100%naturales#
+}
+
+::dominio-36t9table-$números$dominio::[html]Concepto <b>dominio</b><br/>Completa la siguiente asociación\:<br/><ul><li>Números\: "naturales"</li><li>Dominio\: [(?, +????????)]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%(0, +infinito)#
+}
+
+
+// ==================================================
+// Concept name: Números Naturales
+// ==================================================
+::Números Naturales-2-f1short2-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>??????? ?????????</b>\:<ul><li>Este conjunto no tiene en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral).</li><li>Es el primer conjunto de números que aprendemos de pequeños</li></ul>
+{
+  =%100%Números Naturales#
+}
+
+::Números Naturales-3-f1name-misspelled2-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>Números Natúrales</b>\:<ul><li>Este congunto no tiene en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral).</li><li>Es el primer conjunto de números que aprendemos de pequeños</li></ul>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ####Concept name Números Naturales misspelled!
+}
+
+::Números Naturales-4-f1true-misspelled2-$característica::[html]Los siguientes elementos son "Característica" del concepto <b>Números Naturales</b>\:<ul><li>Es él primer conjunto de números que aprendemos de pequeños</li><li>Este conjunto no tiene en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral).</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Text Es el primer conjunto de números que aprendemos de pequeños misspelled!
+}
+
+
+// ==================================================
+// Concept name: Números Enteros
+// ==================================================
+::Números Enteros-1-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR4gL18-CIn8iuBvd5ztl7rEujqsqk2DFDFTZC95r4kMIu-xsGIV-oTCwqch4I&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Números Naturales
+  ~%-25%números racionales
+  ~%-25%Ninguna es correcta
+  =Números Enteros
+}
+
+::Números Enteros-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSTrQAjkIHAdcq9Q7GPU8qF-PncRXMhlO_oe6v-oFRtIXSYAQa2088slAbN6no&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Números Naturales
+  ~%-25%Núneros Enteros
+  ~%-25%números racionales
+  ####Option misspelled!\: Números Enteros
+}
+
+::Números Enteros-3-d1none::[html]Definición\: <i>Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Reales
+  =Ninguna es correcta
+  ~%-25%Números Naturales
+  ~%-25%números racionales
+}
+
+::Números Enteros-4-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQl6_ESLqzVmSYKLAgECBft6W7Co52yG9mZXm0BjPAeD8JarfqH5Xd4j8r1QO8&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Números Enteros</b>\:<br/> <i>Lo  números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.
+}
+
+::Números Enteros-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQf1mbBhILq3X0ZHuYMbdzsHM-SB7A2GUmPJgK0B63aAimo43FP3SMfdi9pZf4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>Números Enperos</b>\:<br/> <i>Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Concept name misspelled!\: Números Enteros
+}
+
+::Números Enteros-6-d2true::[html]Definición de <b>Números Enteros</b>\:<br/> <i>Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Números Enteros-7-d2false-misspelled::[html]Definición de <b>números racionales</b>\:<br/> <i>Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+}
+
+::Números Enteros-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS5G1rByH4vmZfvxb15mvjkBIVzMyL9bErj0-wAoJ_CyLD5JuNioFo6HVAYNL4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>??????? ???????</b>\:<br/> <i>Los números enteros son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%Números Enteros#
+  =%100%enteros#
+}
+
+::Números Enteros-9-d4filtered::[html]Definición de <b>Números Enteros</b>\:<br/> <i>Los números enteros son todos los [1] naturales e incluyen el [2] (0) y todos los [3] [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> números
+  =2 -> cero
+  =3 -> números
+  =4 -> negativos
+}
+
+::Números Enteros-10-d4filtered::[html]Definición de <b>Números Enteros</b>\:<br/> <i>Los [1] enteros [2] todos los [3] naturales e incluyen el [4] (0) y todos los números negativos.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> números
+  =2 -> son
+  =3 -> números
+  =4 -> cero
+}
+
+::Números Enteros-12-f1short3-$incluye::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSXxczO1iVDWHGgThVTqFid1EsOWzZ_FnLdXl3fYKlM3cGmYQhfWoBTp1pijlI&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Incluye" del concepto <b>??????? ???????</b>\:<ul><li>Número naturales</li><li>El cero</li><li>Los números negativos</li></ul>
+{
+  =%100%Números Enteros#
+}
+
+::Números Enteros-13-f1name-misspelled3-$incluye::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQBIgtTQZMcuoAsK4rV3GmepQ3rpEPVD4wlvBAyLQNsOoZ_0xIPM71p9lYLIw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Incluye" del concepto <b>Númeroz Enteros</b>\:<ul><li>Núnero naturales</li><li>Los números negativos</li><li>El cero</li></ul>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Concept name Números Enteros misspelled!
+}
+
+::Números Enteros-14-f1true-misspelled3-$incluye::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRKVVdgboZGqpXpBnWW1_ECIBRuGu919WwPvHm7rjA6LrjFGd8asEASey--aA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Los siguientes elementos son "Incluye" del concepto <b>Números Enteros</b>\:<ul><li>Los números negatyvos</li><li>El cero</li><li>Número naturales</li></ul>
+{
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ~%-33.33333%Verdadero
+  ####Text Los números negativos misspelled!
+}
+
+
+// ==================================================
+// Concept name: números racionales
+// ==================================================
+::números racionales-1-d1choose::[html]Definición\: <i>Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =números racionales
+  ~%-25%Ninguna es correcta
+  ~%-25%Números Enteros
+  ~%-25%Números Naturales
+}
+
+::números racionales-2-d1none-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS997NMRawbaw_4XI2sC1kq3PTg0bD6xZeVeM4CSHB5l0HwyeeO42o42-IDhg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%Números Enteros
+  =Ninguna es correcta
+  ~%-25%números rasionales
+  ~%-25%Números Naturales
+  ####Option misspelled!\: números racionales
+}
+
+::números racionales-3-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ7gXsJixVQMqShXm8B3DM6WQsLicBheHnzmCuoXAortdVnr2YHr80N04otJQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Números Naturales
+  ~%-25%Números Enteros
+  ~%-25%Reales
+}
+
+::números racionales-4-d2def-misspelled::[html]Definición de <b>números racionales</b>\:<br/> <i>Los números racionales son las fracciones ke pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>
+{
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ####Definition text misspelled!\: Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.
+}
+
+::números racionales-5-d2name-misspelled::[html]Definición de <b>números raquionales</b>\:<br/> <i>Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  =Error ortográfico
+  ####Concept name misspelled!\: números racionales
+}
+
+::números racionales-6-d2true::[html]Definición de <b>números racionales</b>\:<br/> <i>Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>
+{
+  =Verdadero
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Falso
+}
+
+::números racionales-7-d2false-misspelled::[html]Definición de <b>Números Enteros</b>\:<br/> <i>Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>
+{
+  =Falso
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Verdadero
+}
+
+::números racionales-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQNlwZQr-c4MAeTu5vSwXFhOWbs1RtqY8ktdNyTneCoy-SfKiIdB2jizjFKhQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>??????? ??????????</b>\:<br/> <i>Los números racionales son las fracciones que pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%números racionales#
+  =%100%racionales#
+}
+
+::números racionales-9-d4filtered::[html]Definición de <b>números racionales</b>\:<br/> <i>Los [1] racionales [2] las fracciones que [3] [4] a partir de los números enteros y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> números
+  =2 -> son
+  =3 -> pueden
+  =4 -> formarse
+}
+
+::números racionales-10-d4filtered::[html]Definición de <b>números racionales</b>\:<br/> <i>Los números racionales [1] las fracciones que pueden formarse a [2] de los números enteros y [3]. [4] las fracciones como cocientes de números enteros.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> son
+  =2 -> partir
+  =3 -> naturales
+  =4 -> entendemos
+}
+
+::números racionales-11-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQuVGtYeGzSKuZ6KhvGTcQLSEAfVDz1dVyw3FjK5ukb9o4urtX-WlQ3mcAkOG0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>números racionales</b>\:<br/> <i>Los números racionales son las fracciones que pueden [1] a partir de los [2] enteros y naturales. Entendemos las [3] como cocientes de [4] enteros.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> formarse
+  =2 -> números
+  =3 -> fracciones
+  =4 -> números
+}
+
+
+// ==================================================
+// Concept name: números irracionales
+// ==================================================
+::números irracionales-1-d1choose::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTK3FNl_lO-A0WthQag9J4ll25Xoas85xa4AR9kF22NZf4WQOQG7anRy8q8zuM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%números racionales
+  =números irracionales
+  ~%-25%Números Naturales
+  ~%-25%Ninguna es correcta
+}
+
+::números irracionales-2-d1none-misspelled::[html]Definición\: <i>Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  ~%-25%números racionales
+  ~%-25%números yrracionales
+  =Ninguna es correcta
+  ~%-25%Números Naturales
+  ####Option misspelled!\: números irracionales
+}
+
+::números irracionales-3-d1none::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRZA3pgIWdwYQj3vIbj5_36IElTjH7fyepNs_RwFv4v0WigtHfP2RemQBzXVlM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición\: <i>Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.</i><br/>Elige la opción que mejor se corresponda con la definición anterior.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Números Naturales
+  ~%-25%números racionales
+  ~%-25%Reales
+}
+
+::números irracionales-4-d2def-misspelled::[html]Definición de <b>números irracionales</b>\:<br/> <i>Los números irracionales son números decimales que no pueden expresarze ni de manera exacta ni de manera periódica.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.
+}
+
+::números irracionales-5-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQUybmOiM4qHv14bdEVXyCcfrElfSLDgBUzPytTJRkwPYvJNXGhbbBDr_yeXQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>números irrácionales</b>\:<br/> <i>Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Concept name misspelled!\: números irracionales
+}
+
+::números irracionales-6-d2true::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ6PXVnjpb9CIKNzGoa9AMI5UMaBvgQbdNa4Mxp0fP6bYqalrjUkIvINxCdmUM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>números irracionales</b>\:<br/> <i>Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.</i><br/>
+{
+  ~%-33.33333%Falso
+  ~%-33.33333%Error ortográfico
+  =Verdadero
+}
+
+::números irracionales-7-d2false-misspelled::[html]Definición de <b>números racionales</b>\:<br/> <i>Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  =Falso
+  ~%-33.33333%Verdadero
+}
+
+::números irracionales-8-d3hidden::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQuqbOkxHEEfzf5sOUfaOvQfuIsVU7ocVPqNMUP94P5wf438bO3FPyk9sqOww&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>??????? ????????????</b>\:<br/> <i>Los números irracionales son números decimales que no pueden expresarse ni de manera exacta ni de manera periódica.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%números irracionales#
+  =%100%irracionales#
+}
+
+::números irracionales-9-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ6PXVnjpb9CIKNzGoa9AMI5UMaBvgQbdNa4Mxp0fP6bYqalrjUkIvINxCdmUM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>números irracionales</b>\:<br/> <i>Los números irracionales [1] números decimales que no pueden expresarse [2] de manera [3] ni de manera [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> son
+  =2 -> ni
+  =3 -> exacta
+  =4 -> periódica
+}
+
+::números irracionales-10-d4filtered::[html]Definición de <b>números irracionales</b>\:<br/> <i>Los números irracionales son números decimales que no [1] expresarse [2] de manera exacta [3] de manera [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> pueden
+  =2 -> ni
+  =3 -> ni
+  =4 -> periódica
+}
+
+::números irracionales-11-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSM3O58XNBWGKfzvuWDlqF33FhNyW5ga89ClYwuPZ3Os5cAyh56TnEkOuZ057c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>números irracionales</b>\:<br/> <i>Los [1] irracionales son números [2] que [3] pueden expresarse [4] de manera exacta ni de manera periódica.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> números
+  =2 -> decimales
+  =3 -> no
+  =4 -> ni
+}
+

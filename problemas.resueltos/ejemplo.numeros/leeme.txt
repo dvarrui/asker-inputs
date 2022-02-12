@@ -1,0 +1,23 @@
+
+
+names
+* Mayúsculas y minúsculas es indistinto
+* A veces es conveniente poner el nombre en singular y en plural. o en español, en latín o inglés... dependiendo de la materia.
+* Se debe poner el nombre del concepto o los nombres si son varios
+
+def
+* Debe ser un texto que define de forma inequívoca al concepto. En caso contrario se hace con table 
+
+table{ fields: 'característica' }
+* Se usan los table para poner definiciones, características, tipos, atributos, etc asociados al concepto pero que no son únicas ni exclusivas de dicho concepto. Por tanto pueden haber conceptos diferentes con similituds en los "table". Eso es correcto, es real y es bueno para ASKER.
+
+Tildes
+* En español, hay que escribir las tildes cuando corresponda. Es así y así es.
+* Hay que diferenciar 
+(1)el texto que verá el alumno... names, def, table#fields, table#row, table#row#col,
+(2) del texto que NO verá el alumno, context, tags
+
+Para los textos (1) SI a las tildes en español.
+Para los textos (2) es opcional ponerlas o no. Pero OJO hay que ser coherentes. Si las pones, las pones es todo, si no las pones no las pones en nada. ASKER te lo agradecerá. El no entiende cuando dos palabras con tilde o sin tilde se refieren al mismo concepto de la realidad o no. Tampoco tiene por qué saberlo... para eso estamos nosotros.
+
+

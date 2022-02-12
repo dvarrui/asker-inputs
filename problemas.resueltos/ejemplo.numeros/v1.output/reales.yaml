@@ -1,0 +1,1489 @@
+---
+:params:
+  :lang: 
+  :projectname: reales
+:questions:
+- :comment: ''
+  :name: números reales-1-d1choose
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTQ8WNfAJWyHKDceiszO60BhQG1-wW5Ea8jf1ljAXMLftCsHQL9sRJ203u8Fqw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números reales son cualquier número que corresponda
+    a un punto en la recta real y pueden clasificarse en números naturales, enteros,
+    racionales e irracionales.</i><br/>Elige la opción que mejor se corresponda con
+    la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: números reales
+  :options:
+  - números reales
+  - Ninguna es correcta
+  - Números Enteros
+  - Números Racionales
+- :comment: ''
+  :name: números reales-2-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRNwpmfxACYQQ9phnxIESYTfKTAF7uvfg6K20SEjP8uw3vUMQPPOVb7b_i4aA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números reales son cualquier número que corresponda
+    a un punto en la recta real y pueden clasificarse en números naturales, enteros,
+    racionales e irracionales.</i><br/>Elige la opción que mejor se corresponda con
+    la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: números reales'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - Números Enteros
+  - númerós reales
+  - Números Racionales
+- :comment: ''
+  :name: números reales-3-d1none
+  :text: 'Definición: <i>Los números reales son cualquier número que corresponda a
+    un punto en la recta real y pueden clasificarse en números naturales, enteros,
+    racionales e irracionales.</i><br/>Elige la opción que mejor se corresponda con
+    la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Enteros
+  - Números Irracionales
+  - Números Racionales
+  - Ninguna es correcta
+- :comment: ''
+  :name: números reales-4-d2def-misspelled
+  :text: Definición de <b>números reales</b>:<br/> <i>Los núméros reales son cualquier
+    número que corresponda a un punto en la recta real y pueden clasificarse en números
+    naturales, enteros, racionales e irracionales.</i><br/>
+  :type: :choice
+  :feedback: 'Definition text misspelled!: Los números reales son cualquier número
+    que corresponda a un punto en la recta real y pueden clasificarse en números naturales,
+    enteros, racionales e irracionales.'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: números reales-5-d2name-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS4TI1M8XItugX21y3c4yiPQPX2x5i-yeegoJaa_bGLcM4UZft8GxvvhYQxzQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>núneros reales</b>:<br/> <i>Los números reales
+    son cualquier número que corresponda a un punto en la recta real y pueden clasificarse
+    en números naturales, enteros, racionales e irracionales.</i><br/>
+  :type: :choice
+  :feedback: 'Concept name misspelled!: números reales'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: números reales-6-d2true
+  :text: Definición de <b>números reales</b>:<br/> <i>Los números reales son cualquier
+    número que corresponda a un punto en la recta real y pueden clasificarse en números
+    naturales, enteros, racionales e irracionales.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: números reales-7-d2false-misspelled
+  :text: Definición de <b>Números Enteros</b>:<br/> <i>Los números reales son cualquier
+    número que corresponda a un punto en la recta real y pueden clasificarse en números
+    naturales, enteros, racionales e irracionales.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: números reales-8-d3hidden
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSBPL-Has4QK4nBf2XH71Ixh20cYUkrMA7Ffqv2IGphToSvtYDeh_8P39FSPa0&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>??????? ??????</b>:<br/> <i>Los números reales
+    son cualquier número que corresponda a un punto en la recta real y pueden clasificarse
+    en números naturales, enteros, racionales e irracionales.</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - números reales
+- :comment: ''
+  :name: números reales-9-d4filtered
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRnQ33pWX5Stdb9st3TNKT_zzF9r59lTsb8_xOAR5kVvJBl--rCcb0C4jborw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>números reales</b>:<br/> <i>Los [1] reales
+    son cualquier número que corresponda a un punto en la recta real y pueden [2]
+    en números [3] enteros, [4] e irracionales.</i><br/><br/>(Coloca cada palabra
+    en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &1
+  - - '1'
+    - números
+  - - '2'
+    - clasificarse
+  - - '3'
+    - naturales,
+  - - '4'
+    - racionales
+  :matching: *1
+- :comment: ''
+  :name: números reales-10-d4filtered
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRK_4MhimjRow0TXiU64NfELHqRbLepNlnaMaFfbhYzSs7NoHQ658C_1wHbNw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>números reales</b>:<br/> <i>Los números reales
+    son [1] número que corresponda a un punto en la recta real y [2] clasificarse
+    en números naturales, enteros, [3] e [4].</i><br/><br/>(Coloca cada palabra en
+    su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &2
+  - - '1'
+    - cualquier
+  - - '2'
+    - pueden
+  - - '3'
+    - racionales
+  - - '4'
+    - irracionales
+  :matching: *2
+- :comment: ''
+  :name: números reales-11-d4filtered
+  :text: Definición de <b>números reales</b>:<br/> <i>Los números reales son cualquier
+    número que corresponda a un punto en la [1] [2] y [3] clasificarse en números
+    naturales, enteros, [4] e irracionales.</i><br/><br/>(Coloca cada palabra en su
+    posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &3
+  - - '1'
+    - recta
+  - - '2'
+    - real
+  - - '3'
+    - pueden
+  - - '4'
+    - racionales
+  :matching: *3
+- :comment: ''
+  :name: números reales-12-d4filtered
+  :text: Definición de <b>números reales</b>:<br/> <i>Los números reales son cualquier
+    [1] que corresponda a un [2] en la recta real y pueden clasificarse en números
+    naturales, enteros, [3] e [4].</i><br/><br/>(Coloca cada palabra en su posición
+    correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &4
+  - - '1'
+    - número
+  - - '2'
+    - punto
+  - - '3'
+    - racionales
+  - - '4'
+    - irracionales
+  :matching: *4
+- :comment: ''
+  :name: números reales-17-b1match4x4-$conjunto$ejemplo
+  :text: En relación al concepto <b>números reales</b>, asocia cada "Conjunto" con
+    su "Ejemplo".<br/>
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &5
+  - - Números irracionales
+    - pi
+  - - Números racionales
+    - cualquier fracción de números enteros.
+  - - Números naturales
+    - "(1,2,3,4…)"
+  - - Números enteros
+    - "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"
+  - - ''
+    - py
+  :matching: *5
+- :comment: ''
+  :name: números reales-18-b1match3x1misspelled-$conjunto$ejemplo
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQep_SMeuo4vIK6UA89m2nlwRXAsa5pHr3S8UQnhSFyPkl9iTeMhRr8HW7BHVE&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>En relación al concepto <b>números reales</b>, asocia cada "Conjunto"
+    con su "Ejemplo".<br/>
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &6
+  - - Números racionales
+    - cualquier fracción de números enteros.
+  - - Números naturales
+    - "(1,2,3,4…)"
+  - - Números enteros
+    - "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"
+  - - Númerós irracionales
+    - Error ortográfico
+  - - ''
+    - sualquier fracción de números enteros.
+  :matching: *6
+- :comment: ''
+  :name: números reales-14-f1short3-$características
+  :text: Los siguientes elementos son "Características" del concepto <b>??????? ??????</b>:<ul><li>Está
+    comprendido entre menos infinito y más infinito y podemos representarlo en la
+    recta real</li><li>Los números reales se representan mediante la letra R</li><li>Son
+    todos los números que encontramos más frecuentemente</li></ul>
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - números reales
+- :comment: ''
+  :name: números reales-15-f1name-misspelled3-$características
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRd7pSoZk5Dy2r_YyVeEdazs1jvG0lk6-3GWMBoPupjj-MYmu3_QkEch_vKjQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Los siguientes elementos son "Características" del concepto
+    <b>numeros reales</b>:<ul><li>Son todos los numeros que encontramos más frecuentemente</li><li>Los
+    números reales se representan mediante la letra R</li><li>Está comprendido entre
+    menos infinito y más infinito y podemos representarlo en la recta real</li></ul>
+  :type: :choice
+  :feedback: Concept name números reales misspelled!
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: números reales-16-f1true-misspelled3-$características
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS6hUqZkOqZ2StPanqBVtnLDtyMr4xISd0amEobJI2DK2U5P4n1iKZA58aw2w&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Los siguientes elementos son "Características" del concepto
+    <b>números reales</b>:<ul><li>Está comprendido entre menos infinito y más infinito
+    y podemos reprecentarlo en la recta real</li><li>Los números reales se representan
+    mediante la letra R</li><li>Son todos los números que encontramos más frecuentemente</li></ul>
+  :type: :choice
+  :feedback: Text Está comprendido entre menos infinito y más infinito y podemos representarlo
+    en la recta real misspelled!
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: números reales-19-t1table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: [*]<br/>Ejemplo: "(1,2,3,4…)"<br/>Elige
+    la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Números naturales
+  :options:
+  - Números racionales
+  - Ninguna es correcta
+  - Números naturales
+  - Números irracionales
+- :comment: ''
+  :name: números reales-20-t2table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSXxczO1iVDWHGgThVTqFid1EsOWzZ_FnLdXl3fYKlM3cGmYQhfWoBTp1pijlI&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>Conjunto: [*]<br/>Ejemplo:
+    "(1,2,3,4…)"<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números racionales
+  - Números enteros
+  - Números irracionales
+  - Ninguna es correcta
+- :comment: ''
+  :name: números reales-21-t3table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRe7yk36IXKggDnZIloWmMFFG-GJmjcCK0GIl0QquohkaE_nGoAEliGKZ3mXJc&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>Conjunto: "Números naturales"<br/>Ejemplo:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: "(1,2,3,4…)"
+  :options:
+  - Ninguna es correcta
+  - pi
+  - "(1,2,3,4…)"
+  - cualquier fracción de números enteros.
+- :comment: ''
+  :name: números reales-22-t4table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: "Números naturales"<br/>Ejemplo:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - pi
+  - "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"
+  - cualquier fracción de números enteros.
+- :comment: ''
+  :name: números reales-23t5table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQiXUcLTWfrPB1m1wdQ8Z9d_Vnszs11k_evvKSb-jx1m70h8yihS7y2Utmdxw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Conjunto: "Números naturales"</li><li>Ejemplo: "(1,2,3,4…)"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: números reales-24-t6table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSTtMv_7jqUnmRPzPhctwrOWex4eASTEcZwaa9xMFW59UzjJGClvm02ri98zxQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Conjunto: "Números naturales"</li><li>Ejemplo: "pi"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: números reales-25t7table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>La asociación siguiente es correcta:<br/><ul><li>Conjunto:
+    "Números irracionales"</li><li>Ejemplo: "(1,2,3,4…)"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: números reales-26t9table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Completa la siguiente asociación:<br/><ul><li>Ejemplo:
+    "(1,2,3,4…)"</li><li>Conjunto: [??????? ?????????]</li></ul>Escribir 2 palabras.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Números naturales
+- :comment: ''
+  :name: números reales-27-t1table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTnbDJli8eY4qQ6NvSh7P46Fi3jHJIHAACAsf6NhKM6OFPYdVF_BkzvPQEwelA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>Conjunto: [*]<br/>Ejemplo:
+    "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Números enteros
+  :options:
+  - Números naturales
+  - Números racionales
+  - Ninguna es correcta
+  - Números enteros
+- :comment: ''
+  :name: números reales-28-t2table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQl6_ESLqzVmSYKLAgECBft6W7Co52yG9mZXm0BjPAeD8JarfqH5Xd4j8r1QO8&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>Conjunto: [*]<br/>Ejemplo:
+    "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números naturales
+  - Ninguna es correcta
+  - Números racionales
+  - Números irracionales
+- :comment: ''
+  :name: números reales-29-t3table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: "Números enteros"<br/>Ejemplo:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"
+  :options:
+  - Ninguna es correcta
+  - "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"
+  - cualquier fracción de números enteros.
+  - "(1,2,3,4…)"
+- :comment: ''
+  :name: números reales-30-t4table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: "Números enteros"<br/>Ejemplo:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - pi
+  - "(1,2,3,4…)"
+  - Ninguna es correcta
+  - cualquier fracción de números enteros.
+- :comment: ''
+  :name: números reales-31t5table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>La asociación siguiente es correcta:<br/><ul><li>Conjunto:
+    "Números enteros"</li><li>Ejemplo: "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: números reales-32-t6table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>La asociación siguiente es correcta:<br/><ul><li>Conjunto:
+    "Números enteros"</li><li>Ejemplo: "(1,2,3,4…)"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: números reales-33t7table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcT1hKAAW7-WVzItinlikUYhFCY2AQKi-cA1Zfhsj9mBs9Ezc7H-Ntqe6HIFmnM&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Conjunto: "Números naturales"</li><li>Ejemplo: "(…,-4,-3,-2,-1,
+    0, 1, 2, 3, 4…)"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: números reales-34t9table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSskbPQOgqOnZv3BsrZSB2nEiPHh6rUyjKnELDzMbRF8KYMmQRNFzJLTUVZiSM&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>Completa la siguiente asociación:<br/><ul><li>Ejemplo:
+    "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"</li><li>Conjunto: [??????? ???????]</li></ul>Escribir
+    2 palabras.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Números enteros
+- :comment: ''
+  :name: números reales-35-t1table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQ7gXsJixVQMqShXm8B3DM6WQsLicBheHnzmCuoXAortdVnr2YHr80N04otJQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>Conjunto: [*]<br/>Ejemplo:
+    "cualquier fracción de números enteros."<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Números racionales
+  :options:
+  - Ninguna es correcta
+  - Números racionales
+  - Números irracionales
+  - Números enteros
+- :comment: ''
+  :name: números reales-36-t2table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: [*]<br/>Ejemplo: "cualquier
+    fracción de números enteros."<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - Números enteros
+  - Números naturales
+  - Números irracionales
+- :comment: ''
+  :name: números reales-37-t3table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: "Números racionales"<br/>Ejemplo:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: cualquier fracción de números enteros.
+  :options:
+  - "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"
+  - Ninguna es correcta
+  - pi
+  - cualquier fracción de números enteros.
+- :comment: ''
+  :name: números reales-38-t4table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRAGPJLV4FEbIp_ITQ3WqrltQHFdNS2xnRe6ATC28HVBk27PNa4BS29ydJLqg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>Conjunto: "Números racionales"<br/>Ejemplo:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Ninguna es correcta
+  - "(1,2,3,4…)"
+  - "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"
+  - pi
+- :comment: ''
+  :name: números reales-39t5table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>La asociación siguiente es correcta:<br/><ul><li>Conjunto:
+    "Números racionales"</li><li>Ejemplo: "cualquier fracción de números enteros."</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: números reales-40-t6table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQ7gXsJixVQMqShXm8B3DM6WQsLicBheHnzmCuoXAortdVnr2YHr80N04otJQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Conjunto: "Números racionales"</li><li>Ejemplo: "pi"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: números reales-41t7table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>La asociación siguiente es correcta:<br/><ul><li>Conjunto:
+    "Números irracionales"</li><li>Ejemplo: "cualquier fracción de números enteros."</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: números reales-42t9table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Completa la siguiente asociación:<br/><ul><li>Ejemplo:
+    "cualquier fracción de números enteros."</li><li>Conjunto: [??????? ??????????]</li></ul>Escribir
+    2 palabras.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Números racionales
+- :comment: ''
+  :name: números reales-43-t1table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: [*]<br/>Ejemplo: "pi"<br/>Elige
+    la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Números irracionales
+  :options:
+  - Números racionales
+  - Ninguna es correcta
+  - Números irracionales
+  - Números naturales
+- :comment: ''
+  :name: números reales-44-t2table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: [*]<br/>Ejemplo: "pi"<br/>Elige
+    la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números naturales
+  - Ninguna es correcta
+  - Números enteros
+  - Números racionales
+- :comment: ''
+  :name: números reales-45-t3table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS_6x9MlAwzU0Rl4QAQXbaZ_DUkp0u2SEO7S2jtpy71-zwKknWw9v-bpUrsne8&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>Conjunto: "Números irracionales"<br/>Ejemplo:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: pi
+  :options:
+  - cualquier fracción de números enteros.
+  - Ninguna es correcta
+  - pi
+  - "(1,2,3,4…)"
+- :comment: ''
+  :name: números reales-46-t4table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Conjunto: "Números irracionales"<br/>Ejemplo:
+    [*]<br/>Elige la opción correcta.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - "(1,2,3,4…)"
+  - "(…,-4,-3,-2,-1, 0, 1, 2, 3, 4…)"
+  - Ninguna es correcta
+  - cualquier fracción de números enteros.
+- :comment: ''
+  :name: números reales-47t5table-$conjunto$ejemplo
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcT9ODzV96aW-TWXmCWLmO1d1sfUghkkKrG0Hj7et4gq7w1ZLa9ZBJ8rXfEzq40&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>números reales</b><br/>La asociación siguiente es
+    correcta:<br/><ul><li>Conjunto: "Números irracionales"</li><li>Ejemplo: "pi"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'TRUE'
+- :comment: ''
+  :name: números reales-48-t6table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>La asociación siguiente es correcta:<br/><ul><li>Conjunto:
+    "Números irracionales"</li><li>Ejemplo: "cualquier fracción de números enteros."</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: números reales-49t7table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>La asociación siguiente es correcta:<br/><ul><li>Conjunto:
+    "Números racionales"</li><li>Ejemplo: "pi"</li></ul>'
+  :type: :boolean
+  :feedback: ''
+  :lang: :es
+  :answer: 'FALSE'
+- :comment: ''
+  :name: números reales-50t9table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Completa la siguiente asociación:<br/><ul><li>Ejemplo:
+    "pi"</li><li>Conjunto: [??????? ????????????]</li></ul>Escribir 2 palabras.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Números irracionales
+- :comment: ''
+  :name: números reales-51t8table-$conjunto$ejemplo
+  :text: 'Concepto <b>números reales</b><br/>Completa la siguiente asociación:<br/><ul><li>Conjunto:
+    "Números irracionales"</li><li>Ejemplo: [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - pi
+- :comment: ''
+  :name: Dominio-1-d1choose
+  :text: 'Definición: <i>Los números reales son los números comprendidos entre los
+    extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Dominio
+  :options:
+  - Dominio
+  - números reales
+  - Ninguna es correcta
+  - Números Irracionales
+- :comment: ''
+  :name: Dominio-2-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQjacYfpOmErYUL0Vn9LTTYlvRtQSwgADtBep8ZX02qoBDq5aWP1lmivdhxzdA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números reales son los números comprendidos
+    entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: Dominio'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - números reales
+  - Números Irracionales
+  - Ninguna es correcta
+  - Deminio
+- :comment: ''
+  :name: Dominio-3-d1none
+  :text: 'Definición: <i>Los números reales son los números comprendidos entre los
+    extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Enteros
+  - Números Irracionales
+  - números reales
+  - Ninguna es correcta
+- :comment: ''
+  :name: Dominio-4-d2def-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSDQ2VbLXdescwmSpBY55qENmjuLdSvo8v8AmCrXR1rQaIz1nWtnIBTZj7qrE8&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Dominio</b>:<br/> <i>Los números reales son
+    los números comprendidos entre los extremos infinitos. Es decir, no incluiremos
+    estos infinitos en el congunto</i><br/>
+  :type: :choice
+  :feedback: 'Definition text misspelled!: Los números reales son los números comprendidos
+    entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Falso
+  - Verdadero
+  - Error ortográfico
+- :comment: ''
+  :name: Dominio-5-d2name-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcST5uU1w3ntjgxI3G4gCY1y9GtjiFjBRgBV_HquG7lRrRCmTt6rnDGITQ0nRw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Domimio</b>:<br/> <i>Los números reales son
+    los números comprendidos entre los extremos infinitos. Es decir, no incluiremos
+    estos infinitos en el conjunto</i><br/>
+  :type: :choice
+  :feedback: 'Concept name misspelled!: Dominio'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: Dominio-6-d2true
+  :text: Definición de <b>Dominio</b>:<br/> <i>Los números reales son los números
+    comprendidos entre los extremos infinitos. Es decir, no incluiremos estos infinitos
+    en el conjunto</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: Dominio-7-d2false-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS6KyS26by8JdAAJnDEb5w0i29Tio34hDpgEFEc3Y41i5iV4K5L46wxtAO6YSE&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>números reales</b>:<br/> <i>Los números reales
+    son los números comprendidos entre los extremos infinitos. Es decir, no incluiremos
+    estos infinitos en el conjunto</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: Dominio-8-d3hidden
+  :text: 'Definición de <b>[*]</b>:<br/> <i>Los números reales son los números comprendidos
+    entre los extremos infinitos. Es decir, no incluiremos estos infinitos en el conjunto</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Dominio
+  - dominio
+- :comment: ''
+  :name: Dominio-9-d4filtered
+  :text: Definición de <b>Dominio</b>:<br/> <i>Los números reales [1] los [2] comprendidos
+    entre los extremos infinitos. Es decir, no [3] estos infinitos en el [4].</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &7
+  - - '1'
+    - son
+  - - '2'
+    - números
+  - - '3'
+    - incluiremos
+  - - '4'
+    - conjunto
+  :matching: *7
+- :comment: ''
+  :name: Dominio-10-d4filtered
+  :text: Definición de <b>Dominio</b>:<br/> <i>Los números reales son los [1] [2]
+    entre los extremos infinitos. Es [3] [4] incluiremos estos infinitos en el conjunto.</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &8
+  - - '1'
+    - números
+  - - '2'
+    - comprendidos
+  - - '3'
+    - decir,
+  - - '4'
+    - 'no'
+  :matching: *8
+- :comment: ''
+  :name: Dominio-11-d4filtered
+  :text: Definición de <b>Dominio</b>:<br/> <i>Los números reales [1] los números
+    comprendidos entre los [2] [3]. Es decir, [4] incluiremos estos infinitos en el
+    conjunto.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del
+    texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &9
+  - - '1'
+    - son
+  - - '2'
+    - extremos
+  - - '3'
+    - infinitos
+  - - '4'
+    - 'no'
+  :matching: *9
+- :comment: ''
+  :name: Números Naturales-1-d1choose
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRXY3AmSw4nNK6VT5wE3kPrp0e_TPnerV7zF4QB-g49LAz1MX5BJdIvGdIAxg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números naturales es el primer conjunto de
+    números que aprendemos de pequeños. Este conjunto no tiene en cuenta el número
+    cero (0) excepto que se especifique lo contrario (cero neutral).</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Números Naturales
+  :options:
+  - Números Enteros
+  - Números Naturales
+  - Ninguna es correcta
+  - Números Racionales
+- :comment: ''
+  :name: Números Naturales-2-d1none-misspelled
+  :text: 'Definición: <i>Los números naturales es el primer conjunto de números que
+    aprendemos de pequeños. Este conjunto no tiene en cuenta el número cero (0) excepto
+    que se especifique lo contrario (cero neutral).</i><br/>Elige la opción que mejor
+    se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: Números Naturales'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Núméros Naturales
+  - Números Racionales
+  - Números Enteros
+  - Ninguna es correcta
+- :comment: ''
+  :name: Números Naturales-3-d1none
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRd7pSoZk5Dy2r_YyVeEdazs1jvG0lk6-3GWMBoPupjj-MYmu3_QkEch_vKjQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números naturales es el primer conjunto de
+    números que aprendemos de pequeños. Este conjunto no tiene en cuenta el número
+    cero (0) excepto que se especifique lo contrario (cero neutral).</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Enteros
+  - Ninguna es correcta
+  - Números Irracionales
+  - Números Racionales
+- :comment: ''
+  :name: Números Naturales-4-d2def-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQYcYsuScjxDLIIbA3MjzcwLTWuEE-E-6NhyBPH_x6h3swzaruabt_tIrctiTA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Naturales</b>:<br/> <i>Los números
+    neturales es el primer conjunto de números que aprendemos de pequeños. Este conjunto
+    no tiene en cuenta el número cero (0) excepto que se especifique lo contrario
+    (cero neutral).</i><br/>
+  :type: :choice
+  :feedback: 'Definition text misspelled!: Los números naturales es el primer conjunto
+    de números que aprendemos de pequeños. Este conjunto no tiene en cuenta el número
+    cero (0) excepto que se especifique lo contrario (cero neutral).'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: Números Naturales-5-d2name-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRd7pSoZk5Dy2r_YyVeEdazs1jvG0lk6-3GWMBoPupjj-MYmu3_QkEch_vKjQ&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Naturares</b>:<br/> <i>Los números
+    naturales es el primer conjunto de números que aprendemos de pequeños. Este conjunto
+    no tiene en cuenta el número cero (0) excepto que se especifique lo contrario
+    (cero neutral).</i><br/>
+  :type: :choice
+  :feedback: 'Concept name misspelled!: Números Naturales'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: Números Naturales-6-d2true
+  :text: Definición de <b>Números Naturales</b>:<br/> <i>Los números naturales es
+    el primer conjunto de números que aprendemos de pequeños. Este conjunto no tiene
+    en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral).</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Error ortográfico
+  - Verdadero
+  - Falso
+- :comment: ''
+  :name: Números Naturales-7-d2false-misspelled
+  :text: Definición de <b>Números Enteros</b>:<br/> <i>Los números naturales es el
+    primer conjunto de números que aprendemos de pequeños. Este conjunto no tiene
+    en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral).</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: Números Naturales-8-d3hidden
+  :text: 'Definición de <b>??????? ?????????</b>:<br/> <i>Los números naturales es
+    el primer conjunto de números que aprendemos de pequeños. Este conjunto no tiene
+    en cuenta el número cero (0) excepto que se especifique lo contrario (cero neutral).</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Números Naturales
+  - Números naturales
+  - números naturales
+- :comment: ''
+  :name: Números Naturales-9-d4filtered
+  :text: Definición de <b>Números Naturales</b>:<br/> <i>Los números naturales es
+    el [1] [2] de números que aprendemos de pequeños. Este conjunto no tiene en cuenta
+    el [3] [4] (0) excepto que se especifique lo contrario (cero neutral).</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &10
+  - - '1'
+    - primer
+  - - '2'
+    - conjunto
+  - - '3'
+    - número
+  - - '4'
+    - cero
+  :matching: *10
+- :comment: ''
+  :name: Números Naturales-10-d4filtered
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcT9ODzV96aW-TWXmCWLmO1d1sfUghkkKrG0Hj7et4gq7w1ZLa9ZBJ8rXfEzq40&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Naturales</b>:<br/> <i>Los números
+    naturales es el primer [1] de [2] que aprendemos de [3]. Este conjunto no tiene
+    en cuenta el número cero (0) excepto que se [4] lo contrario (cero neutral).</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &11
+  - - '1'
+    - conjunto
+  - - '2'
+    - números
+  - - '3'
+    - pequeños
+  - - '4'
+    - especifique
+  :matching: *11
+- :comment: ''
+  :name: Números Naturales-11-d4filtered
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTkr57JzmUepdxrabM36Ij07KKwwIrP7sNFqtEaX6BGqnZOcfVXiGESr-W6Ns4&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Naturales</b>:<br/> <i>Los [1] naturales
+    es el primer [2] de números que aprendemos de pequeños. Este conjunto no tiene
+    en cuenta el número cero (0) [3] que se especifique lo [4] (cero neutral).</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &12
+  - - '1'
+    - números
+  - - '2'
+    - conjunto
+  - - '3'
+    - excepto
+  - - '4'
+    - contrario
+  :matching: *12
+- :comment: ''
+  :name: Números Naturales-12-d4filtered
+  :text: Definición de <b>Números Naturales</b>:<br/> <i>Los números naturales es
+    el primer conjunto de números que [1] de [2]. Este [3] no tiene en cuenta el número
+    cero (0) excepto que se [4] lo contrario (cero neutral).</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &13
+  - - '1'
+    - aprendemos
+  - - '2'
+    - pequeños
+  - - '3'
+    - conjunto
+  - - '4'
+    - especifique
+  :matching: *13
+- :comment: ''
+  :name: Números Enteros-1-d1choose
+  :text: 'Definición: <i>Los números enteros son todos los números naturales e incluyen
+    el cero (0) y todos los números negativos.</i><br/>Elige la opción que mejor se
+    corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Números Enteros
+  :options:
+  - Números Racionales
+  - Números Enteros
+  - Números Naturales
+  - Ninguna es correcta
+- :comment: ''
+  :name: Números Enteros-2-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTQ8WNfAJWyHKDceiszO60BhQG1-wW5Ea8jf1ljAXMLftCsHQL9sRJ203u8Fqw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números enteros son todos los números naturales
+    e incluyen el cero (0) y todos los números negativos.</i><br/>Elige la opción
+    que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: Números Enteros'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Naturales
+  - Ninguna es correcta
+  - Númerós Enteros
+  - Números Racionales
+- :comment: ''
+  :name: Números Enteros-3-d1none
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQcfQcdAb6EWG5uumD9bvqg1avnJlW8-nG8YaxIU9gm3AaAMMNN2kYAtYnxH8A&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números enteros son todos los números naturales
+    e incluyen el cero (0) y todos los números negativos.</i><br/>Elige la opción
+    que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Naturales
+  - Números Racionales
+  - Ninguna es correcta
+  - números reales
+- :comment: ''
+  :name: Números Enteros-4-d2def-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSDQ2VbLXdescwmSpBY55qENmjuLdSvo8v8AmCrXR1rQaIz1nWtnIBTZj7qrE8&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Enteros</b>:<br/> <i>Los núneros enteros
+    son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>
+  :type: :choice
+  :feedback: 'Definition text misspelled!: Los números enteros son todos los números
+    naturales e incluyen el cero (0) y todos los números negativos.'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: Números Enteros-5-d2name-misspelled
+  :text: Definición de <b>Núneros Enteros</b>:<br/> <i>Los números enteros son todos
+    los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>
+  :type: :choice
+  :feedback: 'Concept name misspelled!: Números Enteros'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: Números Enteros-6-d2true
+  :text: Definición de <b>Números Enteros</b>:<br/> <i>Los números enteros son todos
+    los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Verdadero
+  - Error ortográfico
+  - Falso
+- :comment: ''
+  :name: Números Enteros-7-d2false-misspelled
+  :text: Definición de <b>Números Racionales</b>:<br/> <i>Los números enteros son
+    todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: Números Enteros-8-d3hidden
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcR62xxqYrl18MHCA5m-uowF2IWTP3Q2i8g03uGrZr22JNwzTLtv2md082YuUw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>??????? ???????</b>:<br/> <i>Los números enteros
+    son todos los números naturales e incluyen el cero (0) y todos los números negativos.</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Números Enteros
+  - Números enteros
+  - números enteros
+- :comment: ''
+  :name: Números Enteros-9-d4filtered
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcTk1BpGJV34nQZYVqmTlqeqxeHLII0MAxcEtEQC3-VzGUpIDq9giSL8M8PNhWg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Enteros</b>:<br/> <i>Los [1] enteros
+    son todos los [2] naturales e incluyen el [3] (0) y todos los números [4].</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &14
+  - - '1'
+    - números
+  - - '2'
+    - números
+  - - '3'
+    - cero
+  - - '4'
+    - negativos
+  :matching: *14
+- :comment: ''
+  :name: Números Enteros-10-d4filtered
+  :text: Definición de <b>Números Enteros</b>:<br/> <i>Los números [1] son todos los
+    [2] naturales e [3] el cero (0) y todos los números [4].</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &15
+  - - '1'
+    - enteros
+  - - '2'
+    - números
+  - - '3'
+    - incluyen
+  - - '4'
+    - negativos
+  :matching: *15
+- :comment: ''
+  :name: Números Racionales-1-d1choose
+  :text: 'Definición: <i>Los números racionales son las fracciones que pueden formarse
+    a partir de los números enteros y naturales. Entendemos las fracciones como cocientes
+    de números enteros.</i><br/>Elige la opción que mejor se corresponda con la definición
+    anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Números Racionales
+  :options:
+  - Números Naturales
+  - Ninguna es correcta
+  - Números Racionales
+  - Números Enteros
+- :comment: ''
+  :name: Números Racionales-2-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQgGhFFmBLxVcGMv2gT40J6Q9l9PWWaSsXR21OGgG2RidfYG-5g9iDjkB7U3vw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números racionales son las fracciones que
+    pueden formarse a partir de los números enteros y naturales. Entendemos las fracciones
+    como cocientes de números enteros.</i><br/>Elige la opción que mejor se corresponda
+    con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: Números Racionales'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Recionales
+  - Números Enteros
+  - Números Naturales
+  - Ninguna es correcta
+- :comment: ''
+  :name: Números Racionales-3-d1none
+  :text: 'Definición: <i>Los números racionales son las fracciones que pueden formarse
+    a partir de los números enteros y naturales. Entendemos las fracciones como cocientes
+    de números enteros.</i><br/>Elige la opción que mejor se corresponda con la definición
+    anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Naturales
+  - números reales
+  - Números Enteros
+  - Ninguna es correcta
+- :comment: ''
+  :name: Números Racionales-4-d2def-misspelled
+  :text: Definición de <b>Números Racionales</b>:<br/> <i>Los números racionales son
+    las fracciones que pueden formalse a partir de los números enteros y naturales.
+    Entendemos las fracciones como cocientes de números enteros.</i><br/>
+  :type: :choice
+  :feedback: 'Definition text misspelled!: Los números racionales son las fracciones
+    que pueden formarse a partir de los números enteros y naturales. Entendemos las
+    fracciones como cocientes de números enteros.'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: Números Racionales-5-d2name-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQl6_ESLqzVmSYKLAgECBft6W7Co52yG9mZXm0BjPAeD8JarfqH5Xd4j8r1QO8&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Númerós Racionales</b>:<br/> <i>Los números
+    racionales son las fracciones que pueden formarse a partir de los números enteros
+    y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>
+  :type: :choice
+  :feedback: 'Concept name misspelled!: Números Racionales'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: Números Racionales-6-d2true
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRCjj8fVIXL5Q6xzALN3mBBEWkUC55nnkJB2NV-Z9oSL9xuOWQdrsJ87Hm2dw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Racionales</b>:<br/> <i>Los números
+    racionales son las fracciones que pueden formarse a partir de los números enteros
+    y naturales. Entendemos las fracciones como cocientes de números enteros.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Error ortográfico
+  - Falso
+  - Verdadero
+- :comment: ''
+  :name: Números Racionales-7-d2false-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcT8dpQCaHv1faPrV6p1WjR1SSBkusChQd-5RVKk9ekR3yhFQ187PezENxORtg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Enteros</b>:<br/> <i>Los números racionales
+    son las fracciones que pueden formarse a partir de los números enteros y naturales.
+    Entendemos las fracciones como cocientes de números enteros.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: Números Racionales-8-d3hidden
+  :text: 'Definición de <b>??????? ??????????</b>:<br/> <i>Los números racionales
+    son las fracciones que pueden formarse a partir de los números enteros y naturales.
+    Entendemos las fracciones como cocientes de números enteros.</i><br/></br><p>Nota:
+    Cada símbolo ? representa una letra, y * a una o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Números Racionales
+  - Números racionales
+  - números racionales
+- :comment: ''
+  :name: Números Racionales-9-d4filtered
+  :text: Definición de <b>Números Racionales</b>:<br/> <i>Los números racionales son
+    las [1] que pueden formarse a partir de los números enteros y naturales. [2] las
+    [3] como [4] de números enteros.</i><br/><br/>(Coloca cada palabra en su posición
+    correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &16
+  - - '1'
+    - fracciones
+  - - '2'
+    - entendemos
+  - - '3'
+    - fracciones
+  - - '4'
+    - cocientes
+  :matching: *16
+- :comment: ''
+  :name: Números Racionales-10-d4filtered
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQjacYfpOmErYUL0Vn9LTTYlvRtQSwgADtBep8ZX02qoBDq5aWP1lmivdhxzdA&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Racionales</b>:<br/> <i>Los números
+    racionales [1] las fracciones que pueden formarse a [2] de los números [3] y naturales.
+    Entendemos las fracciones como cocientes de [4] enteros.</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &17
+  - - '1'
+    - son
+  - - '2'
+    - partir
+  - - '3'
+    - enteros
+  - - '4'
+    - números
+  :matching: *17
+- :comment: ''
+  :name: Números Racionales-11-d4filtered
+  :text: Definición de <b>Números Racionales</b>:<br/> <i>Los [1] racionales [2] las
+    fracciones que [3] [4] a partir de los números enteros y naturales. Entendemos
+    las fracciones como cocientes de números enteros.</i><br/><br/>(Coloca cada palabra
+    en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &18
+  - - '1'
+    - números
+  - - '2'
+    - son
+  - - '3'
+    - pueden
+  - - '4'
+    - formarse
+  :matching: *18
+- :comment: ''
+  :name: Números Irracionales-1-d1choose
+  :text: 'Definición: <i>Los números irracionales son números decimales que no pueden
+    expresarse ni de manera exacta ni de manera periódica.</i><br/>Elige la opción
+    que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Números Irracionales
+  :options:
+  - Números Irracionales
+  - Ninguna es correcta
+  - Números Racionales
+  - Números Naturales
+- :comment: ''
+  :name: Números Irracionales-2-d1none-misspelled
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcRrbKgE3CwSTtHlQaPQKHNxE9RvJB5o9moxVl5eojSsCe9xw7tH6qSMfvgO_Q&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición: <i>Los números irracionales son números decimales
+    que no pueden expresarse ni de manera exacta ni de manera periódica.</i><br/>Elige
+    la opción que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: 'Option misspelled!: Números Irracionales'
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Irrocionales
+  - Ninguna es correcta
+  - Números Racionales
+  - Números Naturales
+- :comment: ''
+  :name: Números Irracionales-3-d1none
+  :text: 'Definición: <i>Los números irracionales son números decimales que no pueden
+    expresarse ni de manera exacta ni de manera periódica.</i><br/>Elige la opción
+    que mejor se corresponda con la definición anterior.<br/>'
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Ninguna es correcta
+  :options:
+  - Números Naturales
+  - números reales
+  - Números Racionales
+  - Ninguna es correcta
+- :comment: ''
+  :name: Números Irracionales-4-d2def-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcReBHn3i742jEnEYqIlVTXH1d5YMX9yvtxvMSeoFnhiYyuxpCfCQVkas9_fJw&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Irracionales</b>:<br/> <i>Les números
+    irracionales son números decimales que no pueden expresarse ni de manera exacta
+    ni de manera periódica.</i><br/>
+  :type: :choice
+  :feedback: 'Definition text misspelled!: Los números irracionales son números decimales
+    que no pueden expresarse ni de manera exacta ni de manera periódica.'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: Números Irracionales-5-d2name-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSBPL-Has4QK4nBf2XH71Ixh20cYUkrMA7Ffqv2IGphToSvtYDeh_8P39FSPa0&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Númeras  Irracionales</b>:<br/> <i>Los números
+    irracionales son números decimales que no pueden expresarse ni de manera exacta
+    ni de manera periódica.</i><br/>
+  :type: :choice
+  :feedback: 'Concept name misspelled!: Números Irracionales'
+  :lang: :es
+  :answer: Error ortográfico
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: Números Irracionales-6-d2true
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcS_FeRaRnVyY1-SrdvHu8rKo_962vuSzDweWHcoo_Ulu2Tguqaq6oT-684YU6I&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Irracionales</b>:<br/> <i>Los números
+    irracionales son números decimales que no pueden expresarse ni de manera exacta
+    ni de manera periódica.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Verdadero
+  :options:
+  - Falso
+  - Error ortográfico
+  - Verdadero
+- :comment: ''
+  :name: Números Irracionales-7-d2false-misspelled
+  :text: <img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSBPL-Has4QK4nBf2XH71Ixh20cYUkrMA7Ffqv2IGphToSvtYDeh_8P39FSPa0&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Definición de <b>Números Racionales</b>:<br/> <i>Los números
+    irracionales son números decimales que no pueden expresarse ni de manera exacta
+    ni de manera periódica.</i><br/>
+  :type: :choice
+  :feedback: ''
+  :lang: :es
+  :answer: Falso
+  :options:
+  - Verdadero
+  - Falso
+  - Error ortográfico
+- :comment: ''
+  :name: Números Irracionales-8-d3hidden
+  :text: 'Definición de <b>??????? ????????????</b>:<br/> <i>Los números irracionales
+    son números decimales que no pueden expresarse ni de manera exacta ni de manera
+    periódica.</i><br/></br><p>Nota: Cada símbolo ? representa una letra, y * a una
+    o varias palabras.</p>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - Números Irracionales
+  - Números irracionales
+  - números irracionales
+- :comment: ''
+  :name: Números Irracionales-9-d4filtered
+  :text: Definición de <b>Números Irracionales</b>:<br/> <i>Los números irracionales
+    son números decimales que [1] [2] [3] ni de manera exacta ni de manera [4].</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &19
+  - - '1'
+    - 'no'
+  - - '2'
+    - pueden
+  - - '3'
+    - expresarse
+  - - '4'
+    - periódica
+  :matching: *19
+- :comment: ''
+  :name: Números Irracionales-10-d4filtered
+  :text: Definición de <b>Números Irracionales</b>:<br/> <i>Los números [1] [2] números
+    decimales que no pueden expresarse [3] de manera exacta ni de manera [4].</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &20
+  - - '1'
+    - irracionales
+  - - '2'
+    - son
+  - - '3'
+    - ni
+  - - '4'
+    - periódica
+  :matching: *20
+- :comment: ''
+  :name: Números Irracionales-11-d4filtered
+  :text: Definición de <b>Números Irracionales</b>:<br/> <i>Los [1] irracionales [2]
+    números decimales que no pueden [3] ni de manera [4] ni de manera periódica.</i><br/><br/>(Coloca
+    cada palabra en su posición correcta dentro del texto)
+  :type: :match
+  :feedback: ''
+  :lang: :es
+  :answer: &21
+  - - '1'
+    - números
+  - - '2'
+    - son
+  - - '3'
+    - expresarse
+  - - '4'
+    - exacta
+  :matching: *21
