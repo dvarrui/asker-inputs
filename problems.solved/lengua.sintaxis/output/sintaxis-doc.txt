@@ -1,0 +1,25 @@
+==================================================
+Created by : asker (version 2.2.5)
+File       : sintaxis-doc.txt
+Time       : 2022-02-14 00:23:50 +0000
+Author     : David Vargas Ruiz
+==================================================
+
+[44m[1moración[0m
+
+* La [*] es una unidad independiente y con sentido completo, que está formada por un sintagma nominal, llamado sujeto, y un sintagma verbal, conocido como predicado.
+
+
+[44m[1mactitud del hablante[0m
+
+
++-----------------------------------------------------------------------------------------------------------------------------+------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| tipo                                                                                                                        | definición             | ejemplo                                                                                                                      |
++-----------------------------------------------------------------------------------------------------------------------------+------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho. | Oración enunciativa    | Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas. |
+| Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.                                      | Oración desiderativa   | Ojala pueda venir mi madre a mi comunión.                                                                                    |
+| Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.                       | Oración dubitativa     | Dudo de que Juan pueda venir a casa a las ocho.                                                                              |
+| Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.                                 | Oración exhortativa    | ¡Cierra la ventana de una vez!                                                                                               |
+| Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.                       | Oración exclamativa    | ¡Ven pronto a mi lado!                                                                                                       |
+| Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor.                               | Oración interrogativas | ¿Vendrá pronto Carmen a casa?                                                                                                |
++-----------------------------------------------------------------------------------------------------------------------------+------------------------+------------------------------------------------------------------------------------------------------------------------------+

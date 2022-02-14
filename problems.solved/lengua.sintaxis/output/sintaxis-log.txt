@@ -1,0 +1,60 @@
+==================================================
+Created by : asker (version 2.2.5)
+File       : sintaxis-log.txt
+Time       : 2022-02-14 00:23:49 +0000
+Author     : David Vargas Ruiz
+==================================================
+
+[INFO] Project open
+   ├── inputdirs    = [1msolucion[0m
+   └── process_file = [1msintaxis.haml[0m
+
+[INFO] Showing concept data ([1mdefault[0m)
++---------------+----------------------------------------------------------------------------------------------------+
+| [1m1[0m             | [37m[44m[1moración[0m (lang=es)                                                                                  |
+| [34mFilename[0m      | solucion/sintaxis.haml                                                                             |
+| [34mContext[0m       | sintaxis, sintagmas                                                                                |
+| [34mTags[0m          | oración, sujeto, explícito, gramatical, predicado, nominal, verbal, sintagma, adjetival, adverbial |
+| [34mReference to[0m  |                                                                                                    |
+| [34mReferenced by[0m | actitud del hablante                                                                               |
+| [34m.def(text)[0m    | La [*] es una unidad independiente y con sentido completo, que está fo...                          |
+| [34m.neighbors[0m    | actitud del hablante(25.0)                                                                         |
++---------------+----------------------------------------------------------------------------------------------------+
++---------------+-----------------------------------------------------------------------------------------------+
+| [1m2[0m             | [37m[44m[1mactitud del hablante[0m (lang=es)                                                                |
+| [34mFilename[0m      | solucion/sintaxis.haml                                                                        |
+| [34mContext[0m       | sintaxis, sintagmas                                                                           |
+| [34mTags[0m          | oración, enunciativas, desiderativas, dubitativas, exhortativas, exclamativas, interrogativas |
+| [34mReference to[0m  | oración                                                                                       |
+| [34mReferenced by[0m |                                                                                               |
+| [34m.def(text)[0m    |                                                                                               |
+| [34m.tables[0m       | $tipo$definición$ejemplo                                                                      |
+| [34m.neighbors[0m    | oración(30.0)                                                                                 |
++---------------+-----------------------------------------------------------------------------------------------+
+
+[INFO] Creating output files
+   ├── Gift questions file => [1moutput/sintaxis-gift.txt[0m
+   ├── Lesson file         => [1moutput/sintaxis-doc.txt[0m
+   ├── YAML questions file => [1moutput/sintaxis.yaml[0m
+   └── Moodle XML file     => [1moutput/sintaxis-moodle.xml[0m
+
+[INFO] Showing CONCEPT statistics
+ * Exclude questions: 
+ * Annotations:
+   ├── (d) Definitions     <= Concept.def
+   ├── (b) Table Matching  <= Concept.table.rows.columns
+   ├── (f) Tables 1 Field  <= Concept.table.fields.size==1
+   ├── (i) Images URL      <= Concept.def{:type => 'file'}
+   ├── (s) Sequences       <= Concept.table{:sequence => '...'}
+   └── (t) Table Rows&Cols <= Concept.table.rows.columns
+
++----------------------+-----------+---------+---------+---+----+---+---+---+----+
+| Concept              | Questions | Entries | xFactor | d | b  | f | i | s | t  |
++----------------------+-----------+---------+---------+---+----+---+---+---+----+
+| [32m[1moración[0m              | 8         | 1       | 8.0     | 8 | 0  | 0 | 0 | 0 | 0  |
+| [32m[1mactitud del hablante[0m | 102       | 18      | 5.67    | 0 | 12 | 0 | 0 | 0 | 90 |
+| [33m[1mExcluded questions[0m   | 0         | -       | -       | 0 | 0  | 0 | 0 | 0 | 0  |
++----------------------+-----------+---------+---------+---+----+---+---+---+----+
+| [1mTOTAL = 2[0m            | [1m110[0m       | [1m19[0m      | [1m5.79[0m    | 8 | 12 | 0 | 0 | 0 | 90 |
++----------------------+-----------+---------+---------+---+----+---+---+---+----+
+

@@ -1,0 +1,704 @@
+// ==================================================
+// Created by : asker (version 2.2.5)
+// File       : sintaxis-gift.txt
+// Time       : 2022-02-14 00:23:50 +0000
+// Author     : David Vargas Ruiz
+// ==================================================
+
+
+// ==================================================
+// Concept name: oración
+// ==================================================
+::oración-1-d2def-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS6r9trkKcRhlVL3BvL4xNDdBC7N4iYfmEJ7lnPLCJNtuRupRvMJ36uRwdiNhg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>oración</b>\:<br/> <i>La [*] es una unidad independiente y con sentido completo, ke está formada por un sintagma nominal, llamado sujeto, y un sintagma verbal, conocido como predicado.</i><br/>
+{
+  =Error ortográfico
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Falso
+  ####Definition text misspelled!\: La [*] es una unidad independiente y con sentido completo, que está formada por un sintagma nominal, llamado sujeto, y un sintagma verbal, conocido como predicado.
+}
+
+::oración-2-d2name-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSnLGbWASBXRz9Q5yHe53ZCnspo5ExwmYro342gQx2I3u55jnPgO2IaUicIzg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>oracion</b>\:<br/> <i>La [*] es una unidad independiente y con sentido completo, que está formada por un sintagma nominal, llamado sujeto, y un sintagma verbal, conocido como predicado.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  =Error ortográfico
+  ~%-33.33333%Falso
+  ####Concept name misspelled!\: oración
+}
+
+::oración-3-d2true::[html]Definición de <b>oración</b>\:<br/> <i>La [*] es una unidad independiente y con sentido completo, que está formada por un sintagma nominal, llamado sujeto, y un sintagma verbal, conocido como predicado.</i><br/>
+{
+  ~%-33.33333%Error ortográfico
+  ~%-33.33333%Falso
+  =Verdadero
+}
+
+::oración-4-d2false-misspelled::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQgWtrtGb5Bf5_eAp0qETpOueDAtZFw9GZdm3ww0ebKa7tJrBr1NEUac8cnsws&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>actitud del hablante</b>\:<br/> <i>La [*] es una unidad independiente y con sentido completo, que está formada por un sintagma nominal, llamado sujeto, y un sintagma verbal, conocido como predicado.</i><br/>
+{
+  ~%-33.33333%Verdadero
+  ~%-33.33333%Error ortográfico
+  =Falso
+}
+
+::oración-5-d3hidden::[html]Definición de <b>[*]</b>\:<br/> <i>La [*] es una unidad independiente y con sentido completo, que está formada por un sintagma nominal, llamado sujeto, y un sintagma verbal, conocido como predicado.</i><br/></br><p>Nota\: Cada símbolo ? representa una letra, y * a una o varias palabras.</p>
+{
+  =%100%oración#
+}
+
+::oración-6-d4filtered::[html]Definición de <b>oración</b>\:<br/> <i>La [*] es una [1] [2] y con [3] completo, que está [4] por un sintagma nominal, llamado sujeto, y un sintagma verbal, conocido como predicado.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> unidad
+  =2 -> independiente
+  =3 -> sentido
+  =4 -> formada
+}
+
+::oración-7-d4filtered::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTpw7HFuK12T2diHB-GnT8uVDcjc3AOryRjDRtOOCTdJEGrbSyFJU7b4ORoyVk&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Definición de <b>oración</b>\:<br/> <i>La [*] es una unidad independiente y con sentido completo, que [1] formada por un sintagma nominal, llamado [2] y un [3] verbal, conocido como [4].</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> está
+  =2 -> sujeto,
+  =3 -> sintagma
+  =4 -> predicado
+}
+
+::oración-8-d4filtered::[html]Definición de <b>oración</b>\:<br/> <i>La [*] es una [1] independiente y con [2] completo, que [3] formada por un sintagma [4] llamado sujeto, y un sintagma verbal, conocido como predicado.</i><br/><br/>(Coloca cada palabra en su posición correcta dentro del texto)
+{
+  =1 -> unidad
+  =2 -> sentido
+  =3 -> está
+  =4 -> nominal,
+}
+
+
+// ==================================================
+// Concept name: actitud del hablante
+// ==================================================
+::actitud del hablante-1-b1match4x4-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Definición".<br/>
+{
+  =Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho. -> Oración enunciativa
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> Oración exhortativa
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Oración dubitativa
+  = -> Oración desiderapiva
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos. -> Oración desiderativa
+}
+
+::actitud del hablante-2-b1match3x1misspelled-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Definición".<br/>
+{
+  =Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho. -> Oración enunciativa
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Oración dubitativa
+  = -> Oración dubitatiwa
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos. -> Oración desiderativa
+  =Las oracioneshexhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> Error ortográfico
+}
+
+::actitud del hablante-3-b1match4x4-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Definición".<br/>
+{
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> Oración exhortativa
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos. -> Oración desiderativa
+  =Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc. -> Oración exclamativa
+  = -> Oráción desiderativa
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Oración dubitativa
+}
+
+::actitud del hablante-4-b1match3x1misspelled-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQB1L5EegiEnAHDw7QWD2rQ7xCc9aw6g7mr19BfFhaNhoVHq5eUyySdkhmxDw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Definición".<br/>
+{
+  =Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc. -> Oración exclamativa
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> Oración exhortativa
+  = -> Oración exclanativa
+  =Las oraciomes dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Error ortográfico
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos. -> Oración desiderativa
+}
+
+::actitud del hablante-5-b1match4x4-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Definición".<br/>
+{
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Oración dubitativa
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> Oración exhortativa
+  = -> Oracion interrogativas
+  =Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc. -> Oración exclamativa
+  =Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor. -> Oración interrogativas
+}
+
+::actitud del hablante-6-b1match3x1misspelled-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Definición".<br/>
+{
+  =Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc. -> Oración exclamativa
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> Oración exhortativa
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Oración dubitativa
+  =Las oracioñes interrogativas son las oraciones que indican una pregunta por parte del emisor. -> Error ortográfico
+  = -> Oroción dubitativa
+}
+
+::actitud del hablante-7-b1match4x4-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcROrr6lQ58PYMVf_gKZLv7Naps3V2JrqVJVBngdODUsATz6Bck365ggJe6vg0c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Ejemplo".<br/>
+{
+  = -> Ojala pueda venyr mi madre a mi comunión.
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Dudo de que Juan pueda venir a casa a las ocho.
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos. -> Ojala pueda venir mi madre a mi comunión.
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> ¡Cierra la ventana de una vez!
+  =Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho. -> Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas.
+}
+
+::actitud del hablante-8-b1match3x1misspelled-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Ejemplo".<br/>
+{
+  = -> Ojalas pueda venir mi madre a mi comunión.
+  =Las oraciomes exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> Error ortográfico
+  =Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho. -> Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas.
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Dudo de que Juan pueda venir a casa a las ocho.
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos. -> Ojala pueda venir mi madre a mi comunión.
+}
+
+::actitud del hablante-9-b1match4x4-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Ejemplo".<br/>
+{
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> ¡Cierra la ventana de una vez!
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Dudo de que Juan pueda venir a casa a las ocho.
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos. -> Ojala pueda venir mi madre a mi comunión.
+  = -> ¡Cyerra la ventana de una vez!
+  =Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc. -> ¡Ven pronto a mi lado!
+}
+
+::actitud del hablante-10-b1match3x1misspelled-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Ejemplo".<br/>
+{
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Dudo de que Juan pueda venir a casa a las ocho.
+  = -> ¡Cierra la wentana de una vez!
+  =Las oraciones ekclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc. -> Error ortográfico
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos. -> Ojala pueda venir mi madre a mi comunión.
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> ¡Cierra la ventana de una vez!
+}
+
+::actitud del hablante-11-b1match4x4-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Ejemplo".<br/>
+{
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Dudo de que Juan pueda venir a casa a las ocho.
+  = -> ¡Ven pronto a ni lado!
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> ¡Cierra la ventana de una vez!
+  =Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor. -> ¿Vendrá pronto Carmen a casa?
+  =Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc. -> ¡Ven pronto a mi lado!
+}
+
+::actitud del hablante-12-b1match3x1misspelled-$tipo$definición$ejemplo::[html]En relación al concepto <b>actitud del hablante</b>, asocia cada "Tipo" con su "Ejemplo".<br/>
+{
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración. -> Dudo de que Juan pueda venir a casa a las ocho.
+  =Las oraciones exclamativas son aquel tipo de oración que cirven para expresar sorpresa, emoción, etc. -> Error ortográfico
+  = -> ¡Cierras la ventana de una vez!
+  =Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor. -> ¿Vendrá pronto Carmen a casa?
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato. -> ¡Cierra la ventana de una vez!
+}
+
+::actitud del hablante-13-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSZyQqPCVussRPNkDKM6vG1BLAwMKGG-weXbkNphrZLgMJhlxltSIi7817WD9s&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración enunciativa"<br/>Elige la opción correcta.<br/>
+{
+  =Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  ~%-25%Ninguna es correcta
+}
+
+::actitud del hablante-14-t2table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración enunciativa"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  ~%-25%Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  =Ninguna es correcta
+}
+
+::actitud del hablante-15-t3table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Oración dubitativa
+  ~%-25%Ninguna es correcta
+  =Oración enunciativa
+  ~%-25%Oración exclamativa
+}
+
+::actitud del hablante-16-t4table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Oración exclamativa
+  ~%-25%Oración desiderativa
+  ~%-25%Oración dubitativa
+}
+
+::actitud del hablante-17t5table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTF9GqAqcEGC5V6p_SK1B6xJoI9ffgK2UCjpUsMNwfFbohDSp7j5v2DmPLgCyY&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."</li><li>Definición\: "Oración enunciativa"</li></ul>
+{TRUE####}
+
+::actitud del hablante-18-t6table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."</li><li>Definición\: "Oración dubitativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-19t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTBwdvbSEq_Zl63H22NPCsSSVeLGa7rg9wsbJQQuCK0_gneLf9Sbpw0wk1_3w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Definición\: "Oración enunciativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-20t9table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Completa la siguiente asociación\:<br/><ul><li>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."</li><li>Definición\: [??????? ???????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Oración enunciativa#
+}
+
+::actitud del hablante-21-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTzgllKH1KZgkB3PUaiKFjrouVC0ESkPIrJ1a8cHVaRaaUoimF-A-2_I_99eQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas."<br/>Elige la opción correcta.<br/>
+{
+  =Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  ~%-25%Ninguna es correcta
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+}
+
+::actitud del hablante-22-t2table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTQiV2kU08onXpgYoI7-O2cyJJWi9OVEw91wey8JR70X_obCrQ-qub3f7ie0zc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+  =Ninguna es correcta
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+}
+
+::actitud del hablante-23-t3table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcROrr6lQ58PYMVf_gKZLv7Naps3V2JrqVJVBngdODUsATz6Bck365ggJe6vg0c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%¡Ven pronto a mi lado!
+  =Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas.
+  ~%-25%Dudo de que Juan pueda venir a casa a las ocho.
+}
+
+::actitud del hablante-24-t4table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQwD-_1epRbWiFbh1g60titYzuEq1iqj8HvlknV4fQK5UB02r_Z-2BUb345M0Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Ojala pueda venir mi madre a mi comunión.
+  ~%-25%¡Ven pronto a mi lado!
+  ~%-25%Dudo de que Juan pueda venir a casa a las ocho.
+}
+
+::actitud del hablante-25t5table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRGCkH_wAqpR7DXO6Ac20fgY4pZssLwU-MoY2axgz0seykWvt5WF6MSGLZZ55w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."</li><li>Ejemplo\: "Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas."</li></ul>
+{TRUE####}
+
+::actitud del hablante-26-t6table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho."</li><li>Ejemplo\: "Dudo de que Juan pueda venir a casa a las ocho."</li></ul>
+{FALSE####}
+
+::actitud del hablante-27t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSjdpXZve_2MyLip9Mj4CU2XLqaRQOc-Fxnsa2rZSwmerF60Ljq2LopZN0-JR0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Ejemplo\: "Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas."</li></ul>
+{FALSE####}
+
+::actitud del hablante-28-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRvWcV5Frdg5V3647WeyNlEz9_WSWuOyIVIma0C_XCI84qlQaqvApssPoEYjg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración desiderativa"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+}
+
+::actitud del hablante-29-t2table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración desiderativa"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  =Ninguna es correcta
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+}
+
+::actitud del hablante-30-t3table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTQBSv_OaxBdidJWANk08X1hyf2UudSaivSOti1d6CxENztkkDMFY041X07bfs&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Oración enunciativa
+  =Oración desiderativa
+  ~%-25%Ninguna es correcta
+  ~%-25%Oración exclamativa
+}
+
+::actitud del hablante-31-t4table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRvWcV5Frdg5V3647WeyNlEz9_WSWuOyIVIma0C_XCI84qlQaqvApssPoEYjg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Oración dubitativa
+  ~%-25%Oración enunciativa
+  ~%-25%Oración exclamativa
+  =Ninguna es correcta
+}
+
+::actitud del hablante-32t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."</li><li>Definición\: "Oración desiderativa"</li></ul>
+{TRUE####}
+
+::actitud del hablante-33-t6table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."</li><li>Definición\: "Oración exclamativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-34t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTQiV2kU08onXpgYoI7-O2cyJJWi9OVEw91wey8JR70X_obCrQ-qub3f7ie0zc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."</li><li>Definición\: "Oración desiderativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-35t9table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQmUs134O_T__BP0u5r0gmUR6PKoAR8fml7yeZnni_DsMasRdB5SPWbW2AyFw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Completa la siguiente asociación\:<br/><ul><li>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."</li><li>Definición\: [??????? ????????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Oración desiderativa#
+}
+
+::actitud del hablante-36-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRQKAY77Hcjkcdlz3VvNBVjn6vhlZ1BElYv8GRws-lYeGgAFWe_bd-Drz2Z8w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "Ojala pueda venir mi madre a mi comunión."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  =Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Ninguna es correcta
+}
+
+::actitud del hablante-37-t2table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "Ojala pueda venir mi madre a mi comunión."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  =Ninguna es correcta
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+}
+
+::actitud del hablante-38-t3table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ojala pueda venir mi madre a mi comunión.
+  ~%-25%¡Ven pronto a mi lado!
+  ~%-25%Ninguna es correcta
+  ~%-25%Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas.
+}
+
+::actitud del hablante-39-t4table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas.
+  ~%-25%¡Ven pronto a mi lado!
+  ~%-25%Dudo de que Juan pueda venir a casa a las ocho.
+}
+
+::actitud del hablante-40t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."</li><li>Ejemplo\: "Ojala pueda venir mi madre a mi comunión."</li></ul>
+{TRUE####}
+
+::actitud del hablante-41-t6table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ7xiNBAOj9XYcnkQ9t0RQYLgJ-Rs1J4fPrvGjBdxQE3BXANvaiNeoMH1D05w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."</li><li>Ejemplo\: "¡Ven pronto a mi lado!"</li></ul>
+{FALSE####}
+
+::actitud del hablante-42t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQJIYAXduV1hz2w-nrWVOipXXcSatmx7xIKmxuJzQ4gg6VXeOEoTGoattOLCg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."</li><li>Ejemplo\: "Ojala pueda venir mi madre a mi comunión."</li></ul>
+{FALSE####}
+
+::actitud del hablante-43-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSjilwj-P7NbQrrhC7MNKGX26T5qMcPGk05pttnA9cLMA0g6WVVBWJsEHJaDQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración dubitativa"<br/>Elige la opción correcta.<br/>
+{
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  ~%-25%Ninguna es correcta
+  ~%-25%Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor.
+  ~%-25%Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+}
+
+::actitud del hablante-44-t2table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración dubitativa"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor.
+  =Ninguna es correcta
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+}
+
+::actitud del hablante-45-t3table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Oración exhortativa
+  =Oración dubitativa
+  ~%-25%Ninguna es correcta
+  ~%-25%Oración interrogativas
+}
+
+::actitud del hablante-46-t4table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcROrr6lQ58PYMVf_gKZLv7Naps3V2JrqVJVBngdODUsATz6Bck365ggJe6vg0c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Oración exhortativa
+  ~%-25%Oración interrogativas
+  ~%-25%Oración enunciativa
+}
+
+::actitud del hablante-47t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Definición\: "Oración dubitativa"</li></ul>
+{TRUE####}
+
+::actitud del hablante-48-t6table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTBwdvbSEq_Zl63H22NPCsSSVeLGa7rg9wsbJQQuCK0_gneLf9Sbpw0wk1_3w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Definición\: "Oración interrogativas"</li></ul>
+{FALSE####}
+
+::actitud del hablante-49t7table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."</li><li>Definición\: "Oración dubitativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-50t9table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Completa la siguiente asociación\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Definición\: [??????? ??????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Oración dubitativa#
+}
+
+::actitud del hablante-51-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ7xiNBAOj9XYcnkQ9t0RQYLgJ-Rs1J4fPrvGjBdxQE3BXANvaiNeoMH1D05w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "Dudo de que Juan pueda venir a casa a las ocho."<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+  ~%-25%Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor.
+  =Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  ~%-25%Ninguna es correcta
+}
+
+::actitud del hablante-52-t2table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "Dudo de que Juan pueda venir a casa a las ocho."<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor.
+  ~%-25%Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+}
+
+::actitud del hablante-53-t3table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSZyQqPCVussRPNkDKM6vG1BLAwMKGG-weXbkNphrZLgMJhlxltSIi7817WD9s&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  =Dudo de que Juan pueda venir a casa a las ocho.
+  ~%-25%¿Vendrá pronto Carmen a casa?
+  ~%-25%¡Cierra la ventana de una vez!
+}
+
+::actitud del hablante-54-t4table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQAyKbWYaJaC6GdmPf9oycROBoUYDbHkXgCoINZI2oK6cSbS0UULb2HX7E5CA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas.
+  ~%-25%¡Cierra la ventana de una vez!
+  ~%-25%¿Vendrá pronto Carmen a casa?
+  =Ninguna es correcta
+}
+
+::actitud del hablante-55t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Ejemplo\: "Dudo de que Juan pueda venir a casa a las ocho."</li></ul>
+{TRUE####}
+
+::actitud del hablante-56-t6table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcROrr6lQ58PYMVf_gKZLv7Naps3V2JrqVJVBngdODUsATz6Bck365ggJe6vg0c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Ejemplo\: "¿Vendrá pronto Carmen a casa?"</li></ul>
+{FALSE####}
+
+::actitud del hablante-57t7table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."</li><li>Ejemplo\: "Dudo de que Juan pueda venir a casa a las ocho."</li></ul>
+{FALSE####}
+
+::actitud del hablante-58-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTM7LmBt-8KNpDBPGRjSx49d_6FJHbXsBj-hOfZuXTXbiCQABejZUdIjO178w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración exhortativa"<br/>Elige la opción correcta.<br/>
+{
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  ~%-25%Ninguna es correcta
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+}
+
+::actitud del hablante-59-t2table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración exhortativa"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  =Ninguna es correcta
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+}
+
+::actitud del hablante-60-t3table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTN7nN1PHWBOmUWum-pUv3VI8h8G-4fJb-t-erNOqywr2usBr6st0v7vwwL160&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Oración exhortativa
+  ~%-25%Oración dubitativa
+  ~%-25%Oración exclamativa
+  ~%-25%Ninguna es correcta
+}
+
+::actitud del hablante-61-t4table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  =Ninguna es correcta
+  ~%-25%Oración dubitativa
+  ~%-25%Oración desiderativa
+  ~%-25%Oración exclamativa
+}
+
+::actitud del hablante-62t5table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTBwdvbSEq_Zl63H22NPCsSSVeLGa7rg9wsbJQQuCK0_gneLf9Sbpw0wk1_3w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."</li><li>Definición\: "Oración exhortativa"</li></ul>
+{TRUE####}
+
+::actitud del hablante-63-t6table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQow8S8Tn42KmdZriDyuJ1HYaYKqU0Y7E7SjXuTddT0qQPakmLMGJm89mjMGsw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."</li><li>Definición\: "Oración dubitativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-64t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSogQch46x4WGtyWdDQeX_iBZEbaxesFD4T4PovGOlbHSfIuSDV9V89yGDhMg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Definición\: "Oración exhortativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-65t9table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSLmmXQaDLNx6DAw3xPfU6-EcQSYNKEaVyoJ96kAi9c9kwoGWQikcHdku8hmg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Completa la siguiente asociación\:<br/><ul><li>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."</li><li>Definición\: [??????? ???????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Oración exhortativa#
+}
+
+::actitud del hablante-66-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSmCACfl_d6cgsBFrCgaSxbXDsqzSPrcrWLyhdonnNXh33IuH9QINJTumRv5Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "¡Cierra la ventana de una vez!"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  =Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+  ~%-25%Ninguna es correcta
+}
+
+::actitud del hablante-67-t2table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQyenA-97LYRUNQSb3MGBcfDLpN9JSe8sXyNuuOxbCrlokrtofut4Zj6hxAn60&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "¡Cierra la ventana de una vez!"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  =Ninguna es correcta
+  ~%-25%Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+}
+
+::actitud del hablante-68-t3table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTg7-I0_FB_kU4dMi12qf2h69Trr5xqPeye6tIpVI7S4sLKF-ekiZV2mUIZgA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%¡Ven pronto a mi lado!
+  ~%-25%Dudo de que Juan pueda venir a casa a las ocho.
+  =¡Cierra la ventana de una vez!
+  ~%-25%Ninguna es correcta
+}
+
+::actitud del hablante-69-t4table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTi-rd4ztKR314FVr9baglABq9nd-6gVRyrELfo0hMQJTNQIYqcg8ykT63QKDo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ojala pueda venir mi madre a mi comunión.
+  ~%-25%¡Ven pronto a mi lado!
+  =Ninguna es correcta
+  ~%-25%Dudo de que Juan pueda venir a casa a las ocho.
+}
+
+::actitud del hablante-70t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."</li><li>Ejemplo\: "¡Cierra la ventana de una vez!"</li></ul>
+{TRUE####}
+
+::actitud del hablante-71-t6table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRGCkH_wAqpR7DXO6Ac20fgY4pZssLwU-MoY2axgz0seykWvt5WF6MSGLZZ55w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato."</li><li>Ejemplo\: "Dudo de que Juan pueda venir a casa a las ocho."</li></ul>
+{FALSE####}
+
+::actitud del hablante-72t7table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Ejemplo\: "¡Cierra la ventana de una vez!"</li></ul>
+{FALSE####}
+
+::actitud del hablante-73-t1table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración exclamativa"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  =Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  ~%-25%Ninguna es correcta
+  ~%-25%Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+}
+
+::actitud del hablante-74-t2table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración exclamativa"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+  =Ninguna es correcta
+  ~%-25%Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+}
+
+::actitud del hablante-75-t3table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSakNvUbVkNmEA4yEn3DRwgDElluc3IsrpLgY1E-IYf1BBvaKT6nXBGLjFF0D4&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  =Oración exclamativa
+  ~%-25%Oración desiderativa
+  ~%-25%Oración enunciativa
+}
+
+::actitud del hablante-76-t4table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Oración desiderativa
+  ~%-25%Oración exhortativa
+  ~%-25%Oración enunciativa
+  =Ninguna es correcta
+}
+
+::actitud del hablante-77t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."</li><li>Definición\: "Oración exclamativa"</li></ul>
+{TRUE####}
+
+::actitud del hablante-78-t6table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQxISzrKCSJKjOe76A1IrLrR-SZrvNbJKw6tX4sVMXgagxNBmhonDUqP2Zmaw&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."</li><li>Definición\: "Oración desiderativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-79t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQyenA-97LYRUNQSb3MGBcfDLpN9JSe8sXyNuuOxbCrlokrtofut4Zj6hxAn60&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."</li><li>Definición\: "Oración exclamativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-80t9table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ7xiNBAOj9XYcnkQ9t0RQYLgJ-Rs1J4fPrvGjBdxQE3BXANvaiNeoMH1D05w&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Completa la siguiente asociación\:<br/><ul><li>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."</li><li>Definición\: [??????? ???????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Oración exclamativa#
+}
+
+::actitud del hablante-81-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcROrr6lQ58PYMVf_gKZLv7Naps3V2JrqVJVBngdODUsATz6Bck365ggJe6vg0c&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "¡Ven pronto a mi lado!"<br/>Elige la opción correcta.<br/>
+{
+  =Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  ~%-25%Ninguna es correcta
+  ~%-25%Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+}
+
+::actitud del hablante-82-t2table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQgWtrtGb5Bf5_eAp0qETpOueDAtZFw9GZdm3ww0ebKa7tJrBr1NEUac8cnsws&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "¡Ven pronto a mi lado!"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+  =Ninguna es correcta
+  ~%-25%Las oraciones enunciativas, declarativas o aseverativas son aquel tipo de oración que sirven para afirmar o negar un hecho.
+  ~%-25%Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos.
+}
+
+::actitud del hablante-83-t3table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRLxtOZEf4ZxdYgLLaCK649i6t17doNNtbN7O_LmnM4BrIoFG9WXx0ySxrEPPo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas.
+  =¡Ven pronto a mi lado!
+  ~%-25%Ojala pueda venir mi madre a mi comunión.
+}
+
+::actitud del hablante-84-t4table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQF21Y3ibFF4BAIvKJyr1XR0Yy0jrQcMmeer_ZBj1s6rpNomeo_C1Ko9vcTEQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%¡Cierra la ventana de una vez!
+  ~%-25%Oraciones enunciativas afirmativas. Juan estudió Matemáticas. Oraciones enunciativas negativas. Juan no estudió Matemáticas.
+  =Ninguna es correcta
+  ~%-25%Ojala pueda venir mi madre a mi comunión.
+}
+
+::actitud del hablante-85t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."</li><li>Ejemplo\: "¡Ven pronto a mi lado!"</li></ul>
+{TRUE####}
+
+::actitud del hablante-86-t6table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc."</li><li>Ejemplo\: "Ojala pueda venir mi madre a mi comunión."</li></ul>
+{FALSE####}
+
+::actitud del hablante-87t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSlD7c0kIu1owzFi8__Gx87VkOeVLFZx6yEntMnwHlSPNg-HK5akhO1sDvAYZM&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones desiderativas son aquel tipo de oración que sirven para expresar deseos."</li><li>Ejemplo\: "¡Ven pronto a mi lado!"</li></ul>
+{FALSE####}
+
+::actitud del hablante-88-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTi-rd4ztKR314FVr9baglABq9nd-6gVRyrELfo0hMQJTNQIYqcg8ykT63QKDo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración interrogativas"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  =Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor.
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+}
+
+::actitud del hablante-89-t2table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Definición\: "Oración interrogativas"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  =Ninguna es correcta
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  ~%-25%Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+}
+
+::actitud del hablante-90-t3table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSjdpXZve_2MyLip9Mj4CU2XLqaRQOc-Fxnsa2rZSwmerF60Ljq2LopZN0-JR0&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  ~%-25%Oración dubitativa
+  ~%-25%Oración exclamativa
+  =Oración interrogativas
+}
+
+::actitud del hablante-91-t4table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSnLGbWASBXRz9Q5yHe53ZCnspo5ExwmYro342gQx2I3u55jnPgO2IaUicIzg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."<br/>Definición\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Oración exclamativa
+  =Ninguna es correcta
+  ~%-25%Oración dubitativa
+  ~%-25%Oración exhortativa
+}
+
+::actitud del hablante-92t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."</li><li>Definición\: "Oración interrogativas"</li></ul>
+{TRUE####}
+
+::actitud del hablante-93-t6table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."</li><li>Definición\: "Oración dubitativa"</li></ul>
+{FALSE####}
+
+::actitud del hablante-94t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTzgllKH1KZgkB3PUaiKFjrouVC0ESkPIrJ1a8cHVaRaaUoimF-A-2_I_99eQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Definición\: "Oración interrogativas"</li></ul>
+{FALSE####}
+
+::actitud del hablante-95t9table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTg7-I0_FB_kU4dMi12qf2h69Trr5xqPeye6tIpVI7S4sLKF-ekiZV2mUIZgA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Completa la siguiente asociación\:<br/><ul><li>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."</li><li>Definición\: [??????? ??????????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%Oración interrogativas#
+}
+
+::actitud del hablante-96-t1table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSLmmXQaDLNx6DAw3xPfU6-EcQSYNKEaVyoJ96kAi9c9kwoGWQikcHdku8hmg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "¿Vendrá pronto Carmen a casa?"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Ninguna es correcta
+  =Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor.
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+}
+
+::actitud del hablante-97-t2table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQwD-_1epRbWiFbh1g60titYzuEq1iqj8HvlknV4fQK5UB02r_Z-2BUb345M0Q&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: [*]<br/>Ejemplo\: "¿Vendrá pronto Carmen a casa?"<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración.
+  ~%-25%Las oraciones exclamativas son aquel tipo de oración que sirven para expresar sorpresa, emoción, etc.
+  =Ninguna es correcta
+  ~%-25%Las oraciones exhortativas son aquellas oraciones que sirven para expresar ruego o mandato.
+}
+
+::actitud del hablante-98-t3table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%Dudo de que Juan pueda venir a casa a las ocho.
+  ~%-25%Ninguna es correcta
+  =¿Vendrá pronto Carmen a casa?
+  ~%-25%¡Ven pronto a mi lado!
+}
+
+::actitud del hablante-99-t4table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcTi-rd4ztKR314FVr9baglABq9nd-6gVRyrELfo0hMQJTNQIYqcg8ykT63QKDo&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."<br/>Ejemplo\: [*]<br/>Elige la opción correcta.<br/>
+{
+  ~%-25%¡Ven pronto a mi lado!
+  ~%-25%¡Cierra la ventana de una vez!
+  =Ninguna es correcta
+  ~%-25%Dudo de que Juan pueda venir a casa a las ocho.
+}
+
+::actitud del hablante-100t5table-$tipo$definición$ejemplo::[html]Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."</li><li>Ejemplo\: "¿Vendrá pronto Carmen a casa?"</li></ul>
+{TRUE####}
+
+::actitud del hablante-101-t6table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcS6r9trkKcRhlVL3BvL4xNDdBC7N4iYfmEJ7lnPLCJNtuRupRvMJ36uRwdiNhg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones interrogativas son las oraciones que indican una pregunta por parte del emisor."</li><li>Ejemplo\: "Dudo de que Juan pueda venir a casa a las ocho."</li></ul>
+{FALSE####}
+
+::actitud del hablante-102t7table-$tipo$definición$ejemplo::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSnLGbWASBXRz9Q5yHe53ZCnspo5ExwmYro342gQx2I3u55jnPgO2IaUicIzg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>actitud del hablante</b><br/>La asociación siguiente es correcta\:<br/><ul><li>Tipo\: "Las oraciones dubitativas son aquellas que indican dudas por parte del emisor que enuncia la oración."</li><li>Ejemplo\: "¿Vendrá pronto Carmen a casa?"</li></ul>
+{FALSE####}
+
