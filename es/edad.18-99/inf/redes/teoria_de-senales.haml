@@ -1,0 +1,211 @@
+%map{ lang: 'es', context: 'teoría,señales', version: '1'}
+
+  %concept
+    %names Señal analógica
+    %tags rango, valores, infinito, suave, continua
+    %def Es aquella señal capaz de tomar un rango infinito de valores.
+    %def Es aquella señal que varía de forma suave y continua.
+
+  %concept
+    %names Señal digtal
+    %tags rango, valores, finito, suave, pasos, discretos
+    %def Es aquella señal que toma un número finito de valores.
+    %def Es aquella que no varían de forma continua, sino que cambia en pasos o en incrementos discretos.
+
+  %concept
+    %names Transmisión en paralelo
+    %tags bits, simultánea
+    %def Es aquella en la que se transmiten varios bits de forma simultánea.
+
+
+  %concept
+    %names Transmisión en serie
+    %tags bit, paso
+    %def Es aquella en la que se transmite un bit en cada paso.
+
+  %concept
+    %names Sincronismo
+    %tags emisor, receptor, información, medio, transmisión
+    %def Procedimiento mediante el cual el emisor y el receptor se ponen de acuerdo sobre el instante preciso en el que comienza o acaba una información que se ha puesto en el medio de transmisión empleado
+
+  %concept
+    %names Transmisión asíncrona
+    %tags sincronización, emisor, receptor, bloque, datos, bytes, bits
+    %def Es aquella transmisión en la que  proceso de sincronización entre emisor y receptor se realiza en cada bloque de datos transmitidos, normalmente bytes.
+    %def En ella se emplean unos bits especiales que son añadidos al inicio y final de cada bloque.
+    %def Tiene como inconveniente que es necesario enviar más bits ya que hay que añadir a cada bloque los bits de comienzo y final.
+
+  %concept
+    %names Transmisión síncrona
+    %tags unidades, bytes, bits, velocidad, transmisión, emisor, receptor, señal, reloj
+    %def Es aquella transmisión que se efectúa sin atender a las unidades de comunicación básicas, normalmente bytes.
+    %def Los bits se envían a una velocidad constante sin discriminar los caracteres enviados.
+    %def Permite alcanzar mayor velocidad de transmisión al no tener que enviarse más bits de los necesarios.
+    %def Presenta el problema de mantener al emisor y al receptor sincronizados. Ambos comparte una señal de reloj que se puede transmitir por una línea separada o incluso junto con la propia señal.
+
+
+  %concept
+    %names Señal senoidal
+    %tags tiempo, amplitud, periodo, frecuencia
+    %def Señal que se se repite en el tiempo.
+    %def Toda señal no senoidal puede ser expresada como suma de señales senoidales
+    %def Está caracterizada por una amplitud, un periodo y una frecuencia.
+
+
+  %concept
+    %names Amplitud
+    %tags altura, profundidad, ond, metro
+    %def Altura o profundidad de la onda.
+    %def La unidad de medida es el metro.
+
+  %concept
+    %names Periodo
+    %tags altura, profundidad, onda, frecuencia, segundo
+    %def Tiempo necesario para completar un ciclo de la onda.
+    %def La unidad de medida es el segundo.
+    %def Es inversamente proporcional a la frecuencia.
+
+  %concept
+    %names Frecuencia
+    %tags ciclos, segundo, hertzio, periodo
+    %def Número de ciclos que se repiten en un segundo.
+    %def La unidad de medida es el Hertzio.
+    %def Es inversamente proporcional al periodo.
+
+  %concept
+    %names Fase
+    %tags tiempo, grado
+    %def Intervalo de tiempo que va desde el instante inicial al primer punto donde la señal toma el valor 0.
+    %def La unidad de medida es el grado.
+
+  %concept
+    %names Teorema de Fourier
+    %tags Cualquier función periódica se puede expresar mediante la suma de una función fundamental y diferentes términos armónicos.
+
+
+  %concept
+    %names Ancho de banda
+    %tags frecuencia, señales, medio, transmisión
+    %def Rango de frecuencia de las señales que se pueden transmitir a través de un  medio de transmisión determinado.
+
+
+  %concept
+    %names Transmisión analógica
+    %tags señal, información, continua
+    %def La señal que transporta la información es continua.
+
+
+  %concept
+    %names Transmisión digital
+    %tags banda, base, información, tensión
+    %def Se le denomina tambien trasnmisión en banda base
+    %def La señal que transporta la información toma unos pocos valores de tensión.
+    %def Este tipo de transmisión es más rápido, pero necesita de un medio de un mayor ancho de banda.
+
+
+  %concept
+    %names Modulación
+    %tags señal, información, moduladora, portadora
+    %def Proceso mediante el cual se modifica una señal para transportar información.
+    %def Proceso que se aplica a señales de entrada que no pueden ser enviadas directamente por el canal, modificando una onda portadora, cuyas propiedades se adaptan mejor al medio de transmisión.
+    %def La señal que deseamos transmitir se llama moduladora.
+    %def La señal que se modifica para su transmisión se llama portadora.
+    %def La señal transmitida se llama señal modulada.
+
+  %concept
+    %names Descripción de los tipos de modulación
+    %tags analógica, digital, señal,frecuencia, moduladora, portadora
+    %table{ fields: 'combinación, descripción' }
+      %row
+        %col Modulación analógica con portadora analógica
+        %col Se utiliza cuando se desea transmitir la señal analógica a una frecuencia diferente o con un ancho de banda menor.
+      %row
+        %col Modulación digital con portadora analógica.
+        %col Se utiliza cuando se desea transmitir una señal digital por un medio de transmisión analógico.
+      %row
+        %col Modulación analógica con portadora digital.
+        %col Se utiliza cuando se desea transmitir una señal analógica a través de una red digital. Teniendo la señal moduladora una frecuencia y un ancho de banda menor que los de la señal modulada.
+
+  %concept
+    %names Tipos de modulación
+    %tags portadora, moduladora, analógica, digital
+    %table{ fields: 'combinación, tipo' }
+      %row
+        %col Portadora analógica - Moduladora analógica
+        %col AM, FM, PM
+      %row
+        %col Portadora analógica - Moduladora digital
+        %col ASK, FSK, PSK
+      %row
+        %col Portadora digital - Moduladora analógica
+        %col PAM, PDM, PPM, PCM, Delta
+      %row
+        %col Portadora digital - Moduladora digital
+        %col Recodificaciones
+
+  %concept
+    %names Multiplexación
+    %tags canal, transmisión, simultáneas
+    %def Método que consiste en compartir un canal de transmisión entre varias comunicaciones simultáneas.
+
+  %concept
+    %names Tipos de multiplexación
+    %tags emisor, división, tiempo, frecuencia
+    %table{ fields: 'tipo, descripción' }
+      %row
+        %col Multiplexación por división de tiempo (TDM)
+        %col Se asigna a cada emisor un turno de orden rotativo.
+      %row
+        %col Multiplexación por división de frecuencia o longitud de onda (FDM).
+        %col En el caso de señales eléctricas se asigna a cada emisor un rango de frecuencias. En el caso de usar la luz como señal de transmisión, se asigna a cada emisor una longitud de onda.
+
+  %concept
+    %names Bandas de guardia
+    %tags bandas, frecuencia, canales
+    %def Bandas de frecuencia que se establecen entre los canales en la multiplexación por división de frecuencia para que prevenir el solape de los mismos.
+
+
+  %concept
+    %names Atenuación
+    %tags fuerza, amplitud, señal, distorión, potencia, medio, transmisión, receptor, decibelio.
+    %def Pérdida de fuerza o amplitud de la señal, debido a la distorsión, cuando es transmitida a través de largas distancias.
+    %def pérdida de potencia sufrida por una señal al transitar por cualquier medio de transmisión.
+    %def Razón principal por la que la longitud de las redes tiene restricciones.
+    %def Si la es muy alta el equipo receptor no  reconocerá bien la  información.
+    %def Se expresa en unidades logarítmicas denominadas decibelio.
+    %def Depende la distacia y de la frecuencia de la señal emitida.
+
+  %concept
+    %names Decibelio
+    %tags unidad, acustica, telecomunicaciones, magnitud
+    %def Unidad relativa empleada en acústica y telecomunicaciones para expresar la relación entre dos magnitudes, acústicas o eléctricas, o entre la magnitud que se estudia y una magnitud de referencia.
+    %def Se utilizan ampliamente en telecomunicaciones por razones de tipo práctico ya que convierten las multiplicaciones y divisiones en sumas y restas respectivamente, simplificando por tanto las expresiones numéricas.
+
+
+  %concept
+    %names Crosstalk
+    %tags circuitos, señales, pares, cables, frecuencia
+    %def Efecto que se da entre dos circuitos cuando parte de las señales presentes en uno de ellos, considerado perturbador, aparece en el otro, considerado perturbado.
+    %def Se le conoce también como diafonía.
+    %def Causado por las interferencias de los pares adyacentes, en los cables que están incorrectamente apantallados.
+    %def Aumenta con la frecuencia.
+
+
+  %concept
+    %names Ruido
+    %tags señal, óptica, electromagnética, información
+    %def Adiciones de señales no deseadas a las señales de voltaje, ópticas o electromagnéticas que se usan para transmitir la información.
+    %def Ninguna señal eléctrica se produce sin ruido.
+    %def Es importante mantener la relación señal-ruido lo más alta posible
+
+
+  %concept
+    %names Relación señal-ruido
+    %tags ingeniería, medición, potencia
+    %def Cálculo de ingeniería y medición que involucra la división de la potencia de la señal por la potencia del ruido.
+    %def Indica qué tan fácil será descifrar la señal deseada, a pesar del ruido no deseado pero inevitable.
+
+  %concept
+    %names Ohmio
+    %tags resistencia, eléctrica, sistema, internacional
+    %def Unidad de resistencia eléctrica en el Sistema Internacional de Unidades.
