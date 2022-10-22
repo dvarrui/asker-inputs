@@ -1,0 +1,232 @@
+%map{ lang: 'es', context: 'introducción arquitectura de redes', version: '1'}
+
+  %concept
+    %names OSI
+    %tags comunicaciones, red, capas, aplicación, presentación, sesión transporte, red, enlace de datos, física
+    %def Son la siglas de Open Systems Interconnection.
+    %def Es el modelo principal para las comunicaciones por red.
+    %def Está compuesto por siete capas numeradas, cada una de las cuales tiene una función de red específica.
+    %def Las capas que lo componen son: aplicación, presentación, sesión, transporte, red, enlace de datos, física.
+
+  %concept
+    %names Entidades
+    %tags elementos, capas, software, hardware
+    %def Elementos activos que se encuentran en cada una de las capas. Hay entidades software y hardware.
+
+  %concept
+    %names Interfaz
+    %tags funcionalidades, capas
+    %def Funcionalidades ofrecidas por la capa N a la capa inmediatamente superior, N +1.
+
+  %concept
+    %names Unidades de datos del modelo OSI
+    %tags bloque, datos, entidad, información, capa, par, paquete
+    %table{ fields: 'nombre, definición' }
+      %row
+        %col IDU (Interface Data Unit)
+        %col Bloque de datos que la entidad de la capa N pasa a la entidad de la capa N-1.
+      %row
+        %col SDU (Service Data Unit)
+        %col Información que se pasa de la capa N a la entidad par, situada en la capa N de la estación destinataria.
+      %row
+        %col PDU (Protocol Data Unit)
+        %col Paquete de datos que es transferido a la otra entidad.
+
+  %concept
+    %names Primitivas fundamentales del modelo OSI
+    %tags diálogo, capas, interfaces, operaciones, primitivas
+    %def El diálogo entre las capas se realiza a través de las interfaces.
+    %def Las operaciones en las interfaces están definidas en base a un conjunto de primitivas.
+    %table{ fields: 'primitiva fundamental, explicación ' }
+      %row
+        %col Solicitud (request)
+        %col Una entidad solicita que un servicio realice un trabajo.
+      %row
+        %col Indicación (indication)
+        %col Una entidad es informada de que ha ocurrido un evento.
+      %row
+        %col Respuesta (response)
+        %col Una entidad responde con esta primitiva a un evento.
+      %row
+        %col Confirmación (confirm)
+        %col Una entidad es informada acerca de de una solicitud realizada con anterioridad.
+
+
+  %concept
+    %names Capa de aplicación
+    %tags usuario, aplicaciones, servicios, red, protocolos, OSI
+    %def Es la capa del modelo  más cercana al usuario, relacionada con las funciones de más alto nivel.
+    %def Proporciona soporte a las aplicaciones o actividades del sistema, suministra servicios de red a las aplicaciones del usuario y define los protocolos usados por las aplicaciones individuales.
+    %def Difiere de las demás capas debido a que no proporciona servicios a ninguna otra capa OSI, sino solamente a aplicaciones que se encuentran fuera del modelo OSI.
+    %def Establece la disponibilidad de los potenciales socios de comunicación, sincroniza y establece acuerdos sobre los procedimientos de recuperación de errores y control de la integridad de los datos.
+
+
+  %concept
+    %names Capa de presentación
+    %tags sintaxis, semántica, información, movimiento, bits, formato
+    %def Se ocupa de los aspectos de sintaxis y semántica de la información que se transmite y no del movimiento fiable de bits de un lugar a otro.
+    %def Garantiza que la información que envía la capa de aplicación de un sistema pueda ser leída por la capa de aplicación de otro.
+    %def De ser necesario, traduce entre varios formatos de datos utilizando un formato común.
+
+  %concept
+    %names Capa de sesión
+    %tags hosts, aplicaciones, sesiones, servicios, datos, problemas, recursos
+    %def Establece, coordina y termina las conversaciones entre aplicaciones.
+    %def Establece, administra y finaliza las sesiones entre dos hosts que se están comunicando.
+    %def La capa de sesión proporciona sus servicios a la capa de presentación.
+    %def Ofrece disposiciones para una eficiente transferencia de datos, clase de servicio y un registro de excepciones acerca de los problemas de la capa de sesión, presentación y aplicación.
+    %def Administra el intercambio de datos y sincroniza el diálogo entre los  niveles de presentación  de cada sistema.
+    %def Ofrece las herramientas para que la capa de aplicación , la de presentación y la de sesión reporten sus problemas y los recursos disponibles para la comunicación (control del diálogo entre aplicaciones)
+
+
+  %concept
+    %names Capa de transporte
+    %tags comunicación, multiplexación, entidades, transmisión, confiable, segmentos, mensajes, host, emisor, receptor, confiabilidad
+    %def Se encarga de proveer comunicación entre entidades finales.
+    %def Hace multiplexación.
+    %def Garantiza la transmisión confiable de los mensajes.
+    %def Detecta errores en la transmisión de segmentos y los corrige.
+    %def Define una unidad de intercambio de datos llamada segmento.
+    %def Segmenta los datos originados en el host emisor y los reensambla en una corriente de datos dentro del sistema del host receptor.
+    %def Intenta suministrar un servicio de transporte de datos que aísla las capas superiores de los detalles de implementación del transporte.
+    %def La confiabilidad del transporte entre dos hosts es responsabilidad de esta capa.
+    %def Al proporcionar un servicio confiable, se utilizan dispositivos de detección y recuperación de errores de transporte.
+    %def Establece, mantiene y termina adecuadamente los circuitos virtuales.
+
+  %concept
+    %names Capa de red
+    %tags esquema, direccionamiento. lógico, jerárquico, IP, sistemas, paquete, jerárquico
+    %def Provee un esquema de direccionamiento lógico  y jerárquico: direcciones IP.
+    %def Provee conectividad entre sistemas finales.
+    %def Define una unidad de intercambio de datos llamada paquete.
+    %def Es la encargada del enrutamiento de los paquetes.
+    %def Provee control de congestión.
+    %def Es una capa compleja que proporciona conectividad y selección de ruta entre dos sistemas de hosts que pueden estar ubicados en redes geográficamente distintas.
+    
+
+  %concept
+    %names Capa de enlace de datos
+    %tags datos, enalce, físico, direccionamiento, topología, red, trama, frame, nodo, flujo, plano
+    %def Proporciona tránsito de datos confiable a través de un enlace físico.
+    %def Se ocupa del direccionamiento físico, la topología de red, el acceso a la red, la notificación de errores, entrega ordenada de tramas y control de flujo.
+    %def Provee mecanismos para la detección y corrección de errores.
+    %def Define un esquema de direccionamiento físico el cual es plano. Direcciones MAC.
+    %def Provee conectividad nodo a nodo libre de errores.
+    %def Provee mecanismos de control de flujo.
+    %def Define una unidad de intercambio de datos la cual se conoce con el nombre de frame o trama.
+    
+  %concept
+    %names Capa física
+    %tags materiales, placas, cables, conectores, mecánicos, eléctricos, bits
+    %def En esta capa se encuentran los medios materiales para la comunicación como las placas, cables, conectores, es decir los medios mecánicos y eléctricos.
+    %def Se ocupa de la transmisión de bits a lo largo de un canal de comunicación, de cuantos microsegundos dura un bit, y que voltaje representa un 1 y cuantos un 0.
+    %def Define las especificaciones eléctricas, mecánicas, de procedimiento y funcionales para activar, mantener y desactivar el enlace físico entre sistemas finales.
+    %def Características tales como niveles de voltaje, temporización de cambios de voltaje, velocidad de datos físicos, distancias de transmisión máximas, conectores físicos y otros atributos similares son definidos por las especificaciones de esta capa.
+
+  %concept
+    %names Funciones principales de las capas del modelo OSI
+    %tags portadora, moduladora, analógica, digital
+    %table{ fields: 'capa, función' }
+      %row
+        %col Aplicación
+        %col Inicia o finaliza una solicitud.
+      %row
+        %col Presentación
+        %col Añade información de encriptación, presentación y formato.
+      %row
+        %col Sesión
+        %col Añade información de flujo de tráfico para determinar cuando se recibe el paquete.
+      %row
+        %col Transporte
+        %col Añade información de manejo de errores entre emisor y destinatario.
+      %row
+        %col Red
+        %col Añade al paquete información de direccionamiento.
+      %row
+        %col Enlace
+        %col Añade información de control de errores y prepara los datos para la transmisión física.
+      %row
+        %col Física
+        %col Envío de cadena de bits por el medio físico.
+
+  %concept
+    %names Encapsulamiento de los datos
+    %tags datos, niveles,cabacera, protocolo
+    %def Los datos que se desean transmitir son pasados entre dos niveles adyacentes.
+    %def Cada nivel antes de transmitirlo, exceptuando el nivel físico, añade una cabecera para datos de protocolo de dicho nivel.
+    %def Cuando los datos llegan al receptor se van eliminando las cabeceras hasta que finalmente llega hasta la aplicación destino.
+    %def Características tales como niveles de voltaje, temporización de cambios de voltaje, velocidad de datos físicos, distancias de transmisión máximas, conectores físicos y otros atributos similares son definidos por las especificaciones de esta capa.
+
+  %concept
+    %names TCP/IP
+    %tags protocolos, industria, comunicación, 
+    %def Conjunto de protocolos aceptados por la industria que permiten la comunicación en un entorno heterogéneo, es decir, formado por elementos diferentes.
+    %def Debido a su popularidad,  se ha convertido en el estándar de facto.
+    %def Su nombre proviene de dos protocolos importantes de la familia, el Transmission Control Protocol (TCP) y el Internet Protocol (IP).
+    %def Las capas que lo componen son: aplicación, transporte, internet, acceso a la red.
+
+  %concept
+    %names OSI frente a TCP/IP
+    %tags jure, facto, capas, funciones
+    %def OSI es un estándar de jure, TCP/IP es un estándar de facto.
+    %def OSI es un modelo más teórico, mientras que TCP/IP es un modelo fundamentalmente práctico.
+    %def OSI presenta 7 capas, TCP/IP presenta 4 capas.
+    %def TCP/IP combina las funciones de la capa de presentación y de sesión en la capa de aplicación.
+    %def TCP/IP combina la capas de enlace de datos y la capa física del modelo OSI en una sola capa.
+
+  %concept
+    %names Protocolos
+    %tags reglas, procedimientos, comunicación
+    %def Definen reglas y procedimientos en la comunicación.
+    %def Normas de comunicación entre entidades pares.
+    %def Existen distintos protocolos debido a que tienen distintos propósitos, tareas, ventajas y desventajas.
+    %def Su función está definida por la capa en la que trabajan.
+    %def Algunos protocolos trabajan en varias capas del modelo OSI.
+
+  %concept
+    %names Pila de protocolos
+    %tags conjunto, protocolos
+    %def Conjunto de protocolos que pueden y deben trabajar juntos.
+
+  %concept
+    %names Protocolos en el modelo OSI
+    %tags aplicación, presentación, sesión, transporte, red, enlace, física, cable, radio, fibra, óptica
+    %table{ fields: 'capa, protocolo' }
+      %row
+        %col Aplicación
+        %col HTTP, FTP, Telnet.
+      %row
+        %col Presentación
+        %col XDR, ASN.1, SMB, AFP.
+      %row
+        %col Sesión
+        %col SSH, RPC, NetBIOS.
+      %row
+        %col Transporte
+        %col TCP, UDP.
+      %row
+        %col Red
+        %col IP, ARP.
+      %row
+        %col Enlace
+        %col Ethernet, Frame Relay, ATM, RDSI, X.25, HDLC.
+      %row
+        %col Física
+        %col Cable, radio, fibra óptica.
+
+  %concept
+    %names Protocolos en el modelo TCP/IP
+    %tags aplicación, presentación, sesión, transporte, red, enlace, física, cable, radio, fibra, óptica
+    %table{ fields: 'capa, protocolo' }
+      %row
+        %col Aplicación
+        %col HTTP, FTP, Telnet, XDR, ASN.1, SMB, AFP, SSH, RPC, NetBIOS.
+      %row
+        %col Transporte
+        %col TCP, UDP.
+      %row
+        %col Internet
+        %col IP, ARP.
+      %row
+        %col Acceso a la red
+        %col Ethernet, Frame Relay, ATM, RDSI, X.25, HDLC, Cable, radio, fibra óptica.
