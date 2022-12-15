@@ -1,0 +1,575 @@
+==================================================
+Created by : asker (version 2.5.3)
+File       : el_relieve-log.txt
+Time       : 2022-12-15 08:22:56 +0000
+Author     : David Vargas Ruiz
+==================================================
+
+[INFO] Project open
+   ├── inputdirs    = [1mficheros.problema[0m
+   └── process_file = [1mel_relieve.haml[0m
+
+[INFO] Showing concept data ([1mdefault[0m)
++---------------+---------------------------------------------------------------------------+
+| [1m1[0m             | [37m[44m[1mLa corteza[0m (lang=es)                                                      |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | capa, geosfera, continentes                                               |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Es la capa más superficial de la geosfera, y está constituida por cont... |
+|               | No es permanente ni homogénea, síno que ha ido variando a causa de dis... |
+| [34m.neighbors[0m    | La form...los continentes(50.0)                                           |
+|               | Los océanos(50.0)                                                         |
+|               | Plataforma continental(50.0)                                              |
+|               | Los climas de la Tierra(25.0)                                             |
+|               | Los glaciares(25.0)                                                       |
++---------------+---------------------------------------------------------------------------+
++---------------+----------------------------------------------------+
+| [1m2[0m             | [37m[44m[1mLa form...los continentes[0m (lang=es)                |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                  |
+| [34mContext[0m       | relieve                                            |
+| [34mTags[0m          | continentes, Pangea, fragmentos, placas, litosfera |
+| [34mReference to[0m  |                                                    |
+| [34mReferenced by[0m |                                                    |
+| [34m.def(text)[0m    |                                                    |
+| [34m.tables[0m       | $teoría$explicación                                |
+| [34m.neighbors[0m    | Orogénesis(28.57)                                  |
+|               | La corteza(28.57)                                  |
+|               | Los océanos(28.57)                                 |
+|               | Plataforma continental(28.57)                      |
+|               | Los climas de la Tierra(14.28)                     |
++---------------+----------------------------------------------------+
++---------------+------------------------------------------------------------------+
+| [1m3[0m             | [37m[44m[1mRelieve[0m (lang=es)                                                |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                |
+| [34mContext[0m       | relieve                                                          |
+| [34mTags[0m          | desigualdades, superficie                                        |
+| [34mReference to[0m  |                                                                  |
+| [34mReferenced by[0m |                                                                  |
+| [34m.def(text)[0m    | Son las desigualdades que existen en la superficie terrestre.... |
+| [34m.neighbors[0m    | Erosión(66.66)                                                   |
+|               | Orogénesis(66.66)                                                |
+|               | Epicentro(66.66)                                                 |
+|               | Deforestación(66.66)                                             |
+|               | Los océanos(66.66)                                               |
++---------------+------------------------------------------------------------------+
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| [1m4[0m             | [37m[44m[1mOrogénesis[0m (lang=es)                                                                                                                         |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                                                                                            |
+| [34mContext[0m       | relieve                                                                                                                                      |
+| [34mTags[0m          | deformaciones, superficie, terrestre, relieve, Tierra, placas, pliqgues, fallas, volcanes, terremotos, agua, viento, vegetación, temperatura |
+| [34mReference to[0m  |                                                                                                                                              |
+| [34mReferenced by[0m |                                                                                                                                              |
+| [34m.def(text)[0m    | Proceso que produce las deformaciones en la superficie terrestre forma...                                                                    |
+| [34m.tables[0m       | $acción$explicación                                                                                                                          |
+| [34m.neighbors[0m    | Modelado del relieve(31.25)                                                                                                                  |
+|               | Los océanos(25.0)                                                                                                                            |
+|               | El clima(25.0)                                                                                                                               |
+|               | Lagos(18.75)                                                                                                                                 |
+|               | Erosión(18.75)                                                                                                                               |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m5[0m             | [37m[44m[1mVolcanes[0m (lang=es)                                                        |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | grietas, corteza, material, Tierra, lava, gases, cenizas, roca, erupción  |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Son aberturas o grietas de la corteza terrestre a través de las cuales... |
+|               | Esta salida de material recibe el nombre de erupción volcánica. Al sol... |
+| [34m.neighbors[0m    | Los climas de la Tierra(20.0)                                             |
+|               | Hipocentro(20.0)                                                          |
+|               | Terremotos o seismos(20.0)                                                |
+|               | Orogénesis(20.0)                                                          |
+|               | El clima(20.0)                                                            |
++---------------+---------------------------------------------------------------------------+
++---------------+----------------------------------------------------------------------------------+
+| [1m6[0m             | [37m[44m[1mTerremotos o seismos[0m (lang=es)                                                   |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                                |
+| [34mContext[0m       | relieve                                                                          |
+| [34mTags[0m          | ruptura, corteza, terrestre, ola, tsunami, sismógrafo, escala, Richter, Mercalli |
+| [34mReference to[0m  |                                                                                  |
+| [34mReferenced by[0m |                                                                                  |
+| [34m.def(text)[0m    | Son movimientos subterráneos bruscos que pueden causar rupturas en la ...        |
+|               | Si el seismo es submarino se llama maremoto y puede provocar una ola g...        |
+|               | Para detectarlos se usa el sismógrafo.                                           |
+|               | Las dos escalas más utilizadas para medir su magnitud son la escala Ri...        |
+| [34m.tables[0m       | $escala de medida$explicación                                                    |
+| [34m.neighbors[0m    | Erosión(18.18)                                                                   |
+|               | Volcanes(18.18)                                                                  |
+|               | Orogénesis(18.18)                                                                |
+|               | Los océanos(18.18)                                                               |
+|               | Los climas de la Tierra(9.090)                                                   |
++---------------+----------------------------------------------------------------------------------+
++---------------+---------------------------------------------------------+
+| [1m7[0m             | [37m[44m[1mEpicentro[0m (lang=es)                                     |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                       |
+| [34mContext[0m       | relieve                                                 |
+| [34mTags[0m          | punto, superficie, ondas                                |
+| [34mReference to[0m  |                                                         |
+| [34mReferenced by[0m |                                                         |
+| [34m.def(text)[0m    | Punto de la superficie al que llegan las ondas sísmicas |
+| [34m.neighbors[0m    | Erosión(50.0)                                           |
+|               | Hipocentro(50.0)                                        |
+|               | Relieve(50.0)                                           |
+|               | Orogénesis(50.0)                                        |
+|               | Deforestación(50.0)                                     |
++---------------+---------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m8[0m             | [37m[44m[1mHipocentro[0m (lang=es)                                                      |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | puntoi, interior, Tierra, terremoto, ondas                                |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Punto del interior de la Tierra donde se inicia el terremoto que gener... |
+| [34m.neighbors[0m    | Los climas de la Tierra(33.33)                                            |
+|               | Epicentro(33.33)                                                          |
+|               | Volcanes(33.33)                                                           |
+|               | Orogénesis(33.33)                                                         |
+|               | El clima(33.33)                                                           |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m9[0m             | [37m[44m[1mDorsal oceánica[0m (lang=es)                                                 |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | cordillera, llanuras, islas                                               |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Cordillera submarina que surca las llanuras abisales y que puede sobre... |
+| [34m.neighbors[0m    | Llanuras abisales(50.0)                                                   |
+|               | Los climas de la Tierra(25.0)                                             |
+|               | Los glaciares(25.0)                                                       |
+|               | Lagos(25.0)                                                               |
+|               | Los ríos(25.0)                                                            |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m10[0m            | [37m[44m[1mMaremoto[0m (lang=es)                                                        |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | movimiento, sísmico, aguas, mar                                           |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Movimiento sísmico que afecta a las aguas del mar y provoca una agitac... |
+| [34m.neighbors[0m    | Plataforma continental(40.0)                                              |
+|               | El clima(40.0)                                                            |
+|               | Los climas de la Tierra(20.0)                                             |
+|               | Los glaciares(20.0)                                                       |
+|               | Lagos(20.0)                                                               |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m11[0m            | [37m[44m[1mRift[0m (lang=es)                                                            |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | fisura, duperficie, continental, valle, placa, tectónica                  |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Fisura de la superficie continental en forma de valle producida por la... |
+| [34m.neighbors[0m    | Talud continental(28.57)                                                  |
+|               | Mares(28.57)                                                              |
+|               | Los climas de la Tierra(14.28)                                            |
+|               | Los glaciares(14.28)                                                      |
+|               | Lagos(14.28)                                                              |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m12[0m            | [37m[44m[1mPliegue[0m (lang=es)                                                         |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | presión, materiales, plasticidad, ondulación, rocas                       |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | La presión sobre materiales con elevada plasticidad provoca una ondula... |
+| [34m.neighbors[0m    | Falla(50.0)                                                               |
+|               | El clima(33.33)                                                           |
+|               | Los climas de la Tierra(16.66)                                            |
+|               | Los glaciares(16.66)                                                      |
+|               | Lagos(16.66)                                                              |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m13[0m            | [37m[44m[1mFalla[0m (lang=es)                                                           |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | presión, materiales, rígidos, fractura, bloques                           |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | La presión sobre materiales rígidos provoca una fractura en la que los... |
+| [34m.neighbors[0m    | Pliegue(50.0)                                                             |
+|               | El clima(33.33)                                                           |
+|               | Los climas de la Tierra(16.66)                                            |
+|               | Los glaciares(16.66)                                                      |
+|               | Lagos(16.66)                                                              |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m14[0m            | [37m[44m[1mModelado del relieve[0m (lang=es)                                            |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | agua, viento, vegetación, temperatura                                     |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Los principales agentes externos son el agua, el viento, la vegetación... |
+| [34m.tables[0m       | $agente externo$explicación                                               |
+| [34m.neighbors[0m    | Orogénesis(83.33)                                                         |
+|               | El clima(50.0)                                                            |
+|               | Lagos(33.33)                                                              |
+|               | Mares(33.33)                                                              |
+|               | Los océanos(33.33)                                                        |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m15[0m            | [37m[44m[1mEl agua[0m (lang=es)                                                         |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | olas, corrientes submarinas, litoral, acantilados, arena, golfos          |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Las olas, las corrientes marinas y las mareas actúan sobre el litoral:... |
+|               | El agua de la lluvia horada la superficie de las rocas; se filtra y di... |
+|               | Los ríos excavan valles y cañones y arrancan materiales, especialmente... |
+|               | El hielo. El agua depositada en las grietas o las oquedades de las roc... |
+| [34m.neighbors[0m    | El movi...to de los mares(28.57)                                          |
+|               | Los climas de la Tierra(14.28)                                            |
+|               | Los glaciares(14.28)                                                      |
+|               | Lagos(14.28)                                                              |
+|               | Los ríos(14.28)                                                           |
++---------------+---------------------------------------------------------------------------+
++---------------+----------------------------------------------------------------+
+| [1m16[0m            | [37m[44m[1mLa acci...s seres humanos[0m (lang=es)                            |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                              |
+| [34mContext[0m       | relieve                                                        |
+| [34mTags[0m          | ciudades, carreteras, infraestructuras, deforestación, erosión |
+| [34mReference to[0m  |                                                                |
+| [34mReferenced by[0m |                                                                |
+| [34m.def(text)[0m    |                                                                |
+| [34m.tables[0m       | $modos de acción$explicación                                   |
+| [34m.neighbors[0m    | Los climas de la Tierra(14.28)                                 |
+|               | Los glaciares(14.28)                                           |
+|               | Lagos(14.28)                                                   |
+|               | Los ríos(14.28)                                                |
+|               | Dorsales oceánicas(14.28)                                      |
++---------------+----------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m17[0m            | [37m[44m[1mDeforestación[0m (lang=es)                                                   |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | proceso, destrucción, superficie, forestal                                |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Proceso de destrucción de la superficie forestal realizado mediante ta... |
+| [34m.neighbors[0m    | Erosión(40.0)                                                             |
+|               | Epicentro(40.0)                                                           |
+|               | Relieve(40.0)                                                             |
+|               | Orogénesis(40.0)                                                          |
+|               | Los océanos(40.0)                                                         |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m18[0m            | [37m[44m[1mErosión[0m (lang=es)                                                         |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | desgaste, superficie, terrestre, agentes, naturales, acción humana        |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Desgaste producido en la superficie terrestre por los agentes externos... |
+| [34m.neighbors[0m    | Orogénesis(42.85)                                                         |
+|               | Los océanos(42.85)                                                        |
+|               | Deforestación(28.57)                                                      |
+|               | Epicentro(28.57)                                                          |
+|               | Relieve(28.57)                                                            |
++---------------+---------------------------------------------------------------------------+
++---------------+----------------------------------------------------------------------------------------------------------+
+| [1m19[0m            | [37m[44m[1mLos océanos[0m (lang=es)                                                                                    |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                                                        |
+| [34mContext[0m       | relieve                                                                                                  |
+| [34mTags[0m          | masas, agua, continentes, superficie, terrestre, Pacífico, Atlántico, Índico, Glacial, Ártico, Antártico |
+| [34mReference to[0m  |                                                                                                          |
+| [34mReferenced by[0m |                                                                                                          |
+| [34m.def(text)[0m    | son grandes masas de agua salada que separan los continentes y cubren ...                                |
+| [34m.tables[0m       | $océano$explicación                                                                                      |
+| [34m.neighbors[0m    | Orogénesis(30.76)                                                                                        |
+|               | Erosión(23.07)                                                                                           |
+|               | Los glaciares(15.38)                                                                                     |
+|               | Lagos(15.38)                                                                                             |
+|               | Mares(15.38)                                                                                             |
++---------------+----------------------------------------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m20[0m            | [37m[44m[1mMares[0m (lang=es)                                                           |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | agua, salada, océano, masa, continental                                   |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Extensiones de agua salada, considerados una división de un océano, má... |
+| [34m.neighbors[0m    | Lagos(33.33)                                                              |
+|               | Talud continental(33.33)                                                  |
+|               | Los océanos(33.33)                                                        |
+|               | Rift(33.33)                                                               |
+|               | Orogénesis(33.33)                                                         |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m21[0m            | [37m[44m[1mEl relieve submarino[0m (lang=es)                                            |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | fondo, mares, océanos                                                     |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Es el fondo de los mares y océanos.                                       |
+|               | Es muy accidentado y está formado por diversas formas de relieve....      |
+|               | La mayor parte del relieve submarino está formado por las grandes llan... |
+| [34m.neighbors[0m    | Fosas marinas(75.0)                                                       |
+|               | Los climas de la Tierra(25.0)                                             |
+|               | Los glaciares(25.0)                                                       |
+|               | Lagos(25.0)                                                               |
+|               | Los ríos(25.0)                                                            |
++---------------+---------------------------------------------------------------------------+
++---------------+-----------------------------------------------------+
+| [1m22[0m            | [37m[44m[1mEl movi...to de los mares[0m (lang=es)                 |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                   |
+| [34mContext[0m       | relieve                                             |
+| [34mTags[0m          | olas, mareas, pleamar, bajamar, corrientes, marinas |
+| [34mReference to[0m  |                                                     |
+| [34mReferenced by[0m |                                                     |
+| [34m.def(text)[0m    |                                                     |
+| [34m.tables[0m       | $movimiento$explicación                             |
+| [34m.neighbors[0m    | El agua(25.0)                                       |
+|               | Los climas de la Tierra(12.5)                       |
+|               | Los glaciares(12.5)                                 |
+|               | Lagos(12.5)                                         |
+|               | Los ríos(12.5)                                      |
++---------------+-----------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m23[0m            | [37m[44m[1mPlataforma continental[0m (lang=es)                                          |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | prolongación, continentes, mar                                            |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Prolongación de los continentes bajo el mar, tiene una profundidad med... |
+| [34m.neighbors[0m    | Los océanos(50.0)                                                         |
+|               | La corteza(50.0)                                                          |
+|               | La form...los continentes(50.0)                                           |
+|               | Maremoto(50.0)                                                            |
+|               | El clima(50.0)                                                            |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m24[0m            | [37m[44m[1mTalud continental[0m (lang=es)                                               |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | escalón, pendiente, plataforma, continental                               |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Escalón de pronunciada pendiente que marca el final de la plataforma c... |
+| [34m.neighbors[0m    | Rift(40.0)                                                                |
+|               | Mares(40.0)                                                               |
+|               | Los climas de la Tierra(20.0)                                             |
+|               | Los glaciares(20.0)                                                       |
+|               | Lagos(20.0)                                                               |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m25[0m            | [37m[44m[1mLlanuras abisales[0m (lang=es)                                               |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | llanuras, grandes, profundidades                                          |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Llanuras que se encuentran a grandes profundidades ( entre 4000 y 5000... |
+| [34m.neighbors[0m    | Dorsal oceánica(50.0)                                                     |
+|               | Los climas de la Tierra(25.0)                                             |
+|               | Los glaciares(25.0)                                                       |
+|               | Lagos(25.0)                                                               |
+|               | Los ríos(25.0)                                                            |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m26[0m            | [37m[44m[1mDorsales oceánicas[0m (lang=es)                                              |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | cordilleras, submarinas, llanuras abisales                                |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Cordilleras submarinas que surcan las llanuras abisales y que pueden s... |
+|               | La dorsal más larga es la dorsal atlántica                                |
+| [34m.neighbors[0m    | Los climas de la Tierra(25.0)                                             |
+|               | Los glaciares(25.0)                                                       |
+|               | Lagos(25.0)                                                               |
+|               | Los ríos(25.0)                                                            |
+|               | Llanuras abisales(25.0)                                                   |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m27[0m            | [37m[44m[1mFosas marinas[0m (lang=es)                                                   |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | cavidades, fondo, océanos                                                 |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Profundas cavidades situadas en el fondo de los océanos.                  |
+|               | La más profunda es la fosa de las Marianas, en el océano Pacífico, que... |
+| [34m.neighbors[0m    | El relieve submarino(75.0)                                                |
+|               | Los climas de la Tierra(25.0)                                             |
+|               | Los glaciares(25.0)                                                       |
+|               | Lagos(25.0)                                                               |
+|               | Los ríos(25.0)                                                            |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m28[0m            | [37m[44m[1mLos ríos[0m (lang=es)                                                        |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | caudal, cuenca, cauce, desembocadura                                      |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Corriente continua de agua dulce que desemboca en el mar, en otro río ... |
+|               | El río que desemboca en otro río se llama afluente                        |
+| [34m.tables[0m       | $partes de un río$explicación                                             |
+| [34m.neighbors[0m    | Régimen fluvial(33.33)                                                    |
+|               | Los climas de la Tierra(16.66)                                            |
+|               | Los glaciares(16.66)                                                      |
+|               | Lagos(16.66)                                                              |
+|               | Fosas marinas(16.66)                                                      |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------+
+| [1m29[0m            | [37m[44m[1mRégimen fluvial[0m (lang=es)                               |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                       |
+| [34mContext[0m       | relieve                                                 |
+| [34mTags[0m          | variación, caudal, río, pluvial, nival                  |
+| [34mReference to[0m  |                                                         |
+| [34mReferenced by[0m |                                                         |
+| [34m.def(text)[0m    | Es la variación del caudal de un río a lo largo del año |
+| [34m.tables[0m       | $tipo de regimen$explicación                            |
+| [34m.neighbors[0m    | Los ríos(28.57)                                         |
+|               | Los climas de la Tierra(14.28)                          |
+|               | Los glaciares(14.28)                                    |
+|               | Lagos(14.28)                                            |
+|               | Fosas marinas(14.28)                                    |
++---------------+---------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m30[0m            | [37m[44m[1mLagos[0m (lang=es)                                                           |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | agua, depresión, relieve, lagunas                                         |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Acumulaciones de agua que ocupan una depresión del relieve.               |
+|               | Con frecuencia son alimentados por ríos, aguas subterráneas o el deshi... |
+|               | Los lagos de pequeña extensión o poca profundidad se denominan lagunas... |
+| [34m.neighbors[0m    | Orogénesis(60.0)                                                          |
+|               | Los océanos(40.0)                                                         |
+|               | Modelado del relieve(40.0)                                                |
+|               | Mares(40.0)                                                               |
+|               | Aguas subterráneas(40.0)                                                  |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m31[0m            | [37m[44m[1mAguas subterráneas[0m (lang=es)                                              |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | infiltración, agua, lluvia                                                |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Se forman por la infiltración del agua de la lluvia o de la nieve en e... |
+| [34m.neighbors[0m    | Los océanos(50.0)                                                         |
+|               | Orogénesis(50.0)                                                          |
+|               | Modelado del relieve(50.0)                                                |
+|               | Mares(50.0)                                                               |
+|               | Lagos(50.0)                                                               |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m32[0m            | [37m[44m[1mLos glaciares[0m (lang=es)                                                   |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | masas, hielo, temperaturas, bajas                                         |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Son grandes masas de hielo que se encuentran en lugares que registran ... |
+| [34m.neighbors[0m    | Los océanos(40.0)                                                         |
+|               | Los climas de la Tierra(20.0)                                             |
+|               | Aguas subterráneas(20.0)                                                  |
+|               | Régimen fluvial(20.0)                                                     |
+|               | Fosas marinas(20.0)                                                       |
++---------------+---------------------------------------------------------------------------+
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [1m33[0m            | [37m[44m[1mEl clima[0m (lang=es)                                                                                                                                         |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                                                                                                          |
+| [34mContext[0m       | relieve                                                                                                                                                    |
+| [34mTags[0m          | conjunto, condiciones, atmosféricas, zona, Tierra, latitud, altitud, distancia, mar, temperatura, presión, atmosférica, presipitaciones, nubosidad, viento |
+| [34mReference to[0m  |                                                                                                                                                            |
+| [34mReferenced by[0m |                                                                                                                                                            |
+| [34m.def(text)[0m    | Es el conjunto de condiciones atmosféricas que se repiten de manera cí...                                                                                  |
+| [34m.tables[0m       | $factores del clima                                                                                                                                        |
+|               | $elementos del clima                                                                                                                                       |
+| [34m.neighbors[0m    | Orogénesis(22.22)                                                                                                                                          |
+|               | Los climas de la Tierra(16.66)                                                                                                                             |
+|               | Modelado del relieve(16.66)                                                                                                                                |
+|               | Plataforma continental(11.11)                                                                                                                              |
+|               | Falla(11.11)                                                                                                                                               |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m34[0m            | [37m[44m[1mLos climas de la Tierra[0m (lang=es)                                         |
+| [34mFilename[0m      | ficheros.problema/el_relieve.haml                                         |
+| [34mContext[0m       | relieve                                                                   |
+| [34mTags[0m          | latitud, Tierra, franjas                                                  |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | La latitud divide a la Tierra en cinco grandes franjas climáticas: una... |
+|               | Tenemos tres tipos de climas: fríos, templados y cálidos.                 |
+| [34m.tables[0m       | $tipos de climas$subtipo                                                  |
+| [34m.neighbors[0m    | El clima(60.0)                                                            |
+|               | Volcanes(40.0)                                                            |
+|               | Orogénesis(40.0)                                                          |
+|               | Hipocentro(40.0)                                                          |
+|               | Aguas subterráneas(20.0)                                                  |
++---------------+---------------------------------------------------------------------------+
+
+[INFO] Creating output files
+   ├── Gift questions file => [1moutput/el_relieve-gift.txt[0m
+   ├── Lesson file         => [1moutput/el_relieve-doc.txt[0m
+   ├── YAML questions file => [1moutput/el_relieve.yaml[0m
+   └── Moodle XML file     => [1moutput/el_relieve-moodle.xml[0m
+
+[INFO] Showing CONCEPT statistics
+ * Exclude questions: 
+ * Annotations:
+   ├── (d) Definitions     <= Concept.def
+   ├── (b) Table Matching  <= Concept.table.rows.columns
+   ├── (f) Tables 1 Field  <= Concept.table.fields.size==1
+   ├── (i) Images URL      <= Concept.def{:type => 'file'}
+   ├── (s) Sequences       <= Concept.table{:sequence => '...'}
+   └── (t) Table Rows&Cols <= Concept.table.rows.columns
+
++---------------------------+-----------+---------+---------+-----+----+---+---+---+-----+
+| Concept                   | Questions | Entries | xFactor | d   | b  | f | i | s | t   |
++---------------------------+-----------+---------+---------+-----+----+---+---+---+-----+
+| [32m[1mLa corteza[0m                | 25        | 2       | 12.5    | 25  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mLa form...los continentes[0m | 6         | 4       | 1.5     | 0   | 0  | 0 | 0 | 0 | 6   |
+| [32m[1mRelieve[0m                   | 11        | 1       | 11.0    | 11  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mOrogénesis[0m                | 17        | 5       | 3.4     | 11  | 0  | 0 | 0 | 0 | 6   |
+| [32m[1mVolcanes[0m                  | 27        | 2       | 13.5    | 27  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mTerremotos o seismos[0m      | 54        | 8       | 6.75    | 46  | 0  | 0 | 0 | 0 | 8   |
+| [32m[1mEpicentro[0m                 | 11        | 1       | 11.0    | 11  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mHipocentro[0m                | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mDorsal oceánica[0m           | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mMaremoto[0m                  | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mRift[0m                      | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mPliegue[0m                   | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mFalla[0m                     | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mModelado del relieve[0m      | 48        | 9       | 5.33    | 12  | 4  | 0 | 0 | 0 | 32  |
+| [32m[1mEl agua[0m                   | 53        | 4       | 13.25   | 53  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mLa acci...s seres humanos[0m | 8         | 4       | 2.0     | 0   | 0  | 0 | 0 | 0 | 8   |
+| [32m[1mDeforestación[0m             | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mErosión[0m                   | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mLos océanos[0m               | 48        | 9       | 5.33    | 13  | 4  | 0 | 0 | 0 | 31  |
+| [32m[1mMares[0m                     | 12        | 1       | 12.0    | 12  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mEl relieve submarino[0m      | 34        | 3       | 11.33   | 34  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mEl movi...to de los mares[0m | 18        | 6       | 3.0     | 0   | 0  | 0 | 0 | 0 | 18  |
+| [32m[1mPlataforma continental[0m    | 11        | 1       | 11.0    | 11  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mTalud continental[0m         | 11        | 1       | 11.0    | 11  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mLlanuras abisales[0m         | 11        | 1       | 11.0    | 11  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mDorsales oceánicas[0m        | 23        | 2       | 11.5    | 23  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mFosas marinas[0m             | 23        | 2       | 11.5    | 23  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mLos ríos[0m                  | 59        | 10      | 5.9     | 23  | 4  | 0 | 0 | 0 | 32  |
+| [32m[1mRégimen fluvial[0m           | 19        | 5       | 3.8     | 11  | 0  | 0 | 0 | 0 | 8   |
+| [32m[1mLagos[0m                     | 34        | 3       | 11.33   | 34  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mAguas subterráneas[0m        | 13        | 1       | 13.0    | 13  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mLos glaciares[0m             | 15        | 1       | 15.0    | 15  | 0  | 0 | 0 | 0 | 0   |
+| [32m[1mEl clima[0m                  | 21        | 9       | 2.33    | 12  | 0  | 9 | 0 | 0 | 0   |
+| [32m[1mLos climas de la Tierra[0m   | 42        | 8       | 5.25    | 24  | 0  | 0 | 0 | 0 | 18  |
+| [33m[1mExcluded questions[0m        | 0         | -       | -       | 0   | 0  | 0 | 0 | 0 | 0   |
++---------------------------+-----------+---------+---------+-----+----+---+---+---+-----+
+| [1mTOTAL = 34[0m                | [1m750[0m       | [1m111[0m     | [1m6.76[0m    | 562 | 12 | 9 | 0 | 0 | 167 |
++---------------------------+-----------+---------+---------+-----+----+---+---+---+-----+
+
