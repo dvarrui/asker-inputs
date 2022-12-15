@@ -3,7 +3,7 @@
 
 [14/12/22]
 
-çEstoy teniendo este problema, pero las tabulaciones están bien. Me ha pasado ya en varios archivos
+Estoy teniendo este problema, pero las tabulaciones están bien. Me ha pasado ya en varios archivos
 
 ![](ficheros.problema/01.png)
 
@@ -12,10 +12,10 @@ Lo curioso es que si quito todo lo que está en esas líneas , se desplaza el co
 ## Primeros pasos
 
 Se solicita el [fichero haml](ficheros.problema/el_relieve.html) para chequearlo.
-Lo copio en ficheros.solucion/el_relieve.haml para no modificar el original.
+Lo copio en `ficheros.solucion/el_relieve2.haml` para no modificar el original.
 
 ```
-❯ asker check ficheros.solucion/el_relieve.haml
+❯ asker check ficheros.solucion/el_relieve2.haml
 
  020 :   Write 2 spaces before %concept. =>   %concept
  025 :   Write 2 spaces before %concept. =>   %concept
@@ -35,15 +35,14 @@ Lo copio en ficheros.solucion/el_relieve.haml para no modificar el original.
 Abrí el fichero con el editor Atom y lo volví a grabar. Como curiosidad detecté que el archivo había disminuido de tamaño. Además ahora el check funcionaba bien.
 
 ```
-❯ asker check ficheros.solucion/el_relieve.haml
+❯ asker check ficheros.solucion/el_relieve2.haml
 
 Syntax OK!
 ```
 
 _¡Resuelto! pero... ¿dónde estaba el problema?_
 
-
-## Editor hexadecimal
+## Caracteres no visibles
 
 Me busqué un editor hexadecimal para intentar localizar los caracteres ocultos.
 
