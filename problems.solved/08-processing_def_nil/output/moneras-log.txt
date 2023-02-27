@@ -1,0 +1,166 @@
+==================================================
+Created by : asker (version 2.5.8)
+File       : moneras-log.txt
+Time       : 2023-02-27 17:21:21 +0000
+==================================================
+
+[INFO] Project open
+   ├── inputdirs    = [1mficheros.solucion[0m
+   └── process_file = [1mmoneras.haml[0m
+
+[INFO] Showing concept data ([1mdefault[0m)
++---------------+-------------------------------------------------------------------------------------------------+
+| [1m1[0m             | [37m[44m[1mReino Monera[0m (lang=es)                                                                          |
+| [34mFilename[0m      | ficheros.solucion/moneras.haml                                                                  |
+| [34mContext[0m       | moneras_protoctistas_hongos                                                                     |
+| [34mTags[0m          | protoctista, protista, organismos, protozoos, algas, eucariotas, núcleo, autótrofa, heterótrofa |
+| [34mReference to[0m  |                                                                                                 |
+| [34mReferenced by[0m |                                                                                                 |
+| [34m.def(text)[0m    | Es uno de los más diversos y se le denomina protoctista o protista....                          |
+|               | Es un reino muy heterogéneo de organismos.                                                      |
+|               | Dentro de este grupo tan dispar destacan los protozoos y las algas...                           |
+| [34m.tables[0m       | $se caracterizan por ser:                                                                       |
+| [34m.neighbors[0m    | Protozoos(27.27)                                                                                |
+|               | Las algas(18.18)                                                                                |
+|               | El plancton(18.18)                                                                              |
+|               | Los líquenes(9.090)                                                                             |
+|               | Los hongos(9.090)                                                                               |
++---------------+-------------------------------------------------------------------------------------------------+
++---------------+------------------------------------------------------------------------------------------------------------------------------------+
+| [1m2[0m             | [37m[44m[1mProtozoos[0m (lang=es)                                                                                                                |
+| [34mFilename[0m      | ficheros.solucion/moneras.haml                                                                                                     |
+| [34mContext[0m       | moneras_protoctistas_hongos                                                                                                        |
+| [34mTags[0m          | organismos, unicelulares, eucariotas, heterótrofos, flagelados, ciliados, rizópodos, esporozoos, nutrición, relación, reproducción |
+| [34mReference to[0m  |                                                                                                                                    |
+| [34mReferenced by[0m |                                                                                                                                    |
+| [34m.def(text)[0m    | Son un grupo de organismos unicelulares eucariotas heterótrofos de vid...                                                          |
+|               | Tienen una importancia fundamental en la cadena trófica ya que forman ...                                                          |
+|               | Algunos producen enfermedades a otros seres vivos, incluido el ser hum...                                                          |
+| [34m.tables[0m       | $tipo$desplazamiento$características$ejemplos                                                                                      |
+|               | $función vital$descripción                                                                                                         |
+| [34m.neighbors[0m    | Reino Monera(21.42)                                                                                                                |
+|               | Las algas(14.28)                                                                                                                   |
+|               | El plancton(14.28)                                                                                                                 |
+|               | Los líquenes(7.142)                                                                                                                |
+|               | Los hongos(7.142)                                                                                                                  |
++---------------+------------------------------------------------------------------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m3[0m             | [37m[44m[1mLas algas[0m (lang=es)                                                       |
+| [34mFilename[0m      | ficheros.solucion/moneras.haml                                            |
+| [34mContext[0m       | moneras_protoctistas_hongos                                               |
+| [34mTags[0m          | seres, autótrofos, unicelulares, pluricelulares, algas, cloroplastos      |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Conjunto de seres vivos eucariotas autótrofos de vida acuática....        |
+|               | Existen tanto unicelulares como pluricelulares que pueden llegar hasta... |
+|               | Viven en la zona superficial del agua (marina o continental) debido a ... |
+|               | Cuentan con numerosos cloroplastos.                                       |
+|               | Son productoras de oxígeno, alimento de michos animales acuáticos....     |
+|               | En la industria alimentaria se usan como alimento.                        |
+|               | En la industria cosmética se usan  para fabricar cremas y jabones....     |
+|               | En la agricultura se usan como fertilizantes y en la generación de bio... |
+|               | En medicina se usan para generar fármacos.                                |
+| [34m.tables[0m       | $tipo$características$ejemplos                                            |
+|               | $función vital$descripción                                                |
+| [34m.neighbors[0m    | Los hongos(22.22)                                                         |
+|               | Protozoos(22.22)                                                          |
+|               | Reino Monera(22.22)                                                       |
+|               | El plancton(22.22)                                                        |
+|               | Los líquenes(11.11)                                                       |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m4[0m             | [37m[44m[1mEl plancton[0m (lang=es)                                                     |
+| [34mFilename[0m      | ficheros.solucion/moneras.haml                                            |
+| [34mContext[0m       | moneras_protoctistas_hongos                                               |
+| [34mTags[0m          | seres, reinos, organismos, agua                                           |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Grupo de seres vivos en el que podemos encontrar representantes de los... |
+|               | Es el conjunto de organismos que están en suspensión en el agua....       |
+|               | Resulta muy importante para la disminución de la contaminación del air... |
+| [34m.tables[0m       | $tipo$descripción                                                         |
+| [34m.neighbors[0m    | Los líquenes(33.33)                                                       |
+|               | Los hongos(33.33)                                                         |
+|               | Protozoos(33.33)                                                          |
+|               | Reino Monera(33.33)                                                       |
+|               | Las algas(33.33)                                                          |
++---------------+---------------------------------------------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m5[0m             | [37m[44m[1mLos hongos[0m (lang=es)                                                      |
+| [34mFilename[0m      | ficheros.solucion/moneras.haml                                            |
+| [34mContext[0m       | moneras_protoctistas_hongos                                               |
+| [34mTags[0m          | seres, tejidos, quitina, levaduras, mohos, setas                          |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Son seres vivos eucariotas, unicelulares o pluricelulares sin tejidos ... |
+|               | Sus células poseen pared celular de quitina.                              |
+|               | Son heterótrofos.                                                         |
+|               | Existen hongos unicelulares y pluricelulares que pueden formar unos fi... |
+|               | Suelen vivir en ambientes húmedos con materia orgánica en descomposici... |
+|               | No presentan nunca tejidos verdaderos.                                    |
+| [34m.tables[0m       | $tipo$características                                                     |
+|               | $función vital$descripción                                                |
+|               | $importancia de los hongos                                                |
+| [34m.neighbors[0m    | El plancton(20.0)                                                         |
+|               | Las algas(20.0)                                                           |
+|               | Los líquenes(10.0)                                                        |
+|               | Protozoos(10.0)                                                           |
+|               | Reino Monera(10.0)                                                        |
++---------------+---------------------------------------------------------------------------+
++---------------+--------------------------------------+
+| [1m6[0m             | [37m[44m[1mTipos d...ónen los hongos[0m (lang=es)  |
+| [34mFilename[0m      | ficheros.solucion/moneras.haml       |
+| [34mContext[0m       | moneras_protoctistas_hongos          |
+| [34mTags[0m          | simbióticos, saprófitos, parásitos   |
+| [34mReference to[0m  |                                      |
+| [34mReferenced by[0m |                                      |
+| [34m.def(text)[0m    |                                      |
+| [34m.tables[0m       | $tipo$características                |
+| [34m.neighbors[0m    | Los líquenes(20.0)                   |
+|               | El plancton(20.0)                    |
+|               | Protozoos(20.0)                      |
+|               | Reino Monera(20.0)                   |
+|               | Las algas(20.0)                      |
++---------------+--------------------------------------+
++---------------+---------------------------------------------------------------------------+
+| [1m7[0m             | [37m[44m[1mLos líquenes[0m (lang=es)                                                    |
+| [34mFilename[0m      | ficheros.solucion/moneras.haml                                            |
+| [34mContext[0m       | moneras_protoctistas_hongos                                               |
+| [34mTags[0m          | estructuras, especies, hongo, alga, agua, fotosíntesis                    |
+| [34mReference to[0m  |                                                                           |
+| [34mReferenced by[0m |                                                                           |
+| [34m.def(text)[0m    | Son estructuras formadas por la simbiosis (asociación de dos especies ... |
+|               | El hongo absorbe agua y sales minerales y cede parte al alga, la cual ... |
+|               | Son capaces de resistir condiciones adversas, pudiendo vivir sobre la ... |
+| [34m.neighbors[0m    | El plancton(28.57)                                                        |
+|               | Tipos d...ónen los hongos(14.28)                                          |
+|               | Protozoos(14.28)                                                          |
+|               | Reino Monera(14.28)                                                       |
+|               | Las algas(14.28)                                                          |
++---------------+---------------------------------------------------------------------------+
+
+[INFO] Showing CONCEPT statistics
+ * Exclude questions: 
+ * Annotations:
+   ├── (d) Definitions     <= Concept.def
+   ├── (b) Table Matching  <= Concept.table.rows.columns
+   ├── (f) Tables 1 Field  <= Concept.table.fields.size==1
+   ├── (i) Images URL      <= Concept.def{:type => 'file'}
+   ├── (s) Sequences       <= Concept.table{:sequence => '...'}
+   └── (t) Table Rows&Cols <= Concept.table.rows.columns
+
++---------------------------+-----------+---------+---------+-----+----+---+---+---+-----+
+| Concept                   | Questions | Entries | xFactor | d   | b  | f | i | s | t   |
++---------------------------+-----------+---------+---------+-----+----+---+---+---+-----+
+| [32m[1mReino Monera[0m              | 35        | 7       | 5.0     | 32  | 0  | 3 | 0 | 0 | 0   |
+| [32m[1mProtozoos[0m                 | 167       | 25      | 6.68    | 39  | 14 | 0 | 0 | 0 | 114 |
+| [32m[1mLas algas[0m                 | 163       | 24      | 6.79    | 101 | 2  | 0 | 0 | 0 | 60  |
+| [32m[1mEl plancton[0m               | 43        | 7       | 6.14    | 35  | 0  | 0 | 0 | 0 | 8   |
+| [32m[1mLos hongos[0m                | 124       | 23      | 5.39    | 69  | 4  | 6 | 0 | 0 | 45  |
+| [32m[1mTipos d...ónen los hongos[0m | 26        | 6       | 4.33    | 0   | 2  | 0 | 0 | 0 | 24  |
+| [32m[1mLos líquenes[0m              | 39        | 3       | 13.0    | 39  | 0  | 0 | 0 | 0 | 0   |
+| [33m[1mExcluded questions[0m        | 0         | -       | -       | 0   | 0  | 0 | 0 | 0 | 0   |
++---------------------------+-----------+---------+---------+-----+----+---+---+---+-----+
+| [1m7 concept/s[0m               | [1m597[0m       | [1m95[0m      | [1m6.28[0m    | 315 | 22 | 9 | 0 | 0 | 251 |
++---------------------------+-----------+---------+---------+-----+----+---+---+---+-----+
+

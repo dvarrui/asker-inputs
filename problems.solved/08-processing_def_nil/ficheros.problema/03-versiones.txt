@@ -1,0 +1,4 @@
+ruby 3.0.4p208 (2022-04-12 revision 3fa771dded) [x86_64-linux]
+asker version 2.5.8
+
+[0;32;49mSyntax OK![0m
