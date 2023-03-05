@@ -1,0 +1,57 @@
+---
+:params:
+  :lang:
+  :projectname: comandos-cisco
+:questions:
+- :comment: ''
+  :name: Comandos para la configuración de un router CISCO-80t8table-$comando$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcSIZhgMBHbBKKNv30i7FuzPFBH3uvx2kLan6PsYzb5L0Uee3Hr9WvYAKvMQdg&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa
+    la siguiente asociación:<br/><ul><li>Descripción: "Entra en el modo privilegiado."</li><li>Comando:
+    [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - enable
+- :comment: ''
+  :name: Comandos para la configuración de un router CISCO-104t8table-$comando$descripción
+  :text: 'Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa
+    la siguiente asociación:<br/><ul><li>Descripción: "Cambia el nombre del equipo."</li><li>Comando:
+    [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - hostname
+- :comment: ''
+  :name: Comandos para la configuración de un router CISCO-135t8table-$comando$descripción
+  :text: 'Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa
+    la siguiente asociación:<br/><ul><li>Descripción: "Deshace los cambios hasta la
+    última configuración guardada."</li><li>Comando: [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - reload
+- :comment: ''
+  :name: Comandos para la configuración de un router CISCO-180t8table-$comando$descripción
+  :text: 'Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa
+    la siguiente asociación:<br/><ul><li>Descripción: "Cambia el nombre del equipo."</li><li>Comando:
+    [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - hostname
+- :comment: ''
+  :name: Comandos para la configuración de un router CISCO-210t8table-$comando$descripción
+  :text: '<img src\="https://encrypted-tbn0.gstatic.com/images?q\=tbn:ANd9GcQImAq0mkMFOILKq938QtAgq2YmLZnw0Ew3UsMq8Bn0ry5kcfwxpcDwmo-D8g&amp;s/></div></a></td></tr><tr><td><a"
+    alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa
+    la siguiente asociación:<br/><ul><li>Descripción: "Sube un nivel en la consola."</li><li>Comando:
+    [*]</li></ul>Escribir una palabra.<br/>'
+  :type: :short
+  :feedback: ''
+  :lang: :es
+  :answer:
+  - exit

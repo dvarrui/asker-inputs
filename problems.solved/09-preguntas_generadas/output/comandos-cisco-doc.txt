@@ -1,0 +1,34 @@
+==================================================
+Created by : asker (version 2.5.9)
+File       : comandos-cisco-doc.txt
+Time       : 2023-03-05 21:22:28 +0000
+==================================================
+
+[44m[1mComandos para la configuración de un router CISCO[0m
+
+
++------------------------------------+-------------------------------------------------------------------------+
+| comando                            | descripción                                                             |
++------------------------------------+-------------------------------------------------------------------------+
+| enable                             | Entra en el modo privilegiado.                                          |
+| show ?                             | Muestra ayuda sobre los comandos disponibles.                           |
+| configure terminal                 | Entra en el modo de configuración.                                      |
+| hostname                           | Cambia el nombre del equipo.                                            |
+| no "comando"                       | Desactiva un comando.                                                   |
+| logging console                    | Activa o desactiva los mensajes de consola.                             |
+| copy running-config startup-config | Guarda la configuración actual.                                         |
+| reload                             | Deshace los cambios hasta la última configuración guardada.             |
+| show running-config                | Muestra la configuración actual del dispositivo.                        |
+| show ip interface brief            | Muestra la configuración de interfaces.                                 |
+| show ip route                      | Muestra la tabla de ruteo.                                              |
+| show ip protocols                  | Muestra los protocolos de ruteo activos y sus parámetros.               |
+| configure terminal                 | Entra en el modo de configuración.                                      |
+| hostname                           | Cambia el nombre del equipo.                                            |
+| no logging console                 | Detiene los mensajes de consola.                                        |
+| line console 0                     | Configura la consola.                                                   |
+| logging synchronous                | Configura la consola para que no interrumpa instrucciones o respuestas. |
+| exit                               | Sube un nivel en la consola.                                            |
+| end (o CTRL+Z)                     | Sube al nivel inicial en la consola.                                    |
+| enable password                    | Configura la contraseña del modo privilegiado.                          |
+| enable secret                      | Configura la contraseña encriptada del modo privilegiado.               |
++------------------------------------+-------------------------------------------------------------------------+

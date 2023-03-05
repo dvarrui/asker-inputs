@@ -1,0 +1,69 @@
+%map{ lang: 'es', context: 'Comandos, CISCO', version: '1'}
+
+  %concept
+    %names Comandos para la configuración de un router CISCO
+    %tags modo, configuración, nombre, contraseña, consola, IP, máscara, interfaz, puerta, enlace
+    %table{fields:'comando, descripción'}
+      %row
+        %col enable
+        %col Entra en el modo privilegiado.
+      %row
+        %col show ?
+        %col Muestra ayuda sobre los comandos disponibles.
+      %row
+        %col configure terminal
+        %col Entra en el modo de configuración.
+      %row
+        %col hostname
+        %col Cambia el nombre del equipo.
+      %row
+        %col no "comando"
+        %col Desactiva un comando.
+      %row
+        %col logging console
+        %col Activa o desactiva los mensajes de consola.
+      %row
+        %col copy running-config startup-config
+        %col Guarda la configuración actual.
+      %row
+        %col reload
+        %col Deshace los cambios hasta la última configuración guardada.
+      %row
+        %col show running-config
+        %col Muestra la configuración actual del dispositivo.
+      %row
+        %col show ip interface brief
+        %col Muestra la configuración de interfaces.
+      %row
+        %col show ip route
+        %col Muestra la tabla de ruteo.
+      %row
+        %col show ip protocols
+        %col Muestra los protocolos de ruteo activos y sus parámetros.
+      %row
+        %col configure terminal
+        %col Entra en el modo de configuración.
+      %row
+        %col hostname
+        %col Cambia el nombre del equipo.
+      %row
+        %col no logging console
+        %col Detiene los mensajes de consola.
+      %row
+        %col line console 0
+        %col Configura la consola.
+      %row
+        %col logging synchronous
+        %col Configura la consola para que no interrumpa instrucciones o respuestas.
+      %row
+        %col exit
+        %col Sube un nivel en la consola.
+      %row
+        %col end (o CTRL+Z)
+        %col Sube al nivel inicial en la consola.
+      %row
+        %col enable password
+        %col Configura la contraseña del modo privilegiado.
+      %row
+        %col enable secret
+        %col Configura la contraseña encriptada del modo privilegiado.
