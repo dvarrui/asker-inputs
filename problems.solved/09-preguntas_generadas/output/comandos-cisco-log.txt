@@ -1,7 +1,7 @@
 ==================================================
-Created by : asker (version 2.5.9)
+Created by : asker (version 2.5.10)
 File       : comandos-cisco-log.txt
-Time       : 2023-03-05 21:22:27 +0000
+Time       : 2023-03-06 08:23:45 +0000
 ==================================================
 
 [INFO] Project open
@@ -18,7 +18,7 @@ Time       : 2023-03-05 21:22:27 +0000
 +-----------+-----------------------------------------------------------------------------------------+
 
 [INFO] Showing CONCEPT statistics
- * Exclude questions: b1, d1, d2, d3, d4, f1, f2, f3, i1, i2, i3, i4, s2, t1table, t2table, t3table, t4table, t5table, t6table, t7table, t9table, code
+ * Exclude questions: b1, d1, d2, d3, d4, f1, f2, f3, i1, i2, i3, i4, s2, t1table, t2table, t3table, t4table, t5table, t6table, t7table, code
  * Annotations:
    ├── (d) Definitions     <= Concept.def
    ├── (b) Table Matching  <= Concept.table.rows.columns
@@ -30,9 +30,9 @@ Time       : 2023-03-05 21:22:27 +0000
 +---------------------------+-----------+---------+---------+---+----+---+---+---+-----+
 | Concept                   | Questions | Entries | xFactor | d | b  | f | i | s | t   |
 +---------------------------+-----------+---------+---------+---+----+---+---+---+-----+
-| [32m[1mComando...un router CISCO[0m | 5         | 42      | 0.12    | 0 | 0  | 0 | 0 | 0 | 5   |
-| [33m[1mExcluded questions[0m        | 228       | -       | -       | 0 | 72 | 0 | 0 | 0 | 156 |
+| [32m[1mComando...un router CISCO[0m | 14        | 42      | 0.33    | 0 | 0  | 0 | 0 | 0 | 14  |
+| [33m[1mExcluded questions[0m        | 219       | -       | -       | 0 | 72 | 0 | 0 | 0 | 147 |
 +---------------------------+-----------+---------+---------+---+----+---+---+---+-----+
-| [1m1 concept/s[0m               | [1m5[0m         | [1m42[0m      | [1m0.12[0m    | 0 | 0  | 0 | 0 | 0 | 5   |
+| [1m1 concept/s[0m               | [1m14[0m        | [1m42[0m      | [1m0.33[0m    | 0 | 0  | 0 | 0 | 0 | 14  |
 +---------------------------+-----------+---------+---------+---+----+---+---+---+-----+
 

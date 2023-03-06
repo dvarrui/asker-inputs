@@ -1,16 +1,26 @@
 // ==================================================
-// Created by : asker (version 2.5.9)
+// Created by : asker (version 2.5.10)
 // File       : comandos-cisco-gift.txt
-// Time       : 2023-03-05 21:22:28 +0000
+// Time       : 2023-03-06 08:23:45 +0000
 // ==================================================
 
 
 // ==================================================
 // Concept name: Comandos para la configuración de un router CISCO
 // ==================================================
-::Comandos para la configuración de un router CISCO-80t8table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcSIZhgMBHbBKKNv30i7FuzPFBH3uvx2kLan6PsYzb5L0Uee3Hr9WvYAKvMQdg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Entra en el modo privilegiado."</li><li>Comando\: [*]</li></ul>Escribir una palabra.<br/>
+::Comandos para la configuración de un router CISCO-80t8table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQzQiOCjSGxPNFuVuYfYoD4Uy9cXW4FjKPx8FnLha2KkhjBPjV90IlT7iO4Xg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Entra en el modo privilegiado."</li><li>Comando\: [*]</li></ul>Escribir una palabra.<br/>
 {
   =%100%enable#
+}
+
+::Comandos para la configuración de un router CISCO-88t9table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQefff6iiVQ0OIJ-TPPV8lSBYFLJG_cW_05AYHthlpB6TjLTv3404xAK208hQ&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Muestra ayuda sobre los comandos disponibles."</li><li>Comando\: [???? ?]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%show ?#
+}
+
+::Comandos para la configuración de un router CISCO-96t9table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcR4My0UuqNOE3zEpo3Q_LQRs3PYq6y2oquZJBqVPhLsISkXjKaBn6GNYx4HlA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Entra en el modo de configuración."</li><li>Comando\: [????????? ????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%configure terminal#
 }
 
 ::Comandos para la configuración de un router CISCO-104t8table-$comando$descripción::[html]Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Cambia el nombre del equipo."</li><li>Comando\: [*]</li></ul>Escribir una palabra.<br/>
@@ -18,18 +28,54 @@
   =%100%hostname#
 }
 
+::Comandos para la configuración de un router CISCO-112t9table-$comando$descripción::[html]Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Desactiva un comando."</li><li>Comando\: [?? "???????"]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%no "comando"#
+}
+
+::Comandos para la configuración de un router CISCO-120t9table-$comando$descripción::[html]Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Activa o desactiva los mensajes de consola."</li><li>Comando\: [??????? ???????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%logging console#
+}
+
 ::Comandos para la configuración de un router CISCO-135t8table-$comando$descripción::[html]Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Deshace los cambios hasta la última configuración guardada."</li><li>Comando\: [*]</li></ul>Escribir una palabra.<br/>
 {
   =%100%reload#
 }
 
-::Comandos para la configuración de un router CISCO-180t8table-$comando$descripción::[html]Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Cambia el nombre del equipo."</li><li>Comando\: [*]</li></ul>Escribir una palabra.<br/>
+::Comandos para la configuración de un router CISCO-143t9table-$comando$descripción::[html]Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Muestra la configuración actual del dispositivo."</li><li>Comando\: [???? ???????-??????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%show running-config#
+  =%100%show running config#
+}
+
+::Comandos para la configuración de un router CISCO-172t9table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRM4X5W4aJTo_68wB3OYxGFPcvqticcFY14DvmAQStofMgfkUYrR3UghEE2eA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Entra en el modo de configuración."</li><li>Comando\: [????????? ????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%configure terminal#
+}
+
+::Comandos para la configuración de un router CISCO-180t8table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQUVJ2o4r7Thv1DPwZwo_XYjdGd0OhgoqeLr5lPIGXOygNTCtAZtOCTMOKkUxA&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Cambia el nombre del equipo."</li><li>Comando\: [*]</li></ul>Escribir una palabra.<br/>
 {
   =%100%hostname#
 }
 
-::Comandos para la configuración de un router CISCO-210t8table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQImAq0mkMFOILKq938QtAgq2YmLZnw0Ew3UsMq8Bn0ry5kcfwxpcDwmo-D8g&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Sube un nivel en la consola."</li><li>Comando\: [*]</li></ul>Escribir una palabra.<br/>
+::Comandos para la configuración de un router CISCO-202t9table-$comando$descripción::[html]Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Configura la consola para que no interrumpa instrucciones o respuestas."</li><li>Comando\: [??????? ???????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%logging synchronous#
+}
+
+::Comandos para la configuración de un router CISCO-210t8table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRiVEhTd5fknyLWOHg6EKtY7qUGG4wwfWbWU5HnLtS40KnMXqEmGvt2V2X7bPE&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Sube un nivel en la consola."</li><li>Comando\: [*]</li></ul>Escribir una palabra.<br/>
 {
   =%100%exit#
+}
+
+::Comandos para la configuración de un router CISCO-225t9table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcRDAHOprjJAHNXXwPUJ22eiCq10JpPz68tcGGhmkd2mb20dBkzyc6bjYgwPDg&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Configura la contraseña del modo privilegiado."</li><li>Comando\: [?????? ????????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%enable password#
+}
+
+::Comandos para la configuración de un router CISCO-233t9table-$comando$descripción::[html]<img src\="https\://encrypted-tbn0.gstatic.com/images?q\=tbn\:ANd9GcQ0fPNrFkKre26tquUs-qbu5UKSWm_S9z16aQlWwTE-iWspYqbW_2At62VBGnc&amp;s/></div></a></td></tr><tr><td><a" alt\="image"><br/>Concepto <b>Comandos para la configuración de un router CISCO</b><br/>Completa la siguiente asociación\:<br/><ul><li>Descripción\: "Configura la contraseña encriptada del modo privilegiado."</li><li>Comando\: [?????? ??????]</li></ul>Escribir 2 palabras.<br/>
+{
+  =%100%enable secret#
 }
 
