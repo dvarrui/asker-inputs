@@ -1,38 +1,9 @@
 ==================================================
 Created by : asker (version 2.5.9)
 File       : comandos-cisco-log.txt
-Time       : 2023-03-05 21:22:27 +0000
+Time       : 2023-03-05 21:43:01 +0000
 ==================================================
 
 [INFO] Project open
    ├── inputdirs    = [1mficheros.problema[0m
    └── process_file = [1mcomandos-cisco.haml[0m
-
-[INFO] Showing concept data ([1mdefault[0m)
-+-----------+-----------------------------------------------------------------------------------------+
-| [1m1[0m         | [32m[1mComando...un router CISCO[0m                                                               |
-| [37mTags[0m      | modo, configuración, nombre, contraseña, consola, IP, máscara, interfaz, puerta, enlace |
-| [37mdef[0m       | 0                                                                                       |
-| [37mtables[0m    | $comando$descripción                                                                    |
-| [37mneighbors[0m |                                                                                         |
-+-----------+-----------------------------------------------------------------------------------------+
-
-[INFO] Showing CONCEPT statistics
- * Exclude questions: b1, d1, d2, d3, d4, f1, f2, f3, i1, i2, i3, i4, s2, t1table, t2table, t3table, t4table, t5table, t6table, t7table, t9table, code
- * Annotations:
-   ├── (d) Definitions     <= Concept.def
-   ├── (b) Table Matching  <= Concept.table.rows.columns
-   ├── (f) Tables 1 Field  <= Concept.table.fields.size==1
-   ├── (i) Images URL      <= Concept.def{:type => 'file'}
-   ├── (s) Sequences       <= Concept.table{:sequence => '...'}
-   └── (t) Table Rows&Cols <= Concept.table.rows.columns
-
-+---------------------------+-----------+---------+---------+---+----+---+---+---+-----+
-| Concept                   | Questions | Entries | xFactor | d | b  | f | i | s | t   |
-+---------------------------+-----------+---------+---------+---+----+---+---+---+-----+
-| [32m[1mComando...un router CISCO[0m | 5         | 42      | 0.12    | 0 | 0  | 0 | 0 | 0 | 5   |
-| [33m[1mExcluded questions[0m        | 228       | -       | -       | 0 | 72 | 0 | 0 | 0 | 156 |
-+---------------------------+-----------+---------+---------+---+----+---+---+---+-----+
-| [1m1 concept/s[0m               | [1m5[0m         | [1m42[0m      | [1m0.12[0m    | 0 | 0  | 0 | 0 | 0 | 5   |
-+---------------------------+-----------+---------+---------+---+----+---+---+---+-----+
-

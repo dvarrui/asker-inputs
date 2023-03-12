@@ -1,7 +1,7 @@
 ==================================================
 Created by : asker (version 2.5.9)
 File       : comandos-cisco-doc.txt
-Time       : 2023-03-05 21:22:28 +0000
+Time       : 2023-03-05 21:42:43 +0000
 ==================================================
 
 [44m[1mComandos para la configuración de un router CISCO[0m
