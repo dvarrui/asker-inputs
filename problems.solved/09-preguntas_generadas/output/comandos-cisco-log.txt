@@ -1,9 +1,0 @@
-==================================================
-Created by : asker (version 2.5.9)
-File       : comandos-cisco-log.txt
-Time       : 2023-03-05 21:43:01 +0000
-==================================================
-
-[INFO] Project open
-   ├── inputdirs    = [1mficheros.problema[0m
-   └── process_file = [1mcomandos-cisco.haml[0m
