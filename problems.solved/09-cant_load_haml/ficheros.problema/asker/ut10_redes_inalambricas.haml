@@ -1,0 +1,219 @@
+%map{ lang: 'es', context: 'redes inalambricas', version: '2'}
+
+  %concept
+    %names WIFI Alliance
+    %tags asociación, productos, WIFI
+    %def Asocición comercial que certifica los productos Wi-Fi, si se ajustan a unas normas de interoperabilidad.
+
+  %concept
+    %names Ondas electromagnéticas
+    %tags luz, reflexión, absorción, refracción, difracción, onda, señal, obstáculos 
+    %def Son una luz invisible.
+    %def Sufren reflexión, absorción, refracción y difracción
+    %table{ fields: 'Reglas de cumplen las ondas' }
+      %row A mayor longitud de onda, más lejos llega la señal. 
+      %row A mayor longitud de onda, mejor viaja a través y alrededor de obstáculos. 
+      %row A menor longitud de onda, más velocidad de transmisión. 
+      %row A medida que avazan (incluso por el aire) pierden intensidad.
+   
+  %concept
+    %names SISO
+    %tags entrada, salida, canal, antena
+    %def Una sola entrada, salida única. 
+    %def Solo se usa un canal. 
+    %def Una antena para emitir y recibir.
+
+  %concept
+    %names MIMO
+    %tags entradas, salidas, antenas, canales
+    %def Múltiples entradas y múltiples salidas.
+    %def Aparece en el 802.11n
+    %def Se usan varias antenas para emitir y recibir simultáneamente por diferentes canales (Chanel bounding).
+
+  %concept
+    %names Tipos de redes 802.11
+    %tags redes, puntos, estaciones, infraestructura
+    %table{ fields: 'tipo, descripción' }
+      %row
+        %col Redes ad hoc
+        %col No hay puntos de acceso (APs), sólo estaciones que se comunican directamente entre sí.
+      %row
+        %col Redes de infraestructura
+        %col Están formadas por uno o más puntos de acceso
+
+  %concept
+    %names Tipos de redes de infraestructura
+    %tags 
+    %table{ fields: 'tipo, descripción' }
+      %row punto, acceso, cobertura, red
+        %col BSS (Basic Service Set)
+        %col Está formado por un punto de acceso y su área de cobertura.
+      %row
+        %col ESS (Extended Service Set)
+        %col Es un conjunto de dos o más BSS, es decir dos o más puntos de acceso, interconectados de alguna manera. La red que los interconecta se denomina DS (Distribution System)
+
+  %concept
+    %names Itinerancia o roaming
+    %tags usuario, zona, cobertura, conexión
+    %def Permite que un usuario puede moverse de una zona de cobertura a otra (de un BSS a otro) sin perder conexión ni tener que reconfigurar nada.
+
+
+  %concept
+    %names Atenuación WIFI
+    %tags ondas, energía, objetos
+    %def Las ondas WIFI pierden energía a medida que avanzan.
+    %def Las ondas WIFI cuando encuentran objetos y deben atravesarlos pierden energía 
+    %def Las ondas WIFI en  general tienen muchos problemas para atravesar metales y cuerpos líquidos.
+    %table{ fields: 'Material del obstáculo, Atenuación introducida' }
+      %row
+        %col Madera
+        %col Baja
+      %row
+        %col Plástico
+        %col Baja
+      %row
+        %col Materiales sintéticos
+        %col Baja
+      %row
+        %col Cristal
+        %col Baja
+      %row
+        %col Cuerpo humano
+        %col Media
+      %row
+        %col Ladrillos
+        %col Media
+      %row
+        %col Mármol
+        %col Media
+      %row
+        %col Agua
+        %col Media
+      %row
+        %col Cerámica
+        %col Alta
+      %row
+        %col Papel
+        %col Alta
+      %row
+        %col Cemento
+        %col Alta
+      %row
+        %col Cristal a prueba de balas
+        %col Alta
+      %row
+        %col Metales
+        %col Muy alta
+
+  %concept
+    %names Decibelios
+    %tags intensidad, señales, WIFI, miliwatios, ondas, aire, objeto
+    %def La intensidad de las señales WIFI se miden en miliwatios (mW) o decibelios (db). 
+    %def Cuando las ondas viajan por el aire pierden intensidad. Esa intensidad que pierden se llama “pérdidas en espacio libre” y se  mide en decibelios. 
+    %def Cuando una señal atraviesa un objeto también pierde intensidad, y esa pérdida se mide en decibelios.
+
+  %concept
+    %names Consideraciones al implantar una red WIFI
+    %tags hotspot, soho, obstáculos, dhcp
+    %table{ fields: 'Consideración, Explicación' }
+      %row
+        %col Corporativa
+        %col La seguridad será fundamental. También la disponibilidad.
+      %row
+        %col Hotspot
+        %col Menos seguridad más dhcp, dinamismo.
+      %row
+        %col SOHO
+        %col Costos y prestaciones más reducidos.
+      %row
+        %col Según el entorno
+        %col Obstáculos, distancias, interferencias.
+      %row
+        %col Tipos de usuarios
+        %col Estáticos, dinámicos, itinerantes.
+
+  %concept
+    %names Dispositivos para redes inalámbricas
+    %tags router, punto, repetidor, WIFI, módem, señal, seguridad, red, PoE
+    %def{ type: 'file'} images/router.png 
+    %def{ type: 'file'} images/puntoacceso.png 
+    %def{ type: 'file'} images/repetidor.png 
+    %def{ type: 'file'} images/controlador_inalambrico.png 
+    %def{ type: 'file'} images/adaptador.png
+    %table{ fields: 'Dispositivo, Explicación' }
+      %row
+        %col Router
+        %col Van a continuación del módem que da acceso a Internet y muchas veces son además un punto de acceso inalábrico (Modem-router-WIFI). En cualquier caso por seguridad conviene separar la red cableada de la red wfi con un router.
+      %row
+        %col Punto de acceso
+        %col Son los que nos daran cobertura WIFI. Hacen de puente entre la red cableada y la inalámbrica.
+      %row
+        %col Repetirdor WIFI
+        %col Repiten la señal WIFI, aumentando la cobertura sin necesidad de llevarle un cable de red. Tienen menor rendimiento que un punto de acceso cableado.
+      %row
+        %col Controlador inalámbrico
+        %col Son switchs especiales que permiten el control centralizado de todos los puntos de acceso. Proporcionan PoE, Servicio Radius, WDIS, optimizan el canal y la potencia de cada AP, portal captivo, etc.
+      %row
+        %col Adaptador WIFI
+        %col Van conectados en los clientes WIFI y son de todos los precios, formatos y calidades.
+
+  %concept
+    %names Tipos de antenas 
+    %def{ type: 'file'} images/direccionales.png
+    %def{ type: 'file'} images/omnidireccionales.png
+    %def{ type: 'file'} images/sectoriales.png
+    %tags omnidireccionales, direccionales, sectoriales, panel
+    %table{ fields: 'Tipo, Explicación' }
+      %row
+        %col Omnidireccionales
+        %col Emiten igual en todas direcciones alrededor de ellas.
+      %row
+        %col Direccionales
+        %col Emiten en una sola dirección.
+      %row
+        %col Sectoriales o de panel
+        %col Emiten un haz más ancho que las direccionales, pero menos que las omnidireccionales.
+
+  %concept
+    %names Radioenlace
+    %tags redes, conexión, obstáculos, emisor, receptor, zona, Fresnel, antenas
+    %def Une dos redes locales mediante una conexión inalámbrica.
+    %def Para que sea eficiente no basta con que no haya obstáculos en la línea recta entre emisor-receptor (LOS). Hace falta que una zona más ancha llamada “zona de Fresnel” esté libre de obstáculos.
+    %def Lo ideal por eficiencia y seguridad es el uso de antenas direccionales.
+
+  %concept
+    %names Elección de canales
+    %tags canales, ancho, banda, puntos, zonas, frecuencias
+    %def En Europa se usan 13 canales de 20 MHz de ancho de banda cada uno.
+    %def Cuando se desea cubrir un área amplia con WIFI habrá que poner varios puntos de acceso (PA), y siempre quedarán zonas en se solapen dos puntos de acceso. Si no tenemos cuidado eligiendo las frecuencias (canales) se puede perder hasta un 50% de rendimiento en esas zonas de solape.
+    %def Para que dos puntos de acceso cercanos no superpongan sus frecuencias y se interfieran entre ellos tienen que tener una separación mínima de 4 ó 5 canales. Por ejemplo el 1, el 6 y el 12 no interfieren. 
+
+  %concept
+    %names Configuración de un punto de acceso (AP)
+    %tags SSID, IP, clientes, canales, contraseñas
+    %table{ fields: 'Consideraciones' }
+      %row Todos deben tener el mismo SSID
+      %row Deben tener diferentes direcciones IP, pero serán  de gestión, no hace falta que estén dentro de la red de los clientes.
+      %row Sus canales no deben solaparse.
+      %row Si tenemos contraseñas de acceso deben ser las mismas en todos los puntos de acceso.  
+
+  %concept
+    %names Seguridad en redes WIFI 
+    %tags MAC, claves, cifrado, usuarios, potencia, salida, broadcast, SSID, WPS
+    %table{ fields: 'Medida, Explicación' }
+      %row
+        %col Filtrado MAC
+        %col Nos permite especificar qué direcciones se podrán conectar a nuestra red inalámbrica. O a cuales no se les permitirá entrar.
+      %row
+        %col Claves de acceso y cifrado.
+        %col Permite entrar en la red unicamente a los usuarios que conozcan determinada contraseña. Luego el tráfico se cifra con otra clave que genera el sistema y que puede ir cambiando cada cierto tiempo para que sea más complicado de descifrar (TKIP).
+      %row
+        %col WPA ENTERPRISE
+        %col La validación de los usuarios se realiza contra un servidor Radius. Cada usuario que quiera entrar a la red tendrá que ser registrado con usuario y contraseña en el servidor. 
+    %table{ fields: 'Consideraciones de seguridad' }
+      %row Debemos elegir siempre los sistemas de seguridad y cifrado más avanzados que posean nuestros equipos.
+      %row Habilitar el filtrado MAC
+      %row No poner nuestros puntos de acceso en lugares que dejen escapar la señal al exterior de nuestra zona controlada.
+      %row Usar la mínima potencia de salida necesaria.
+      %row No permitir el broadcast del SSID.
+      %row Deshabilitar el WPS. Se creo para facilitar la configuración de una red WIFI segura pero presenta vulnerabilidades.
