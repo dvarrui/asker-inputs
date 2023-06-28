@@ -1,0 +1,34 @@
+%map{ lang: 'es', context: 'aritmética,problemas,matemáticas', version: '1'}
+
+  %problem
+    %cases{ varnames: 'N1, N2, S1, S2, S3' }
+      %case 3, 2, 5, 1, 0
+      %case 7, 4, 11, 3, 2
+      %case 13, 11, 24, 2, -7
+      %case 4, 4, 8, 0, -4
+    %desc Realiza las siguientes operaciones matemáticas.
+    %ask
+      %text Calcular N1 + N2
+      %answer S1
+    %ask
+      %text Calcular N1 - N2
+      %answer S2
+
+  %problem
+    %cases{ varnames: 'X' }
+      %case x
+      %case y
+      %case z
+      %case t
+    %desc Resolver una ecuación de primer grado
+    %ask
+      %text Resuelve la siguiente ecuación 2X - 4 = 6
+      %step 2X -4 = 6
+      %step 2X = 6 +4
+      %step 2X = 10
+      %step X = 10 / 2
+      %step X = 5
+    %ask
+      %text Calcular el valor de X en la ecuación 2X - 4 = 6
+      %answer 5
+

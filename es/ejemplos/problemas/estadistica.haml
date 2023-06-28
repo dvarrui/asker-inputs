@@ -1,0 +1,18 @@
+%map{ lang: 'es', context: 'matemáticas, estádistica', version: '1'}
+
+  %problem
+    %cases{ varnames: "VALUES; SOMETHING; MAX; MIN; AVERAGE", sep:";"}
+      %case 1, 2, 3, 4, 5; temperatura; 5; 1; 3
+      %case 1, 2, 3, 4; altura; 4; 1; 2.5
+      %case 1, 2, 3; ancho; 3; 1; 2
+      %case 1, 2; 2; largo; 1; 1.5 
+    %desc Tenemos las siguientes medidas de SOMETHING: VALUES
+    %ask
+      %text Calcular el/la SOMETHING  máxima
+      %answer MAX
+    %ask
+      %text Calcular el/la SOMETHING mínima
+      %answer MIN
+    %ask
+      %text Calcular el/la SOMETHING media
+      %answer AVERAGE
